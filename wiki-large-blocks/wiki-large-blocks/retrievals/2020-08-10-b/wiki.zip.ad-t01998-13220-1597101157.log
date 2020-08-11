@@ -1,0 +1,6 @@
+2020-08-10T23:13:07.933Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWSzvL4dnDqqvvWx4iT9fVUQWmkp91ui7CcSxkikZUNJyf: all dials failed\\n  * [/ip6/2a01:4f9:4b:3a8f::2/tcp/45381] dial tcp6 [2a01:4f9:4b:3a8f::2]:45381: connect: network is unreachable\\n  * [/ip4/127.0.0.1/tcp/45381] dial tcp4 127.0.0.1:45381: connect: connection refused\\n  * [/ip6/::1/tcp/45381] dial tcp6 [::1]:45381: connect: connection refused\\n  * [/ip4/95.217.230.176/tcp/45381] failed to negotiate security protocol: context deadline exceeded\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01998\",\"MinerPeer\":{\"Address\":\"t01998\",\"ID\":\"12D3KooWSzvL4dnDqqvvWx4iT9fVUQWmkp91ui7CcSxkikZUNJyf\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:30.59elapsed 0%CPU (0avgtext+0avgdata 37276maxresident)k
+0inputs+0outputs (0major+3628minor)pagefaults 0swaps

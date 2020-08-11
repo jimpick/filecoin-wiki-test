@@ -40,7 +40,8 @@ for m in $MINERS; do
 	echo $m:
 	./deal.sh $m
 	echo
-	read -p pause...
-	echo
+	#read -p pause...
+	#echo
+	sleep 1
 done
 

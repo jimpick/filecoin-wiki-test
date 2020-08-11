@@ -1,0 +1,113 @@
+wiki.zip.aa
+bafyreien3eldvskf42l7wap52uxexrzytfgsmget3pt5liylqkkivrif6u  13078  t01701  StorageDealActive              Y (epoch 5777)  N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB    0.0000753765 FIL          603012  
+bafyreigk6cpyvagxhmywxj2phase45ec7eskqffsjtj3c3tw4e22b7jzui  13225  t01329  StorageDealSealing             N               N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.000075425125 FIL        603401  
+bafyreid6algt3gukpkavxmmwflxzfhw5r627hzd3mopf57en4ac45w3zrq  13329  t01306  StorageDealSealing  N            N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.000075352 FIL           602816  
+bafyreihp24rzelrceyabgrw2vxfcdwxtkdtckdpkzv4vdxy5lunp3uwp4q  13343  t02265  StorageDealActive        Y (epoch 6050)  N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.00007555775 FIL         604462  
+
+wiki.zip.ab
+bafyreieygaqwlw2jqybfvvjjh6fk5hcibby72dwbcwdw6gwq4w3gc7nb4y  12269  t01937  StorageDealActive  Y (epoch 5191)  N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.000075539125 FIL        604313  
+bafyreia3gwjuvswvzanrfknbowq6vguad6mi7cgyehhxqd772jids4vqva  12974  t02124  StorageDealSealing  N            N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.000075406375 FIL        603251  
+bafyreighz4hjq76wdyzdxp2uvofuk7zjgkhv3vd6ldodw3xukth3squhm4  13209  t01998  StorageDealActive        Y (epoch 5866)  N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.000075618625 FIL        604949  
+bafyreihfc54moxm3jrll7hfnk7pcotoa65x6s76xf7qzvche4h5duulgfe  13218  t02262  StorageDealActive        Y (epoch 5795)  N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.000075550875 FIL        604407  
+bafyreiearo5xoqunion2iyuja2fj2pgofni2sp4ahiinaz4l4s5lvkl7re  13364  t01455  StorageDealSealing       N            N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.0000754125 FIL          603300  
+bafyreicu6rcnckdcyv3ukykaglfoqjfyn4577nd7w7afx5o5r2fto2kl2a  13785  t01233  StorageDealSealing  N               N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.00007542475 FIL         603398  
+
+wiki.zip.ac
+bafyreienibek57lw47jxvyqhaubg4dorakvskj2cwf7holdcf5emipdsdq  12968  t01998  StorageDealActive              Y (epoch 5629)  N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB    0.000075642 FIL           605136  
+bafyreigzxvmgjuxpvn2qqi7vo5a7ry263pdaatsuv6nvn3rorq3fp5f7dm  13077  t01857  StorageDealActive              Y (epoch 5787)  N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075485125 FIL        603881  
+bafyreid7eiiq7g2dk7uypckrqizgdp27nbz3xpwjnnzyt5dibmjkoyedk4  13331  t01371  StorageDealSealing  N            N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075556 FIL           604448  
+
+wiki.zip.ad
+bafyreibjpzsndd46qvly3qqwxcmvzygsoofjidb62bhva7wko5m3ddr45y  0      t01646  StorageDealError  N            N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.00007513275 FIL         601062  adding market funds failed: estimating gas used: message execution failed: exit SysErrInsufficientFunds(6), reason: failed to transfer funds (RetCode=6): transfer failed when deducting funds (3630168.003561533918295304 FIL): not enough funds (RetCode=6)
+bafyreihmznawk2uffcvxghdtn3fv7ci3ewkhxs62rekgbfvq5ejmso2diy  13090  t01233  StorageDealSealing             N               N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.00007544925 FIL         603594  
+bafyreie6cur257loztzgd7du3h7cxxq3xp4zeaqmr4gr26uwpfapp5vxle  13210  t01913  StorageDealSealing       N            N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.00007549425 FIL         603954  
+bafyreihi2zg7dubwpqzf42xs6phubjxbwkryxmuwldfm4lq7fnwrcb447u  13220  t01998  StorageDealActive        Y (epoch 5905)  N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075616625 FIL        604933  
+bafyreiatrwmzomqqjo3l7tjuh4xnhjxthb2yn3igvzju2reh2axhpwtzvq  13350  t02275  StorageDealActive  Y (epoch 5992)  N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075442125 FIL        603537  
+
+wiki.zip.ae
+bafyreigp52743hw6gwrxpzrxqlvopz3erosbu4gik3uzdqzoe7xonbxoqa  0      t01115  StorageDealError               N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075169125 FIL        601353  adding market funds failed: estimating gas used: message execution failed: exit SysErrInsufficientFunds(6), reason: failed to transfer funds (RetCode=6): transfer failed when deducting funds (3630168.003530308427295304 FIL): not enough funds (RetCode=6)
+bafyreia3fb7ddafvwxpkhoiiao3xmaeg7yc4hlq5ejabofxrkuyexuhy4e  12272  t01484  StorageDealSealing  N            N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.0000754005 FIL          603204  
+bafyreidoccqsolcxx2jk4vnwyf4zjpydg5dzoq6dpganhkv4tozakx5zmu  13079  t01937  StorageDealActive              Y (epoch 5783)  N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075466125 FIL        603729  
+bafyreid5ccobfyiwu4afzlft5442lc3xhr6qioabslbwr2bncqt424cgay  13208  t01329  StorageDealSealing  N            N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075431625 FIL        603453  
+bafyreiekozb6fw76f5gwgtuglzxqhtf3zn5ifj34j5bzwx4kinw7dz2zzu  13211  t02275  StorageDealActive   Y (epoch 5865)  N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075465 FIL           603720  
+bafyreibfxpz7ujwm7xh5wjnjoe5pbyxogrbenkl7llfzrkptnm2z5xg3yi  13216  t01913  StorageDealSealing             N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075492375 FIL        603939  
+bafyreihgcf32adnlauoovgz6zcm3arco3yrxl7pwazjpessg5te7p4rgui  13230  t01857  StorageDealActive  Y (epoch 5938)  N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.00007546425 FIL         603714  
+bafyreica2kayxkl57u74gtvwloxhw5pmgf4qdev7gm33lw2nr7n6my6yhe  13348  t01701  StorageDealActive              Y (epoch 6065)  N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075339375 FIL      602715  
+
+wiki.zip.af
+bafyreigcqhbdxmkioszjfgne5eodmlvylj6ivzfthjv474cfygv6th2skm  0      t01314  StorageDealError    N            N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075388125 FIL        603105  adding market funds failed: estimating gas used: message execution failed: exit SysErrInsufficientFunds(6), reason: failed to transfer funds (RetCode=6): transfer failed when deducting funds (3630168.003514324985295304 FIL): not enough funds (RetCode=6)
+bafyreihyd3mgcbdvzjwcqm6ja7kfluh4rgvo2tauhbbxaejmy6f3rfvsti  13076  t01998  StorageDealActive              Y (epoch 5739)  N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.00007563325 FIL         605066  
+bafyreihfe2gfeos2srtlqsie66274cwhfil2cuvwxejmcpgbtfcjyyvopm  13180  t01183  StorageDealSealing       N               N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075600625 FIL        604805  
+bafyreibzp23vwhc2mmnk4biu5dfjbeh72tstdvct5buyjwguhzpnj5jgtm  13207  t01855  StorageDealSealing             N               N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075268125 FIL        602145  
+bafyreihntlpdera4p5lj2dnkcfdrtzqf6g2zkcbd52momyu7ak6w3caeci  13222  t01701  StorageDealActive              Y (epoch 5914)  N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.00007535925 FIL         602874  
+bafyreife5koo4z3jfiashdpgqcastsph27ri4c62qqnqoaoaqvqi4ijxee  13325  t01937  StorageDealActive        Y (epoch 6002)  N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075435875 FIL        603487  
+bafyreidp6dbq33p2fdu2uxtbccvptkqc6ejrll77ik2eitdwrgr3nrfhjq  13344  t01773  StorageDealSealing  N            N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075376625 FIL        603013  
+bafyreigxzastimxetqsfbaqs2kgpoigmfg26umlca3b4skxhmejbl3z6wu  13345  t01857  StorageDealActive  Y (epoch 6089)  N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.00007544825 FIL         603586  
+
+wiki.zip.ag
+bafyreibbyqgjmlcfg7n6pkgvymcha5kket4lsdrggplgg7r5v4hxkt66l4  0      t01773  StorageDealTransferring  N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.00007517025 FIL         601362  
+bafyreihdhy5dlli23m34eyhnm5pvel4xiljeo3j63gibboqpb5qfo7q6hy  12268  t01638  StorageDealActive              Y (epoch 5206)  N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.00007539575 FIL         603166  
+bafyreiefhwxabxkv526isg4gnudm6nhxz7klir6vjnrzecfm65rqr4aqiq  13213  t01366  StorageDealSealing             N            N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.00007526125 FIL         602090  
+bafyreibpgfi3k4jyp54ovqfslprbh5xswcmmye73fees6a5attdqd777zq  13217  t01306  StorageDealSealing             N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075366375 FIL        602931  
+bafyreic6xukt3coebff7uhg3ko6labaskytl7zcu24arzalxzgqeqg7rji  13333  t01857  StorageDealActive   Y (epoch 6025)  N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.0000754525 FIL          603620  
+bafyreic6qdg3urzzhhuevib6ebkwwpwwxkwtxbymyosa5rv4rg6a5ruacy  13346  t01138  StorageDealSealing  N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.0000753365 FIL          602692  
+
+wiki.zip.ah
+bafyreibr2xfjmollx6aqo37fxtxospwslyffxw4nvw6al2kgy4wq2e7guy  0      t01908  StorageDealTransferring        N            N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.000075271875 FIL        602175  
+bafyreihw67vjgo2ipwn3t6be2mir3zzpuchu7hxvzjcs55s4hedzivgzku  12270  t01701  StorageDealActive        Y (epoch 5190)  N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.000075450125 FIL        603601  
+bafyreihofh2sn7g3xoeg74taznaiwawy6w7we7hhyltl7rw7z2gdlanf3u  13089  t02261  StorageDealActive              Y (epoch 5856)  N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.00007543375 FIL         603470  
+bafyreicjzgum7nluuxdq3f67naygjjwq2i5byzdju7gkf453mxw4dzhp44  13214  t02265  StorageDealActive              Y (epoch 5898)  N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.00007557775 FIL         604622  
+bafyreif7ahpoqfuknki46nexfva4izpfzeigmyud3org4b2uxyetirfokm  13224  t01329  StorageDealSealing             N            N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.00007542525 FIL         603402  
+bafyreifsgq72kjjdsbdohsdcoevum5e7lyh673z7pndfkao4muzicebjqu  13322  t02262  StorageDealActive  Y (epoch 6049)  N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.000075536875 FIL        604295  
+bafyreig466uulfaayxzu5xxo6ntoj6tvobazehocoilazkrr2slawj6u7a  13330  t01664  StorageDealSealing  N               N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.000075415625 FIL        603325  
+bafyreig7yzusun3iukg6h3ls55573whd4qkzzkdosshzpyzrczv6v7rka4  13349  t01306  StorageDealSealing       N               N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.0000753465 FIL          602772  
+
+wiki.zip.ai
+bafyreic2tu6r4durqawbp6gynovjjfzz5j3jnmir6lplbxt5vnn7i44h2e  12969  t01500  StorageDealActive              Y (epoch 5642)  N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075358375 FIL        602867  
+bafyreia4b4y5cvnateqzfk6nuaosmpppyoakhlxm6jas34qd7iz62bk4qu  13081  t02261  StorageDealActive  Y (epoch 5775)  N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.00007544475 FIL         603558  
+bafyreigtdpxsdhyonfjqb6vljfaifgtc6x3lszncvn5juv66tb7lw4djty  13219  t01857  StorageDealActive              Y (epoch 5938)  N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.000075467625 FIL        603741  
+bafyreietghbq6plhkdxnfypvbwz4axobghznztznabyjbthlnvt2qmxpdy  13232  t01455  StorageDealSealing  N               N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075427125 FIL        603417  
+bafyreibgsmgjn4eemtbduqysiqc7rpdw7sxiv6hg43mn3247ny3hecsmvu  13318  t01329  StorageDealSealing             N               N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075414875 FIL        603319  
+bafyreide27haabm4q2md5o2jhckyig7iaddakq4qykiregcfbwtilc7iwi  15175  t01998  StorageDealSealing       N            N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.0000753925 FIL          603140  
+
+wiki.zip.aj
+bafyreiauvpakrprkvi6ynl2ubbvjwgj66qtiubicoo6l2simtrltojcv3a  12970  t01444  StorageDealActive   Y (epoch 5629)  N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.00007555575 FIL         604446  
+bafyreicf43gkykjpihroot5cg7cbkttfiufwxjsagimua2iayff6fiwugu  13084  t02261  StorageDealActive  Y (epoch 5775)  N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.000075441875 FIL        603535  
+bafyreidkwsge54uhsjylyzqszftsyhb3nfz4dzg4i2yy5povrfr7svlwe4  13187  t01937  StorageDealActive   Y (epoch 5783)  N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.000075454375 FIL        603635  
+bafyreicou62rxplubktqsllowpzq4fuctqgbfzoinjcu4snuhehgi6xnju  13321  t01371  StorageDealSealing             N            N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.00007555725 FIL         604458  
+bafyreib5oa2anlqkmqfadk6chd27667lq6n7grfvftthcmfzsqbcgylxja  13351  t02275  StorageDealActive        Y (epoch 6105)  N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.00007544275 FIL         603542  
+bafyreibuxovkr7qh4n55wkn7nty4qxiswcnrp66clatqp3eoj3agepeq7i  13786  t01233  StorageDealSealing             N            N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.000075425375 FIL        603403  
+bafyreif5h3zjrsfcdwh4schcro5ufskarwwhgiatxkp3ub5vav5qbgcagq  15177  t01329  StorageDealSealing  N               N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.000075204625 FIL        601637  
+
+wiki.zip.ak
+bafyreieevly4yskrusrp77tcpnvdypzk6w44gegpos3zku6eds72jl6lte  0  t01362  StorageDealError  N  N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB  0.000075233125 FIL  601865  adding market funds failed: estimating gas used: message execution failed: exit SysErrInsufficientFunds(6), reason: failed to transfer funds (RetCode=6): transfer failed when deducting funds (3630168.003809423393295304 FIL): not enough funds (RetCode=6)
+bafyreialorrzvijdvcbeehatn2atyrtqicu2td6shliyzllqhbb2j4wolu  13083  t02265  StorageDealActive              Y (epoch 5798)  N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.000075590125 FIL        604721  
+bafyreigeeswz4iid66j5qmgq3bkz3tnuwnnsb6xkj5kwzma47cxvoqolva  13215  t01329  StorageDealSealing  N            N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.000075429625 FIL        603437  
+bafyreianq2it5phaijmeyadg2fhxbpb7nmyegwtzjij2k3ezvnmff7vdga  13223  t02261  StorageDealActive              Y (epoch 5914)  N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.00007542775 FIL         603422  
+bafyreicnetogtewndqmolmqhw5nqjffm32an7qocrfgctgtwond7nzsb24  13233  t01998  StorageDealActive              Y (epoch 5905)  N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.000075612125 FIL        604897  
+bafyreif53ewcmai3q4rmbwxwy4av2rqplgay5bxdb3fe6essp4uonkxgui  13353  t01115  StorageDealActive   Y (epoch 6724)  N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.000075375 FIL           603000  
+
+wiki.zip.al
+bafyreigxysbt4ul7tphw72zpl2nlig3ptum6ewb5lrrxbsmdclarv3qwxi  0      t01664  StorageDealError   N               N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.00007520725 FIL         601658  adding market funds failed: estimating gas used: message execution failed: exit SysErrInsufficientFunds(6), reason: failed to transfer funds (RetCode=6): transfer failed when deducting funds (3630168.003816346452295304 FIL): not enough funds (RetCode=6)
+bafyreietjfexmvstmjacxdmnnpe5ruramcuexsbr6limxwb33d2j7c4wia  12972  t02265  StorageDealActive   Y (epoch 5628)  N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.0000756 FIL             604800  
+bafyreiau3tsm6ezkzjjqhyunjysrx2g46w5zaioi47xvwtvhvozqwf6xiy  13075  t02275  StorageDealActive  Y (epoch 5768)  N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.00007547925 FIL         603834  
+bafyreiazgpydbiiwnoafshqp2m25boilryks65jipcplbyk7wjkoozw6da  13231  t01366  StorageDealSealing       N            N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.000075255375 FIL        602043  
+bafyreifegzzdte7ziosrapkesfizkvurf3ukhkxpe6lzfrranboobxzjau  13339  t01371  StorageDealSealing       N               N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.000075553375 FIL        604427  
+bafyreibs3347qmbni4f5i7gvwnxkuxfvwyswzgvsgghvlzok6ihbvxh7iq  13352  t01995  StorageDealSealing  N               N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB    0.0000752775 FIL          602220  
+
+wiki.zip.am
+bafyreierlgreiuxt3ma2jfrjxnj4gxcw6vhmh5hbw6ri47tbblt2n5viwm  12971  t02262  StorageDealActive        Y (epoch 5628)  N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075574 FIL           604592  
+bafyreiba2ahpi3ujgltjxfugacpnazw4luy2bhw57d7uxfcqxsalt3uthy  13206  t01913  StorageDealSealing  N            N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075495375 FIL        603963  
+bafyreibwt2olxgqfjw5vjs455g6syulss5nyfhad4urhe4w3hrooixz73y  13235  t01664  StorageDealSealing       N            N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075426625 FIL        603413  
+bafyreibeml3kgdtfh7pgvmof6mgf6ate7dfiwgcecwhlsagcjezo3oygwu  13332  t01329  StorageDealSealing             N               N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075412125 FIL        603297  
+bafyreih3rgs7ufyetszbrxqa5dj3skdmybt43j26tspqsofdvnqz2kcmym  13340  t02265  StorageDealActive        Y (epoch 6050)  N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.0000755585 FIL          604468  
+bafyreiaykhdpq6ofpuoofv7sdj52pukbus5oxry7iy7jxxm55ok3vjs5ru  15174  t01937  StorageDealSealing       N            N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075225 FIL           601800  
+
+wiki.zip.an
+bafyreiearpitcrtx66bezjoudg2tfxl4ykiupgzstgnecl4fy4o5lqwkai  0      t01364  StorageDealTransferring  N            N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.00007504825 FIL         600386  
+bafyreigijkgurwboceuogc7buu7a3l6kz3ztz4rnw2mxqj6kr3s5owehx4  12975  t02258  StorageDealActive        Y (epoch 5623)  N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.0000753235 FIL          602588  
+bafyreibuhdh7nhzp7l365imkvhf5kwt55ltsjvg2w3d27jbkape3lzex4y  13082  t02262  StorageDealActive  Y (epoch 5795)  N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.00007556425 FIL         604514  
+bafyreihop6dsgx7ojfjc6rx3qpv2rrzj6uty4d64inlo4zw5lyriznylh4  13188  t01233  StorageDealSealing             N               N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.00007544775 FIL         603582  
+bafyreiaczlipncjxcczkw3dz2sff5f5gkz6ml4uxoetd2pextg25kvo6aq  13234  t02261  StorageDealActive   Y (epoch 5914)  N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.0000754235 FIL          603388  
+bafyreif7fyolf7nnfb2lybgmxtbcc4khcz2wzshey4ueopcqlm56i4pigm  13363  t01455  StorageDealSealing             N            N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.000075412875 FIL        603303  
+

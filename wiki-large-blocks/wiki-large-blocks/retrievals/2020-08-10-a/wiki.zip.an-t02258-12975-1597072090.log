@@ -1,0 +1,5 @@
+ERROR: Retrieval Failed: failed to fetch all nodes
+
+Command exited with non-zero status 1
+0.07user 0.00system 0:15.33elapsed 0%CPU (0avgtext+0avgdata 37352maxresident)k
+168inputs+0outputs (1major+3570minor)pagefaults 0swaps
