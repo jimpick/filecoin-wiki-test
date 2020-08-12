@@ -1,0 +1,517 @@
+Wed Aug 12 04:42:35 UTC 2020
+
+total 32K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu   30 Aug 12 04:42 profile.log
+
+ubuntu   20303  158 22.8 28313984 3688908 pts/1 SLl+ 04:41   1:00 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1160564     9035128          68     5945116    14681636
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:43:35 UTC 2020
+
+total 36K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  711 Aug 12 04:43 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303  152 31.5 28489576 5091292 pts/1 SLl+ 04:41   2:29 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1286700     8256460          68     6597648    14555556
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:44:35 UTC 2020
+
+total 36K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1.5K Aug 12 04:44 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303  123 31.6 28504440 5103540 pts/1 SLl+ 04:41   3:14 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1293632     8245560          68     6601616    14548556
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:45:35 UTC 2020
+
+total 36K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 2.4K Aug 12 04:45 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303  113 31.8 28504952 5142996 pts/1 SLl+ 04:41   4:08 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1305892     8221912          68     6613004    14536980
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:46:36 UTC 2020
+
+total 36K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 3.2K Aug 12 04:46 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303  109 32.5 28573628 5246172 pts/1 SLl+ 04:41   5:04 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1406244     8116768          68     6617796    14478376
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:47:36 UTC 2020
+
+total 36K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 4.0K Aug 12 04:47 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303  100 32.5 28574140 5257556 pts/1 SLl+ 04:41   5:38 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1408020     8107648          68     6625140    14519668
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:48:36 UTC 2020
+
+total 40K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 4.8K Aug 12 04:48 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 96.1 32.7 28576484 5287544 pts/1 SLl+ 04:41   6:22 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1433476     8078876          68     6628456    14509516
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:49:36 UTC 2020
+
+total 40K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 5.6K Aug 12 04:49 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 95.9 32.7 28576996 5278068 pts/1 SLl+ 04:41   7:19 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1423084     8085140          68     6632584    14523072
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:50:36 UTC 2020
+
+total 40K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 6.4K Aug 12 04:50 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 88.7 32.7 28576996 5278068 pts/1 SLl+ 04:41   7:39 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1423616     8081972          68     6635220    14530088
+Swap:      10485756       72704    10413052
+
+Wed Aug 12 04:51:36 UTC 2020
+
+total 40K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 7.2K Aug 12 04:51 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 86.5 32.7 28593388 5278628 pts/1 SLl+ 04:41   8:20 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1425100     8076676          68     6639032    14528604
+Swap:      10485756       71936    10413820
+
+Wed Aug 12 04:52:36 UTC 2020
+
+total 40K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 8.0K Aug 12 04:52 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 84.1 32.7 28609780 5281960 pts/1 SLl+ 04:41   8:57 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1427540     8068396          68     6644872    14524108
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:53:36 UTC 2020
+
+total 44K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 8.8K Aug 12 04:53 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 82.0 32.7 28610292 5284892 pts/1 SLl+ 04:41   9:32 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1428712     8064024          68     6648072    14522924
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:54:36 UTC 2020
+
+total 44K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu 9.6K Aug 12 04:54 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 78.4 32.7 28610292 5286100 pts/1 SLl+ 04:41   9:54 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1427456     8062484          68     6650868    14524184
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:55:36 UTC 2020
+
+total 44K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  11K Aug 12 04:55 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 77.3 32.7 28626684 5289100 pts/1 SLl+ 04:41  10:33 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1431144     8055136          68     6654528    14523016
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:56:36 UTC 2020
+
+total 44K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  12K Aug 12 04:56 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 77.1 32.7 28626684 5292496 pts/1 SLl+ 04:41  11:17 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     1430836     8052048          68     6657924    14523320
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:57:36 UTC 2020
+
+total 44K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  12K Aug 12 04:57 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu  153 Aug 12 04:42 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:42 wiki.zip.aa-t01306-13329-1597207366.log
+
+ubuntu   20303 76.1 36.6 29235808 5922612 pts/1 SLl+ 04:41  11:54 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2058344     5610916          68     8471548    14470768
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:58:36 UTC 2020
+
+total 60K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  13K Aug 12 04:58 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 2.1K Aug 12 04:58 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:58 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+
+ubuntu   20303 75.4 36.7 29236064 5924924 pts/1 SLl+ 04:41  12:32 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2060664     5603708          68     8476436    14555236
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 04:59:36 UTC 2020
+
+total 60K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  14K Aug 12 04:59 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 2.1K Aug 12 04:58 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:58 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+
+ubuntu   20303 74.8 36.7 29236064 5927124 pts/1 SLl+ 04:41  13:12 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2060136     5600460          68     8480212    14555760
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:00:36 UTC 2020
+
+total 60K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  15K Aug 12 05:00 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 2.1K Aug 12 04:58 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:58 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+
+ubuntu   20303 73.5 36.7 29236064 5928148 pts/1 SLl+ 04:41  13:42 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2060956     5594968          68     8484884    14554936
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:01:36 UTC 2020
+
+total 60K
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  16K Aug 12 05:01 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 2.1K Aug 12 04:58 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 04:58 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+
+ubuntu   20303 73.5 36.7 29236320 5934284 pts/1 SLl+ 04:41  14:26 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2080592     5533500          68     8526716    14536028
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:02:36 UTC 2020
+
+total 253M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  17K Aug 12 05:02 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.2K Aug 12 05:02 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 05:02 wiki.zip.ab-t01314-15498-1597208548.log
+
+ubuntu   20303 75.5 40.6 29651164 6563024 pts/1 SLl+ 04:41  15:35 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2429752     4699236          68     9011820    14179888
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:03:36 UTC 2020
+
+total 253M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  19K Aug 12 05:03 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.2K Aug 12 05:02 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 05:02 wiki.zip.ab-t01314-15498-1597208548.log
+
+ubuntu   20303 77.1 40.7 29656796 6575744 pts/1 SLl+ 04:41  16:42 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2439760     4684264          68     9016784    14165716
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:04:36 UTC 2020
+
+total 253M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  20K Aug 12 05:04 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.2K Aug 12 05:02 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 05:02 wiki.zip.ab-t01314-15498-1597208548.log
+
+ubuntu   20303 77.3 40.7 29657052 6581860 pts/1 SLl+ 04:41  17:31 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2442152     4677696          68     9020960    14163268
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:05:36 UTC 2020
+
+total 253M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  21K Aug 12 05:05 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.2K Aug 12 05:02 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 05:02 wiki.zip.ab-t01314-15498-1597208548.log
+
+ubuntu   20303 76.4 40.7 29657052 6582700 pts/1 SLl+ 04:41  18:05 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     2442348     4672204          68     9026256    14162988
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:06:36 UTC 2020
+
+total 505M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  23K Aug 12 05:06 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.3K Aug 12 05:06 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:06 wiki.zip.ab-t01314-15498-1597208548.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:06 wiki.zip.ab-t01314-15498-1597208548.log
+
+ubuntu   20303 76.2 49.6 30942440 8011048 pts/1 SLl+ 04:41  18:47 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     3603560     2976300          68     9560948    12993784
+Swap:      10485756       71680    10414076
+
+Wed Aug 12 05:07:36 UTC 2020
+
+total 505M
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 10 15:23 2020-08-10-a
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 03:30 2020-08-10-b
+drwxrwxr-x 2 ubuntu ubuntu 4.0K Aug 11 15:20 2020-08-10-c
+drwxrwxr-x 2 ubuntu ubuntu  12K Aug 11 23:32 2020-08-10-d
+-rwxrwxr-x 1 ubuntu ubuntu  156 Aug 11 04:33 collect-profile.sh
+-rw-rw-r-- 1 ubuntu ubuntu  24K Aug 12 05:07 profile.log
+-rw-rw-r-- 1 ubuntu ubuntu 3.4K Aug 12 05:06 retrieve.log
+-rw-rw-r-- 1 ubuntu ubuntu  219 Aug 12 04:57 wiki.zip.aa-t01306-13329-1597207366.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:02 wiki.zip.aa-t01314-15465-1597208285.log
+-rw-rw-r-- 1 ubuntu ubuntu  741 Aug 12 04:58 wiki.zip.aa-t01701-13078-1597208279.log
+-rw-rw-r-- 1 ubuntu ubuntu  745 Aug 12 05:02 wiki.zip.aa-t02265-13343-1597208527.log
+-rw-rw-r-- 1 ubuntu ubuntu  730 Aug 12 04:57 wiki.zip.aa-t03028-15874-1597208271.log
+-rw-rw-r-- 1 ubuntu ubuntu 252M Aug 12 05:06 wiki.zip.ab-t01314-15498-1597208548.bin
+-rw-rw-r-- 1 ubuntu ubuntu  140 Aug 12 05:06 wiki.zip.ab-t01314-15498-1597208548.log
+-rw-rw-r-- 1 ubuntu ubuntu    0 Aug 12 05:06 wiki.zip.ab-t01455-13364-1597208801.log
+
+ubuntu   20303 75.5 49.6 30945512 8017888 pts/1 SLl+ 04:41  19:22 ./lotus daemon
+
+              total        used        free      shared  buff/cache   available
+Mem:       16140808     3614588     2960804          68     9565416    12982708
+Swap:      10485756       71680    10414076
+

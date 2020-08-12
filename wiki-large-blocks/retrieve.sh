@@ -13,7 +13,7 @@ for x in *.zip.??; do
 		CID=$(cat $x.cid)
 		echo $MINER $DEAL $CID
 		#/usr/bin/nohup /usr/bin/time timeout -k 11m 10m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin &> $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log &
-		/usr/bin/time timeout -k 9m 8m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log
+		/usr/bin/time timeout -k 16m 15m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log
 		sleep 5
 	done
 	echo
