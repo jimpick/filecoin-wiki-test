@@ -1,0 +1,41 @@
+wiki.zip.aa
+t01306-13329 t03028-15874 t01701-13078 t01314-15465 t02265-13343
+t01306 13329 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+ERROR: Retrieval Failed: Retrieval Timed Out
+
+Command exited with non-zero status 124
+0.07user 0.02system 15:00.01elapsed 0%CPU (0avgtext+0avgdata 37964maxresident)k
+0inputs+0outputs (0major+3745minor)pagefaults 0swaps
+t03028 15874 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+2020-08-12T04:57:54.974Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"EOF\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t03028\",\"MinerPeer\":{\"Address\":\"t03028\",\"ID\":\"12D3KooWPW37Hs3zG6rYJx7odMed4j9Cdsk2VmdDHhkHbyoyiTLe\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:03.53elapsed 1%CPU (0avgtext+0avgdata 37168maxresident)k
+0inputs+0outputs (0major+3634minor)pagefaults 0swaps
+t01701 13078 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+2020-08-12T04:58:00.025Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"dial backoff\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01701\",\"MinerPeer\":{\"Address\":\"t01701\",\"ID\":\"12D3KooWNdSKqKq1YnJ3JJfiKojegbR6qndkeST9w1czfeAK1VLR\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.00system 0:00.04elapsed 104%CPU (0avgtext+0avgdata 36732maxresident)k
+0inputs+0outputs (0major+3581minor)pagefaults 0swaps
+t01314 15465 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+Success
+0.06user 0.00system 3:57.55elapsed 0%CPU (0avgtext+0avgdata 37476maxresident)k
+0inputs+0outputs (0major+3658minor)pagefaults 0swaps
+t02265 13343 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+2020-08-12T05:02:20.375Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02265\",\"MinerPeer\":{\"Address\":\"t02265\",\"ID\":\"12D3KooWLJEihLtgvhGscySgFq259MK4dPy7D7umywEikJUv6ZDc\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:12.62elapsed 0%CPU (0avgtext+0avgdata 37316maxresident)k
+0inputs+0outputs (0major+3640minor)pagefaults 0swaps
+
+wiki.zip.ab
+t01314-15498 t01455-13364 t01937-12269 t01371-15471 t01998-13209 t02262-13218
+t01314 15498 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6
+Success
+0.05user 0.00system 4:08.29elapsed 0%CPU (0avgtext+0avgdata 37488maxresident)k
+0inputs+0outputs (0major+3634minor)pagefaults 0swaps
+t01455 13364 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6

@@ -1,0 +1,6 @@
+2020-08-12T17:09:45.240Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWLSryCHCvN3NxKz37E2Gw5upQzN4ENZvJZgV4yGp9x4UM: no good addresses\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01115\",\"MinerPeer\":{\"Address\":\"t01115\",\"ID\":\"12D3KooWLSryCHCvN3NxKz37E2Gw5upQzN4ENZvJZgV4yGp9x4UM\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.00system 0:00.04elapsed 104%CPU (0avgtext+0avgdata 37452maxresident)k
+0inputs+0outputs (0major+3661minor)pagefaults 0swaps
