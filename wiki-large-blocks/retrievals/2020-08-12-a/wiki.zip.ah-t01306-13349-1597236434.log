@@ -1,0 +1,6 @@
+2020-08-12T12:47:19.031Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.1-0.20200602181149-522144ab4e24/client.go:406	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWELU1ZN7tq4yHeddxe6QwXjHxMV43SiruCHxmsqgGKpKh: all dials failed\\n  * [/ip4/123.226.236.167/tcp/60000] dial tcp4 0.0.0.0:37849-\\u003e123.226.236.167:60000: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01306\",\"MinerPeer\":{\"Address\":\"t01306\",\"ID\":\"12D3KooWELU1ZN7tq4yHeddxe6QwXjHxMV43SiruCHxmsqgGKpKh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.00system 0:04.45elapsed 1%CPU (0avgtext+0avgdata 37272maxresident)k
+216inputs+0outputs (1major+3615minor)pagefaults 0swaps
