@@ -1,16 +1,16 @@
 #! /bin/bash
 
-curl -o ~/tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/calibration/src/annotations-calibration.js
+curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/calibration/src/annotations-calibration.js
 
 MINERS=$(node -e '
 const fs = require("fs")
 
-const js = fs.readFileSync("/home/ubuntu/tmp/annotations.js", "utf8")
+const js = fs.readFileSync("tmp/annotations.js", "utf8")
 const fixedJs = js.replace(/export.*/, "").replace(/^const /, "var ")
 
 eval(fixedJs)
 
-let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^active,/)).map(([miner]) => miner)
+let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^active,/) || text.match(/^sealing,/)).map(([miner]) => miner)
 
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
