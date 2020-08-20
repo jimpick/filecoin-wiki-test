@@ -1,0 +1,6 @@
+2020-08-16T01:36:31.583-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:37736->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.09user 0.03system 15:00.02elapsed 0%CPU (0avgtext+0avgdata 37816maxresident)k
+0inputs+0outputs (0major+3870minor)pagefaults 0swaps

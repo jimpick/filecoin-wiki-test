@@ -1,0 +1,5 @@
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.14user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37784maxresident)k
+0inputs+0outputs (0major+3743minor)pagefaults 0swaps

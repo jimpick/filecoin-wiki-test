@@ -1,0 +1,5 @@
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.12user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37576maxresident)k
+0inputs+0outputs (0major+3696minor)pagefaults 0swaps
