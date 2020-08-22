@@ -1,0 +1,1 @@
+bafyreig24dxjtkddar4vgthuj24vjpwuhrxkzoj2wwwslpj3phtgxbrvla  0      t05036  StorageDealError               N               N  baga6ea4seaqh55f7lc4curzf56jy3bl4fo667jjbfk3nhueq4zieq3dzez7euda  7.938 MiB  0.000075143375 FIL  601147  unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: false
