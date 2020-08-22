@@ -1,0 +1,540 @@
+wiki.zip.aa.aa
+t01824-9933
+Retrieving t01824 9933 bafykbzaced3v6jdz436uh2shndde7nwmjlmp6riomr6ps3fbapvaqb6dqpi2o
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+2020-08-22T08:13:36.136-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.03user 0.03system 3:26.08elapsed 0%CPU (0avgtext+0avgdata 39184maxresident)k
+112inputs+0outputs (1major+3827minor)pagefaults 0swaps
+
+wiki.zip.aa.ab
+t02315-10917 t02533-6516 t01902-8300 t02675-9109
+Retrieving t02315 10917 bafykbzacebw5iokuz5pgiv5dhkt62qlsurxnv2eag7x3wkch4lybw7iwtrfg2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.06user 0.03system 17:00.01elapsed 0%CPU (0avgtext+0avgdata 38272maxresident)k
+744inputs+0outputs (11major+3819minor)pagefaults 0swaps
+Retrieving t02533 6516 bafykbzacebw5iokuz5pgiv5dhkt62qlsurxnv2eag7x3wkch4lybw7iwtrfg2
+2020-08-22T08:30:43.287-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWFG9FjJTw2cf2dp6Z5BivpznvPqkshorWsCr4tgzVUAnV: all dials failed\\n  * [/ip4/95.179.210.120/tcp/10240] failed to negotiate security protocol: EOF\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02533\",\"MinerPeer\":{\"Address\":\"t02533\",\"ID\":\"12D3KooWFG9FjJTw2cf2dp6Z5BivpznvPqkshorWsCr4tgzVUAnV\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.00system 0:00.61elapsed 6%CPU (0avgtext+0avgdata 37984maxresident)k
+0inputs+0outputs (0major+3700minor)pagefaults 0swaps
+Retrieving t01902 8300 bafykbzacebw5iokuz5pgiv5dhkt62qlsurxnv2eag7x3wkch4lybw7iwtrfg2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Success
+0.02user 0.01system 0:03.20elapsed 1%CPU (0avgtext+0avgdata 38112maxresident)k
+248inputs+0outputs (1major+3591minor)pagefaults 0swaps
+Retrieving t02675 9109 bafykbzacebw5iokuz5pgiv5dhkt62qlsurxnv2eag7x3wkch4lybw7iwtrfg2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 89%CPU (0avgtext+0avgdata 35972maxresident)k
+0inputs+0outputs (0major+3554minor)pagefaults 0swaps
+
+wiki.zip.aa.ac
+t01819-5823 t02315-8319 t01902-9108 t02098-9936
+Retrieving t01819 5823 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36520maxresident)k
+0inputs+0outputs (0major+3555minor)pagefaults 0swaps
+Retrieving t02315 8319 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:00.04elapsed 100%CPU (0avgtext+0avgdata 35920maxresident)k
+128inputs+0outputs (1major+3555minor)pagefaults 0swaps
+Retrieving t01902 9108 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36696maxresident)k
+160inputs+0outputs (1major+3590minor)pagefaults 0swaps
+Retrieving t02098 9936 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36088maxresident)k
+0inputs+0outputs (0major+3490minor)pagefaults 0swaps
+
+wiki.zip.aa.ad
+t02750-11717 t02315-9113 t02004-9930
+Retrieving t02750 11717 bafykbzaceaodz76cdarzsyecuxe434kxk2f7hhf7mmk7k5qa2powsx44f5cma
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 100%CPU (0avgtext+0avgdata 36624maxresident)k
+200inputs+0outputs (1major+3545minor)pagefaults 0swaps
+Retrieving t02315 9113 bafykbzaceaodz76cdarzsyecuxe434kxk2f7hhf7mmk7k5qa2powsx44f5cma
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:00.03elapsed 105%CPU (0avgtext+0avgdata 35796maxresident)k
+0inputs+0outputs (0major+3524minor)pagefaults 0swaps
+Retrieving t02004 9930 bafykbzaceaodz76cdarzsyecuxe434kxk2f7hhf7mmk7k5qa2powsx44f5cma
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 92%CPU (0avgtext+0avgdata 36652maxresident)k
+512inputs+0outputs (2major+3547minor)pagefaults 0swaps
+
+wiki.zip.aa.ae
+t03052-10875 t02014-5832 t01827-9115
+Retrieving t03052 10875 bafykbzacea3kv5lvrrdgpdnwnt37iqxjx2tasrqptvzqhrtqmklusfss7uvs2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36668maxresident)k
+0inputs+0outputs (0major+3548minor)pagefaults 0swaps
+Retrieving t02014 5832 bafykbzacea3kv5lvrrdgpdnwnt37iqxjx2tasrqptvzqhrtqmklusfss7uvs2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 36320maxresident)k
+128inputs+0outputs (1major+3492minor)pagefaults 0swaps
+Retrieving t01827 9115 bafykbzacea3kv5lvrrdgpdnwnt37iqxjx2tasrqptvzqhrtqmklusfss7uvs2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 89%CPU (0avgtext+0avgdata 35948maxresident)k
+0inputs+0outputs (0major+3557minor)pagefaults 0swaps
+
+wiki.zip.aa.af
+t01699-5821 t02098-8312 t01593-9135 t02014-9932
+Retrieving t01699 5821 bafykbzacedw3he5ajnoo5qguaywl573rlk2xaxiqc2hcuiknbzddo2qexc6pk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:00.03elapsed 96%CPU (0avgtext+0avgdata 35960maxresident)k
+0inputs+0outputs (0major+3576minor)pagefaults 0swaps
+Retrieving t02098 8312 bafykbzacedw3he5ajnoo5qguaywl573rlk2xaxiqc2hcuiknbzddo2qexc6pk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 90%CPU (0avgtext+0avgdata 35580maxresident)k
+0inputs+0outputs (0major+3471minor)pagefaults 0swaps
+Retrieving t01593 9135 bafykbzacedw3he5ajnoo5qguaywl573rlk2xaxiqc2hcuiknbzddo2qexc6pk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 37208maxresident)k
+0inputs+0outputs (0major+3585minor)pagefaults 0swaps
+Retrieving t02014 9932 bafykbzacedw3he5ajnoo5qguaywl573rlk2xaxiqc2hcuiknbzddo2qexc6pk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36112maxresident)k
+416inputs+0outputs (3major+3458minor)pagefaults 0swaps
+
+wiki.zip.aa.ag
+t02014-10877 t02315-11740 t01593-7861 t01591-8316 t01819-9129
+Retrieving t02014 10877 bafykbzaceaayeiygb7brgifapdemi2jz3llm7pdgvqvq26iumqtbmedkkxwn2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 36332maxresident)k
+0inputs+0outputs (0major+3525minor)pagefaults 0swaps
+Retrieving t02315 11740 bafykbzaceaayeiygb7brgifapdemi2jz3llm7pdgvqvq26iumqtbmedkkxwn2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 92%CPU (0avgtext+0avgdata 36092maxresident)k
+0inputs+0outputs (0major+3513minor)pagefaults 0swaps
+Retrieving t01593 7861 bafykbzaceaayeiygb7brgifapdemi2jz3llm7pdgvqvq26iumqtbmedkkxwn2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 35992maxresident)k
+0inputs+0outputs (0major+3588minor)pagefaults 0swaps
+Retrieving t01591 8316 bafykbzaceaayeiygb7brgifapdemi2jz3llm7pdgvqvq26iumqtbmedkkxwn2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36704maxresident)k
+232inputs+0outputs (2major+3568minor)pagefaults 0swaps
+Retrieving t01819 9129 bafykbzaceaayeiygb7brgifapdemi2jz3llm7pdgvqvq26iumqtbmedkkxwn2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 37072maxresident)k
+128inputs+0outputs (1major+3611minor)pagefaults 0swaps
+
+wiki.zip.aa.ah
+t02206-5826 t01827-8321 t02306-9934
+Retrieving t02206 5826 bafykbzaceaaojerirhwwapvvsbne7ir563i4cycwkk4eyswo43tpsgsn6fkkk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 88%CPU (0avgtext+0avgdata 36496maxresident)k
+0inputs+0outputs (0major+3531minor)pagefaults 0swaps
+Retrieving t01827 8321 bafykbzaceaaojerirhwwapvvsbne7ir563i4cycwkk4eyswo43tpsgsn6fkkk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.02elapsed 96%CPU (0avgtext+0avgdata 35948maxresident)k
+0inputs+0outputs (0major+3587minor)pagefaults 0swaps
+Retrieving t02306 9934 bafykbzaceaaojerirhwwapvvsbne7ir563i4cycwkk4eyswo43tpsgsn6fkkk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 36628maxresident)k
+0inputs+0outputs (0major+3575minor)pagefaults 0swaps
+
+wiki.zip.aa.ai
+t01945-5825 t02306-8311
+Retrieving t01945 5825 bafykbzaceahc7i4xjyqggnj4vfmfkd2bk7c2pst4jwa7agqkic4bs5atkmco4
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 93%CPU (0avgtext+0avgdata 36220maxresident)k
+0inputs+0outputs (0major+3447minor)pagefaults 0swaps
+Retrieving t02306 8311 bafykbzaceahc7i4xjyqggnj4vfmfkd2bk7c2pst4jwa7agqkic4bs5atkmco4
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 36328maxresident)k
+0inputs+0outputs (0major+3540minor)pagefaults 0swaps
+
+wiki.zip.aa.aj
+t01699-10881 t01632-11714 t02306-5829 t01824-8313 t02014-9137 t01593-9927
+Retrieving t01699 10881 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36360maxresident)k
+0inputs+0outputs (0major+3614minor)pagefaults 0swaps
+Retrieving t01632 11714 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36268maxresident)k
+0inputs+0outputs (0major+3594minor)pagefaults 0swaps
+Retrieving t02306 5829 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 96%CPU (0avgtext+0avgdata 36008maxresident)k
+0inputs+0outputs (0major+3543minor)pagefaults 0swaps
+Retrieving t01824 8313 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36288maxresident)k
+0inputs+0outputs (0major+3631minor)pagefaults 0swaps
+Retrieving t02014 9137 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36416maxresident)k
+0inputs+0outputs (0major+3566minor)pagefaults 0swaps
+Retrieving t01593 9927 bafykbzaced2mv4uz36ykwyg7y2b7tpyghzbvtwadm3y54dppnq5tynkvqukle
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.02elapsed 100%CPU (0avgtext+0avgdata 36120maxresident)k
+0inputs+0outputs (0major+3539minor)pagefaults 0swaps
+
+wiki.zip.aa.ak
+t02306-11727 t02965-9134
+Retrieving t02306 11727 bafykbzaced47gy6ddyfy4kniviljlwoegbrqllhtlesxjjti4ftasuujxno7s
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36312maxresident)k
+0inputs+0outputs (0major+3578minor)pagefaults 0swaps
+Retrieving t02965 9134 bafykbzaced47gy6ddyfy4kniviljlwoegbrqllhtlesxjjti4ftasuujxno7s
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 96%CPU (0avgtext+0avgdata 36672maxresident)k
+0inputs+0outputs (0major+3650minor)pagefaults 0swaps
+
+wiki.zip.aa.al
+t02264-6533 t02197-8328 t03052-9146 t01909-9928
+Retrieving t02264 6533 bafykbzaceb35icnurzdtfytzqgzdlzli3vnonwtgnojpe77g7k57liem4rrjy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.02system 0:00.04elapsed 95%CPU (0avgtext+0avgdata 37008maxresident)k
+128inputs+0outputs (1major+3628minor)pagefaults 0swaps
+Retrieving t02197 8328 bafykbzaceb35icnurzdtfytzqgzdlzli3vnonwtgnojpe77g7k57liem4rrjy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.04elapsed 82%CPU (0avgtext+0avgdata 36608maxresident)k
+0inputs+0outputs (0major+3646minor)pagefaults 0swaps
+Retrieving t03052 9146 bafykbzaceb35icnurzdtfytzqgzdlzli3vnonwtgnojpe77g7k57liem4rrjy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36172maxresident)k
+128inputs+0outputs (1major+3582minor)pagefaults 0swaps
+Retrieving t01909 9928 bafykbzaceb35icnurzdtfytzqgzdlzli3vnonwtgnojpe77g7k57liem4rrjy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 88%CPU (0avgtext+0avgdata 36644maxresident)k
+0inputs+0outputs (0major+3619minor)pagefaults 0swaps
+
+wiki.zip.aa.am
+t02965-10880 t01824-11722 t01902-5831
+Retrieving t02965 10880 bafykbzacebtvmabspkhgegvffwurgjnkqweopbzexudgrfcyfvq6aklsvxpae
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 90%CPU (0avgtext+0avgdata 35776maxresident)k
+0inputs+0outputs (0major+3439minor)pagefaults 0swaps
+Retrieving t01824 11722 bafykbzacebtvmabspkhgegvffwurgjnkqweopbzexudgrfcyfvq6aklsvxpae
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 36380maxresident)k
+0inputs+0outputs (0major+3657minor)pagefaults 0swaps
+Retrieving t01902 5831 bafykbzacebtvmabspkhgegvffwurgjnkqweopbzexudgrfcyfvq6aklsvxpae
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36200maxresident)k
+0inputs+0outputs (0major+3492minor)pagefaults 0swaps
+
+wiki.zip.aa.an
+t01632-10884 t01593-11725 t02264-5838 t05036-9937
+Retrieving t01632 10884 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 37012maxresident)k
+256inputs+0outputs (2major+3548minor)pagefaults 0swaps
+Retrieving t01593 11725 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 88%CPU (0avgtext+0avgdata 36172maxresident)k
+0inputs+0outputs (0major+3505minor)pagefaults 0swaps
+Retrieving t02264 5838 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.00system 0:00.03elapsed 92%CPU (0avgtext+0avgdata 36148maxresident)k
+0inputs+0outputs (0major+3552minor)pagefaults 0swaps
+Retrieving t05036 9937 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.04elapsed 97%CPU (0avgtext+0avgdata 36876maxresident)k
+0inputs+0outputs (0major+3622minor)pagefaults 0swaps
+
+wiki.zip.aa.ao
+t01593-10886 t03052-11728 t01945-9145 t02182-9929
+Retrieving t01593 10886 bafykbzacebhvzun7pyywhsomibxmkntf2iamk2s454pfybsdl4wofpc2rsesy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 93%CPU (0avgtext+0avgdata 35520maxresident)k
+0inputs+0outputs (0major+3431minor)pagefaults 0swaps
+Retrieving t03052 11728 bafykbzacebhvzun7pyywhsomibxmkntf2iamk2s454pfybsdl4wofpc2rsesy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 35976maxresident)k
+0inputs+0outputs (0major+3515minor)pagefaults 0swaps
+Retrieving t01945 9145 bafykbzacebhvzun7pyywhsomibxmkntf2iamk2s454pfybsdl4wofpc2rsesy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 36004maxresident)k
+0inputs+0outputs (0major+3575minor)pagefaults 0swaps
+Retrieving t02182 9929 bafykbzacebhvzun7pyywhsomibxmkntf2iamk2s454pfybsdl4wofpc2rsesy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 97%CPU (0avgtext+0avgdata 35996maxresident)k
+0inputs+0outputs (0major+3553minor)pagefaults 0swaps
+
+wiki.zip.aa.ap
+t01902-10885 t01632-9150 t01819-9949
+Retrieving t01902 10885 bafykbzacea33jq73s3aaz74pqrzdj5sma56o2r6lv6x7fwuet5mzaromp4ina
+2020-08-22T08:31:52.849-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to find any peer in table\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01902\",\"MinerPeer\":{\"Address\":\"t01902\",\"ID\":\"12D3KooWL6yjsqsyfhaSjd1eC8yP4WfuXxe8H5DpTScJkkPcCvR7\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 78%CPU (0avgtext+0avgdata 37708maxresident)k
+184inputs+0outputs (1major+3679minor)pagefaults 0swaps
+Retrieving t01632 9150 bafykbzacea33jq73s3aaz74pqrzdj5sma56o2r6lv6x7fwuet5mzaromp4ina
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.03user 0.02system 3:46.89elapsed 0%CPU (0avgtext+0avgdata 38232maxresident)k
+0inputs+0outputs (0major+3753minor)pagefaults 0swaps
+Retrieving t01819 9949 bafykbzacea33jq73s3aaz74pqrzdj5sma56o2r6lv6x7fwuet5mzaromp4ina
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.03user 0.02system 3:28.17elapsed 0%CPU (0avgtext+0avgdata 38300maxresident)k
+0inputs+0outputs (0major+3805minor)pagefaults 0swaps
+
+wiki.zip.aa.aq
+t01819-11720 t01593-5834 t02263-8344 t03052-9948
+Retrieving t01819 11720 bafykbzacedd4lxvnpfdd4szk6zynyr7a2tdtzugjucns6s5haajabkl27rmpk
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.03user 0.02system 3:22.47elapsed 0%CPU (0avgtext+0avgdata 38340maxresident)k
+80inputs+0outputs (1major+3683minor)pagefaults 0swaps
+Retrieving t01593 5834 bafykbzacedd4lxvnpfdd4szk6zynyr7a2tdtzugjucns6s5haajabkl27rmpk
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.03user 0.01system 3:36.18elapsed 0%CPU (0avgtext+0avgdata 38580maxresident)k
+0inputs+0outputs (0major+3716minor)pagefaults 0swaps
+Retrieving t02263 8344 bafykbzacedd4lxvnpfdd4szk6zynyr7a2tdtzugjucns6s5haajabkl27rmpk
+2020-08-22T08:46:12.737-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWNcGCK3Ha5XMxk8uCCpDnT9ZqhX5NUE3geW5JEg5Nudxj: all dials failed\\n  * [/ip4/18.236.200.65/tcp/28003] dial tcp4 18.236.200.65:28003: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02263\",\"MinerPeer\":{\"Address\":\"t02263\",\"ID\":\"12D3KooWNcGCK3Ha5XMxk8uCCpDnT9ZqhX5NUE3geW5JEg5Nudxj\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.10elapsed 33%CPU (0avgtext+0avgdata 38132maxresident)k
+0inputs+0outputs (0major+3643minor)pagefaults 0swaps
+Retrieving t03052 9948 bafykbzacedd4lxvnpfdd4szk6zynyr7a2tdtzugjucns6s5haajabkl27rmpk
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.02user 0.03system 3:37.67elapsed 0%CPU (0avgtext+0avgdata 38296maxresident)k
+0inputs+0outputs (0major+3732minor)pagefaults 0swaps
+
+wiki.zip.aa.ar
+t01699-6518 t02674-9147 t02302-9887
+Retrieving t01699 6518 bafykbzacecdc2pu5tdvstiasseysryap5t34pgjgarqfjwqad3c3jerlmmbaa
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
