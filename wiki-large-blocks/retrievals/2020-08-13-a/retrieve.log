@@ -1,0 +1,419 @@
+wiki.zip.aa
+t01089-4470 t01036-4309 t01114-4741
+Retrieving t01089 4470 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+2020-08-15T20:05:38.349-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:47008->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.02system 15:00.02elapsed 0%CPU (0avgtext+0avgdata 37632maxresident)k
+0inputs+0outputs (0major+3703minor)pagefaults 0swaps
+Retrieving t01036 4309 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.16user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37468maxresident)k
+8inputs+0outputs (1major+3781minor)pagefaults 0swaps
+Retrieving t01114 4741 bafykbzaceantezfhi5gfy22imlfbb4gofn75vnu2lo3bzje4fddiyrph2d5ls
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.14user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37784maxresident)k
+0inputs+0outputs (0major+3743minor)pagefaults 0swaps
+
+wiki.zip.ab
+t01229-3892 t01036-4517 t01240-4747 t01076-4195
+Retrieving t01229 3892 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.08user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37768maxresident)k
+0inputs+0outputs (0major+3818minor)pagefaults 0swaps
+Retrieving t01036 4517 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37672maxresident)k
+264inputs+0outputs (0major+3813minor)pagefaults 0swaps
+Retrieving t01240 4747 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.13user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37780maxresident)k
+8inputs+0outputs (0major+3724minor)pagefaults 0swaps
+Retrieving t01076 4195 bafykbzaceb5sgoxddtj3ntl4kz6dkrsr6hftgowgy3cam3f2irmbc7rglt3b6
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37640maxresident)k
+0inputs+0outputs (0major+3853minor)pagefaults 0swaps
+
+wiki.zip.ac
+t01229-3903 t01240-4442 t01024-3838 t01114-3905 t01036-4315 t01294-4192
+Retrieving t01229 3903 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37788maxresident)k
+0inputs+0outputs (0major+3771minor)pagefaults 0swaps
+Retrieving t01240 4442 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.12user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37136maxresident)k
+0inputs+0outputs (0major+3717minor)pagefaults 0swaps
+Retrieving t01024 3838 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.15user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37796maxresident)k
+0inputs+0outputs (0major+3721minor)pagefaults 0swaps
+Retrieving t01114 3905 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.17user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37376maxresident)k
+0inputs+0outputs (0major+3774minor)pagefaults 0swaps
+Retrieving t01036 4315 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37112maxresident)k
+0inputs+0outputs (0major+3682minor)pagefaults 0swaps
+Retrieving t01294 4192 bafykbzaceaqlsibidzkcimvji7axb52fgr7wmfkkqsp47sejgxrkhnuwmcse2
+2020-08-15T22:50:54.893-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/client.go:429	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAQDaomAeR1AaiU9NcuBdYRGfptNnFP8coj29kvVjLUvt: all dials failed\\n  * [/ip4/175.155.178.195/tcp/15555] failed to negotiate security protocol: peer IDs don't match\\n  * [/ip4/175.155.178.197/tcp/15555] failed to negotiate security protocol: peer IDs don't match\\n  * [/ip4/175.155.178.196/tcp/15555] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01294\",\"MinerPeer\":{\"Address\":\"t01294\",\"ID\":\"12D3KooWAQDaomAeR1AaiU9NcuBdYRGfptNnFP8coj29kvVjLUvt\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.11user 0.01system 0:01.55elapsed 8%CPU (0avgtext+0avgdata 36656maxresident)k
+0inputs+0outputs (0major+3661minor)pagefaults 0swaps
+
+wiki.zip.ad
+t01429-4581 t01036-4305 t01089-4413 t01598-4399 t01065-3902 t01024-3906
+Retrieving t01429 4581 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+2020-08-15T22:51:17.600-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/client.go:429	unmarshaling failed	{"message": "{\"Err\":\"stream reset\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01429\",\"MinerPeer\":{\"Address\":\"t01429\",\"ID\":\"12D3KooWCdaHbJ4jDRyf5xaBchzXP1R3Jiig6w5XzfXoaKwW45Px\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.02system 0:20.39elapsed 0%CPU (0avgtext+0avgdata 37028maxresident)k
+0inputs+0outputs (0major+3685minor)pagefaults 0swaps
+Retrieving t01036 4305 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.09user 0.09system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37308maxresident)k
+0inputs+0outputs (0major+3741minor)pagefaults 0swaps
+Retrieving t01089 4413 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.11user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37112maxresident)k
+0inputs+0outputs (0major+3668minor)pagefaults 0swaps
+Retrieving t01598 4399 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37736maxresident)k
+2576inputs+0outputs (3major+3816minor)pagefaults 0swaps
+Retrieving t01065 3902 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37628maxresident)k
+0inputs+0outputs (0major+3747minor)pagefaults 0swaps
+Retrieving t01024 3906 bafykbzacedflzjjvyrkuvqvfqc2vjdnksuqr7atm76n6grjrfqem4cs2msazm
+2020-08-16T00:06:22.818-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:60150->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37480maxresident)k
+0inputs+0outputs (0major+3662minor)pagefaults 0swaps
+
+wiki.zip.ae
+t01093-4602 t01847-4474 t01114-3839
+Retrieving t01093 4602 bafykbzacedgiot4tiem4f5rovzhvdtzwvxe3pgdgap72iydk4uf7cvvcf2zke
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.08user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37348maxresident)k
+0inputs+0outputs (0major+3699minor)pagefaults 0swaps
+Retrieving t01847 4474 bafykbzacedgiot4tiem4f5rovzhvdtzwvxe3pgdgap72iydk4uf7cvvcf2zke
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.18user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37264maxresident)k
+0inputs+0outputs (0major+3684minor)pagefaults 0swaps
+Retrieving t01114 3839 bafykbzacedgiot4tiem4f5rovzhvdtzwvxe3pgdgap72iydk4uf7cvvcf2zke
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.09user 0.06system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37536maxresident)k
+0inputs+0outputs (0major+3742minor)pagefaults 0swaps
+
+wiki.zip.af
+t01256-4005 t01229-3879 t01065-4010 t01024-4299 t01036-4409 t01089-4429 t01114-3898
+Retrieving t01256 4005 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.05user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37324maxresident)k
+128inputs+0outputs (1major+3662minor)pagefaults 0swaps
+Retrieving t01229 3879 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+2020-08-16T01:21:30.440-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:60868->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 38072maxresident)k
+120inputs+0outputs (2major+3841minor)pagefaults 0swaps
+Retrieving t01065 4010 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+2020-08-16T01:36:31.583-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:37736->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.09user 0.03system 15:00.02elapsed 0%CPU (0avgtext+0avgdata 37816maxresident)k
+0inputs+0outputs (0major+3870minor)pagefaults 0swaps
+Retrieving t01024 4299 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+2020-08-16T01:51:32.789-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:42820->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.01system 15:00.01elapsed 0%CPU (0avgtext+0avgdata 37984maxresident)k
+136inputs+0outputs (1major+3838minor)pagefaults 0swaps
+Retrieving t01036 4409 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.01system 15:00.01elapsed 0%CPU (0avgtext+0avgdata 37616maxresident)k
+0inputs+0outputs (0major+3745minor)pagefaults 0swaps
+Retrieving t01089 4429 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37660maxresident)k
+0inputs+0outputs (0major+3766minor)pagefaults 0swaps
+Retrieving t01114 3898 bafykbzaceckoxjkh4f2yhzcqa6tt2yldpj34ifdgvjz3ppiaya2bvw3bgclxa
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.06system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37136maxresident)k
+0inputs+0outputs (0major+3681minor)pagefaults 0swaps
+
+wiki.zip.ag
+t01036-4430 t01240-4427 t01114-3909 t01294-3837
+Retrieving t01036 4430 bafykbzaceaoesxhanekyqan2orb7zqn5mmgqss7bjlybk25zef2uevsa42a2q
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.04user 0.06system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37208maxresident)k
+0inputs+0outputs (0major+3725minor)pagefaults 0swaps
+Retrieving t01240 4427 bafykbzaceaoesxhanekyqan2orb7zqn5mmgqss7bjlybk25zef2uevsa42a2q
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37720maxresident)k
+8inputs+0outputs (1major+3833minor)pagefaults 0swaps
+Retrieving t01114 3909 bafykbzaceaoesxhanekyqan2orb7zqn5mmgqss7bjlybk25zef2uevsa42a2q
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.12user 0.04system 15:00.01elapsed 0%CPU (0avgtext+0avgdata 37796maxresident)k
+440inputs+0outputs (3major+3740minor)pagefaults 0swaps
+Retrieving t01294 3837 bafykbzaceaoesxhanekyqan2orb7zqn5mmgqss7bjlybk25zef2uevsa42a2q
+2020-08-16T03:21:42.180-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/client.go:429	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAQDaomAeR1AaiU9NcuBdYRGfptNnFP8coj29kvVjLUvt: all dials failed\\n  * [/ip4/175.155.178.197/tcp/15555] failed to negotiate security protocol: peer IDs don't match\\n  * [/ip4/175.155.178.196/tcp/15555] failed to negotiate security protocol: peer IDs don't match\\n  * [/ip4/175.155.178.195/tcp/15555] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01294\",\"MinerPeer\":{\"Address\":\"t01294\",\"ID\":\"12D3KooWAQDaomAeR1AaiU9NcuBdYRGfptNnFP8coj29kvVjLUvt\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.08user 0.03system 0:00.81elapsed 14%CPU (0avgtext+0avgdata 36740maxresident)k
+0inputs+0outputs (0major+3627minor)pagefaults 0swaps
+
+wiki.zip.ah
+t01114-4603 t01290-3899
+Retrieving t01114 4603 bafykbzacebfzzq2yvxhs7cixoaghmo3oz25m6xokyt227kydvkozznmb66t2s
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.08user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37608maxresident)k
+0inputs+0outputs (0major+3861minor)pagefaults 0swaps
+Retrieving t01290 3899 bafykbzacebfzzq2yvxhs7cixoaghmo3oz25m6xokyt227kydvkozznmb66t2s
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.12user 0.08system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37888maxresident)k
+0inputs+0outputs (0major+3752minor)pagefaults 0swaps
+
+wiki.zip.ai
+t01089-4476 t01229-3896 t01114-3998 t01093-4742 t01429-4407
+Retrieving t01089 4476 bafykbzaceddobx7lvzgwqxvzzvehiudunkuf5h35ib5okhbxzvec6c4c3psmw
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.10user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37580maxresident)k
+0inputs+0outputs (0major+3805minor)pagefaults 0swaps
+Retrieving t01229 3896 bafykbzaceddobx7lvzgwqxvzzvehiudunkuf5h35ib5okhbxzvec6c4c3psmw
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.00system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37272maxresident)k
+0inputs+0outputs (0major+3727minor)pagefaults 0swaps
+Retrieving t01114 3998 bafykbzaceddobx7lvzgwqxvzzvehiudunkuf5h35ib5okhbxzvec6c4c3psmw
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37420maxresident)k
+0inputs+0outputs (0major+3762minor)pagefaults 0swaps
+Retrieving t01093 4742 bafykbzaceddobx7lvzgwqxvzzvehiudunkuf5h35ib5okhbxzvec6c4c3psmw
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.12user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37736maxresident)k
+0inputs+0outputs (0major+3782minor)pagefaults 0swaps
+Retrieving t01429 4407 bafykbzaceddobx7lvzgwqxvzzvehiudunkuf5h35ib5okhbxzvec6c4c3psmw
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.10user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 38004maxresident)k
+0inputs+0outputs (0major+3824minor)pagefaults 0swaps
+
+wiki.zip.aj
+t01114-3885
+Retrieving t01114 3885 bafykbzaced2t4bvxx2b6jhpmy4mdwuunrkwcawufapzxttpa5gritkhlqs7py
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.08user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37588maxresident)k
+0inputs+0outputs (0major+3776minor)pagefaults 0swaps
+
+wiki.zip.ak
+t01024-3901 t01923-4748 t01036-4334 t01065-4008
+Retrieving t01024 3901 bafykbzacecfa5aih4keeuqm2whep3cvsbgoxue6o7o2vhoqecmvel6mvwzc2g
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.10user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37220maxresident)k
+0inputs+0outputs (0major+3699minor)pagefaults 0swaps
+Retrieving t01923 4748 bafykbzacecfa5aih4keeuqm2whep3cvsbgoxue6o7o2vhoqecmvel6mvwzc2g
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.12user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37576maxresident)k
+0inputs+0outputs (0major+3696minor)pagefaults 0swaps
+Retrieving t01036 4334 bafykbzacecfa5aih4keeuqm2whep3cvsbgoxue6o7o2vhoqecmvel6mvwzc2g
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.08system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37776maxresident)k
+0inputs+0outputs (0major+3711minor)pagefaults 0swaps
+Retrieving t01065 4008 bafykbzacecfa5aih4keeuqm2whep3cvsbgoxue6o7o2vhoqecmvel6mvwzc2g
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37696maxresident)k
+0inputs+0outputs (0major+3777minor)pagefaults 0swaps
+
+wiki.zip.al
+t01114-3982 t01213-4743 t01036-3952
+Retrieving t01114 3982 bafykbzacedxzmlzfn3gqir4pcfrazks6zqiasrn2k7ba3ezohcvbzup5bxsvc
+2020-08-16T06:37:02.364-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/websocket.go:566	failed to write close message: write tcp 127.0.0.1:37124->127.0.0.1:1234: i/o timeout
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.09user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37648maxresident)k
+0inputs+0outputs (0major+3751minor)pagefaults 0swaps
+Retrieving t01213 4743 bafykbzacedxzmlzfn3gqir4pcfrazks6zqiasrn2k7ba3ezohcvbzup5bxsvc
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.09user 0.02system 15:00.01elapsed 0%CPU (0avgtext+0avgdata 33828maxresident)k
+496inputs+0outputs (4major+3749minor)pagefaults 0swaps
+Retrieving t01036 3952 bafykbzacedxzmlzfn3gqir4pcfrazks6zqiasrn2k7ba3ezohcvbzup5bxsvc
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.08user 0.03system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37040maxresident)k
+17272inputs+0outputs (108major+3703minor)pagefaults 0swaps
+
+wiki.zip.am
+t02329-4479 t01036-3940 t01089-4484 t01290-3895 t01429-4519
+Retrieving t02329 4479 bafykbzaced5ftleweayp6peyz4wqtf7hnxa7bkjw5f3vuwfjsjtppfwyizrbe
+2020-08-16T07:07:06.854-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/client.go:429	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWSjBSXnmpsLDqDnC9ergGbv4DHPLAmTxQCArqzpnaFpy9: all dials failed\\n  * [/ip4/34.213.252.201/tcp/28003] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02329\",\"MinerPeer\":{\"Address\":\"t02329\",\"ID\":\"12D3KooWSjBSXnmpsLDqDnC9ergGbv4DHPLAmTxQCArqzpnaFpy9\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.00system 0:00.07elapsed 45%CPU (0avgtext+0avgdata 36816maxresident)k
+704inputs+0outputs (3major+3617minor)pagefaults 0swaps
+Retrieving t01036 3940 bafykbzaced5ftleweayp6peyz4wqtf7hnxa7bkjw5f3vuwfjsjtppfwyizrbe
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.14user 0.06system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37372maxresident)k
+160inputs+0outputs (1major+3788minor)pagefaults 0swaps
+Retrieving t01089 4484 bafykbzaced5ftleweayp6peyz4wqtf7hnxa7bkjw5f3vuwfjsjtppfwyizrbe
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.13user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37144maxresident)k
+0inputs+0outputs (0major+3676minor)pagefaults 0swaps
+Retrieving t01290 3895 bafykbzaced5ftleweayp6peyz4wqtf7hnxa7bkjw5f3vuwfjsjtppfwyizrbe
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37248maxresident)k
+0inputs+0outputs (0major+3751minor)pagefaults 0swaps
+Retrieving t01429 4519 bafykbzaced5ftleweayp6peyz4wqtf7hnxa7bkjw5f3vuwfjsjtppfwyizrbe
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 38020maxresident)k
+0inputs+0outputs (0major+3837minor)pagefaults 0swaps
+
+wiki.zip.an
+t01036-4385 t01847-4467 t01089-4487 t01399-4740 t01429-4428 t01024-4205 t01076-3834 t01114-3953
+Retrieving t01036 4385 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.07user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37204maxresident)k
+0inputs+0outputs (0major+3656minor)pagefaults 0swaps
+Retrieving t01847 4467 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.12user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37512maxresident)k
+0inputs+0outputs (0major+3784minor)pagefaults 0swaps
+Retrieving t01089 4487 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.13user 0.06system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37244maxresident)k
+0inputs+0outputs (0major+3741minor)pagefaults 0swaps
+Retrieving t01399 4740 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.14user 0.01system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37016maxresident)k
+112inputs+0outputs (1major+3665minor)pagefaults 0swaps
+Retrieving t01429 4428 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.12user 0.05system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37232maxresident)k
+0inputs+0outputs (0major+3698minor)pagefaults 0swaps
+Retrieving t01024 4205 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.13user 0.02system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37812maxresident)k
+0inputs+0outputs (0major+3788minor)pagefaults 0swaps
+Retrieving t01076 3834 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+2020-08-16T09:37:19.572-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200814233340-494a301dc59c/client.go:429	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWGXKTsmKJZLq7etCwNTCAzjcfVeLh1Ysr5A23kvhctC2o: no good addresses\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01076\",\"MinerPeer\":{\"Address\":\"t01076\",\"ID\":\"12D3KooWGXKTsmKJZLq7etCwNTCAzjcfVeLh1Ysr5A23kvhctC2o\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:00.07elapsed 107%CPU (0avgtext+0avgdata 36680maxresident)k
+0inputs+0outputs (0major+3617minor)pagefaults 0swaps
+Retrieving t01114 3953 bafykbzacedxghpmtjmaoqksoubrmlv2k3fw7yokuz7cyuwnfaymc2lubzakcm
+> Recv: 0 B, Paid %!s(PANIC=Format method: runtime error: invalid memory address or nil pointer dereference), ClientEventOpen (DealStatusNew)
+Success
+Command exited with non-zero status 124
+0.09user 0.04system 15:00.00elapsed 0%CPU (0avgtext+0avgdata 37492maxresident)k
+0inputs+0outputs (0major+3680minor)pagefaults 0swaps
+

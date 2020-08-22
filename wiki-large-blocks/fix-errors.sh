@@ -1,5 +1,6 @@
 #! /bin/bash
 
+./check.sh  | grep 'Error'
 DEALS=$(./check.sh  | grep 'Error' | awk '{ print $1 }')
 
 for d in $DEALS; do

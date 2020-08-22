@@ -11,10 +11,16 @@ for x in *.zip.??; do
 		MINER=$(echo $d | sed 's,-.*$,,')
 		DEAL=$(echo $d | sed 's,^.*-,,')
 		CID=$(cat $x.cid)
-		echo $MINER $DEAL $CID
+		#echo $MINER $DEAL $CID
 		#/usr/bin/nohup /usr/bin/time timeout -k 11m 10m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin &> $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log &
-		/usr/bin/time timeout -k 16m 15m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log
-		sleep 5
+    LOG=$(ls $PWD/retrievals/$x-$MINER-$DEAL-*.log 2> /dev/null)
+    if [ -z "$LOG" ]; then 
+      echo Retrieving $MINER $DEAL $CID
+		  /usr/bin/time timeout -k 16m 15m lotus client retrieve --miner=$MINER $CID $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $PWD/retrievals/$x-$MINER-$DEAL-$TIMESTAMP.log
+    else
+      echo Already have log for $MINER $DEAL $CID
+    fi
+		sleep 1
 	done
 	echo
 	sleep 1

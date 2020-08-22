@@ -1,0 +1,179 @@
+wiki.zip.aa
+bafyreifpyebkbrltzpzukz5x7pmmvaxgk7gninhryolqc7msykcvy3uir4  0     t02428  StorageDealTransferring        N               N  baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB    0.000075379375 FIL  603035  
+bafyreiggs7ll4retn65up6sf42skrd2sru226xtdrexxm2heetuoysqsyu  3877  t01238  StorageDealSealing             N               N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.00007527 FIL      602160  
+bafyreih3ujjbi7pei2xo7v7exj63zeaaplgyrdm6pwhkmvbgjxbohxgc6i  3900  t01294  StorageDealSealing             N               N  baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.000075432875 FIL  603463  
+bafyreie2phnzkqckdbvjor7egywfzw3ht2e6ahwlkc73yk2ccsqcro3fba  4309  t01036  StorageDealActive              Y (epoch 5461)  N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.000075217625 FIL  601741  
+bafyreidxagocohlbk2ceztbrhlpkrwrxdspv3m2bzo3quc5pulha454lvu  4358  t01046  StorageDealSealing             N               N  baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB   0.000075463125 FIL  603705  
+bafyreib52lhlceww6ptaxvxmefuc5x6te3pwb7zn7anc4bw524k4i2lckq  4470  t01089  StorageDealActive              Y (epoch 5138)  N            baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB    0.000075184875 FIL  601479  
+bafyreifwopr7ppp3q5yda7tnhlykjpdz7we2nxmcm7hedw5rn7mqcczt3i  4501  t01209  StorageDealSealing             N               N  baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB    0.00007519775 FIL   601582  
+bafyreieagesajdl4wzqovcy477fdphtdjnchokeuh22slrjwet43fb2rr4  4741  t01114  StorageDealSealing       N               N  baga6ea4seaqgmj3h5c3j5ljuyhc2u7qm4ai2qemuxb5s4jzpuh3thwkikzg62ga  254 MiB    0.000075288625 FIL  602309  
+
+wiki.zip.ab
+bafyreifrjj44brv6krrfaqggeicyzo646nwcdif5juooyv47t6otwyyws4  0     t01074  StorageDealTransferring        N               N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.00007528375 FIL   602270  
+bafyreibcthy22o7276n5zawhf75py3jqjh5x45oehgv67vb6bmvi3hbqmu  0     t01127  StorageDealTransferring        N               N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.000075453 FIL     603624  
+bafyreicmscb4jkxlnrdzh6kwz5f3bmtuy3leffbxnzygtwyz63kyidxvou  3892  t01229  StorageDealActive              Y (epoch 3617)  N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.000075513125 FIL  604105  
+bafyreigx276ogqg5y6sfh4ze3j2itwjartcfbxjhgfif4dkdnxqdc2zbdm  4195  t01076  StorageDealActive              Y (epoch 3799)  N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.00007546725 FIL   603738  
+bafyreie7ji5rievw2dunmmqpoc6koutpsesxy6uv2a5eyjx4oeph4om2eq  4304  t01294  StorageDealSealing       N               N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.000075365625 FIL  602925  
+bafyreifviw66tphttgouk2xeo55nwb4jfspbtvgatrtceh4vadpdeclbta  4393  t01399  StorageDealSealing             N               N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.000075164 FIL     601312  
+bafyreibunfmltpitz4f5rfjr3ebhjrgqdkzvwvvgxtx2oz6s4e24nrdhfa  4405  t01235  StorageDealSealing             N               N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB    0.000075330875 FIL  602647  
+bafyreidwkfeb2me46d4dvofvbxzrgurgpnt7y5ytenxlxlhskpnxg2rzeq  4463  t01238  StorageDealSealing             N               N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.0000751715 FIL    601372  
+bafyreifmppxzmujoxsb7ndfoxvdiinmbg22qxfvjeeb4mkpla7tsvt4sga  4517  t01036  StorageDealActive              Y (epoch 5568)  N  baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB  0.000075172875 FIL  601383  
+bafyreigm3f4e4ytzvofhdbmgi7ybvbuboicbtvj5tbhmll57zr3nuf2dk4  4747  t01240  StorageDealSealing       N            N            baga6ea4seaqpwl6qnfzgahcyhkcsjyyddvvxe6lkovy4mmelmnbvh6matfc24ca  254 MiB   0.00007550525 FIL   604042  
+
+wiki.zip.ac
+bafyreiasgfrq56dsznhz6zjok64j4rp6y4rbkrkbixgrewnwa6q7ejesmi  0     t01139  StorageDealTransferring        N               N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075449375 FIL  603595  
+bafyreih3qk2uiqhryh2r6fwwlpuytqozfzd2gck66epautn4bk4q365diy  0     t01363  StorageDealTransferring        N               N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075411375 FIL  603291  
+bafyreidjdhz2tspojcchessl7z7g42kyjzlswcykwkhk6esmgrm2rl6tnu  3838  t01024  StorageDealActive              Y (epoch 3408)  N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075329875 FIL  602639  
+bafyreiaauz56fhdemlz35v6j2y5ttexay76abo7dwdvg4bgfz52mbxdezi  3903  t01229  StorageDealActive              Y (epoch 3549)  N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.00007551 FIL      604080  
+bafyreie6isocn5w35kt5jdotwuy2us2ds2gnm2nwbpocrf27lkyb6fsbaa  3905  t01114  StorageDealActive        Y (epoch 4490)  N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB    0.000075251 FIL     602008  
+bafyreicteuknbsfxnm6ls65mpvxwjyx2mp3ii463d7ml7brqq6mamv6swu  3985  t01238  StorageDealSealing             N               N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB    0.000075253 FIL     602024  
+bafyreihkxvnpkvyfxit4he5n7r44r7rlfitjocamvsyfsdehau3flfpeg4  4192  t01294  StorageDealActive              Y (epoch 4642)  N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.00007538025 FIL   603042  
+bafyreieaiscpsx563owx7upazv4imkhoml3pudpvf5zfx7gxejx23cvxb4  4315  t01036  StorageDealActive        Y (epoch 5461)  N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB    0.000075216375 FIL  601731  
+bafyreidihpqgkuuq2cbrg3a4weh6glwsnyqhih6iutndn6k7ze7zj6lfj4  4415  t01235  StorageDealSealing             N               N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.000075328625 FIL  602629  
+bafyreidflhkjd46v4xzkh2lr6inseysr6risah75fkgzqzvx4o5bv2fj6u  4442  t01240  StorageDealSealing             N               N            baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.00007537675 FIL   603014  
+bafyreig6mjsaoe5rpkz7ewdiudvtwoxuryfdjnzv64klcemap5hza3qmzm  4564  t01151  StorageDealSealing       N  N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB   0.0000751745 FIL    601396  
+bafyreihgyexr3eb2qkgv3xas67rrtxeldjyu2mgixhlmtlasn5uarxucpm  4737  t01053  StorageDealSealing             N               N  baga6ea4seaqnu5kiqrvcekxht2lfklzjhuzxouaplea43xbctsf6rvuvajojipq  254 MiB    0.000075256375 FIL  602051  
+
+wiki.zip.ad
+bafyreidvnlzdq3jz7p3brwmkah4frh3jzp2jravgwhoaclxnv4wtjibqgy  0     t01039  StorageDealTransferring        N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075559875 FIL  604479  
+bafyreicfszi2ytjdnqi3bhi732wdmimdcnz6nflxgj2jzl3nfegxcsfkhy  0     t01061  StorageDealTransferring        N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.000075256 FIL     602048  
+bafyreibqraz6sqtuwskgma2r4iprawkxx4kx3mskqf3dg5rab6iklaw5lq  0     t02428  StorageDealTransferring        N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.0000753815 FIL    603052  
+bafyreic6gfmyytra4m2l5osm4al3p2osyiom46biucx5eua5lv4opupkwi  3832  t01025  StorageDealSealing             N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.0000755245 FIL    604196  
+bafyreidwq64xp7nbn5dodbc4euqm4keub57xkvaiecljh5xyx7wadwwxpq  3902  t01065  StorageDealActive              Y (epoch 3484)  N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.0000755065 FIL    604052  
+bafyreifklihjs3s3jcb5zfjhkqmirybzm54fvxj4alpealdrc75vzbahqi  3906  t01024  StorageDealActive              Y (epoch 3488)  N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB  0.000075319625 FIL  602557  
+bafyreiao7ompbcwc56wzqzxgjc4bd7ttukc3ptnx2rxyujbwdrl2mtjxce  3942  t01238  StorageDealSealing             N               N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075256875 FIL  602055  
+bafyreidcizlef4rcdcjh5a5z363q7q57suj6275u52rwv755ypx54fxgne  4242  t01294  StorageDealSealing             N               N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075373625 FIL  602989  
+bafyreiaz7ipxeecmjgfuig7r4qdwhjarwpwspkck7fwwhflxszuldv73oa  4305  t01036  StorageDealActive        Y (epoch 5461)  N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB  0.000075218 FIL     601744  
+bafyreic6kohdv6olselmubrzxiq7khbi4fwuqisbotbcvzv3ezdgnqprxa  4399  t01598  StorageDealActive              Y (epoch 4185)  N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.000075349875 FIL  602799  
+bafyreibytqtlw6xyljhgzt4chobulbfigs64cqgb2kwtg75z4xm4ftnyiy  4413  t01089  StorageDealActive              Y (epoch 4947)  N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.000075193125 FIL  601545  
+bafyreidvtkfbawhhtfr67r5xb7dijp6yb4lnw753epfaqejklaxr5cuyva  4446  t01235  StorageDealSealing             N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075325125 FIL  602601  
+bafyreiaoon7jhoitddmwfj2rjomk5q4fcy4tn2dspsmzc6hjavi66zyarq  4465  t01209  StorageDealSealing             N               N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.00007520825 FIL   601666  
+bafyreigcevxu5plkjetvw2s3zwmie2jl4soswzg573j3dlnnpcvku64yva  4490  t01399  StorageDealSealing             N               N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.000075147625 FIL  601181  
+bafyreiecosyxuc2w2b22pam52czjk3nvttypvfmgxjmftahkobykx7kegm  4562  t01151  StorageDealSealing       N               N  baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB    0.00007517875 FIL   601430  
+bafyreiahfif67yyb44p6xamnedketptlzlrphz4lgl6lxsryvtnmfa6sia  4581  t01429  StorageDealActive              Y (epoch 4650)  N            baga6ea4seaqdfj3hcx26c6osjw7m343p4futzukhjheqb7t4swa473jm65f7gfq  254 MiB   0.0000751965 FIL    601572  
+
+wiki.zip.ae
+bafyreif65wmpjnsnjswl5tkfbw5g7lpogggkf5fnzdcjlobswqibcnuxzq  0     t01819  StorageDealTransferring        N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075405 FIL     603240  
+bafyreiba5guhey76jmow5ur4gdxaujglpoh4k2r6j4rji7gp7dlqgxvmdq  0     t01872  StorageDealTransferring        N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075362 FIL     602896  
+bafyreihk4ggahb26qkdsuyje6sfaslzqja6xqnx4aala5wq4giqgcvscoi  3839  t01114  StorageDealActive              Y (epoch 4544)  N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075261125 FIL  602089  
+bafyreib4c6mmjeiinmtj6s3sdgiswvkzmv724udorn62ybxzb623rgjvxq  4203  t01036  StorageDealSealing             N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075230125 FIL  601841  
+bafyreihwvnl5sjlcqdjjn3g25oz3ua6zk5nnmn6lpo6kqgm64ftarnzkha  4297  t01294  StorageDealSealing             N               N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075365875 FIL  602927  
+bafyreifbpabnj4pnnyu2tkcyvfazsnbtnyngomvcnda2mktsmgkpywwhee  4320  t01046  StorageDealSealing             N               N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075471125 FIL  603769  
+bafyreifxpilmo7hkutpd7uehaasbhnxzkomierfm2eh5vhb44dxof5qkhe  4469  t01235  StorageDealSealing             N               N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075321125 FIL  602569  
+bafyreiezpbyyuzggu3zu432efkgn25ldtjnmomkouk4iaromwjs46snhcu  4474  t01847  StorageDealActive              Y (epoch 4233)  N            baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075399125 FIL  603193  
+bafyreic7cnb6wjzpdf5y5hne3y3xz3ywht37kfhzjfmj6y2x4ciuacmuca  4523  t01399  StorageDealSealing             N               N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075140125 FIL  601121  
+bafyreidypa7dobynxbxjjlrtcpfkixhgmzcpnrybp2lbgpqb2en4coqhk4  4552  t01151  StorageDealSealing       N               N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB  0.00007520525 FIL   601642  
+bafyreiapji2zklpb3xsshkasr2jiuyqyczo5rjyuuiyjzvkjiwbbs3lldu  4580  t01238  StorageDealSealing       N  N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075109625 FIL  600877  
+bafyreiejxfzvdt7bmebgezollhcrqhwyk7dtq2z5vt3aanvr4zsxsvinl4  4602  t01093  StorageDealActive        Y (epoch 5675)  N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB    0.000075307125 FIL  602457  
+bafyreiawck5vtjgna2uxei4s3yjgv5o4kkuubvxkgcmaaxaf7ltpad5amy  4746  t01313  StorageDealSealing             N  N  baga6ea4seaqchyj2nb3rjoh26pyqkmxlwevueb7khqzs5ho2u6kl323axsdg6my  254 MiB   0.000075518625 FIL  604149  
+
+wiki.zip.af
+bafyreiar56bhbbcy6j5kmoyxcjtkzq53kdjlyi2aiqkxabzwtqfkc3ijre  0     t01127  StorageDealTransferring        N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075451625 FIL  603613  
+bafyreialbwiob7ioe2pwdfjbz2jbz4pgyjtolc37cilwgxqqzemtfbwqcy  0     t01270  StorageDealTransferring        N               N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075242 FIL     601936  
+bafyreibcaffsuvbzfoz3xoesibuz5dn77ww7s52ob2tcgxr7x4o5vqe5le  3879  t01229  StorageDealActive              Y (epoch 3517)  N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.00007551425 FIL   604114  
+bafyreihrrg5wrufmh7zzy7obm77o3eow4zcfltv7osrsgojthead5bqc2a  3898  t01114  StorageDealActive              Y (epoch 5776)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.00007525225 FIL   602018  
+bafyreibzyxtgo4bndo2zy2ogi45nmuxfz7ubkak2lmmbpok2ptroldpzem  3925  t01238  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.00007525975 FIL   602078  
+bafyreidwwvlpq3a3wyamcheta27fnioyokh5spnlogtepcv3h2zewu3egq  3950  t01025  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075502875 FIL  604023  
+bafyreiavjbp63thpv46ikshgq7r6ucxxdw5p5z2lhth6eggkbtwo2kf7fq  4005  t01256  StorageDealActive        Y (epoch 3586)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075500125 FIL  604001  
+bafyreibhdef3tpagkvvrrwxiodnmv7qyw5yl5bjads64amli2zmvdu6mqu  4010  t01065  StorageDealActive              Y (epoch 3633)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.000075489625 FIL  603917  
+bafyreie5vr2s77ek53q7egrl62egvcvwd554e5jv33k7e63x6sv5d6ce6q  4299  t01024  StorageDealActive        Y (epoch 3943)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.0000752525 FIL    602020  
+bafyreih4zrgmblessfv3vrofxiq6wtnyr4xzyj2r2dfyoodr5g23nfcbpa  4308  t01294  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.0000753645 FIL    602916  
+bafyreiekuzj4huvtexget7bvrqw7e5rt34qztbz7qfc3opqz7rf2jogxfi  4409  t01036  StorageDealActive        Y (epoch 5404)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.000075194625 FIL  601557  
+bafyreigw43ctbhgsdjgnrqo4bnjhgjqqbx5ypndewprrdl6pcoaleybmtu  4429  t01089  StorageDealActive              Y (epoch 4913)  N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.00007519075 FIL   601526  
+bafyreifuowbaiil5z6aoxduwo27cscjw6ayse7bo7ctoythpags7zc5f2u  4468  t01151  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.000075224125 FIL  601793  
+bafyreicdaskzxjzjgkozp5quqxtrvgxottlw3d3ofjw7t5vmbckcpcyfna  4516  t01399  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.0000751425 FIL    601140  
+bafyreifiw4f5di53377xkomsnyt2zgw3sf5wn3bqa3u2wrjhetvqrolmvm  4526  t01213  StorageDealSealing             N               N            baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.00007537 FIL      602960  
+bafyreihtpre6p3dqflbe7je4k6cbiszjwnmrxslfgbpagrseqz74vmp2wm  4532  t01235  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB    0.000075307 FIL     602456  
+bafyreih25pgnnrdfml6qzzsjozoilgoysy4f2q7qslciu3vhpihqbhsb6y  4745  t01429  StorageDealSealing             N               N  baga6ea4seaqnhmcbjzdanshwabjr7syrwn5gsdlfr3o3wuwngs4tr66vgqrxcni  254 MiB   0.0000753905 FIL    603124  
+
+wiki.zip.ag
+bafyreid466twt6wyocw3sw27gea5e3burti7wvvbsvvvwt6fyagud4o3d4  0     t01039  StorageDealTransferring        N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075558625 FIL  604469  
+bafyreid4crsazxpmqju7jbovexvfnruckkpwoveo372ep3p5nlngwptkfa  0     t01148  StorageDealTransferring        N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.0000755445 FIL    604356  
+bafyreihjvakwswpzusbwzoa4m3sk6wgvigtxzha5xywfkslo2xoet27num  3837  t01294  StorageDealActive              Y (epoch 4280)  N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075442625 FIL  603541  
+bafyreigq6ef4evpoxbbfnhcuznrmrumdr7si3opl6i3p6anoyxcuixmlx4  3909  t01114  StorageDealActive              Y (epoch 5781)  N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.0000752485 FIL    601988  
+bafyreibtxyvynzyysoza6ctslxiq7edqgzifix7ioo6yhihntujrcdpqy4  4427  t01240  StorageDealActive              Y (epoch 4836)  N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.000075379375 FIL  603035  
+bafyreibn5diw4dhwlvddpwekw5kqch6ocnxzjz4vefrfuy4lsqzfylbpym  4430  t01036  StorageDealActive              Y (epoch 5404)  N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.000075191375 FIL  601531  
+bafyreideurkdhub3y3rxto6agzdc2rpk6gec7pl4u65gun3k5ayrg2y6w4  4503  t01231  StorageDealSealing             N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075209125 FIL  601673  
+bafyreih4wlv44ckttxy6iazt5rfoh727q5rrfylbnnorb7y4my6gk7td5m  4565  t01235  StorageDealSealing             N               N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075271625 FIL  602173  
+bafyreidkhgry7kgek7mz2deq6thl6ufvjg6oomwarvotcsxgjoykaobjde  4569  t01238  StorageDealSealing             N               N            baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB   0.000075117 FIL     600936  
+bafyreichzfxapcvspl3d2oksyc76kspup4kgwbupeibuwf46nounvy4che  4738  t01213  StorageDealSealing             N               N  baga6ea4seaqkegynxpmjdcdtqnsmt744ylg2zj5zqerq6mfj5c5ih4jtqu3fkky  254 MiB    0.000075519375 FIL  604155  
+
+wiki.zip.ah
+bafyreifrde73gylilsmf5nlq67klkij7pkq4qhxkdo4t6qwbb4wz2beb34  0     t01025  StorageDealTransferring        N               N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.0000755515 FIL    604412  
+bafyreiehd3ae4gkz7svnvolni5e7hpfexlderjy6n7mixfswtycwh4y62e  0     t01148  StorageDealTransferring  N               N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.000075543375 FIL  604347  
+bafyreifswuiirakn2ty4evbyex2wypll5zqm4oqpmgx35grgukd2e7s5fy  0     t02139  StorageDealTransferring        N               N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.000075308625 FIL  602469  
+bafyreicg4rgybk3qs52msks6fsqtgxpcfiijncr2crx3y22fndw36mehlm  3833  t01238  StorageDealSealing             N               N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.000075278375 FIL  602227  
+bafyreigcq4q556yhpkb7q5vtuzfft7nikdlrikixikk5af7253i6prnyd4  3899  t01290  StorageDealActive              Y (epoch 3454)  N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.00007546175 FIL   603694  
+bafyreifc77ayxmfslejvxjeh5hchqlzzp7q4qn35fllqypwbb4ljhqviti  4190  t01036  StorageDealSealing             N               N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.000075232125 FIL  601857  
+bafyreiav3prz5xde7dklkpl6s5ry2h4rixpxygjqkxujegikkcixle5d3u  4464  t01235  StorageDealSealing       N               N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB   0.000075323375 FIL  602587  
+bafyreib6go7ome5jtfqefyzkltwnzwl3rpumukjx5js4cvlihsbbuubylq  4480  t01399  StorageDealSealing             N               N            baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.00007515 FIL      601200  
+bafyreibprfq44yju5fseio2yn45vdqd4gg4a4cypsiapcymyikwe2nf2ke  4603  t01114  StorageDealActive              Y (epoch 5527)  N  baga6ea4seaqlmgw42d6g5x2sdtiyhfnlnrfyfckfdsfylxlsgtse4tw33cwtmfy  254 MiB    0.000075089375 FIL  600715  
+
+wiki.zip.ai
+bafyreid3f3gqychsf22lgz2v2syu634uvvq7fb27x2oeso2tcgjfrmaz2y  0     t02428  StorageDealTransferring        N               N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.000075380125 FIL  603041  
+bafyreibhwuequ7d2f7se4376qdrnzpjj6gfcw3askvhtqcvklsabzmk2ya  3896  t01229  StorageDealActive              Y (epoch 3617)  N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.0000755135 FIL    604108  
+bafyreiagc2gzi2g7cbhp3jcodeaft3y43y3wsl43lwcfe6fqj7cos6wes4  3930  t01238  StorageDealSealing             N               N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075258875 FIL  602071  
+bafyreicoehcwkl5p53axy477ah3af6v5lo3rgylim2zvxd2zlroxzyae24  3998  t01114  StorageDealActive              Y (epoch 4544)  N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.000075235875 FIL  601887  
+bafyreieg6s7uj4nxusvrjvjuwief4oxismo3grr3pp47bw4uyovgqz5uwa  4291  t01036  StorageDealSealing       N               N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.00007521825 FIL   601746  
+bafyreif3s3huwprnk6nkdatpejb4c6i4cntedziug2oam4hw3us3toooy4  4406  t01213  StorageDealSealing             N               N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.00007539275 FIL   603142  
+bafyreiem5awqdkj533qmr7ublhtu4nryle4swel3avvqz3ajiakyu2sxka  4407  t01429  StorageDealActive        Y (epoch 4405)  N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075264625 FIL  602117  
+bafyreibhicn6w6npd3zqumaco2bwzhytqsuc6acpplejoix47cq4427v3a  4411  t01209  StorageDealSealing             N               N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.00007521525 FIL   601722  
+bafyreibf7mpurie5usz2oa3krowau66midrnmlo3d7ljikijq4l5nngvbi  4476  t01089  StorageDealActive              Y (epoch 4977)  N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075185625 FIL  601485  
+bafyreicec75bid3itwxt6556iw6pocje52r23ezyoztjzxb5eogp4jps4a  4481  t01399  StorageDealSealing             N               N  baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB    0.000075149 FIL     601192  
+bafyreie3tasmxvgz3yk6cmwei6zn6pisnq6bspktfl3oao42gkpxc7m5wm  4742  t01093  StorageDealSealing             N               N            baga6ea4seaqnhusxaaic42tgxdowogw43dt5wpxk57w7fztuk2bogpjymupk2my  254 MiB   0.000075505625 FIL  604045  
+
+wiki.zip.aj
+bafyreie56uxppikb6nagvxbhstnxeiuld56t2de7pamvwq3dpgia4hsfau  0     t01259  StorageDealTransferring  N               N  baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.000075430625 FIL  603445  
+bafyreicovf5khrgepvimemrtietreptxxpmyhi4v6d5elzmtwtxs6mlxvm  0     t01290  StorageDealTransferring        N               N  baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.000075499125 FIL  603993  
+bafyreiar6j6vgy3zlbjheusuhjoj2ufzitjjvhqwvlv5impjefvsf6ncey  3885  t01114  StorageDealActive              Y (epoch 4512)  N  baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.00007525275 FIL   602022  
+bafyreictnsxqy7kfozelchrwd2xinnyz44e2ssb275rds33ws6rtylp5wa  3897  t01294  StorageDealSealing             N               N  baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.000075433625 FIL  603469  
+bafyreieq2zpe3vo3ignj6pwmb5hst5z5cqr5amfszt7rxmuhqvr74i45ii  4207  t01036  StorageDealSealing             N               N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.000075229375 FIL  601835  
+bafyreieqyoexfu3g2q4jkikqykmyl7x4mnpbgouxb6xoo3g76avxgcufzu  4426  t01213  StorageDealSealing             N               N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.00007538975 FIL   603118  
+bafyreieryinw33xqpkewelqzxsvsataysfrxhjtorlywkkfdqwmourie6i  4533  t01151  StorageDealSealing             N               N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB    0.000075209125 FIL  601673  
+bafyreifeb7drwpzakc4hfw7y5ibt7zpwhsl4yj5ex655ddlqma6ree7bi4  4744  t01238  StorageDealSealing             N               N            baga6ea4seaqcznfg3om5fekjc6gb6ktpc4ovnrhea7riichiu3jg7ugzqtbuoaq  254 MiB   0.00007530325 FIL   602426  
+
+wiki.zip.ak
+bafyreidgy5fdlcqd23x5frbtj533ysizrq55mhgdofqyetsp3gwh2dfrbe  0     t01705  StorageDealTransferring        N               N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.00007551475 FIL   604118  
+bafyreig2njobeibikzrvmfcaxvyb5zmmnzeedobdm76vekv43q57t2h3ca  0     t02057  StorageDealTransferring        N               N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.00007530925 FIL   602474  
+bafyreieymw72ee35ab6p63vidonzqxavdfi4z2bx3sjwtfqhtn7j2vilte  3901  t01024  StorageDealActive              Y (epoch 3488)  N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.000075320625 FIL  602565  
+bafyreicaax36itlqhjeiqkwcn2u3e5zcjnoh3n4npxe5a732kjcckdf6ou  3904  t01238  StorageDealSealing             N               N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.0000752655 FIL    602124  
+bafyreihhe3uhi4zqokcemjqstyrvmxgdjudipxszapwgzhtnjwgcsc4uue  4008  t01065  StorageDealActive              Y (epoch 3608)  N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.000075490375 FIL  603923  
+bafyreihame3fb7hnmzo5654gkg7ga73zavfzo4grqvkrlzl6chhfmwwbhy  4334  t01036  StorageDealActive              Y (epoch 5461)  N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.000075213125 FIL  601705  
+bafyreicj5kztt4trsbrfjin5w4dupoqzrvllppaeibejb37atcqtimpy7y  4410  t01213  StorageDealSealing             N               N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.000075391 FIL     603128  
+bafyreie4v65244w3mx2enuphx42jdhtnuhrcgc2vh5ucymsmikvrzs6l2q  4418  t01235  StorageDealSealing             N               N            baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB   0.00007532775 FIL   602622  
+bafyreigxspwm3hz5ibiqpau2755vek6htfwiyobq24cwn25ul4ovwuebke  4748  t01923  StorageDealSealing             N               N  baga6ea4seaqbyobmpkzcrpdi7djfa42ijvyuo3j7frqyfsmanepovhc7q36tilq  254 MiB    0.000075400125 FIL  603201  
+
+wiki.zip.al
+bafyreifk7h5n5pcsfmvvp75ql24yhvthg5ry3dwq77xtejdupnari6b6mi  0     t01151  StorageDealTransferring        N               N  baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB  0.00007535825 FIL   602866  
+bafyreietv56q6uiqdlzamjdwam3ivouhwyo6oe3nanhsraz5hlzfjlv23a  0     t01817  StorageDealTransferring        N               N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB    0.000075544375 FIL  604355  
+bafyreihcfso4y35w4b7byhj63aybw7vgpdjmwa4wdljok5ykoiwbixwbpm  3952  t01036  StorageDealActive              Y (epoch 4895)  N  baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB    0.000075272875 FIL  602183  
+bafyreiflhlagfstx26zaa4dsntfoj3q63oydd5lllxpq7mty4xl43buame  3956  t01238  StorageDealSealing             N               N  baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB  0.000075256 FIL     602048  
+bafyreic5ex7hdhrfjghxzjm7t4p2r6zsyds2p42uzrk7tqmqddbslvch4i  3982  t01114  StorageDealActive              Y (epoch 5778)  N  baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB    0.000075237625 FIL  601901  
+bafyreihl2fqp7d3uitbszm2hlq2va2dhmyarxf7t4gvcspew5lowvgerwy  4459  t01089  StorageDealSealing             N               N  baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.00007518775 FIL   601502  
+bafyreidmbrktamdiltfgfggy6mxqtr6ugfz557vv72ns2zl45qljjp6raa  4743  t01213  StorageDealSealing             N               N            baga6ea4seaqlj3vxbwtje3kkvoll642dmbl7zqnvgaad2oz7vqerhfnfktnwcdq  254 MiB   0.000075518 FIL     604144  
+
+wiki.zip.am
+bafyreihzldjyweycpqzlleifiiuvwhsdzsixlcpv3p7juplbwsgozincla  0     t01151  StorageDealTransferring        N               N  baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075356 FIL     602848  
+bafyreifivreukjngllnwwjjcuhatjkg2b7qv2rg54aiipy6c7irszjbfda  0     t01665  StorageDealTransferring        N               N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.00007545075 FIL   603606  
+bafyreif5dmraak63qz7uxppfynbuu6jia2u3ltdlrucivzips45idxhcru  3895  t01290  StorageDealActive              Y (epoch 3405)  N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.00007546275 FIL   603702  
+bafyreib7rifg2xweljqoe22jpj2h772ilgnhmw6zhtmuszowrhhchyvm6q  3940  t01036  StorageDealActive              Y (epoch 4895)  N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075273875 FIL  602191  
+bafyreigbegmrbxoidnfrl7itc4of42k4yztnyntcypck6l55rd2ckpoiem  3974  t01238  StorageDealSealing       N  N  baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075255 FIL     602040  
+bafyreiamhg2vfucsyvppplxtqyhtv5lsb34xakxfehee5ctjsklutexjdm  4479  t02329  StorageDealActive              Y (epoch 4179)  N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075454625 FIL  603637  
+bafyreiczo2ofsb65zjpklmfsgg25fcjzv2r76nzvd37sonpxx463kkdqqy  4484  t01089  StorageDealActive              Y (epoch 5019)  N  baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB    0.00007518 FIL      601440  
+bafyreid7lrtxwszd6rb5v65fnkh4dtymrikg7ku7behzj3ja6p4v7kegme  4500  t01399  StorageDealSealing             N               N            baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.00007514575 FIL   601166  
+bafyreihjosmq3em6e7qx26z7qaqvl7vgj7bcdisglccmljr64suld4aqrm  4519  t01429  StorageDealActive              Y (epoch 4397)  N  baga6ea4seaqdomia4y6eenx3jydl6ldcmfimray2o3674ofjpt2m4ukank5sohq  254 MiB   0.000075244625 FIL  601957  
+
+wiki.zip.an
+bafyreie5siws7v77vy4sgvuanpgycjv6i23xonyvhfaelfad2pijhsss5a  0     t01290  StorageDealTransferring  N               N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB   0.00007549675 FIL   603974  
+bafyreifb66uolcpqfv25fze6zuczyyla62eg6ahhxonpctqnomjbbrmisq  3834  t01076  StorageDealActive              Y (epoch 3304)  N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.00007552875 FIL   604230  
+bafyreigrm3nr7k3sd4vqtbqvy7qjgbnceid4f6k4hrnw5p36itml5a4txq  3937  t01025  StorageDealSealing             N               N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB   0.000075503625 FIL  604029  
+bafyreihnutf6lj2nwnf45qbm36fo6tjl3v2pn3go3l6dormemibd2ucxou  3953  t01114  StorageDealActive              Y (epoch 5787)  N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.000075238375 FIL  601907  
+bafyreihehrx33kur4n3dqcbvifhzxxyuoinm72xpqubwfa4jn3f2s7vcxi  3978  t01238  StorageDealSealing             N               N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB   0.00007525425 FIL   602034  
+bafyreieo2n56a3xdvaca6nuw33663hsygoiswxj3wghjtdlfhdir7gky4u  4205  t01024  StorageDealActive              Y (epoch 3820)  N            baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB   0.00007526475 FIL   602118  
+bafyreia2f5j4wuz7ee7u7uscephpnsjii2e3lv6zof264h66ubywu7jl7m  4385    t01036    StorageDealActive        Y (epoch 5404)  N         baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.000075198125 FIL  601585    
+bafyreie5cfn26xh2rb2gcpltsrcnjiuypes2sl4uoas5ghbf7yum2hk54e  4428  t01429  StorageDealActive        Y (epoch 4403)  N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB   0.000075261625 FIL  602093  
+bafyreiacnrw2fni43v4xeb5lqomhf26mx6347skigvcw5fscxx7rpnkmoy  4467  t01847  StorageDealActive              Y (epoch 4233)  N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.00007540125 FIL   603210  
+bafyreiduobnurk5vmcoyzabrgzl3mkkdxgsv4auqsgcdjdsgih3zvd7zsy  4487  t01089  StorageDealActive              Y (epoch 5031)  N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.000075178875 FIL  601431  
+bafyreih7h2f7wz4lgk24ecgdf4in4hrsxxdmxrq4xjso7k6qwvvrcbhgka  4739  t01313  StorageDealSealing             N               N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.0000755205 FIL    604164  
+bafyreidw6efpc5x5stx5r7xujcn7h7slgle52whgs2xi72wfijapbbj7cm  4740  t01399  StorageDealSealing             N               N  baga6ea4seaqibh3eubsues4uodu23f6f636hgmxptwglawa2y5xnv6fxiub52oq  63.5 MiB  0.000075288625 FIL  602309  
+
