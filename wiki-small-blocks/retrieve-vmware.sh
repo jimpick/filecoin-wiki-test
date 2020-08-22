@@ -1,9 +1,11 @@
 #! /bin/bash
 
-for x in $(grep ^wiki results/2020-08-22-a/check.txt); do
+CHECK=results/2020-08-22-a/check.txt
+mkdir -p tmp
+for x in $(grep ^wiki $CHECK); do
 	echo $x
 	cat $x*.deal > tmp/deals.txt
-	DEALS=$(cat tmp/check.txt | awk "/$x/,/^$/ { print }" | grep Active | awk '{ print $3 "-" $2 }')
+	DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep Active | awk '{ print $3 "-" $2 }')
 	echo $DEALS
 	mkdir -p retrievals
 	for d in $DEALS; do
