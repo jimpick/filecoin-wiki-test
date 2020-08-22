@@ -1,6 +1,6 @@
 #! /bin/bash
 
-for x in $(grep ^wiki tmp/check.txt); do
+for x in $(grep ^wiki results/2020-08-22-a/check.txt); do
 	echo $x
 	cat $x*.deal > tmp/deals.txt
 	DEALS=$(cat tmp/check.txt | awk "/$x/,/^$/ { print }" | grep Active | awk '{ print $3 "-" $2 }')
