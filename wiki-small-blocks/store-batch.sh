@@ -1,5 +1,6 @@
 #! /bin/bash
 
+mkdir -p tmp
 curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/calibration/src/annotations-calibration.js
 
 MINERS=$(node -e '
