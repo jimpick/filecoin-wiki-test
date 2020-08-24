@@ -1,0 +1,7 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+Success
+0.02user 0.01system 0:59.17elapsed 0%CPU (0avgtext+0avgdata 37096maxresident)k
+0inputs+0outputs (0major+3620minor)pagefaults 0swaps
