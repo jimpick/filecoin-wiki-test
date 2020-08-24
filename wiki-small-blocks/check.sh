@@ -19,19 +19,13 @@ function cleanup {
 }
 trap cleanup EXIT
 
-
-for x in *.zip.??.??; do
-  echo $x 1>&2
-  echo $x
-  cat $x*.deal > $WORKDIR/deals.txt
+COUNTER=1
+for x in *.zip.??.??.import; do
+  x2=$(echo $x | sed s',\.import,,')
+  echo $((COUNTER++)) $x2 1>&2
+  echo $x2
+  cat $x2*.deal > $WORKDIR/deals.txt
   grep -f $WORKDIR/deals.txt $OUTPUT | sort -k2
   echo
 done
 
-
-#lotus client list-deals -v | grep -f ~/tmp/deals.txt  | sort -k2 | tee ~/tmp/check.out
-
-#for f in *.zip.*.deal; do
-#	echo $f
-#	lotus client list-deals -v | grep `cat $f`
-#done

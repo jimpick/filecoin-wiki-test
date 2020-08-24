@@ -4,10 +4,25 @@ CLIENT=$(lotus state lookup `lotus wallet default`)
 #echo Client: $CLIENT
 mkdir -p retrievals/$CLIENT
 
-CHECK=results/2020-08-23-a/check.txt
+TARGET=t01976
+
+WORKDIR=$(mktemp -d -t blaster-retrieve.XXXXXXX)
+function cleanup {
+  if [ -d "$WORKDIR" ]; then
+    rm -rf "$WORKDIR"
+  fi
+}
+trap cleanup EXIT
+
+CHECK=$WORKDIR/check.txt
+./check.sh $TARGET > $CHECK
+
+grep -l refused retrievals/$CLIENT/wiki*.log | xargs rm -v
+
+COUNTER=1
 mkdir -p tmp
-for x in $(grep ^wiki $CHECK); do
-	echo $x
+for x in $(grep ^wiki $CHECK | shuf); do
+	echo $((COUNTER++)) $x
 	cat $x*.deal > tmp/deals.txt
 	DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep Active | awk '{ print $3 "-" $2 }')
 	echo $DEALS
