@@ -908,3 +908,32 @@ Already have log for t01699 11085 bafykbzaceamvppl4nadwlhgpnknjympqplhsq4vkhzyb7
 Retrieving t02014 11892 bafykbzaceamvppl4nadwlhgpnknjympqplhsq4vkhzyb7mfszhzhgehn6kt6w
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.18user 0.07system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38632maxresident)k
+0inputs+0outputs (0major+4067minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.ac
+t02014-13902 t02896-15705 t02965-21185 t069967-21933 t01819-5823 t02315-8319 t01902-9108 t02098-9936
+Already have log for t02014 13902 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+Retrieving t02896 15705 bafykbzacecgtah7a6egykwkl3m34oay6nkehtfkfyzj7cb7ybfnp7fugoggcc
+2020-08-24T19:56:09.471Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02896\",\"MinerPeer\":{\"Address\":\"t02896\",\"ID\":\"12D3KooWAxJdKvDZCaFDJQhi6yNaqBsWHpgvdUTmsKCGtnFNfeuz\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.07user 0.01system 0:07.05elapsed 1%CPU (0avgtext+0avgdata 38028maxresident)k
+0inputs+0outputs (0major+3717minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.ak
+t04985-11241 t02306-12798 t096379-16271 t01945-19220 t02014-19751 t01988-21577 t02315-6210 t02965-9540
+Already have log for t04985 11241 bafykbzacedyxwt3a2yahzz4fpab3gljoufml4togexke2t3jtkkelqg4dqfes
+Already have log for t02306 12798 bafykbzacedyxwt3a2yahzz4fpab3gljoufml4togexke2t3jtkkelqg4dqfes
+Already have log for t096379 16271 bafykbzacedyxwt3a2yahzz4fpab3gljoufml4togexke2t3jtkkelqg4dqfes
+Retrieving t01945 19220 bafykbzacedyxwt3a2yahzz4fpab3gljoufml4togexke2t3jtkkelqg4dqfes
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)

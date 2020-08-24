@@ -1247,3 +1247,19 @@ Retrieving t01708 10999 bafykbzaced6uvbokmncfp3z7am4xr3rbl6jiidaop2psyh7o2qntclg
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.16user 0.10system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38620maxresident)k
+0inputs+0outputs (0major+3933minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.by
+t02004-10189 t01593-12712 t02306-14107 t01945-15986 t01819-17650 t01902-20543 t02556-21392 t01824-22106
+Already have log for t02004 10189 bafykbzacearqgbdatftvcn3ep2nk6krg5fdetods4nmgt3k436w4tnch4qwuy
+Already have log for t01593 12712 bafykbzacearqgbdatftvcn3ep2nk6krg5fdetods4nmgt3k436w4tnch4qwuy
+Already have log for t02306 14107 bafykbzacearqgbdatftvcn3ep2nk6krg5fdetods4nmgt3k436w4tnch4qwuy
+Retrieving t01945 15986 bafykbzacearqgbdatftvcn3ep2nk6krg5fdetods4nmgt3k436w4tnch4qwuy
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
