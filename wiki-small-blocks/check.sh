@@ -1,11 +1,21 @@
 #! /bin/bash
 
-lotus client list-deals -v > tmp/list-deals.txt
+CLIENT=$1
+OUTPUT=list-deals/$CLIENT.txt
+
+if [ -z "$CLIENT" ]; then
+  CLIENT=$(lotus state lookup `lotus wallet default`)
+  mkdir -p list-deals
+  OUTPUT=list-deals/$CLIENT.txt
+
+  lotus client list-deals -v > $OUTPUT
+fi
+
 for x in *.zip.??.??; do
   echo $x 1>&2
   echo $x
   cat $x*.deal > tmp/deals.txt
-  grep -f tmp/deals.txt tmp/list-deals.txt | sort -k2
+  grep -f tmp/deals.txt $OUTPUT | sort -k2
   echo
 done
 
