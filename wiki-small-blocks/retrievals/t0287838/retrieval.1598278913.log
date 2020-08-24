@@ -704,3 +704,1844 @@ Retrieving t03052 10420 bafykbzaceankgaoye5x4rz36xocygqkfg2tofwh2jzpegc7l56sjtf5
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.09user 0.05system 4:03.29elapsed 0%CPU (0avgtext+0avgdata 38336maxresident)k
+0inputs+0outputs (0major+3763minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.bb
+t01743-10045 t01819-10975 t01593-11780 t02306-13984 t02197-15884 t01824-17583 t02965-19059 t02014-21309 t02896-22028 t01699-22600 t01902-5960 t04985-9212
+Already have log for t01743 10045 bafykbzaceazt4wghpfsobsoaxy2ydm7j5my3kengqpbrgucoatumwubc24hm2
+Retrieving t01819 10975 bafykbzaceazt4wghpfsobsoaxy2ydm7j5my3kengqpbrgucoatumwubc24hm2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.07user 0.08system 4:10.15elapsed 0%CPU (0avgtext+0avgdata 38896maxresident)k
+0inputs+0outputs (0major+3846minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.ak
+t02014-12618 t01824-19522 t01699-20462 t02098-21247 t096605-21998 t02965-22553 t01743-9139 t02896-9922
+Already have log for t02014 12618 bafykbzacedmtmf6a3ekykicfpzkod73gjfqtfw46vckgqwh6v4iumidicn3jw
+Already have log for t01824 19522 bafykbzacedmtmf6a3ekykicfpzkod73gjfqtfw46vckgqwh6v4iumidicn3jw
+Retrieving t01699 20462 bafykbzacedmtmf6a3ekykicfpzkod73gjfqtfw46vckgqwh6v4iumidicn3jw
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.08user 0.05system 4:06.15elapsed 0%CPU (0avgtext+0avgdata 39260maxresident)k
+0inputs+0outputs (0major+3927minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.ay
+t01902-10435 t01699-11263 t01824-12824 t02182-16292 t02896-17878 t02197-20676 t02965-21589 t02263-6208 t02014-8761 t02306-9508
+Already have log for t01902 10435 bafykbzacecd63hdj5ll5p3un5mwhtbo7ktn3undluo6sd3362jkimplnivcj2
+Retrieving t01699 11263 bafykbzacecd63hdj5ll5p3un5mwhtbo7ktn3undluo6sd3362jkimplnivcj2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.12user 0.07system 8:26.10elapsed 0%CPU (0avgtext+0avgdata 39084maxresident)k
+0inputs+0outputs (0major+3856minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bj
+t01902-10665 t01945-12129 t01593-16682 t01699-18202 t01988-20805 t02556-21786 t02306-9708
+Already have log for t01902 10665 bafykbzacedqqzwk4mlrqscgyb52673k2gcuiv7coctsnsrew2o56f4hovazyu
+Retrieving t01945 12129 bafykbzacedqqzwk4mlrqscgyb52673k2gcuiv7coctsnsrew2o56f4hovazyu
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusBlocksComplete)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.07user 0.04system 4:30.53elapsed 0%CPU (0avgtext+0avgdata 38632maxresident)k
+0inputs+0outputs (0major+3770minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.be
+t02306-10350 t01593-11681 t02315-11993 t096379-16199 t01827-17833 t02965-19732 t069967-20638 t02098-21548 t03052-9500
+Already have log for t02306 10350 bafykbzaceatdvm745buvtqovbqtfr3zflijsvcmcblkn24rsytlbhxlrxgdy6
+Retrieving t01593 11681 bafykbzaceatdvm745buvtqovbqtfr3zflijsvcmcblkn24rsytlbhxlrxgdy6
+2020-08-24T14:47:45.914Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01593\",\"MinerPeer\":{\"Address\":\"t01593\",\"ID\":\"12D3KooWBxQqffcLnrpGGovydDLrPPZsrVtJwgKKyRHAPRAQwaNQ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:09.10elapsed 0%CPU (0avgtext+0avgdata 39012maxresident)k
+0inputs+0outputs (0major+3742minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.at
+t02554-11115 t03052-16012 t01827-17666 t02014-19700 t01699-22151 t02302-9332
+Retrieving t02554 11115 bafykbzacecbm5p57q4hwucql6gd2h3ijtusnzvpdbdifg62ghlkhf6q3icvtc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+2020-08-24T14:47:48.639Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 0 B, Paid 0 FIL, ClientEventDataTransferError (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error generated by data transfer: deal data transfer failed: Response Rejected
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:01.68elapsed 5%CPU (0avgtext+0avgdata 38644maxresident)k
+0inputs+0outputs (0major+3720minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.ay
+t03052-10278 t02674-11181 t01632-11916 t02750-12732 t02306-14161 t01827-17745 t069967-19182 t02965-20589 t02332-21483 t01819-6096 t02098-8643 t05036-9400
+Retrieving t03052 10278 bafykbzaceck4lkhr3dbeucn6autd2up5qqj5y7d75lip5uzisolhudgfjxft4
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.10user 0.05system 4:23.87elapsed 0%CPU (0avgtext+0avgdata 39060maxresident)k
+0inputs+0outputs (0major+3941minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.ae
+t02554-11851 t01591-15989 t02750-19114 t02965-21396 t01902-22136 t01593-6588 t01945-8485
+Already have log for t02554 11851 bafykbzacebqjyolq7eifae6qspmsq3anhp32s3e37n4f45d5ctvzvachzdam4
+Retrieving t01591 15989 bafykbzacebqjyolq7eifae6qspmsq3anhp32s3e37n4f45d5ctvzvachzdam4
+2020-08-24T14:52:38.010Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01591\",\"MinerPeer\":{\"Address\":\"t01591\",\"ID\":\"12D3KooWM8xf4aUWZG7G8d3pmWeWovbviHGJR1NK28gQxcBj4Cqg\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.04system 0:22.39elapsed 0%CPU (0avgtext+0avgdata 38108maxresident)k
+0inputs+0outputs (0major+3702minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.av
+t02674-10338 t01708-11221 t02315-12427 t01824-12795 t01902-16181 t02014-17813 t02896-19211 t01819-6157 t02675-9427
+Retrieving t02674 10338 bafykbzaceco3mzmyt3dzmr53pqyzl55r5cqa6ya5g4mhnh6keu4mqzpxh3qre
+2020-08-24T14:52:44.119Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ: all dials failed\\n  * [/ip4/44.234.26.160/tcp/28003] dial tcp4 0.0.0.0:40631-\\u003e44.234.26.160:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02674\",\"MinerPeer\":{\"Address\":\"t02674\",\"ID\":\"12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38060maxresident)k
+0inputs+0outputs (0major+3720minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bi
+t01708-10649 t01824-11427 t02554-12132 t02674-13002 t01591-16684 t02302-20803 t01945-7993 t01593-8926 t01699-9703
+Retrieving t01708 10649 bafykbzacecyypdee5piedp2tggezvwmt7jpagsggsqllfushx5vnd5etfddug
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+Success
+0.08user 0.05system 3:58.08elapsed 0%CPU (0avgtext+0avgdata 38088maxresident)k
+0inputs+0outputs (0major+3716minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.br
+t01699-15910 t03052-17597 t02306-19042 t02014-19636 t01819-20509 t01593-5979
+Retrieving t01699 15910 bafykbzacecyz3wxk4ur7d6uxkkqaj2mwh25uic2pnnbjzmd5olrdpjbzixfti
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.08elapsed 83%CPU (0avgtext+0avgdata 37212maxresident)k
+0inputs+0outputs (0major+3643minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.br
+t02014-10947 t01902-11750 t02554-12605 t02315-13921 t069967-17446 t01909-21222 t01988-21947 t02197-22507 t01593-8375 t02965-9175 t01632-9906
+Already have log for t02014 10947 bafykbzacebesga27vlskn4giidpvbmixwius5eewhyzgsqyqlya3jdgz4nug2
+Already have log for t01902 11750 bafykbzacebesga27vlskn4giidpvbmixwius5eewhyzgsqyqlya3jdgz4nug2
+Retrieving t02554 12605 bafykbzacebesga27vlskn4giidpvbmixwius5eewhyzgsqyqlya3jdgz4nug2
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.02system 0:00.06elapsed 104%CPU (0avgtext+0avgdata 36800maxresident)k
+0inputs+0outputs (0major+3652minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.ad
+t02554-10099 t02896-11037 t01945-11810 t02306-12669 t01593-14016 t05025-15928 t069967-19622 t01699-20512 t096605-21343 t02014-22085 t02264-6020 t01591-8431
+Retrieving t02554 10099 bafykbzacedpqpcdmfc4yw5dhemg2ejt324nt6pgnhottowbuc44jegjpe7kme
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.06user 0.00system 0:00.10elapsed 67%CPU (0avgtext+0avgdata 36584maxresident)k
+0inputs+0outputs (0major+3608minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.as
+t02306-12028 t02675-12836 t01591-16382 t069967-19854 t01824-20700 t01902-21649 t02014-6269 t01827-8811 t02315-9575
+Retrieving t02306 12028 bafykbzacebk6pfrcr4xpjzypnupljnvosp7ztpul5vtyvbynspsxmpya3xtto
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:00.11elapsed 53%CPU (0avgtext+0avgdata 35932maxresident)k
+0inputs+0outputs (0major+3557minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bf
+t03052-10647 t01593-11439 t02315-12121 t01699-16677 t02750-19434 t02098-20804 t096492-21784 t02014-23086 t01819-6836 t02674-8944 t05036-9709
+Retrieving t03052 10647 bafykbzacebirix6ggr4fssln6ywpvy6bt3sw6k4lwx2mgr7j7dv3hf4i7bv7a
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.07elapsed 88%CPU (0avgtext+0avgdata 36416maxresident)k
+0inputs+0outputs (0major+3561minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.bn
+t01591-10362 t01708-11160 t02306-11968 t02674-14166 t01827-21501 t02896-22233 t01699-6106 t02302-8621 t01902-9409
+Retrieving t01591 10362 bafykbzacebkceuhmtibiiwpuf4i4efcx7evzo2lxk2jvfq6ndqncgqtefvfb4
+2020-08-24T14:56:52.083Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to find any peer in table\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01591\",\"MinerPeer\":{\"Address\":\"t01591\",\"ID\":\"12D3KooWM8xf4aUWZG7G8d3pmWeWovbviHGJR1NK28gQxcBj4Cqg\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.06elapsed 98%CPU (0avgtext+0avgdata 38036maxresident)k
+0inputs+0outputs (0major+3798minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.ba
+t02004-10344 t01819-11224 t02750-11998 t01593-14193 t01591-16201 t01945-19729 t02981-20635 t01824-21536 t01827-22270 t01699-22860 t02264-6631 t02182-9441
+Already have log for t02004 10344 bafykbzacedg47kvegxvaeqa4szbb4r3g7mi3pw6qbcbuwpacsfwxpgzwphfoa
+Already have log for t01819 11224 bafykbzacedg47kvegxvaeqa4szbb4r3g7mi3pw6qbcbuwpacsfwxpgzwphfoa
+Retrieving t02750 11998 bafykbzacedg47kvegxvaeqa4szbb4r3g7mi3pw6qbcbuwpacsfwxpgzwphfoa
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+Success
+0.08user 0.06system 6:55.51elapsed 0%CPU (0avgtext+0avgdata 38876maxresident)k
+0inputs+0outputs (0major+3788minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bx
+t01902-10768 t01988-16779 t01591-18274 t02014-19957 t02098-21866 t01593-9007
+Retrieving t01902 10768 bafykbzacebtppwrfzeddjq3nkurcuy5mpxu7ceaqvjmcivjmkjnpw4p7lpsww
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:00.05elapsed 103%CPU (0avgtext+0avgdata 36036maxresident)k
+0inputs+0outputs (0major+3527minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.au
+t01945-10226 t02896-11111 t02750-12707 t02810-16017 t02965-17671 t02306-19139 t01827-21419 t02014-22166 t02197-8531 t02981-9334
+Retrieving t01945 10226 bafykbzacedipl24jad4tq7edgaje766gzi6gqpagiitg5sqdagqrv7jufqjrc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.06user 0.01system 0:00.08elapsed 95%CPU (0avgtext+0avgdata 37184maxresident)k
+0inputs+0outputs (0major+3624minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.ai
+t02896-11412 t01593-12967 t02302-16655 t01945-19917 t05025-21753 t02014-23066 t01819-6794 t02098-8874
+Already have log for t02896 11412 bafykbzaceaocvx3hoteipd6ql5r37wdjz2po2txj3kotdr6osegmd7al5pqi4
+Retrieving t01593 12967 bafykbzaceaocvx3hoteipd6ql5r37wdjz2po2txj3kotdr6osegmd7al5pqi4
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.04elapsed 106%CPU (0avgtext+0avgdata 36528maxresident)k
+0inputs+0outputs (0major+3610minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bn
+t01824-12467 t069967-16599 t01902-18147 t01699-19372 t02004-21737 t01945-23034 t02315-7982 t02014-9639
+Already have log for t01824 12467 bafykbzacecavmzq7y6xaegzmayjznqxaan74tz6ruoi5vsinyaivqooj7o3cq
+Already have log for t069967 16599 bafykbzacecavmzq7y6xaegzmayjznqxaan74tz6ruoi5vsinyaivqooj7o3cq
+Retrieving t01902 18147 bafykbzacecavmzq7y6xaegzmayjznqxaan74tz6ruoi5vsinyaivqooj7o3cq
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.07elapsed 98%CPU (0avgtext+0avgdata 36268maxresident)k
+0inputs+0outputs (0major+3529minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.ap
+t02554-10225 t01824-11079 t02675-11901 t02197-16015 t02098-17674 t01699-19148 t02750-19698 t02896-21410 t01819-22122
+Retrieving t02554 10225 bafykbzacedhmz6i4zgu3bftal3aebwt2tgkxkbgtndyr5stn5z6ijoaddwfks
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.02system 0:00.05elapsed 92%CPU (0avgtext+0avgdata 37128maxresident)k
+0inputs+0outputs (0major+3809minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.ag
+t01819-15783 t01988-20460 t03052-21245 t01699-22540 t02264-6540 t02965-9924
+Already have log for t01819 15783 bafykbzacead3fbjg3bp2pjqm4doaby5hnlgwla2pjsyayjx5se3iik6md3ouk
+Already have log for t01988 20460 bafykbzacead3fbjg3bp2pjqm4doaby5hnlgwla2pjsyayjx5se3iik6md3ouk
+Retrieving t03052 21245 bafykbzacead3fbjg3bp2pjqm4doaby5hnlgwla2pjsyayjx5se3iik6md3ouk
+2020-08-24T15:04:02.427Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to find any peer in table\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t03052\",\"MinerPeer\":{\"Address\":\"t03052\",\"ID\":\"12D3KooWEhwi768AdZTDCdnsaFjyeDjRFwvJgnUtchcqu3xiQFfm\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.06elapsed 106%CPU (0avgtext+0avgdata 37720maxresident)k
+0inputs+0outputs (0major+3604minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.bc
+t01824-10238 t01945-11128 t02965-14149 t03052-17680 t01819-19144 t01699-20557 t02098-21424 t01827-22759 t01593-9340
+Retrieving t01824 10238 bafykbzaceasptkmgkkas3rbzo4un2h3mlwobaovfv6mvdy4yas3vu3eulqjhq
+2020-08-24T15:04:03.558Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"dial backoff\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01824\",\"MinerPeer\":{\"Address\":\"t01824\",\"ID\":\"12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:00.06elapsed 101%CPU (0avgtext+0avgdata 37816maxresident)k
+0inputs+0outputs (0major+3678minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.aa
+t01819-10454 t02981-16346 t02004-17915 t02965-19824 t02556-21628 t02014-22930 t02306-6259 t01708-8754 t01824-9585
+Retrieving t01819 10454 bafykbzaceahtcocmcfawkkvg6zi2ouzmdjcjhu5g6knbruh7foq32dcvzw6t2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.06system 9:08.27elapsed 0%CPU (0avgtext+0avgdata 39144maxresident)k
+0inputs+0outputs (0major+3788minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.ao
+t02014-10785 t03052-11516 t01824-12219 t02315-13106 t01902-16806 t02965-18290 t02750-19962 t01819-9799
+Already have log for t02014 10785 bafykbzacecwt2env5hoxm667cwj2eukuaigixy2rct4mewtjng57im7kidfh2
+Retrieving t03052 11516 bafykbzacecwt2env5hoxm667cwj2eukuaigixy2rct4mewtjng57im7kidfh2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.06user 0.06system 3:53.07elapsed 0%CPU (0avgtext+0avgdata 39084maxresident)k
+0inputs+0outputs (0major+3863minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.aj
+t01743-10617 t01945-12096 t02674-12966 t01988-20781 t02332-21764 t02197-9712
+Retrieving t01743 10617 bafykbzacebpsgumb3jah4rofqwwbkfuosaesf6u5pmt2pduag5g7kbggivlls
+2020-08-24T15:17:14.121Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWDvbEFUUmYtyUMnvL6ApG4iPePHNQnSJ3ZCiM8xvS7g3B: all dials failed\\n  * [/ip4/103.44.253.2/tcp/15464] failed to negotiate security protocol: EOF\\n  * [/ip4/47.56.139.17/tcp/15464] dial tcp4 0.0.0.0:43465-\\u003e47.56.139.17:15464: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01743\",\"MinerPeer\":{\"Address\":\"t01743\",\"ID\":\"12D3KooWDvbEFUUmYtyUMnvL6ApG4iPePHNQnSJ3ZCiM8xvS7g3B\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:05.05elapsed 1%CPU (0avgtext+0avgdata 37632maxresident)k
+0inputs+0outputs (0major+3602minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.br
+t01945-11238 t02306-12017 t01819-16313 t01699-20677 t01824-21614 t01827-22350 t02264-6253 t02014-9538
+Retrieving t01945 11238 bafykbzacedzxou7cnzziypalevvq72uauo46l54hpducv4mjrel5gseep42oe
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusBlocksComplete)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.13user 0.03system 7:50.44elapsed 0%CPU (0avgtext+0avgdata 39312maxresident)k
+0inputs+0outputs (0major+3872minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.bw
+t01593-10953 t01824-12608 t01988-17450 t02750-18945 t02306-19502 t02896-21229 t02302-21951 t02315-8362 t01632-9131 t05036-9911
+Already have log for t01593 10953 bafykbzaceajvobn24ihaulam5qlehaahwbi2nuypwm7gvso7adbnecxfgvxis
+Already have log for t01824 12608 bafykbzaceajvobn24ihaulam5qlehaahwbi2nuypwm7gvso7adbnecxfgvxis
+Already have log for t01988 17450 bafykbzaceajvobn24ihaulam5qlehaahwbi2nuypwm7gvso7adbnecxfgvxis
+Already have log for t02750 18945 bafykbzaceajvobn24ihaulam5qlehaahwbi2nuypwm7gvso7adbnecxfgvxis
+Retrieving t02306 19502 bafykbzaceajvobn24ihaulam5qlehaahwbi2nuypwm7gvso7adbnecxfgvxis
+2020-08-24T15:25:15.782Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez: all dials failed\\n  * [/ip4/116.211.58.216/tcp/1579] dial tcp4 0.0.0.0:43465-\\u003e116.211.58.216:1579: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 37940maxresident)k
+0inputs+0outputs (0major+3656minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.bb
+t04985-11120 t02315-11899 t01593-14146 t02965-16022 t01819-17676 t069967-19145 t01699-19704 t02014-21425 t02896-22172 t02306-6601 t01945-8544 t01827-9354
+Retrieving t04985 11120 bafykbzacecvz4b5woeprg62fbpg5fsuu7wzrseohdolgylyjhchpj25xpf7wy
+2020-08-24T15:25:17.141Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWKHaJMXg717d3fMPrQPuYoR1Hj14EtiJnJFQakjWHdpwW: all dials failed\\n  * [/ip4/109.156.140.10/tcp/3456] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t04985\",\"MinerPeer\":{\"Address\":\"t04985\",\"ID\":\"12D3KooWKHaJMXg717d3fMPrQPuYoR1Hj14EtiJnJFQakjWHdpwW\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:00.31elapsed 27%CPU (0avgtext+0avgdata 37908maxresident)k
+0inputs+0outputs (0major+3719minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bk
+t02306-10725 t01945-16754 t02965-18259 t02750-20848 t02004-21838 t01593-6915 t03052-9771
+Retrieving t02306 10725 bafykbzaceb6jjg5b7ud3tph6al4siiug72n5s6zmcoyshcus27zb46vdosdl6
+2020-08-24T15:25:18.256Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"dial backoff\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.07elapsed 95%CPU (0avgtext+0avgdata 38536maxresident)k
+0inputs+0outputs (0major+3854minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.an.ae
+t01632-11570 t02750-12234 t02306-16885 t02004-18334 t02014-19494 t01945-20056 t02965-20918
+Retrieving t01632 11570 bafykbzacedzelvkw7yaciywrkmuchqt6gjuuk4lbbdwhqnf3aisks6ue4hmuw
+2020-08-24T15:25:19.849Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWDmcfoMZd58DS7mBXxY9a9ceddrSnYr6g8Rcv6fDfXF4q: all dials failed\\n  * [/ip4/120.133.36.57/tcp/23456] dial tcp4 120.133.36.57:23456: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01632\",\"MinerPeer\":{\"Address\":\"t01632\",\"ID\":\"12D3KooWDmcfoMZd58DS7mBXxY9a9ceddrSnYr6g8Rcv6fDfXF4q\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.03system 0:00.55elapsed 13%CPU (0avgtext+0avgdata 37980maxresident)k
+0inputs+0outputs (0major+3699minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.ap
+t02306-12018 t02896-16286 t01819-17866 t02965-20657 t02302-21582 t01945-6700 t01632-9492
+Already have log for t02306 12018 bafykbzacebjas7lvztgqpvs7zdxve2vqboknto4q5qoq3gchyghi2ixtkhbbq
+Retrieving t02896 16286 bafykbzacebjas7lvztgqpvs7zdxve2vqboknto4q5qoq3gchyghi2ixtkhbbq
+2020-08-24T15:25:33.572Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02896\",\"MinerPeer\":{\"Address\":\"t02896\",\"ID\":\"12D3KooWAxJdKvDZCaFDJQhi6yNaqBsWHpgvdUTmsKCGtnFNfeuz\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.01system 0:11.65elapsed 0%CPU (0avgtext+0avgdata 38048maxresident)k
+0inputs+0outputs (0major+3746minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bd
+t02981-11495 t02750-12166 t02182-16747 t01819-19453 t01909-21834 t01827-9801
+Already have log for t02981 11495 bafykbzacecbsfhkdbh2obv4wcpkix6lnfheykt6l6ksycrlzvdjr6zluim3dq
+Already have log for t02750 12166 bafykbzacecbsfhkdbh2obv4wcpkix6lnfheykt6l6ksycrlzvdjr6zluim3dq
+Retrieving t02182 16747 bafykbzacecbsfhkdbh2obv4wcpkix6lnfheykt6l6ksycrlzvdjr6zluim3dq
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.10user 0.03system 3:30.75elapsed 0%CPU (0avgtext+0avgdata 38756maxresident)k
+0inputs+0outputs (0major+3733minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bb
+t01827-11355 t01824-12943 t02302-16568 t01945-18126 t02896-19314 t02014-19899 t02156-21732 t01699-23026 t02206-6336 t02098-8830 t02981-9604
+Already have log for t01827 11355 bafykbzacecoerqfk6khl4r46sijyoasisz3442oy3okxsppz2svg33z3qqdyk
+Retrieving t01824 12943 bafykbzacecoerqfk6khl4r46sijyoasisz3442oy3okxsppz2svg33z3qqdyk
+2020-08-24T15:29:15.139Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh: all dials failed\\n  * [/ip4/101.206.156.202/tcp/18880] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01824\",\"MinerPeer\":{\"Address\":\"t01824\",\"ID\":\"12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.07user 0.01system 0:05.65elapsed 1%CPU (0avgtext+0avgdata 38164maxresident)k
+0inputs+0outputs (0major+3787minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.ag
+t01593-10644 t02674-11469 t01902-16714 t02750-19430 t069967-19939 t01827-21813 t01945-9780
+Retrieving t01593 10644 bafykbzacebxgetuhsx3oigbmns7krfeht4dkkwwqqodbthjy7nfichnhwm7pe
+2020-08-24T15:29:50.445Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01593\",\"MinerPeer\":{\"Address\":\"t01593\",\"ID\":\"12D3KooWBxQqffcLnrpGGovydDLrPPZsrVtJwgKKyRHAPRAQwaNQ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:34.26elapsed 0%CPU (0avgtext+0avgdata 39328maxresident)k
+0inputs+0outputs (0major+3772minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.aw
+t05025-10560 t01902-11342 t02965-12937 t01593-16562 t02197-20761 t02306-7979 t02675-8817
+Retrieving t05025 10560 bafykbzaceb5pigxnwaznaaorjf6enupg5w6peto6twteuxjspkx5gawdhihc4
+2020-08-24T15:29:56.572Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN: all dials failed\\n  * [/ip6/::1/tcp/1348] dial tcp6 [::1]:1348: connect: connection refused\\n  * [/ip4/117.48.133.73/tcp/1348] dial tcp4 0.0.0.0:43465-\\u003e117.48.133.73:1348: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t05025\",\"MinerPeer\":{\"Address\":\"t05025\",\"ID\":\"12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.04system 0:05.08elapsed 2%CPU (0avgtext+0avgdata 37608maxresident)k
+0inputs+0outputs (0major+3635minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bz
+t01743-10448 t01945-12808 t02750-14205 t02014-17851 t01819-19224 t01824-20648 t02896-21562 t05025-22276 t02206-6197 t02197-9542
+Already have log for t01743 10448 bafykbzaceabb4wcvzfxmartbikc24dbw67sny7puoidt4qeeairzjjlaic3p4
+Already have log for t01945 12808 bafykbzaceabb4wcvzfxmartbikc24dbw67sny7puoidt4qeeairzjjlaic3p4
+Retrieving t02750 14205 bafykbzaceabb4wcvzfxmartbikc24dbw67sny7puoidt4qeeairzjjlaic3p4
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.09user 0.05system 3:32.16elapsed 0%CPU (0avgtext+0avgdata 38540maxresident)k
+0inputs+0outputs (0major+3776minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.at
+t01819-10416 t02675-12004 t02965-12803 t02014-16287 t03052-17870 t01945-19754 t02750-20663 t02206-6216 t02302-8759 t01824-9499
+Already have log for t01819 10416 bafykbzacebs2kjrt6kbcdopcrqksv3njgscakow4dnucs4pxitsxnuhh6bs6k
+Retrieving t02675 12004 bafykbzacebs2kjrt6kbcdopcrqksv3njgscakow4dnucs4pxitsxnuhh6bs6k
+2020-08-24T15:33:38.947Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG: all dials failed\\n  * [/ip4/34.222.193.200/tcp/28003] dial tcp4 0.0.0.0:43465-\\u003e34.222.193.200:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02675\",\"MinerPeer\":{\"Address\":\"t02675\",\"ID\":\"12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.04system 0:05.05elapsed 1%CPU (0avgtext+0avgdata 37984maxresident)k
+0inputs+0outputs (0major+3734minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.ah
+t02306-10542 t02981-11363 t02674-12918 t02014-16543 t02098-20743 t02965-8859 t03052-9651
+Already have log for t02306 10542 bafykbzacecfejhwoboacxan7qjl5tvqd5cn2bgo3nsybut77o6lryujhk5myk
+Retrieving t02981 11363 bafykbzacecfejhwoboacxan7qjl5tvqd5cn2bgo3nsybut77o6lryujhk5myk
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.05user 0.07system 3:25.35elapsed 0%CPU (0avgtext+0avgdata 38808maxresident)k
+0inputs+0outputs (0major+3769minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.aq
+t01945-10331 t02315-11677 t02965-12787 t02004-16178 t02896-17798 t01902-21528 t02014-22844 t02306-6150 t01827-8700 t02981-9478
+Retrieving t01945 10331 bafykbzaceaapfocqi5uiqil4fkguliw6hjy5erzviqsogtawd6e4xqreeuvxc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+Success
+0.06user 0.05system 1:14.26elapsed 0%CPU (0avgtext+0avgdata 37904maxresident)k
+0inputs+0outputs (0major+3751minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.av
+t02675-11456 t02014-12174 t02965-13020 t02004-18242 t069967-20843 t02302-9753
+Already have log for t02675 11456 bafykbzacebm6bsqnqzrcashokyehmpvqwg3g5t3oajydotbjzwhwhd7iuv35e
+Retrieving t02014 12174 bafykbzacebm6bsqnqzrcashokyehmpvqwg3g5t3oajydotbjzwhwhd7iuv35e
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:00.07elapsed 80%CPU (0avgtext+0avgdata 37204maxresident)k
+0inputs+0outputs (0major+3726minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bn
+t02965-10622 t01824-12138 t096379-16690 t01945-20808 t02302-8938
+Retrieving t02965 10622 bafykbzacebptjc3sc5m6lm7yckayy5td3epyrx4tbwywaycchlg6s3wzcaveu
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 36540maxresident)k
+0inputs+0outputs (0major+3661minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bw
+t02182-10589 t02674-11407 t02014-12109 t02675-12955 t02197-20776 t02098-21755 t01591-8901 t02263-9648
+Already have log for t02182 10589 bafykbzacecontgniw3tgslbaplkre3pw6u5ttijwbx3kqzio5qblhpcejc2bi
+Retrieving t02674 11407 bafykbzacecontgniw3tgslbaplkre3pw6u5ttijwbx3kqzio5qblhpcejc2bi
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.06user 0.01system 0:00.07elapsed 94%CPU (0avgtext+0avgdata 35860maxresident)k
+0inputs+0outputs (0major+3505minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.bh
+t02896-10443 t01909-16301 t01824-19760 t02004-20672 t02197-21594 t01819-7960 t01699-8774
+Retrieving t02896 10443 bafykbzaceawlxu5s6drjzg7wcnqnkhz3u5nth7mgd3fu66kjbzv4vfuzojmo4
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:00.07elapsed 76%CPU (0avgtext+0avgdata 36288maxresident)k
+0inputs+0outputs (0major+3742minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.bd
+t04985-10289 t01902-11176 t01824-14163 t03052-16104 t01945-17747 t02965-19172 t069967-19717 t01593-7927 t05025-9436
+Retrieving t04985 10289 bafykbzaceae3z35qwvugmk5uiva3zm74wpnxbgyadeopjz5v42zgzm54zsd5m
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:00.06elapsed 75%CPU (0avgtext+0avgdata 36452maxresident)k
+0inputs+0outputs (0major+3684minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.az
+t02674-10231 t01632-12415 t01593-12708 t01945-14089 t02182-16028 t01699-17687 t01988-20552 t03052-21423 t02197-22160 t02014-7887 t02675-9341
+Retrieving t02674 10231 bafykbzaceaoxwoqlaghyfrgyx3fmcypwbuiptjx2txonyc4zpctgbkmbd6dd4
+2020-08-24T15:38:35.484Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ: all dials failed\\n  * [/ip4/44.234.26.160/tcp/28003] dial tcp4 0.0.0.0:44875-\\u003e44.234.26.160:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02674\",\"MinerPeer\":{\"Address\":\"t02674\",\"ID\":\"12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.03system 0:05.09elapsed 1%CPU (0avgtext+0avgdata 37880maxresident)k
+0inputs+0outputs (0major+3720minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.ca
+t02674-12696 t02965-14121 t01902-15981 t02896-19091 t01593-6059 t01699-8482 t02014-9361
+Retrieving t02674 12696 bafykbzacedwnh533x6syhzcpf2g5fohkjhap25wpnp52mu3hn26iodbqomeu6
+2020-08-24T15:38:36.630Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"dial backoff\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02674\",\"MinerPeer\":{\"Address\":\"t02674\",\"ID\":\"12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.00system 0:00.10elapsed 49%CPU (0avgtext+0avgdata 38008maxresident)k
+0inputs+0outputs (0major+3715minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.bv
+t02306-10988 t01632-11762 t02750-12626 t02197-15840 t01593-17554 t02896-18964 t01819-20484 t01920-21285 t01945-21977 t01699-9972
+Already have log for t02306 10988 bafykbzacec66td2taeqgeflexc67vuvkznsztvn3pqnxm4kj5flnqowsd4jfo
+Already have log for t01632 11762 bafykbzacec66td2taeqgeflexc67vuvkznsztvn3pqnxm4kj5flnqowsd4jfo
+Already have log for t02750 12626 bafykbzacec66td2taeqgeflexc67vuvkznsztvn3pqnxm4kj5flnqowsd4jfo
+Retrieving t02197 15840 bafykbzacec66td2taeqgeflexc67vuvkznsztvn3pqnxm4kj5flnqowsd4jfo
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.08user 0.06system 7:02.71elapsed 0%CPU (0avgtext+0avgdata 38352maxresident)k
+0inputs+0outputs (0major+3725minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.br
+t01593-10607 t02014-11372 t02306-12106 t02182-16612 t02965-19914 t01827-20772 t096605-21743 t02197-8892
+Retrieving t01593 10607 bafykbzaceavqoxgfn7pvwvlz5q62ia7kvugt5aqzhq2j5gkvkdtqhs663czy4
+2020-08-24T15:46:10.693Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01593\",\"MinerPeer\":{\"Address\":\"t01593\",\"ID\":\"12D3KooWBxQqffcLnrpGGovydDLrPPZsrVtJwgKKyRHAPRAQwaNQ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.07user 0.02system 0:26.21elapsed 0%CPU (0avgtext+0avgdata 37944maxresident)k
+0inputs+0outputs (0major+3766minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.be
+t01819-10654 t02750-13004 t01909-16681 t02965-18195 t02306-19922 t02014-21783 t01824-9699
+Already have log for t01819 10654 bafykbzacea3vc42ylss26hlcgyfbci7upanmevjqeepunx5573tkh7kt7wmze
+Already have log for t02750 13004 bafykbzacea3vc42ylss26hlcgyfbci7upanmevjqeepunx5573tkh7kt7wmze
+Retrieving t01909 16681 bafykbzacea3vc42ylss26hlcgyfbci7upanmevjqeepunx5573tkh7kt7wmze
+2020-08-24T15:46:18.840Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWG6NQw1y2dnHmj7dP5wskYp7oRh8H4hD59bt78DQjJZSo: all dials failed\\n  * [/ip4/183.15.179.247/tcp/12345] dial tcp4 0.0.0.0:44875-\\u003e183.15.179.247:12345: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01909\",\"MinerPeer\":{\"Address\":\"t01909\",\"ID\":\"12D3KooWG6NQw1y2dnHmj7dP5wskYp7oRh8H4hD59bt78DQjJZSo\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.05system 0:05.07elapsed 1%CPU (0avgtext+0avgdata 37940maxresident)k
+0inputs+0outputs (0major+3699minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.ad
+t02965-13977 t096492-15864 t01909-17564 t01945-18989 t05025-21289 t02004-22584 t01593-8388 t02014-9271
+Already have log for t02965 13977 bafykbzacea5rgermyfndic6aocargixsclhl32nsbkrf4dfzji27xnqz22ygq
+Retrieving t096492 15864 bafykbzacea5rgermyfndic6aocargixsclhl32nsbkrf4dfzji27xnqz22ygq
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.10system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39444maxresident)k
+0inputs+0outputs (0major+3894minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.au
+t02014-10109 t02306-12411 t02750-12703 t01909-15950 t01819-19076 t05025-21366 t01902-8451 t03052-9299
+Already have log for t02014 10109 bafykbzacedfdffmttbxyhsngprijnbb3u2h7z25hd3we4l3imwmidcuarwksa
+Already have log for t02306 12411 bafykbzacedfdffmttbxyhsngprijnbb3u2h7z25hd3we4l3imwmidcuarwksa
+Retrieving t02750 12703 bafykbzacedfdffmttbxyhsngprijnbb3u2h7z25hd3we4l3imwmidcuarwksa
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.07system 5:37.61elapsed 0%CPU (0avgtext+0avgdata 39316maxresident)k
+0inputs+0outputs (0major+3954minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bt
+t03052-10799 t02965-12202 t01819-13075 t096379-16777 t01699-19463 t01988-21848 t02332-23150 t02014-6916 t02674-9005 t01824-9823
+Already have log for t03052 10799 bafykbzacedasaipfj5mtibznene5p7stewmv4yztrmudhwyvvxzzazeqo44uy
+Retrieving t02965 12202 bafykbzacedasaipfj5mtibznene5p7stewmv4yztrmudhwyvvxzzazeqo44uy
+2020-08-24T16:09:15.803Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02965\",\"MinerPeer\":{\"Address\":\"t02965\",\"ID\":\"12D3KooWCkwvoDCbgTeA449F3LEfpMMPSVZsarDNRFtQWeqREdV8\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:12.13elapsed 0%CPU (0avgtext+0avgdata 37468maxresident)k
+8inputs+0outputs (1major+3665minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bs
+t01819-10794 t01902-11488 t02306-12201 t02675-13072 t02302-16768 t01824-19462 t02750-19958 t02197-20855 t02533-6922
+Retrieving t01819 10794 bafykbzacedp2exzurlrc7piearmahsegfkf3vpbpvsnrhxgcieimb4oyodldg
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+2020-08-24T16:13:00.297Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+2020-08-24T16:13:00.297Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 3}
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.08user 0.06system 4:01.76elapsed 0%CPU (0avgtext+0avgdata 39380maxresident)k
+0inputs+0outputs (0major+3830minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.ai
+t02675-10904 t096379-15779 t03052-17465 t02965-20461 t01824-21236 t02197-22009 t01819-5886 t02263-9923
+Already have log for t02675 10904 bafykbzaceap43pmebt5vkwesf5b5nqozdpjugv7rlcbfvprh4zdhyunyivsf2
+Already have log for t096379 15779 bafykbzaceap43pmebt5vkwesf5b5nqozdpjugv7rlcbfvprh4zdhyunyivsf2
+Retrieving t03052 17465 bafykbzaceap43pmebt5vkwesf5b5nqozdpjugv7rlcbfvprh4zdhyunyivsf2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.05system 6:45.15elapsed 0%CPU (0avgtext+0avgdata 38364maxresident)k
+0inputs+0outputs (0major+3747minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.aq
+t01909-10406 t02965-12022 t01819-12818 t05025-16285 t02306-19227 t01920-21578 t02004-22902 t01593-7952 t02554-9497
+Already have log for t01909 10406 bafykbzaced5xyfg7g4paa4x7au4qf6f6axkrssnsnnlkeesr2i4z6bzkefgoc
+Already have log for t02965 12022 bafykbzaced5xyfg7g4paa4x7au4qf6f6axkrssnsnnlkeesr2i4z6bzkefgoc
+Retrieving t01819 12818 bafykbzaced5xyfg7g4paa4x7au4qf6f6axkrssnsnnlkeesr2i4z6bzkefgoc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Success
+0.12user 0.04system 6:20.85elapsed 0%CPU (0avgtext+0avgdata 39432maxresident)k
+0inputs+0outputs (0major+3839minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.ay
+t01819-10795 t01632-11524 t02896-12220 t096379-16826 t02750-18300 t02014-20880 t01945-21888 t01699-8023
+Retrieving t01819 10795 bafykbzacecpekfh3fhxvrpuasns2k6ig7aoafe7s7ei5lszg2mfyvucxbmelm
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.05elapsed 103%CPU (0avgtext+0avgdata 37016maxresident)k
+0inputs+0outputs (0major+3707minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.ay
+t02675-10042 t02004-10968 t02674-12650 t02896-15890 t01593-17580 t03052-21310 t05025-22047 t02014-5963 t01945-8396 t01743-9217
+Already have log for t02675 10042 bafykbzacea3mpr47ijgcv4fsapbyvm7434c3ypzrdtftzgq3rgpsvznszs4zg
+Retrieving t02004 10968 bafykbzacea3mpr47ijgcv4fsapbyvm7434c3ypzrdtftzgq3rgpsvznszs4zg
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.02system 0:00.08elapsed 93%CPU (0avgtext+0avgdata 36040maxresident)k
+0inputs+0outputs (0major+3528minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.ax
+t01593-11523 t02014-12212 t01824-16815 t01827-21862 t01945-6940 t01591-9039 t01632-9862
+Retrieving t01593 11523 bafykbzacebqi5knu3cqsdx7h6wt7t4e7zxapi4rk2iuqel57udojq2p5p5y7o
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.02system 0:00.07elapsed 101%CPU (0avgtext+0avgdata 36396maxresident)k
+0inputs+0outputs (0major+3591minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bz
+t01632-11382 t01827-18161 t01819-19404 t02014-19909 t02302-21749 t01699-6778 t02896-9638
+Already have log for t01632 11382 bafykbzacebybblz4ivfmtp7dqoxl2cbz52wqvmqawihupuqtk3eqh4v3edmbu
+Retrieving t01827 18161 bafykbzacebybblz4ivfmtp7dqoxl2cbz52wqvmqawihupuqtk3eqh4v3edmbu
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.02system 0:00.05elapsed 101%CPU (0avgtext+0avgdata 36820maxresident)k
+0inputs+0outputs (0major+3649minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.bk
+t01824-10925 t01819-12624 t01591-15823 t02965-19532 t01945-21265 t02014-22033 t02263-5929 t02302-8405 t01699-9177
+Already have log for t01824 10925 bafykbzaced25h7gea5lt4d52i5swxvn4vuunidg7ycnsqfotcwdzimhkew52e
+Retrieving t01819 12624 bafykbzaced25h7gea5lt4d52i5swxvn4vuunidg7ycnsqfotcwdzimhkew52e
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.07elapsed 81%CPU (0avgtext+0avgdata 36612maxresident)k
+0inputs+0outputs (0major+3640minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bf
+t01591-10578 t02004-11391 t01632-12071 t02750-12956 t02896-8820 t01902-9610
+Already have log for t01591 10578 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+Retrieving t02004 11391 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+2020-08-24T16:26:43.093Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWRL2sjoGinBB4QSyRjJ7UkYMUPXgCPZykLgBaoLwmqSX4: all dials failed\\n  * [/ip4/113.215.188.183/tcp/35252] dial tcp4 113.215.188.183:35252: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02004\",\"MinerPeer\":{\"Address\":\"t02004\",\"ID\":\"12D3KooWRL2sjoGinBB4QSyRjJ7UkYMUPXgCPZykLgBaoLwmqSX4\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:01.59elapsed 5%CPU (0avgtext+0avgdata 37536maxresident)k
+0inputs+0outputs (0major+3642minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.ah
+t01945-11971 t02014-16177 t02965-19730 t01819-20623 t02156-21519 t01699-6143 t01593-8680 t01708-9483
+Already have log for t01945 11971 bafykbzacec2qeojub7qzrjadsntmew6u4q6y3cy5mgkrtrfg7be5vfebnlzhi
+Retrieving t02014 16177 bafykbzacec2qeojub7qzrjadsntmew6u4q6y3cy5mgkrtrfg7be5vfebnlzhi
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.16user 0.07system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 37992maxresident)k
+0inputs+0outputs (0major+3955minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bj
+t02675-10787 t02004-11553 t02810-16853 t02981-18308 t02965-19483 t02750-20895 t01699-6952 t01591-9880
+Retrieving t02675 10787 bafykbzacea3czgk4qhmgiua46rs6o24tqw4zezxbxhfmb7aqijpolqiks7she
+2020-08-24T16:43:51.265Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG: all dials failed\\n  * [/ip4/34.222.193.200/tcp/28003] dial tcp4 0.0.0.0:42119-\\u003e34.222.193.200:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02675\",\"MinerPeer\":{\"Address\":\"t02675\",\"ID\":\"12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.04system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38888maxresident)k
+0inputs+0outputs (0major+3797minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.am
+t01909-10544 t02306-12933 t02182-16541 t02014-18100 t02965-20744 t02098-21720 t01945-22426 t01632-9654
+Already have log for t01909 10544 bafykbzaceblb75rcrcpectze4rittlrwqhwbufz4dz42tx2pe7ehalr7qw56g
+Retrieving t02306 12933 bafykbzaceblb75rcrcpectze4rittlrwqhwbufz4dz42tx2pe7ehalr7qw56g
+2020-08-24T16:43:58.390Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez: all dials failed\\n  * [/ip4/116.211.58.216/tcp/1579] dial tcp4 0.0.0.0:42119-\\u003e116.211.58.216:1579: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 37888maxresident)k
+0inputs+0outputs (0major+3687minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.bv
+t02965-13047 t01824-16774 t02750-18277 t01819-20857 t03052-21863 t01945-9046 t02896-9824
+Already have log for t02965 13047 bafykbzaceaohdgx2acmkbrhh7tqlzih6qpus6lbxy54xc7hud2ibzn7v2cu3q
+Retrieving t01824 16774 bafykbzaceaohdgx2acmkbrhh7tqlzih6qpus6lbxy54xc7hud2ibzn7v2cu3q
+2020-08-24T16:44:02.860Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh: all dials failed\\n  * [/ip4/101.206.156.202/tcp/18880] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01824\",\"MinerPeer\":{\"Address\":\"t01824\",\"ID\":\"12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.02system 0:02.40elapsed 2%CPU (0avgtext+0avgdata 38024maxresident)k
+0inputs+0outputs (0major+3642minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.bf
+t02014-10288 t01945-11884 t01902-16031 t01591-17739 t02750-19157 t069967-19703 t01824-20561 t01920-21430 t01827-22171 t02315-8594 t01909-9344
+Retrieving t02014 10288 bafykbzacebxumikah4cpbnwuok66cb4el6b57p6egfrrmxo253oox2fnce46u
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Success
+0.12user 0.07system 8:26.54elapsed 0%CPU (0avgtext+0avgdata 39524maxresident)k
+0inputs+0outputs (0major+3878minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.ab
+t04985-10128 t01945-14020 t02306-15929 t01902-17598 t02750-19072 t01988-20508 t01827-21345
+Already have log for t04985 10128 bafykbzaceafvdtsuin2tekormjs4hidpakxe2sqw6sh4kplzd7zvlee2jw7ge
+Retrieving t01945 14020 bafykbzaceafvdtsuin2tekormjs4hidpakxe2sqw6sh4kplzd7zvlee2jw7ge
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.06elapsed 95%CPU (0avgtext+0avgdata 36480maxresident)k
+0inputs+0outputs (0major+3646minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.by
+t02306-10312 t02315-11223 t01945-12771 t02750-14182 t01819-16145 t02302-17790 t02014-19185 t01827-20622 t02556-21514 t069967-22241 t01593-6620 t01824-8662 t02098-9417
+Already have log for t02306 10312 bafykbzacecm4iroltdrygfqddws6wndmzzt2tg3ld744lk2p2huatjyhmj2km
+Retrieving t02315 11223 bafykbzacecm4iroltdrygfqddws6wndmzzt2tg3ld744lk2p2huatjyhmj2km
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:00.05elapsed 96%CPU (0avgtext+0avgdata 36152maxresident)k
+0inputs+0outputs (0major+3542minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.ad
+t02896-10253 t01824-14162 t02750-16072 t02965-19163 t01945-21452 t01819-6086 t02098-8595
+Already have log for t02896 10253 bafykbzaceayvc2u6gevew2cexq4ise4md3hes34hqsjigiibssqztq2nzc6wm
+Already have log for t01824 14162 bafykbzaceayvc2u6gevew2cexq4ise4md3hes34hqsjigiibssqztq2nzc6wm
+Retrieving t02750 16072 bafykbzaceayvc2u6gevew2cexq4ise4md3hes34hqsjigiibssqztq2nzc6wm
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.08elapsed 91%CPU (0avgtext+0avgdata 37060maxresident)k
+0inputs+0outputs (0major+3564minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.ap
+t01827-10018 t02674-11754 t02965-12629 t02014-15816 t01819-18949 t01824-22030 t01945-7863 t01902-9144
+Already have log for t01827 10018 bafykbzacedrec7dhdzf24v7koae7tjtt57mciscxws3mm54uldsrc6fan3ta2
+Already have log for t02674 11754 bafykbzacedrec7dhdzf24v7koae7tjtt57mciscxws3mm54uldsrc6fan3ta2
+Retrieving t02965 12629 bafykbzacedrec7dhdzf24v7koae7tjtt57mciscxws3mm54uldsrc6fan3ta2
+2020-08-24T16:52:51.195Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02965\",\"MinerPeer\":{\"Address\":\"t02965\",\"ID\":\"12D3KooWCkwvoDCbgTeA449F3LEfpMMPSVZsarDNRFtQWeqREdV8\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.02system 0:10.23elapsed 0%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+3699minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.bx
+t02674-12035 t02014-16343 t02750-17903 t069967-19263 t03052-21620 t01819-6727 t01632-9548
+Retrieving t02674 12035 bafykbzacec7p5baiy66zn6hvismfkyr2ot2deqih47adxxrdbq7nht5lkdh24
+2020-08-24T16:52:57.303Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ: all dials failed\\n  * [/ip4/44.234.26.160/tcp/28003] dial tcp4 0.0.0.0:40201-\\u003e44.234.26.160:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02674\",\"MinerPeer\":{\"Address\":\"t02674\",\"ID\":\"12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.00system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 37604maxresident)k
+0inputs+0outputs (0major+3679minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.by
+t01902-10944 t02315-11761 t01632-12622 t02302-17454 t02004-19504 t02014-20459 t02674-9126 t01819-9910
+Already have log for t01902 10944 bafykbzacecibcwkgmukjiapg5a7vglooh3zfmsdbjf3d672e6p6235zdniutc
+Already have log for t02315 11761 bafykbzacecibcwkgmukjiapg5a7vglooh3zfmsdbjf3d672e6p6235zdniutc
+Retrieving t01632 12622 bafykbzacecibcwkgmukjiapg5a7vglooh3zfmsdbjf3d672e6p6235zdniutc
+2020-08-24T16:53:00.996Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWDmcfoMZd58DS7mBXxY9a9ceddrSnYr6g8Rcv6fDfXF4q: all dials failed\\n  * [/ip4/120.133.36.57/tcp/23456] dial tcp4 120.133.36.57:23456: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01632\",\"MinerPeer\":{\"Address\":\"t01632\",\"ID\":\"12D3KooWDmcfoMZd58DS7mBXxY9a9ceddrSnYr6g8Rcv6fDfXF4q\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.03system 0:00.62elapsed 11%CPU (0avgtext+0avgdata 38676maxresident)k
+0inputs+0outputs (0major+3687minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.an
+t01632-10884 t01593-11725 t096492-15735 t069967-17412 t01945-20443 t02896-21188 t03052-21934 t02014-22483 t02264-5838 t01699-8336 t05036-9937
+Already have log for t01632 10884 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+Already have log for t01593 11725 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+Retrieving t096492 15735 bafykbzaceccua2onasdxgksvx2d4wnacdrpultry4nuptyo76v6z52mhsotrw
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.11user 0.12system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39464maxresident)k
+0inputs+0outputs (0major+3852minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.ar
+t02965-10216 t05025-11080 t02014-11900 t069967-16014 t02306-6049 t01824-8496 t01591-9387
+Already have log for t02965 10216 bafykbzacecexia6jkgcp3a5vjfdifjzweoe5orkk4ykv3p7624aqb4edpubpk
+Already have log for t05025 11080 bafykbzacecexia6jkgcp3a5vjfdifjzweoe5orkk4ykv3p7624aqb4edpubpk
+Retrieving t02014 11900 bafykbzacecexia6jkgcp3a5vjfdifjzweoe5orkk4ykv3p7624aqb4edpubpk
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.12user 0.12system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38712maxresident)k
+0inputs+0outputs (0major+3814minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.ag
+t02098-10388 t01593-11991 t01824-16265 t02014-20653 t01699-21571 t01945-22876 t01827-8711 t01819-9477
+Retrieving t02098 10388 bafykbzaceakg6lt6jgb4cdjjn7dqaba3le7tiq7gckmuv4ceyxd5f2namppfa
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.08user 0.03system 3:25.74elapsed 0%CPU (0avgtext+0avgdata 38100maxresident)k
+0inputs+0outputs (0major+3705minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ad.al
+t01699-10140 t01945-11003 t02306-11842 t01827-15944 t02965-17616 t02004-19104 t02302-21354 t02197-22058 t01593-6573 t02675-9327
+Already have log for t01699 10140 bafykbzacebtnahmhluooo6d3ow65vge3nzhpht2wkct6ez4emg26bjwnbowgc
+Retrieving t01945 11003 bafykbzacebtnahmhluooo6d3ow65vge3nzhpht2wkct6ez4emg26bjwnbowgc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.06system 6:30.02elapsed 0%CPU (0avgtext+0avgdata 39504maxresident)k
+0inputs+0outputs (0major+3886minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.aq
+t03052-11769 t02554-12632 t02674-13938 t02896-17490 t02014-19528 t02332-21954 t01699-5869 t02675-9143
+Already have log for t03052 11769 bafykbzacecqpmraxk6wad665bd6xov2m46mo3yqdgzq3xccpufcfx3wvlwy3i
+Already have log for t02554 12632 bafykbzacecqpmraxk6wad665bd6xov2m46mo3yqdgzq3xccpufcfx3wvlwy3i
+Already have log for t02674 13938 bafykbzacecqpmraxk6wad665bd6xov2m46mo3yqdgzq3xccpufcfx3wvlwy3i
+Retrieving t02896 17490 bafykbzacecqpmraxk6wad665bd6xov2m46mo3yqdgzq3xccpufcfx3wvlwy3i
+2020-08-24T17:37:42.406Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02896\",\"MinerPeer\":{\"Address\":\"t02896\",\"ID\":\"12D3KooWAxJdKvDZCaFDJQhi6yNaqBsWHpgvdUTmsKCGtnFNfeuz\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.04system 0:32.19elapsed 0%CPU (0avgtext+0avgdata 38152maxresident)k
+0inputs+0outputs (0major+3736minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bu
+t01819-12964 t02004-16618 t01988-21751 t01824-23046 t02263-8032 t01827-8906 t01632-9623
+Already have log for t01819 12964 bafykbzaceazw26wqeqkgqoibejwzeylrzj54viu4j6jd2ehkv4qsjotlf5jo4
+Retrieving t02004 16618 bafykbzaceazw26wqeqkgqoibejwzeylrzj54viu4j6jd2ehkv4qsjotlf5jo4
+2020-08-24T17:37:49.560Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWRL2sjoGinBB4QSyRjJ7UkYMUPXgCPZykLgBaoLwmqSX4: all dials failed\\n  * [/ip4/113.215.188.183/tcp/35252] dial tcp4 0.0.0.0:40201-\\u003e113.215.188.183:35252: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02004\",\"MinerPeer\":{\"Address\":\"t02004\",\"ID\":\"12D3KooWRL2sjoGinBB4QSyRjJ7UkYMUPXgCPZykLgBaoLwmqSX4\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.01system 0:05.07elapsed 1%CPU (0avgtext+0avgdata 38544maxresident)k
+8inputs+0outputs (1major+3668minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bl
+t02554-11433 t01819-12130 t02306-13011 t01824-16686 t01945-19422 t01699-20807 t01708-8942
+Already have log for t02554 11433 bafykbzaceax4ohkzxxziwn3dhlzkxqbj555ktbdvyl7xhvsl6jp7jev5qm5x2
+Retrieving t01819 12130 bafykbzaceax4ohkzxxziwn3dhlzkxqbj555ktbdvyl7xhvsl6jp7jev5qm5x2
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.04system 4:16.85elapsed 0%CPU (0avgtext+0avgdata 38188maxresident)k
+0inputs+0outputs (0major+3721minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.ae
+t02554-10612 t02750-12960 t0123649-16644 t02965-19406 t02263-6793 t01591-9715
+Already have log for t02554 10612 bafykbzacedewgaj6gtdqpbjiziamff75i65zmtqekln76dz7ybs7a35zuk4ou
+Already have log for t02750 12960 bafykbzacedewgaj6gtdqpbjiziamff75i65zmtqekln76dz7ybs7a35zuk4ou
+Retrieving t0123649 16644 bafykbzacedewgaj6gtdqpbjiziamff75i65zmtqekln76dz7ybs7a35zuk4ou
+2020-08-24T17:42:21.856Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t0123649\",\"MinerPeer\":{\"Address\":\"t0123649\",\"ID\":\"12D3KooWCv5h6YiZ6yY6wscxaAUgLXH7uLesTFfYGvVYg1D3CWwL\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:10.29elapsed 0%CPU (0avgtext+0avgdata 38796maxresident)k
+0inputs+0outputs (0major+3792minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bk
+t02675-11555 t01593-12232 t01827-16869 t01824-20898 t02556-21897 t02098-9098
+Retrieving t02675 11555 bafykbzaceczyi6joj7z4yrgkorsx3qulvxl7q2gtk3jiuegrf27qubqysgvao
+2020-08-24T17:42:27.964Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG: all dials failed\\n  * [/ip4/34.222.193.200/tcp/28003] dial tcp4 0.0.0.0:40201-\\u003e34.222.193.200:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02675\",\"MinerPeer\":{\"Address\":\"t02675\",\"ID\":\"12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.04system 0:05.05elapsed 1%CPU (0avgtext+0avgdata 38296maxresident)k
+0inputs+0outputs (0major+3707minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bd
+t01593-12793 t02014-21544 t069967-22266 t02302-8671 t02965-9443
+Already have log for t01593 12793 bafykbzacecoacvys6mdfyysze5gdzbalvxzomalahx3f72nvy5aeowsn6ewag
+Retrieving t02014 21544 bafykbzacecoacvys6mdfyysze5gdzbalvxzomalahx3f72nvy5aeowsn6ewag
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Success
+0.19user 0.05system 16:33.15elapsed 0%CPU (0avgtext+0avgdata 39364maxresident)k
+0inputs+0outputs (0major+3869minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.ah
+t05036-10211 t02014-12721 t01819-16005 t01593-17660 t01945-20544 t02965-22119 t02302-8532 t02674-9381
+Already have log for t05036 10211 bafykbzaced4el4de2vn7rj2jwyua5xoqce2g33tgjre63byiuhly2wvmq4p2a
+Retrieving t02014 12721 bafykbzaced4el4de2vn7rj2jwyua5xoqce2g33tgjre63byiuhly2wvmq4p2a
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.07elapsed 90%CPU (0avgtext+0avgdata 36620maxresident)k
+0inputs+0outputs (0major+3652minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bi
+t02554-12003 t02306-12776 t02004-19209 t02556-21551 t01945-22859 t02263-6214 t02014-8713 t01632-9493
+Already have log for t02554 12003 bafykbzacedetg4mg7q2ix66guf5thhs3zdboqvcpja2m4gmh3xa333of2kloe
+Retrieving t02306 12776 bafykbzacedetg4mg7q2ix66guf5thhs3zdboqvcpja2m4gmh3xa333of2kloe
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.05elapsed 106%CPU (0avgtext+0avgdata 36760maxresident)k
+0inputs+0outputs (0major+3674minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.al.ai
+t01909-10652 t02965-11470 t01593-13021 t01699-20824 t096605-21807 t02014-8987 t02554-9783
+Already have log for t01909 10652 bafykbzaceaharm5nab6ewg65jyainh3folcowwpvaw7ga2k6hrhveudruomyi
+Already have log for t02965 11470 bafykbzaceaharm5nab6ewg65jyainh3folcowwpvaw7ga2k6hrhveudruomyi
+Already have log for t01593 13021 bafykbzaceaharm5nab6ewg65jyainh3folcowwpvaw7ga2k6hrhveudruomyi
+Retrieving t01699 20824 bafykbzaceaharm5nab6ewg65jyainh3folcowwpvaw7ga2k6hrhveudruomyi
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.08elapsed 86%CPU (0avgtext+0avgdata 36384maxresident)k
+0inputs+0outputs (0major+3577minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.bb
+t02315-10279 t01632-11179 t01593-11954 t02965-14170 t02197-16103 t01945-20587 t01909-21488 t01824-22812 t02306-8634 t01708-9446
+Retrieving t02315 10279 bafykbzaceccpgeaetriuumpgsj6djtp2iurmtys7hl4pxluy7327sqa36tp7c
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.07elapsed 82%CPU (0avgtext+0avgdata 36392maxresident)k
+0inputs+0outputs (0major+3626minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bw
+t02675-10438 t01591-11207 t02004-16227 t01902-17842 t02014-19225 t01827-20652 t01699-22888 t01945-8738 t02302-9512
+Retrieving t02675 10438 bafykbzacedehxic5fudu6dww54hs7i5h63wz6byh5xsiahla4ei3gfoch2txk
+2020-08-24T17:59:18.922Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG: all dials failed\\n  * [/ip4/34.222.193.200/tcp/28003] dial tcp4 0.0.0.0:36427-\\u003e34.222.193.200:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02675\",\"MinerPeer\":{\"Address\":\"t02675\",\"ID\":\"12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.08elapsed 1%CPU (0avgtext+0avgdata 38068maxresident)k
+0inputs+0outputs (0major+3728minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.ai
+t01819-11103 t01824-11930 t02315-12764 t01945-16079 t01591-17740 t01988-21459 t02004-22778 t01699-6089 t01827-9385
+Already have log for t01819 11103 bafykbzaceaf65hj6wlsdvx7kzu7dk2xvmyhflitp4d7c3u3ylicsxj4lywaci
+Already have log for t01824 11930 bafykbzaceaf65hj6wlsdvx7kzu7dk2xvmyhflitp4d7c3u3ylicsxj4lywaci
+Retrieving t02315 12764 bafykbzaceaf65hj6wlsdvx7kzu7dk2xvmyhflitp4d7c3u3ylicsxj4lywaci
+2020-08-24T17:59:22.207Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWHesJWTtJonjUP8MedttQ1j5KgjjBvvNuMtsjES6cP5Dw: all dials failed\\n  * [/ip4/34.220.91.72/tcp/28003] dial tcp4 34.220.91.72:28003: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02315\",\"MinerPeer\":{\"Address\":\"t02315\",\"ID\":\"12D3KooWHesJWTtJonjUP8MedttQ1j5KgjjBvvNuMtsjES6cP5Dw\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.01system 0:00.20elapsed 37%CPU (0avgtext+0avgdata 37896maxresident)k
+0inputs+0outputs (0major+3661minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.bh
+t02315-11173 t01699-16035 t02004-17693 t02965-19160 t03052-20562 t01945-22167 t069967-22757 t02014-9348
+Already have log for t02315 11173 bafykbzacec3eye52knaez6fpkpiaoe7vavngjcuaqemqktkr3fmwj6t7b5lx6
+Retrieving t01699 16035 bafykbzacec3eye52knaez6fpkpiaoe7vavngjcuaqemqktkr3fmwj6t7b5lx6
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.12user 0.05system 7:07.49elapsed 0%CPU (0avgtext+0avgdata 39088maxresident)k
+0inputs+0outputs (0major+3872minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bz
+t02306-10825 t02302-16873 t02197-21894 t01902-9086 t02014-9831
+Retrieving t02306 10825 bafykbzacedhg3fujzbnd2tilz4gxg4jblrhimojurm4bz5qlh7xwxs2g2sqfs
+2020-08-24T18:06:37.867Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez: all dials failed\\n  * [/ip4/116.211.58.216/tcp/1579] dial tcp4 0.0.0.0:36427-\\u003e116.211.58.216:1579: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.05elapsed 1%CPU (0avgtext+0avgdata 37968maxresident)k
+0inputs+0outputs (0major+3681minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.bc
+t02965-10429 t01902-11250 t01632-12009 t02750-19230 t02014-6231 t01827-8768 t01591-9514
+Already have log for t02965 10429 bafykbzacednmcw72ar2krcv74hihwtijw4ym24uyqqnhg3bvobhgfwqy7zqta
+Already have log for t01902 11250 bafykbzacednmcw72ar2krcv74hihwtijw4ym24uyqqnhg3bvobhgfwqy7zqta
+Already have log for t01632 12009 bafykbzacednmcw72ar2krcv74hihwtijw4ym24uyqqnhg3bvobhgfwqy7zqta
+Already have log for t02750 19230 bafykbzacednmcw72ar2krcv74hihwtijw4ym24uyqqnhg3bvobhgfwqy7zqta
+Retrieving t02014 6231 bafykbzacednmcw72ar2krcv74hihwtijw4ym24uyqqnhg3bvobhgfwqy7zqta
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.15user 0.10system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38940maxresident)k
+0inputs+0outputs (0major+3886minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.ay
+t01909-11294 t02306-16414 t03052-17968 t069967-19272 t01827-21658 t01699-6738 t02014-9566
+Already have log for t01909 11294 bafykbzaceb6tpzqf7baxlqb4u7x7gk4pcmra7wbpz3pbroecbgomg527rlmvk
+Retrieving t02306 16414 bafykbzaceb6tpzqf7baxlqb4u7x7gk4pcmra7wbpz3pbroecbgomg527rlmvk
+2020-08-24T18:23:50.138Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez: all dials failed\\n  * [/ip4/116.211.58.216/tcp/1579] dial tcp4 0.0.0.0:36427-\\u003e116.211.58.216:1579: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38140maxresident)k
+0inputs+0outputs (0major+3724minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bi
+t02965-10796 t02315-12217 t02981-16851 t01824-18309 t01945-20893 t02306-6948 t02302-9102
+Already have log for t02965 10796 bafykbzacedjfcg6hjd7n3ybuzuton7ofalwxi362oqxynll6vpzedv4epcn5u
+Retrieving t02315 12217 bafykbzacedjfcg6hjd7n3ybuzuton7ofalwxi362oqxynll6vpzedv4epcn5u
+2020-08-24T18:23:52.422Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWHesJWTtJonjUP8MedttQ1j5KgjjBvvNuMtsjES6cP5Dw: all dials failed\\n  * [/ip4/34.220.91.72/tcp/28003] dial tcp4 34.220.91.72:28003: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02315\",\"MinerPeer\":{\"Address\":\"t02315\",\"ID\":\"12D3KooWHesJWTtJonjUP8MedttQ1j5KgjjBvvNuMtsjES6cP5Dw\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:00.21elapsed 42%CPU (0avgtext+0avgdata 37892maxresident)k
+0inputs+0outputs (0major+3692minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.ae
+t01819-10373 t01824-14181 t02896-16162 t02965-21517 t01699-22834 t01945-6134
+Already have log for t01819 10373 bafykbzacedzfkvy4i26lzcno5w3lmnge2c537gbtr4mh7mv3r5mj7wdbuxem4
+Retrieving t01824 14181 bafykbzacedzfkvy4i26lzcno5w3lmnge2c537gbtr4mh7mv3r5mj7wdbuxem4
+2020-08-24T18:23:55.595Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh: all dials failed\\n  * [/ip4/101.206.156.202/tcp/18880] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01824\",\"MinerPeer\":{\"Address\":\"t01824\",\"ID\":\"12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:01.10elapsed 8%CPU (0avgtext+0avgdata 38384maxresident)k
+0inputs+0outputs (0major+3720minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.an
+t02674-10628 t02306-11429 t02197-16656 t01591-18173 t01824-19428 t02965-19919 t01945-20788 t02675-9737
+Already have log for t02674 10628 bafykbzacecqujwyti4mzgwitk4zumpzzb7rszm6bvjtw7bpxioy7vqprinzfc
+Retrieving t02306 11429 bafykbzacecqujwyti4mzgwitk4zumpzzb7rszm6bvjtw7bpxioy7vqprinzfc
+2020-08-24T18:24:02.727Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez: all dials failed\\n  * [/ip4/116.211.58.216/tcp/1579] dial tcp4 0.0.0.0:36427-\\u003e116.211.58.216:1579: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02306\",\"MinerPeer\":{\"Address\":\"t02306\",\"ID\":\"12D3KooWE2c5CzRJFbirE8pKSeHuXtQFiWVC5YgfLhY5mobpK4ez\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38080maxresident)k
+0inputs+0outputs (0major+3773minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.bd
+t01699-10050 t01945-10971 t02306-12678 t02750-13990 t069967-15894 t01988-17588 t02965-20498 t01920-21315 t02098-22041 t01819-5964 t01902-9208
+Already have log for t01699 10050 bafykbzacedwi3d5ic7aml3na4e4tcz3lz44dbgnqmokpuxdm3q3vgt7hetdm4
+Already have log for t01945 10971 bafykbzacedwi3d5ic7aml3na4e4tcz3lz44dbgnqmokpuxdm3q3vgt7hetdm4
+Already have log for t02306 12678 bafykbzacedwi3d5ic7aml3na4e4tcz3lz44dbgnqmokpuxdm3q3vgt7hetdm4
+Retrieving t02750 13990 bafykbzacedwi3d5ic7aml3na4e4tcz3lz44dbgnqmokpuxdm3q3vgt7hetdm4
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.09user 0.07system 5:24.94elapsed 0%CPU (0avgtext+0avgdata 38108maxresident)k
+0inputs+0outputs (0major+3696minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.av
+t02098-10486 t02306-11284 t02554-12847 t01824-16403 t01699-17963 t02014-19256 t01827-20705 t01819-9561
+Already have log for t02098 10486 bafykbzacedzcq2me5eom73rknm2e3i7gtmyto7xi7yufqxpacifyqqqjna6bq
+Already have log for t02306 11284 bafykbzacedzcq2me5eom73rknm2e3i7gtmyto7xi7yufqxpacifyqqqjna6bq
+Already have log for t02554 12847 bafykbzacedzcq2me5eom73rknm2e3i7gtmyto7xi7yufqxpacifyqqqjna6bq
+Retrieving t01824 16403 bafykbzacedzcq2me5eom73rknm2e3i7gtmyto7xi7yufqxpacifyqqqjna6bq
+2020-08-24T18:29:37.023Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh: all dials failed\\n  * [/ip4/101.206.156.202/tcp/18880] failed to negotiate security protocol: peer IDs don't match\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01824\",\"MinerPeer\":{\"Address\":\"t01824\",\"ID\":\"12D3KooWAcAC6hESHLkndpbpp3cNsHHCGP3K4WBi5sn1FU6nbZwh\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.08user 0.02system 0:01.13elapsed 9%CPU (0avgtext+0avgdata 38284maxresident)k
+0inputs+0outputs (0major+3657minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bd
+t02315-10806 t01824-11532 t05025-16837 t01902-18304 t069967-19472 t02004-19967 t01988-21886 t02263-8037 t01593-9057 t02896-9865
+Already have log for t02315 10806 bafykbzaced2c644q6is7izfmpkt74xv2ursvfvorpimm2ugi5ukusai76zucs
+Already have log for t01824 11532 bafykbzaced2c644q6is7izfmpkt74xv2ursvfvorpimm2ugi5ukusai76zucs
+Retrieving t05025 16837 bafykbzaced2c644q6is7izfmpkt74xv2ursvfvorpimm2ugi5ukusai76zucs
+2020-08-24T18:29:45.175Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN: all dials failed\\n  * [/ip4/117.48.133.73/tcp/1348] dial tcp4 0.0.0.0:36427-\\u003e117.48.133.73:1348: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t05025\",\"MinerPeer\":{\"Address\":\"t05025\",\"ID\":\"12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38860maxresident)k
+0inputs+0outputs (0major+3813minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ah.aa
+t01699-10389 t02554-11203 t02750-11985 t01593-14203 t01945-16237 t01824-17853 t01902-21563 t02896-22290 t02965-22883
+Already have log for t01699 10389 bafykbzaceavqskl3dr2t4qutyklz6wbodcyxcbex23deow5og2mjbybj2nlwm
+Retrieving t02554 11203 bafykbzaceavqskl3dr2t4qutyklz6wbodcyxcbex23deow5og2mjbybj2nlwm
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+2020-08-24T18:29:49.330Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 0 B, Paid 0 FIL, ClientEventDataTransferError (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error generated by data transfer: deal data transfer failed: Response Rejected
+
+Command exited with non-zero status 1
+0.07user 0.02system 0:02.08elapsed 4%CPU (0avgtext+0avgdata 37916maxresident)k
+0inputs+0outputs (0major+3662minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.am
+t02554-10395 t01902-11210 t02674-14169 t01827-16180 t02750-17796 t01824-19731 t02014-7942 t02315-8687 t01591-9481
+Retrieving t02554 10395 bafykbzaceddrcog5jsr74whzbasv7dj3gxg7lqwgt7ekv6mupcbfzamnrfuoi
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDataTransferError (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error generated by data transfer: deal data transfer failed: Response Rejected
+
+Command exited with non-zero status 1
+0.05user 0.02system 0:01.46elapsed 5%CPU (0avgtext+0avgdata 37896maxresident)k
+0inputs+0outputs (0major+3680minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bu
+t02554-10444 t01902-11198 t02675-11977 t02182-16229 t02004-17843 t01699-19741 t02965-20644 t01909-21565 t02014-6645 t02263-8729 t01591-9465
+Already have log for t02554 10444 bafykbzacecw6tqgn4yacqfi24iw6sxgl3hsnl6fzith7bxmuvzjanouzwxhae
+Already have log for t01902 11198 bafykbzacecw6tqgn4yacqfi24iw6sxgl3hsnl6fzith7bxmuvzjanouzwxhae
+Retrieving t02675 11977 bafykbzacecw6tqgn4yacqfi24iw6sxgl3hsnl6fzith7bxmuvzjanouzwxhae
+2020-08-24T18:29:59.991Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG: all dials failed\\n  * [/ip4/34.222.193.200/tcp/28003] dial tcp4 0.0.0.0:36427-\\u003e34.222.193.200:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02675\",\"MinerPeer\":{\"Address\":\"t02675\",\"ID\":\"12D3KooWAfmJvpRxfNLBdvToYhS9osKRozg81DTNQDDYkzPUetPG\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.03system 0:05.05elapsed 1%CPU (0avgtext+0avgdata 38300maxresident)k
+0inputs+0outputs (0major+3811minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.bn
+t01945-17592 t02965-19572 t01824-20501 t02156-21327 t069967-22081 t02014-7881 t02197-8460 t03052-9254
+Already have log for t01945 17592 bafykbzaceav4m2yjynlsmc5q4knbs2npgwjmonfn5ta4wcy4jha32lunjnsmm
+Retrieving t02965 19572 bafykbzaceav4m2yjynlsmc5q4knbs2npgwjmonfn5ta4wcy4jha32lunjnsmm
+2020-08-24T18:30:09.379Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02965\",\"MinerPeer\":{\"Address\":\"t02965\",\"ID\":\"12D3KooWCkwvoDCbgTeA449F3LEfpMMPSVZsarDNRFtQWeqREdV8\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.03system 0:07.30elapsed 0%CPU (0avgtext+0avgdata 38292maxresident)k
+0inputs+0outputs (0major+3795minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bg
+t05025-10793 t02554-11533 t01632-12215 t01593-13079 t03052-16846 t02014-18311 t01699-20891 t096492-21889 t01708-9060 t02306-9871
+Already have log for t05025 10793 bafykbzaceaq6nqfnw63ekgdsm3nkxkzibrfi2cpknaiiskwg2bz5eggqgxqqi
+Retrieving t02554 11533 bafykbzaceaq6nqfnw63ekgdsm3nkxkzibrfi2cpknaiiskwg2bz5eggqgxqqi
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDataTransferError (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error generated by data transfer: deal data transfer failed: Response Rejected
+
+Command exited with non-zero status 1
+0.06user 0.02system 0:00.65elapsed 13%CPU (0avgtext+0avgdata 38348maxresident)k
+0inputs+0outputs (0major+3716minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.be
+t02197-10534 t02750-12033 t03052-16431 t02004-17991 t02098-21672 t02014-6743 t01593-8785
+Retrieving t02197 10534 bafykbzacebjrnenkzwlwensmdpqprluxjpovsnzycpqgq7xkvoy5snx52miuc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.12user 0.06system 5:50.10elapsed 0%CPU (0avgtext+0avgdata 38584maxresident)k
+0inputs+0outputs (0major+3845minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ag.bo
+t02302-10366 t01699-11197 t02674-14188 t03052-16218 t01819-21553 t02306-6186 t01824-8727 t02896-9523
+Already have log for t02302 10366 bafykbzacebmoigb2dbkokddbmcrccfw3b73o4m76hoz7ozqqtpv3xh4piy2ha
+Already have log for t01699 11197 bafykbzacebmoigb2dbkokddbmcrccfw3b73o4m76hoz7ozqqtpv3xh4piy2ha
+Retrieving t02674 14188 bafykbzacebmoigb2dbkokddbmcrccfw3b73o4m76hoz7ozqqtpv3xh4piy2ha
+2020-08-24T18:36:11.403Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ: all dials failed\\n  * [/ip4/44.234.26.160/tcp/28003] dial tcp4 0.0.0.0:36427-\\u003e44.234.26.160:28003: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02674\",\"MinerPeer\":{\"Address\":\"t02674\",\"ID\":\"12D3KooWBeXtgmT67dTwDxvjHjNxWkvkSh2goN17vbgbUpVK7YYJ\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38284maxresident)k
+0inputs+0outputs (0major+3816minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.bp
+t05025-10512 t01945-16460 t069967-19857 t01699-20719 t02675-8835
+Retrieving t05025 10512 bafykbzacebl4folm3rvhvwkwuwmqdeo6stoxtqo2nwxsawoei2odrhbyx5vrk
+2020-08-24T18:36:17.512Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN: all dials failed\\n  * [/ip4/117.48.133.73/tcp/1348] dial tcp4 0.0.0.0:36427-\\u003e117.48.133.73:1348: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t05025\",\"MinerPeer\":{\"Address\":\"t05025\",\"ID\":\"12D3KooWAxA2MbBiS1TNuzAQZwnwLBVsj4exe5PS19w1gn78oqWN\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.04user 0.03system 0:05.06elapsed 1%CPU (0avgtext+0avgdata 38172maxresident)k
+0inputs+0outputs (0major+3684minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.bs
+t02675-10520 t01824-11327 t01909-16481 t01827-18036 t03052-20728 t02306-6314 t02302-8803
+Already have log for t02675 10520 bafykbzaceczrsm5lmko57tckuv2lm2ypudvjzsohicc5pxo7qrgmagbwgea5s
+Already have log for t01824 11327 bafykbzaceczrsm5lmko57tckuv2lm2ypudvjzsohicc5pxo7qrgmagbwgea5s
+Already have log for t01909 16481 bafykbzaceczrsm5lmko57tckuv2lm2ypudvjzsohicc5pxo7qrgmagbwgea5s
+Retrieving t01827 18036 bafykbzaceczrsm5lmko57tckuv2lm2ypudvjzsohicc5pxo7qrgmagbwgea5s
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.12user 0.13system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39716maxresident)k
+0inputs+0outputs (0major+3941minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.aj
+t02965-10466 t01591-11271 t01593-12825 t01945-16376 t01988-17951 t01824-19265 t05025-21640 t02302-8769
+Already have log for t02965 10466 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+Already have log for t01591 11271 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+Already have log for t01593 12825 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+Retrieving t01945 16376 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Success
+0.05user 0.05system 2:27.73elapsed 0%CPU (0avgtext+0avgdata 38472maxresident)k
+0inputs+0outputs (0major+3764minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bp
+t01591-10803 t01824-12236 t02014-13121 t02965-16861 t01945-19485 t01819-21879 t04985-9869
+Already have log for t01591 10803 bafykbzaceardbi7sa5hszz3brt6g4y6wlhjj62aw6iicfxjrwctfqiws2pnzy
+Already have log for t01824 12236 bafykbzaceardbi7sa5hszz3brt6g4y6wlhjj62aw6iicfxjrwctfqiws2pnzy
+Retrieving t02014 13121 bafykbzaceardbi7sa5hszz3brt6g4y6wlhjj62aw6iicfxjrwctfqiws2pnzy
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.00system 0:00.07elapsed 86%CPU (0avgtext+0avgdata 36284maxresident)k
+0inputs+0outputs (0major+3595minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.as
+t02674-11730 t01902-15727 t01988-17430 t02750-18944 t02014-21964 t02332-22522 t01824-7862 t01945-8324 t01708-9894
+Already have log for t02674 11730 bafykbzaceawwbotf4jrqvborghoiol6gm7w2yr3qqndwnypixhxgnkis6hram
+Retrieving t01902 15727 bafykbzaceawwbotf4jrqvborghoiol6gm7w2yr3qqndwnypixhxgnkis6hram
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.05user 0.01system 0:00.07elapsed 83%CPU (0avgtext+0avgdata 36008maxresident)k
+0inputs+0outputs (0major+3570minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.bs
+t02004-10935 t01902-11763 t02014-18962 t02098-21278 t096605-21981 t03052-22554 t02306-5938 t01591-8414 t02981-9173 t01945-9967
+Already have log for t02004 10935 bafykbzaceciwhd6def6jumt6caq75o36idg5oleugjlhlmicz32s5uqax72kq
+Already have log for t01902 11763 bafykbzaceciwhd6def6jumt6caq75o36idg5oleugjlhlmicz32s5uqax72kq
+Already have log for t02014 18962 bafykbzaceciwhd6def6jumt6caq75o36idg5oleugjlhlmicz32s5uqax72kq
+Retrieving t02098 21278 bafykbzaceciwhd6def6jumt6caq75o36idg5oleugjlhlmicz32s5uqax72kq
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+2020-08-24T18:56:06.858Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+Success
+0.05user 0.01system 0:07.90elapsed 0%CPU (0avgtext+0avgdata 38300maxresident)k
+0inputs+0outputs (0major+3834minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ak.bs
+t01743-10691 t01945-11458 t05025-16696 t02014-19932 t02981-20813 t02332-21791 t01699-23096 t02206-6884 t04985-9725
+Already have log for t01743 10691 bafykbzacec275m52t3dgwehpn2h7dhdqi5bujiwgi2bpbbmbk4e7yaqj2xx4u
+Retrieving t01945 11458 bafykbzacec275m52t3dgwehpn2h7dhdqi5bujiwgi2bpbbmbk4e7yaqj2xx4u
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.01system 0:00.06elapsed 81%CPU (0avgtext+0avgdata 36176maxresident)k
+0inputs+0outputs (0major+3610minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.an.ab
+t02674-11544 t02750-13092 t096379-16876 t02302-20921 t01902-21907 t02306-8045 t01632-9089 t03052-9838
+Already have log for t02674 11544 bafykbzaceb346smoy2abxlwu6mglr4f5e2abnfx3jm4uh5sn6y33o7ra3tf5m
+Retrieving t02750 13092 bafykbzaceb346smoy2abxlwu6mglr4f5e2abnfx3jm4uh5sn6y33o7ra3tf5m
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:00.05elapsed 91%CPU (0avgtext+0avgdata 36616maxresident)k
+0inputs+0outputs (0major+3653minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aa.bv
+t02965-15772 t096492-17443 t069967-20458 t02197-21231 t02014-22546 t02533-6543 t01902-8374 t01945-9125 t01909-9907
+Already have log for t02965 15772 bafykbzacecrerhe7ivt5dqqjpejhfl5m4n7yfa5imrpmjdxxs3vtsym4rgz7g
+Already have log for t096492 17443 bafykbzacecrerhe7ivt5dqqjpejhfl5m4n7yfa5imrpmjdxxs3vtsym4rgz7g
+Already have log for t069967 20458 bafykbzacecrerhe7ivt5dqqjpejhfl5m4n7yfa5imrpmjdxxs3vtsym4rgz7g
+Retrieving t02197 21231 bafykbzacecrerhe7ivt5dqqjpejhfl5m4n7yfa5imrpmjdxxs3vtsym4rgz7g
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.02system 0:00.06elapsed 83%CPU (0avgtext+0avgdata 37036maxresident)k
+0inputs+0outputs (0major+3580minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.ao
+t03052-10088 t01591-10960 t02014-11808 t01593-15871 t01902-21298 t01819-5930 t02306-8425 t05036-9207
+Already have log for t03052 10088 bafykbzaceb3nqjdih263ssbwmu5duxlzn4jpkt4sqxyypmgkdhhqmcox4feiu
+Already have log for t01591 10960 bafykbzaceb3nqjdih263ssbwmu5duxlzn4jpkt4sqxyypmgkdhhqmcox4feiu
+Retrieving t02014 11808 bafykbzaceb3nqjdih263ssbwmu5duxlzn4jpkt4sqxyypmgkdhhqmcox4feiu
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
