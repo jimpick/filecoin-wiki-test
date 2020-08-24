@@ -17,6 +17,8 @@ trap cleanup EXIT
 CHECK=$WORKDIR/check.txt
 ./check.sh $TARGET > $CHECK
 
+grep -l refused retrievals/$CLIENT/wiki*.log | xargs rm -v
+
 COUNTER=1
 mkdir -p tmp
 for x in $(grep ^wiki $CHECK | shuf); do
