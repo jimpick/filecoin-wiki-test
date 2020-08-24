@@ -1057,3 +1057,32 @@ t05036-10536 t01593-12851 t02981-16446 t01902-17992 t02014-19858 t096492-21670 t
 Retrieving t05036 10536 bafykbzacebw7l4x6qskjp22jkbkity5p62htz2s4jpgj24lvq53d3cagdq254
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.13user 0.09system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38444maxresident)k
+0inputs+0outputs (0major+3850minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bs
+t02981-11540 t02306-12239 t01909-16866 t02965-18318 t01824-19488 t069967-20908 t02332-21899 t01819-6964 t02315-9110 t02675-9878
+Already have log for t02981 11540 bafykbzaceceppfhyqyjnlpzv7undp2cmjdjuh6trc76flc7bf7zupxopf4ss6
+Already have log for t02306 12239 bafykbzaceceppfhyqyjnlpzv7undp2cmjdjuh6trc76flc7bf7zupxopf4ss6
+Already have log for t01909 16866 bafykbzaceceppfhyqyjnlpzv7undp2cmjdjuh6trc76flc7bf7zupxopf4ss6
+Retrieving t02965 18318 bafykbzaceceppfhyqyjnlpzv7undp2cmjdjuh6trc76flc7bf7zupxopf4ss6
+2020-08-24T20:06:07.676Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02965\",\"MinerPeer\":{\"Address\":\"t02965\",\"ID\":\"12D3KooWCkwvoDCbgTeA449F3LEfpMMPSVZsarDNRFtQWeqREdV8\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.03user 0.01system 0:06.83elapsed 0%CPU (0avgtext+0avgdata 38308maxresident)k
+0inputs+0outputs (0major+3796minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.ab
+t01945-10252 t02554-11156 t01593-12742 t01827-16071 t01699-17712 t096492-22203 t02014-6100 t02315-8626
+Already have log for t01945 10252 bafykbzaceb4gdonqbx6y5elqz24s6wwbyghom2cxv2mxmln45z2m3qb4q7tmu
+Already have log for t02554 11156 bafykbzaceb4gdonqbx6y5elqz24s6wwbyghom2cxv2mxmln45z2m3qb4q7tmu
+Already have log for t01593 12742 bafykbzaceb4gdonqbx6y5elqz24s6wwbyghom2cxv2mxmln45z2m3qb4q7tmu
+Retrieving t01827 16071 bafykbzaceb4gdonqbx6y5elqz24s6wwbyghom2cxv2mxmln45z2m3qb4q7tmu
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
