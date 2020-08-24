@@ -1,0 +1,6 @@
+2020-08-23T09:10:27.386-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to find any peer in table\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t03052\",\"MinerPeer\":{\"Address\":\"t03052\",\"ID\":\"12D3KooWEhwi768AdZTDCdnsaFjyeDjRFwvJgnUtchcqu3xiQFfm\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 94%CPU (0avgtext+0avgdata 37988maxresident)k
+0inputs+0outputs (0major+3715minor)pagefaults 0swaps

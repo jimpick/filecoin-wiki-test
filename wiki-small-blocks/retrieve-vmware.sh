@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CHECK=results/2020-08-22-a/check.txt
+CHECK=results/2020-08-22-b/check.txt
 mkdir -p tmp
 for x in $(grep ^wiki $CHECK); do
 	echo $x
