@@ -1,5 +1,5 @@
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 Success
-0.06user 0.02system 12:53.77elapsed 0%CPU (0avgtext+0avgdata 37936maxresident)k
-0inputs+0outputs (0major+3680minor)pagefaults 0swaps
+0.02user 0.02system 2:29.74elapsed 0%CPU (0avgtext+0avgdata 37652maxresident)k
+0inputs+0outputs (0major+3611minor)pagefaults 0swaps

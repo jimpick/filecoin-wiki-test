@@ -3714,3 +3714,122 @@ Already have log for t02315 14106 bafykbzacedfvez27jhzim5rlj4uqzmp7vl3afmicrd47u
 Retrieving t02014 16011 bafykbzacedfvez27jhzim5rlj4uqzmp7vl3afmicrd47uk6wauqcsvv7phpdw
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Success
+0.06user 0.02system 12:53.77elapsed 0%CPU (0avgtext+0avgdata 37936maxresident)k
+0inputs+0outputs (0major+3680minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.bf
+t01591-10578 t02004-11391 t01632-12071 t02750-12956 t02896-8820 t01902-9610
+Already have log for t01591 10578 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+Already have log for t02004 11391 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+Already have log for t01632 12071 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+Already have log for t02750 12956 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+Retrieving t02896 8820 bafykbzacead7kyucze6llqxqgodz7b7vstbocpaclnfubuvhokr5oofkpceei
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.03elapsed 88%CPU (0avgtext+0avgdata 36188maxresident)k
+0inputs+0outputs (0major+3604minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.bl
+t02896-10349 t02014-12762 t02004-16114 t01824-19723 t02197-20613 t01945-21497 t01819-8647 t04985-9407
+Already have log for t02896 10349 bafykbzacea2msvjoeoil36f6kxgwepuak2b6vokvhbcemag4yye7hevovl2we
+Already have log for t02014 12762 bafykbzacea2msvjoeoil36f6kxgwepuak2b6vokvhbcemag4yye7hevovl2we
+Already have log for t02004 16114 bafykbzacea2msvjoeoil36f6kxgwepuak2b6vokvhbcemag4yye7hevovl2we
+Retrieving t01824 19723 bafykbzacea2msvjoeoil36f6kxgwepuak2b6vokvhbcemag4yye7hevovl2we
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 90%CPU (0avgtext+0avgdata 36284maxresident)k
+0inputs+0outputs (0major+3573minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ab.bo
+t02896-10934 t02674-11791 t02750-17548 t02306-18961 t01824-20481 t01988-21275 t02315-8402 t01591-9236 t02554-9960
+Already have log for t02896 10934 bafykbzaced6bqp6ydydzyuujxzj2wlatkp6qnunu7srnlgthqgi6zngancbka
+Already have log for t02674 11791 bafykbzaced6bqp6ydydzyuujxzj2wlatkp6qnunu7srnlgthqgi6zngancbka
+Already have log for t02750 17548 bafykbzaced6bqp6ydydzyuujxzj2wlatkp6qnunu7srnlgthqgi6zngancbka
+Already have log for t02306 18961 bafykbzaced6bqp6ydydzyuujxzj2wlatkp6qnunu7srnlgthqgi6zngancbka
+Retrieving t01824 20481 bafykbzaced6bqp6ydydzyuujxzj2wlatkp6qnunu7srnlgthqgi6zngancbka
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:00.03elapsed 91%CPU (0avgtext+0avgdata 35852maxresident)k
+0inputs+0outputs (0major+3509minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.aj.ao
+t02182-10548 t02315-12924 t096492-16547 t01824-18076 t01699-19361 t069967-19901 t01945-20750 t02302-21723 t02264-6772 t02014-8860 t02263-9673
+Already have log for t02182 10548 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+Already have log for t02315 12924 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+Already have log for t096492 16547 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+Already have log for t01824 18076 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+Already have log for t01699 19361 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+Retrieving t069967 19901 bafykbzacedccohl24kh4belmky7nncicgi67fcm52fcxyzo54s3duudd33ejk
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.00system 0:00.03elapsed 93%CPU (0avgtext+0avgdata 36244maxresident)k
+0inputs+0outputs (0major+3591minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.am.bo
+t01743-10784 t02306-11551 t01945-12230 t02315-13113 t02004-16858 t069967-21876 t02263-6958 t02896-9101
+Already have log for t01743 10784 bafykbzaceax2xlkezkjyovpzigngaf6atcw4t3a3sbf4t66nrxi3zhpsfsjrq
+Already have log for t02306 11551 bafykbzaceax2xlkezkjyovpzigngaf6atcw4t3a3sbf4t66nrxi3zhpsfsjrq
+Already have log for t01945 12230 bafykbzaceax2xlkezkjyovpzigngaf6atcw4t3a3sbf4t66nrxi3zhpsfsjrq
+Already have log for t02315 13113 bafykbzaceax2xlkezkjyovpzigngaf6atcw4t3a3sbf4t66nrxi3zhpsfsjrq
+Retrieving t02004 16858 bafykbzaceax2xlkezkjyovpzigngaf6atcw4t3a3sbf4t66nrxi3zhpsfsjrq
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.01system 0:00.03elapsed 96%CPU (0avgtext+0avgdata 36248maxresident)k
+0inputs+0outputs (0major+3591minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ae.au
+t01945-10226 t02896-11111 t02750-12707 t02810-16017 t02965-17671 t02306-19139 t01827-21419 t02014-22166 t02197-8531 t02981-9334
+Already have log for t01945 10226 bafykbzacedipl24jad4tq7edgaje766gzi6gqpagiitg5sqdagqrv7jufqjrc
+Already have log for t02896 11111 bafykbzacedipl24jad4tq7edgaje766gzi6gqpagiitg5sqdagqrv7jufqjrc
+Retrieving t02750 12707 bafykbzacedipl24jad4tq7edgaje766gzi6gqpagiitg5sqdagqrv7jufqjrc
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.04elapsed 72%CPU (0avgtext+0avgdata 36096maxresident)k
+0inputs+0outputs (0major+3607minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ac.bf
+t02674-10113 t02197-10980 t01945-11781 t02014-12679 t02965-13994 t02302-17615 t01819-6562 t01827-9228
+Already have log for t02674 10113 bafykbzacedplymg67hduvitxcgax2gxko5g4kr2mt375yhmo2r7lxui7mvwm6
+Already have log for t02197 10980 bafykbzacedplymg67hduvitxcgax2gxko5g4kr2mt375yhmo2r7lxui7mvwm6
+Already have log for t01945 11781 bafykbzacedplymg67hduvitxcgax2gxko5g4kr2mt375yhmo2r7lxui7mvwm6
+Already have log for t02014 12679 bafykbzacedplymg67hduvitxcgax2gxko5g4kr2mt375yhmo2r7lxui7mvwm6
+Retrieving t02965 13994 bafykbzacedplymg67hduvitxcgax2gxko5g4kr2mt375yhmo2r7lxui7mvwm6
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:00.06elapsed 59%CPU (0avgtext+0avgdata 37080maxresident)k
+0inputs+0outputs (0major+3688minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.af.bn
+t01591-10362 t01708-11160 t02306-11968 t02674-14166 t01827-21501 t02896-22233 t01699-6106 t02302-8621 t01902-9409
+Already have log for t01591 10362 bafykbzacebkceuhmtibiiwpuf4i4efcx7evzo2lxk2jvfq6ndqncgqtefvfb4
+Already have log for t01708 11160 bafykbzacebkceuhmtibiiwpuf4i4efcx7evzo2lxk2jvfq6ndqncgqtefvfb4
+Already have log for t02306 11968 bafykbzacebkceuhmtibiiwpuf4i4efcx7evzo2lxk2jvfq6ndqncgqtefvfb4
+Retrieving t02674 14166 bafykbzacebkceuhmtibiiwpuf4i4efcx7evzo2lxk2jvfq6ndqncgqtefvfb4
+ERROR: dial tcp 127.0.0.1:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.01user 0.00system 0:00.05elapsed 52%CPU (0avgtext+0avgdata 36516maxresident)k
+0inputs+0outputs (0major+3684minor)pagefaults 0swaps
+Skipping ahead
+
+1 wiki.zip.ai.aj
+t02965-10466 t01591-11271 t01593-12825 t01945-16376 t01988-17951 t01824-19265 t05025-21640 t02302-8769
+Already have log for t02965 10466 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+Already have log for t01591 11271 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
+Already have log for t01593 12825 bafykbzacea27snyixjza2y2ktjlz4eiq63ho7iho5irjmajpukziuvzntvjgc
