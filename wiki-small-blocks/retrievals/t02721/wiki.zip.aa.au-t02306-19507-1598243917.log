@@ -1,8 +1,8 @@
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
-> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
 > Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
 > Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
 > Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
@@ -21,5 +21,5 @@
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
 Success
-0.03user 0.02system 3:50.99elapsed 0%CPU (0avgtext+0avgdata 37768maxresident)k
-480inputs+0outputs (3major+3841minor)pagefaults 0swaps
+0.03user 0.02system 3:27.84elapsed 0%CPU (0avgtext+0avgdata 38200maxresident)k
+184inputs+0outputs (2major+3723minor)pagefaults 0swaps

@@ -21,5 +21,5 @@
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
 Success
-0.03user 0.02system 3:50.99elapsed 0%CPU (0avgtext+0avgdata 37768maxresident)k
-480inputs+0outputs (3major+3841minor)pagefaults 0swaps
+0.01user 0.03system 3:26.59elapsed 0%CPU (0avgtext+0avgdata 37244maxresident)k
+0inputs+0outputs (0major+3704minor)pagefaults 0swaps

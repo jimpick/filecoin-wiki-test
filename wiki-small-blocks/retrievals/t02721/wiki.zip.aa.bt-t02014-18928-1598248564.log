@@ -15,11 +15,11 @@
 > Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
 > Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
-> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
-> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusBlocksComplete)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusSendFundsLastPayment)
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
 > Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
 Success
-0.03user 0.02system 3:50.99elapsed 0%CPU (0avgtext+0avgdata 37768maxresident)k
-480inputs+0outputs (3major+3841minor)pagefaults 0swaps
+0.03user 0.02system 3:26.82elapsed 0%CPU (0avgtext+0avgdata 38128maxresident)k
+336inputs+0outputs (2major+3793minor)pagefaults 0swaps
