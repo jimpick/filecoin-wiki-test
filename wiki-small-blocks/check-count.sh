@@ -22,7 +22,7 @@ trap cleanup EXIT
 COUNTER=1
 for x in *.zip.??.??.import; do
   x2=$(echo $x | sed s',\.import,,')
-  cat $x2.$CLIENT.*.deal > $WORKDIR/deals.txt 2> /dev/null
+  cat $x2.$CLIENT.*.deal | grep bafy > $WORKDIR/deals.txt 2> /dev/null
   cat $OUTPUT | grep -f $WORKDIR/deals.txt > $WORKDIR/filtered.txt
 	COUNT=$(cat $WORKDIR/filtered.txt | wc -l)
 	ACTIVE_COUNT=$(cat $WORKDIR/filtered.txt | grep Active | wc -l)

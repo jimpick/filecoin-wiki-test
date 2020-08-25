@@ -1,7 +1,7 @@
 #! /bin/bash
 
 mkdir -p tmp
-curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/calibration/src/annotations-calibration.js
+curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/spacerace/src/annotations-spacerace.js
 
 MINERS=$(node -e '
 const fs = require("fs")

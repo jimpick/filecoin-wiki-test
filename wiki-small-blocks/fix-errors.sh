@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ./check.sh  | grep 'Error' | tee ./tmp/errors.txt
-DEALS=$(cat ./tmp/errors.txt | awk '{ print $1 }')
+DEALS=$(cat ./tmp/errors.txt | awk '{ print $4 }' | grep ^bafy)
 
 for d in $DEALS; do
 	echo $d
