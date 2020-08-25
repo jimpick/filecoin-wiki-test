@@ -695,57 +695,24 @@
 695 wiki.zip.an.af
 696 wiki.zip.an.ag
 697 wiki.zip.an.ah
-1 wiki.zip.ak.bm
-Retrieving t02574 2831 bafykbzaceat45k5evvlycvcvm32jmfokids5f4osdbsqjzgongxivktxbintu
-> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
-ERROR: retrieval timed out
-
-Command exited with non-zero status 124
-0.15user 0.08system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39632maxresident)k
-0inputs+0outputs (0major+4022minor)pagefaults 0swaps
-Skipping ahead
-
-1 wiki.zip.ab.bp
-Retrieving t07848 2939 bafykbzacedurt3mchx3q5l6rjfye622bsbwwgvrrnouwht3ibh7vnthy7oe4c
+1 wiki.zip.ac.ai
+Retrieving t02385 2508 bafykbzacecrfpyeoxkqmfwzgawm3baa3cdspxoffv3ehtubpdomwziap2fb72
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
-ERROR: retrieval timed out
-
-Command exited with non-zero status 124
-0.13user 0.06system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39464maxresident)k
-0inputs+0outputs (0major+3894minor)pagefaults 0swaps
-Skipping ahead
-
-1 wiki.zip.ad.bj
-
-0 wiki.zip.ab.ak
-Retrieving t02518 2472 bafykbzacedmtmf6a3ekykicfpzkod73gjfqtfw46vckgqwh6v4iumidicn3jw
-2020-08-25T04:49:03.203Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02518\",\"MinerPeer\":{\"Address\":\"t02518\",\"ID\":\"12D3KooWNG4HjjykVWPqfuwt5Ljh7YxsjdUdWnJqCY4HqBL89mvy\",\"PieceCID\":null}}"}
-ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+> Recv: 0 B, Paid 0 FIL,  (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
 
 Command exited with non-zero status 1
-0.05user 0.02system 0:30.11elapsed 0%CPU (0avgtext+0avgdata 38976maxresident)k
-0inputs+0outputs (0major+3723minor)pagefaults 0swaps
+0.10user 0.10system 11:39.76elapsed 0%CPU (0avgtext+0avgdata 39424maxresident)k
+0inputs+0outputs (0major+3839minor)pagefaults 0swaps
 Skipping ahead
 
-1 wiki.zip.af.bh
-
-0 wiki.zip.ab.aa
-Already have log for t02424 2940 bafykbzacedt4xdfro2nhiz6ocbm53jxigcerja2w7vtfsohndmvs72vdlfwlq
-
-0 wiki.zip.aa.au
-
-0 wiki.zip.ah.be
-
-0 wiki.zip.ah.al
-Retrieving t03143 2680 bafykbzaceb3wgjt7x2aah6pk6hqci6nl6ygasffa4kost7ajvsojon2f62uh4
+1 wiki.zip.ac.ac
+Retrieving t02575 2505 bafykbzaceac63vfewkn55c56okfq2ihuzxs7gkazhdrh4h6el4bgvvlsist64
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
@@ -754,41 +721,12 @@ Retrieving t03143 2680 bafykbzaceb3wgjt7x2aah6pk6hqci6nl6ygasffa4kost7ajvsojon2f
 ERROR: retrieval timed out
 
 Command exited with non-zero status 124
-0.16user 0.09system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39792maxresident)k
-0inputs+0outputs (0major+3998minor)pagefaults 0swaps
+0.14user 0.08system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39084maxresident)k
+0inputs+0outputs (0major+3782minor)pagefaults 0swaps
 Skipping ahead
 
-1 wiki.zip.ah.bz
-Retrieving t01272 2693 bafykbzacedsa2qq6ng4ncqwbwliw6wsq5cdibhiwbvgcoyhjozxku6dlwalaq
-> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
-> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
-> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelCreating)
-> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
-> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
-> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
-> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
-> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
-> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
-> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
-> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
-> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
-> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
-> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
-> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
-> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
-> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
-Success
-0.09user 0.04system 4:53.82elapsed 0%CPU (0avgtext+0avgdata 38636maxresident)k
-0inputs+0outputs (0major+3716minor)pagefaults 0swaps
-Skipping ahead
-
-1 wiki.zip.ab.ao
-Retrieving t02385 2476 bafykbzacecx7v6fi44b2s6pb4o6veets6mbdvffe5cn4l6p3bglowqffrlnqs
+1 wiki.zip.ae.az
+Retrieving t01288 2575 bafykbzaceaoxwoqlaghyfrgyx3fmcypwbuiptjx2txonyc4zpctgbkmbd6dd4
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
@@ -797,12 +735,17 @@ Retrieving t02385 2476 bafykbzacecx7v6fi44b2s6pb4o6veets6mbdvffe5cn4l6p3bglowqff
 ERROR: retrieval timed out
 
 Command exited with non-zero status 124
-0.16user 0.07system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 39548maxresident)k
-0inputs+0outputs (0major+4001minor)pagefaults 0swaps
+0.18user 0.07system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38668maxresident)k
+0inputs+0outputs (0major+3814minor)pagefaults 0swaps
 Skipping ahead
 
-1 wiki.zip.am.as
-Retrieving t03143 2868 bafykbzacecstb5qwj3m3a2cyw3utqlj2bfgy6ogs6snrmoqc7iarq66lq225e
+1 wiki.zip.al.ak
+Already have log for t03314 2812 bafykbzacecvle7yvv4syxwfjgvfhvnanqzhbosg34baugqjolub5wxpm7ytng
+
+0 wiki.zip.ag.ap
+
+0 wiki.zip.aa.bj
+Retrieving t02665 2449 bafykbzacean33vlhvadwqa2og5xymwzp2oe2deat77oj6c6dlx5seyv4thk7q
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
@@ -811,14 +754,15 @@ Retrieving t03143 2868 bafykbzacecstb5qwj3m3a2cyw3utqlj2bfgy6ogs6snrmoqc7iarq66l
 ERROR: retrieval timed out
 
 Command exited with non-zero status 124
-0.13user 0.11system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38848maxresident)k
-0inputs+0outputs (0major+3822minor)pagefaults 0swaps
+0.15user 0.09system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 38904maxresident)k
+0inputs+0outputs (0major+3883minor)pagefaults 0swaps
 Skipping ahead
 
-1 wiki.zip.ae.ar
-Retrieving t02420 2542 bafykbzacecexia6jkgcp3a5vjfdifjzweoe5orkk4ykv3p7624aqb4edpubpk
+1 wiki.zip.am.aj
+
+0 wiki.zip.ak.bh
+Retrieving t03427 2822 bafykbzacebpgv37ykc3p2opjbe5yaguxplbkh6kpqkmu7zmzyxheszzulqvqe
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
