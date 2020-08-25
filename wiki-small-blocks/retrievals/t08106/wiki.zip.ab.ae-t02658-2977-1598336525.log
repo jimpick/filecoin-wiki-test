@@ -1,0 +1,13 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+2020-08-25T06:32:28.956Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 0 B, Paid 0 FIL,  (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
+
+Command exited with non-zero status 1
+0.12user 0.06system 10:23.03elapsed 0%CPU (0avgtext+0avgdata 39640maxresident)k
+0inputs+0outputs (0major+3893minor)pagefaults 0swaps

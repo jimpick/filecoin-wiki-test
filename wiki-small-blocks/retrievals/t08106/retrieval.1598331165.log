@@ -766,3 +766,4 @@ Retrieving t03427 2822 bafykbzacebpgv37ykc3p2opjbe5yaguxplbkh6kpqkmu7zmzyxheszzu
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)

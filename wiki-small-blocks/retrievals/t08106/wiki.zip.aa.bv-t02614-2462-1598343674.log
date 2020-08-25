@@ -1,0 +1,18 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventWriteDealPaymentErrored (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: writing deal payment: Unable to send request: failed to dial 12D3KooWE6JfBTMyjirNPSRi4AfZjCseRHGzXZvXUmKMsdHViyif: all dials failed
+  * [/ip4/170.33.12.118/tcp/32633] dial tcp4 0.0.0.0:39617->170.33.12.118:32633: i/o timeout
+
+Command exited with non-zero status 1
+0.07user 0.06system 3:50.72elapsed 0%CPU (0avgtext+0avgdata 39368maxresident)k
+0inputs+0outputs (0major+3832minor)pagefaults 0swaps
