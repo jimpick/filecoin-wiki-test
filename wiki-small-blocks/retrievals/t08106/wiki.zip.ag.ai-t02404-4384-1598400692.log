@@ -1,6 +1,7 @@
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+<<<<<<< HEAD
 > Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
 > Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
@@ -23,3 +24,5 @@
 Success
 0.08user 0.04system 5:35.01elapsed 0%CPU (0avgtext+0avgdata 39116maxresident)k
 0inputs+0outputs (0major+3798minor)pagefaults 0swaps
+=======
+>>>>>>> 780fb75e12de55266a2c225994f37175c641f517
