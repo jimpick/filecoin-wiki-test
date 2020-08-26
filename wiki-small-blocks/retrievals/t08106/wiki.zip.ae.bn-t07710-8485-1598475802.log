@@ -1,0 +1,9 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+Success
+2020-08-26T21:13:33.713Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/websocket.go:660	failed to write close message: write tcp 127.0.0.1:35754->127.0.0.1:1234: write: broken pipe
+0.11user 0.05system 10:10.96elapsed 0%CPU (0avgtext+0avgdata 38012maxresident)k
+312inputs+0outputs (1major+3869minor)pagefaults 0swaps
