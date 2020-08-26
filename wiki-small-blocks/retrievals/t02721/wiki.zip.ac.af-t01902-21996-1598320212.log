@@ -1,0 +1,6 @@
+2020-08-24T18:50:17.151-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWL6yjsqsyfhaSjd1eC8yP4WfuXxe8H5DpTScJkkPcCvR7: all dials failed\\n  * [/ip4/127.0.0.1/tcp/37133] dial tcp4 127.0.0.1:37133: connect: connection refused\\n  * [/ip6/::1/tcp/40487] dial tcp6 [::1]:40487: connect: connection refused\\n  * [/ip4/10.168.1.111/tcp/37133] dial tcp4 10.168.1.111:37133: connect: connection refused\\n  * [/ip4/58.247.120.90/tcp/26670] dial tcp4 0.0.0.0:38523-\\u003e58.247.120.90:26670: i/o timeout\\n  * [/ip4/58.247.120.90/tcp/10828] dial tcp4 0.0.0.0:38523-\\u003e58.247.120.90:10828: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t01902\",\"MinerPeer\":{\"Address\":\"t01902\",\"ID\":\"12D3KooWL6yjsqsyfhaSjd1eC8yP4WfuXxe8H5DpTScJkkPcCvR7\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.01user 0.02system 0:05.04elapsed 0%CPU (0avgtext+0avgdata 37252maxresident)k
+0inputs+0outputs (0major+3629minor)pagefaults 0swaps

@@ -1,0 +1,21 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+2020-08-24T15:55:00.635-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200817153016-2ea5cbaf5ec0/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 1 MiB, Paid 0 FIL, ClientEventWriteDealPaymentErrored (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: writing deal payment: Unable to send request: failed to dial 12D3KooWHUStHVVZSH1mtrQCyULs3qejHMNR4cCHddVrZWiJo7k9: all dials failed
+  * [/ip6/::1/tcp/40125] dial tcp6 [::1]:40125: connect: connection refused
+  * [/ip4/127.0.0.1/tcp/38389] dial tcp4 127.0.0.1:38389: connect: connection refused
+  * [/ip4/103.40.249.225/tcp/38389] dial tcp4 103.40.249.225:38389: connect: connection refused
+
+Command exited with non-zero status 1
+0.04user 0.05system 16:17.67elapsed 0%CPU (0avgtext+0avgdata 38436maxresident)k
+0inputs+0outputs (0major+3759minor)pagefaults 0swaps

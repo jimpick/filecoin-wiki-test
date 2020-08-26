@@ -1,0 +1,5 @@
+ERROR: handler: websocket connection closed
+
+Command exited with non-zero status 1
+0.00user 0.03system 0:19.76elapsed 0%CPU (0avgtext+0avgdata 37196maxresident)k
+0inputs+0outputs (0major+3654minor)pagefaults 0swaps
