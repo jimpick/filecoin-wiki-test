@@ -15,7 +15,7 @@ fi
 
 echo $CLIENT: $(lotus wallet balance)
 
-CHUNKS=$(grep 'Active: 0' tmp/check-count.txt | awk '{ print $2 }')
+CHUNKS=$(grep 'Active: \(0\|1\)' tmp/check-count.txt | awk '{ print $2 }')
 count=0
 total=`echo $CHUNKS | wc -w`
 for CHUNK in $CHUNKS; do
