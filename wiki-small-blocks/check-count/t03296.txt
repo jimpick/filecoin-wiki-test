@@ -445,7 +445,7 @@
 445 wiki.zip.ai.au 6 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 446 wiki.zip.ai.av 4 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 447 wiki.zip.ai.aw 6 Active: 3 Sealing: 0 Xfr: 0 Error: 0
-448 wiki.zip.ai.ax 6 Active: 0 Sealing: 6 Xfr: 0 Error: 0
+448 wiki.zip.ai.ax 6 Active: 1 Sealing: 5 Xfr: 0 Error: 0
 449 wiki.zip.ai.ay 7 Active: 3 Sealing: 2 Xfr: 0 Error: 0
 450 wiki.zip.ai.az 2 Active: 2 Sealing: 0 Xfr: 0 Error: 0
 451 wiki.zip.ai.ba 5 Active: 2 Sealing: 1 Xfr: 0 Error: 0
