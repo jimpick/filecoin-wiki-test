@@ -1,0 +1,5 @@
+ERROR: The received offer errored: retrieval query offer errored: get cid info: open /root/ipfs/data/miner2/lotusstorage/datastore/metadata/003799.sst: no such file or directory
+
+Command exited with non-zero status 1
+0.05user 0.02system 0:01.86elapsed 4%CPU (0avgtext+0avgdata 37072maxresident)k
+0inputs+0outputs (0major+3723minor)pagefaults 0swaps

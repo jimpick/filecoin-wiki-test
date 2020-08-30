@@ -28,10 +28,15 @@ for x in $(grep ^wiki $CHECK | shuf); do
 	echo $((COUNTER++)) $x
 	#cat $x*.deal > tmp/deals.txt
 	#cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing'
-	#DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing' | awk '{ print $6 "-" $5 }')
-	DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active' | awk '{ print $6 "-" $5 }')
+	DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing' | awk '{ print $6 "-" $5 }')
+	#DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active' | awk '{ print $6 "-" $5 }')
 	#echo $DEALS
 	#continue
+	#wiki.zip.ae.an.t08106.import
+	if [ -f $x.$CLIENT.import ]; then
+		echo Already imported, skipping
+		continue
+	fi
   	COUNTER=0
 	for d in $DEALS; do
 		TIMESTAMP=`date +%s`
