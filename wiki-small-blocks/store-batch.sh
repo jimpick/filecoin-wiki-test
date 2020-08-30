@@ -37,7 +37,7 @@ shuffle(filtered)
 console.log(filtered.join("\n"))
 ')
 
-TRIES=30
+TRIES=5
 for n in $(seq 1 "$TRIES"); do
   for m in $MINERS; do
     echo $m "($n / $TRIES tries)":
