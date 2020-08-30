@@ -2,7 +2,7 @@
 
 CLIENT=$(lotus state lookup `lotus wallet default`)
 #echo Client: $CLIENT
-mkdir -p retrievals/$CLIENT-a
+mkdir -p retrievals/$CLIENT-b
 
 WORKDIR=$(mktemp -d -t blaster-import.XXXXXXX)
 function cleanup {
@@ -14,7 +14,7 @@ trap cleanup EXIT
 
 count=0
 
-grep -l Success retrievals/$CLIENT-a/wiki*.log > $WORKDIR/success.txt
+grep -l Success retrievals/$CLIENT-b/wiki*.log > $WORKDIR/success.txt
 
 for logfile in `cat $WORKDIR/success.txt`; do
 	binfile=$(echo $logfile | sed 's,\.log,\.bin,')
