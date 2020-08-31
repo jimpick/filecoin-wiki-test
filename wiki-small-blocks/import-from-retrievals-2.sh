@@ -15,6 +15,9 @@ trap cleanup EXIT
 count=0
 
 grep -l Success retrievals/$CLIENT-b/wiki*.log > $WORKDIR/success.txt
+echo Jim1
+cat $WORKDIR/success.txt
+echo Jim2
 
 for logfile in `cat $WORKDIR/success.txt`; do
 	binfile=$(echo $logfile | sed 's,\.log,\.bin,')
