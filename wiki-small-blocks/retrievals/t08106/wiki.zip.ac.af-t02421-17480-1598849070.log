@@ -1,0 +1,10 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.17user 0.02system 17:00.01elapsed 0%CPU (0avgtext+0avgdata 35476maxresident)k
+1216inputs+0outputs (98major+4012minor)pagefaults 0swaps
