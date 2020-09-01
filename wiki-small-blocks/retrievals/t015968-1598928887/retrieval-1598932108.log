@@ -6329,3 +6329,369 @@ Retrieving t02613 36538 bafykbzaceat45k5evvlycvcvm32jmfokids5f4osdbsqjzgongxivkt
 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.10user 0.04system 17:00.02elapsed 0%CPU (0avgtext+0avgdata 36400maxresident)k
+416inputs+0outputs (46major+3788minor)pagefaults 0swaps
+t015968: 9.305018327676230448 FIL (78G free)
+Skipping ahead
+
+1 wiki.zip.ac.ag
+t02540-7331 t02301-29975 t014207-48304 t02419-48643 t03194-48970 t03339-49717 t010297-50084 t014328-50325 t010303-50568 t07775-51405 t014803-51948
+Already imported, skipping
+2 wiki.zip.ac.ai
+t03194-4225 t07710-6341 t03484-8359 t02421-21599 t02419-24916 t08482-35679 t02620-47104 t02540-47239 t010593-47548 t010438-47957 t09597-48301 t03339-48642 t07944-48978 t09997-49500 t02301-49715 t014803-51410
+Already imported, skipping
+3 wiki.zip.ag.ak
+t03143-3659 t07709-6543 t03314-8758 t02404-47178 t09771-47319 t02540-48066 t02301-48485 t010491-48824 t02620-49143 t09597-50411 t010346-51603
+Already imported, skipping
+4 wiki.zip.ak.bv
+t03194-26490 t03512-28064 t015891-51928 t02613-52041 t010152-52123
+Already have log for t03194 26490 bafykbzacec5g4z7cxep2le3mhtfqblq2lvmno6nscfxjlvv2svzraknkqerdk
+Already have log for t03512 28064 bafykbzacec5g4z7cxep2le3mhtfqblq2lvmno6nscfxjlvv2svzraknkqerdk
+Already have log for t015891 51928 bafykbzacec5g4z7cxep2le3mhtfqblq2lvmno6nscfxjlvv2svzraknkqerdk
+Already have log for t02613 52041 bafykbzacec5g4z7cxep2le3mhtfqblq2lvmno6nscfxjlvv2svzraknkqerdk
+Already have log for t010152 52123 bafykbzacec5g4z7cxep2le3mhtfqblq2lvmno6nscfxjlvv2svzraknkqerdk
+
+0 wiki.zip.aj.ag
+t03345-6705 t03314-7730 t02613-9774 t08019-22387 t08448-26039 t02627-14786 t02540-50248 t015709-51748
+Already have log for t03345 6705 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Already have log for t03314 7730 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Already have log for t02613 9774 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Already have log for t08019 22387 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Already have log for t08448 26039 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Already have log for t02627 14786 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+Retrieving t02540 50248 bafykbzaceavomdlof7cqrp7jfqfo5s323lkyjkkazxzmc2skas3hbwnxjrm4m
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.22user 0.07system 17:00.00elapsed 0%CPU (0avgtext+0avgdata 37036maxresident)k
+336inputs+0outputs (2major+3741minor)pagefaults 0swaps
+t015968: 9.297350909868628221 FIL (78G free)
+Skipping ahead
+
+1 wiki.zip.ab.af
+t08937-13481 t02404-15538 t08094-24737 t02421-41456 t014207-47927 t02613-48254 t010438-48597 t09707-48934 t010311-49397 t010173-49689 t02301-50278 t09597-50559 t02419-51354
+Already imported, skipping
+2 wiki.zip.ag.bq
+t02420-2639 t07710-4403 t02620-5031 t02404-9590 t02421-22049 t08991-25592 t02301-30240 t09997-48520 t09731-49169 t010311-49548 t08301-50217 t010152-50427 t010297-50729
+Already imported, skipping
+3 wiki.zip.ah.ai
+t07709-4414 t08904-14432 t03307-22060 t02613-48532 t010533-48865 t03340-50216 t02301-50754 t015662-51650
+Already imported, skipping
+4 wiki.zip.ab.bd
+t02540-3473 t02658-6308 t02385-9284 t02404-10288 t03519-21585 t03306-24797 t02301-41489 t09997-47227 t010593-47372 t08109-48277 t03225-48616 t09771-48947 t02613-49698 t09792-50566 t08988-51378
+Already imported, skipping
+5 wiki.zip.ag.ab
+t02540-5870 t01799-6575 t07987-25453 t02301-47484 t02421-47626 t010538-48478 t010542-48813 t010173-49138 t03339-51593
+Already imported, skipping
+6 wiki.zip.aj.ar
+t01101-6747 t02665-22438 t03305-30138 t03136-36495 t08220-37263 t07827-49949 t08178-51756 t02620-52107
+Already imported, skipping
+7 wiki.zip.ai.aa
+t01800-7673 t03544-14599 t03223-16078 t08904-22107 t08019-25962 t08094-36057 t03512-49212 t02301-49607
+Already imported, skipping
+8 wiki.zip.am.be
+t01799-7017 t03345-8034 t08284-18348 t02418-13963 t015891-51929
+Already imported, skipping
+9 wiki.zip.ah.bv
+t01799-6667 t08911-17944 t07772-25937 t02301-29309 t02540-49210 t010173-51687
+Already imported, skipping
+10 wiki.zip.aa.bp
+t02658-24729 t03484-27250 t08246-27426 t02301-27652 t03306-27739 t08988-28766 t08284-29956 t09833-47515 t02404-48240 t010225-48926 t03339-50548 t03512-51346
+Already imported, skipping
+11 wiki.zip.ac.af
+t07710-7327 t03194-15586 t02421-17480 t08220-51407
+Already have log for t07710 7327 bafykbzaceanddqveqcxloe4j4nx3uedl6zvjyxtavgil642bqh6hd4lyot6eo
+Already have log for t03194 15586 bafykbzaceanddqveqcxloe4j4nx3uedl6zvjyxtavgil642bqh6hd4lyot6eo
+Already have log for t02421 17480 bafykbzaceanddqveqcxloe4j4nx3uedl6zvjyxtavgil642bqh6hd4lyot6eo
+Already have log for t08220 51407 bafykbzaceanddqveqcxloe4j4nx3uedl6zvjyxtavgil642bqh6hd4lyot6eo
+
+0 wiki.zip.ai.bk
+t07709-3741 t02613-5624 t03194-8673 t02540-9731 t02421-42019 t02658-46806 t010399-49241 t010152-49906 t014314-51725
+Already imported, skipping
+1 wiki.zip.ae.ag
+t02424-4903 t02658-5799 t02665-25356 t09833-40762 t02620-46978 t09763-47424 t03339-48392 t03345-49059 t08988-50364 t09573-51505
+Already imported, skipping
+2 wiki.zip.ae.al
+t02665-3592 t02540-21882 t02301-28833 t014207-46718 t010433-47434 t09597-47728 t02620-48396 t03523-48734 t08301-49065 t08988-50641 t08019-51512
+Already imported, skipping
+3 wiki.zip.ab.bz
+t02620-2993 t03339-4219 t02404-4829 t06775-48296 t09771-48634 t09589-48969 t09833-49706 t014328-50081 t03194-50584 t010538-51396
+Already imported, skipping
+4 wiki.zip.af.ba
+t03143-2598 t02301-3641 t02613-6505 t03194-15952 t03314-8277 t08448-47163 t010346-48791 t07806-49117 t02658-49519 t02540-50688 t015662-51570
+Already imported, skipping
+5 wiki.zip.ai.ai
+t03340-7680 t03484-25991 t02301-28904 t09736-30130 t09771-47056 t010551-49222 t010311-49611 t010453-50230 t010297-50776 t07987-51702
+Already imported, skipping
+6 wiki.zip.ae.bt
+t07998-6455 t07827-36258 t08399-37163 t010453-46990 t02301-47158 t010257-47606 t02540-48050 t08094-48428 t02620-48764 t08109-49090 t03339-49825 t014328-50143 t010303-50678
+Already imported, skipping
+7 wiki.zip.ab.az
+t07709-4816 t02540-5707 t09833-40743 t010438-46928 t010297-47822 t07944-48272 t010225-48610 t08019-48945 t010303-50087 t03512-50300 t03344-50572 t015760-51372
+Already imported, skipping
+8 wiki.zip.ad.ag
+t02540-6365 t07709-9367 t03523-25155 t03345-35737 t02301-47247 t014233-48349 t010491-48689 t02627-49018 t03339-49453 t09731-51454
+Already imported, skipping
+9 wiki.zip.af.bp
+t02385-6528 t02540-7513 t07806-9501 t08432-14239 t03264-22022 t08246-25434 t09712-48499 t03523-48800 t03194-49126 t08399-49528 t03340-50156 t09833-50703
+Already imported, skipping
+10 wiki.zip.ak.ay
+t02385-3808 t03002-6082 t07710-6826 t07709-9909 t03620-22560 t03340-26361 t08904-15786 t02421-40844 t08482-42051 t015662-51811
+Already imported, skipping
+11 wiki.zip.af.ar
+t07829-7478 t02613-8511 t010433-48448 t010603-49109 t08482-50149 t014207-50697 t015760-51564 t010553-51965
+Already imported, skipping
+12 wiki.zip.af.bx
+t02506-22028 t03328-25442 t02627-27339 t03223-27490 t03306-27671 t03194-27830 t02658-35799 t03345-37178 t09833-47466 t09792-47896 t03225-48474 t09597-49135 t03512-49531 t08448-49843 t015891-51618
+Already have log for t02506 22028 bafykbzacedz4oh3uxhyb2h4zxlqjf6yh2ap3z2u2wwbwrjphj5ijpjqy7u7sy
+Already have log for t03328 25442 bafykbzacedz4oh3uxhyb2h4zxlqjf6yh2ap3z2u2wwbwrjphj5ijpjqy7u7sy
+Already have log for t02627 27339 bafykbzacedz4oh3uxhyb2h4zxlqjf6yh2ap3z2u2wwbwrjphj5ijpjqy7u7sy
+Retrieving t03223 27490 bafykbzacedz4oh3uxhyb2h4zxlqjf6yh2ap3z2u2wwbwrjphj5ijpjqy7u7sy
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.11user 0.05system 3:31.59elapsed 0%CPU (0avgtext+0avgdata 37380maxresident)k
+0inputs+0outputs (0major+3666minor)pagefaults 0swaps
+t015968: 9.294668608214469213 FIL (78G free)
+Skipping ahead
+
+1 wiki.zip.ac.bi
+t03314-4268 t03638-7337 t02404-9327 t07709-10354 t07710-17501 t010438-48322 t08399-48663 t03344-48996 t02540-50602 t09053-51431 t03339-52077
+Already imported, skipping
+2 wiki.zip.ah.ao
+t02404-5919 t07829-7583 t010257-46778 t010152-48537 t03340-49562 t09792-50211 t014388-51654 t09053-51981
+Already imported, skipping
+3 wiki.zip.aj.bd
+t02540-6771 t02404-14853 t08904-22495 t09559-26200 t03305-15774 t03512-49271 t09792-49649 t08399-50856 t010533-51767
+Already imported, skipping
+4 wiki.zip.ad.bl
+t03002-6400 t01289-25301 t03340-35448 t08301-36192 t09833-37157 t08178-13602 t03339-15474 t02421-47139 t010593-47262 t08482-48095 t09997-48375 t02613-48711 t09736-49041 t08399-50122 t010303-50361 t02627-50638 t02620-51480
+Already imported, skipping
+5 wiki.zip.ad.bn
+t01272-2569 t03194-4298 t02421-25299 t015782-51490 t02620-51953 t03328-52080
+Already have log for t01272 2569 bafykbzacebnvvipwm5qu6rd36sqeo7iehbrctajiak53iq7kioduehngfk4sy
+Already have log for t03194 4298 bafykbzacebnvvipwm5qu6rd36sqeo7iehbrctajiak53iq7kioduehngfk4sy
+Already have log for t02421 25299 bafykbzacebnvvipwm5qu6rd36sqeo7iehbrctajiak53iq7kioduehngfk4sy
+Retrieving t015782 51490 bafykbzacebnvvipwm5qu6rd36sqeo7iehbrctajiak53iq7kioduehngfk4sy
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.06user 0.02system 3:57.91elapsed 0%CPU (0avgtext+0avgdata 37952maxresident)k
+0inputs+0outputs (0major+3800minor)pagefaults 0swaps
+t015968: 9.279790538624102399 FIL (77G free)
+Skipping ahead
+
+1 wiki.zip.ak.ai
+t02540-4547 t02620-5172 t02404-6064 t03638-6804 t08301-26176 t02421-30682 t010399-49291 t03345-51795
+Already imported, skipping
+2 wiki.zip.af.aw
+t02404-5844 t08301-28850 t09559-30048 t09736-35800 t02620-47002 t09833-48451 t09712-48787 t08988-49513 t03344-49830 t07944-50701 t08432-51566
+Already imported, skipping
+3 wiki.zip.ad.ae
+t01247-2539 t07709-4871 t03484-8376 t07710-13596 t09833-41645 t09997-47120 t02301-48342 t010152-48683 t010446-49014 t08448-50343 t08482-50615 t09792-51452
+Already imported, skipping
+4 wiki.zip.aa.bq
+t03484-21563 t08448-27261 t02404-27437 t03328-27734 t03306-27781 t02301-28770 t08094-47670 t09833-48237 t09712-48588 t02620-49680 t08399-50070 t010303-50273 t010533-51342
+Already imported, skipping
+5 wiki.zip.ag.ab
+t02540-5870 t01799-6575 t07987-25453 t02301-47484 t02421-47626 t010538-48478 t010542-48813 t010173-49138 t03339-51593
+Already imported, skipping
+6 wiki.zip.af.by
+t02665-3669 t07709-7524 t02627-17728 t03223-29143 t02301-35845 t014207-47777 t09597-47898 t02404-48110 t02658-48473 t08094-48809 t08482-49134 t014328-49835 t08448-50162 t015731-51591
+Already imported, skipping
+7 wiki.zip.aj.aj
+t07829-7751 t09707-26041 t08246-36476 t09731-51749 t09597-52012
+Already have log for t07829 7751 bafykbzacebaxqw66et326qwsj6x4uy4jfgm3gqek55vit2vld3gkoslnabdrw
+Already have log for t09707 26041 bafykbzacebaxqw66et326qwsj6x4uy4jfgm3gqek55vit2vld3gkoslnabdrw
+Already have log for t08246 36476 bafykbzacebaxqw66et326qwsj6x4uy4jfgm3gqek55vit2vld3gkoslnabdrw
+Already have log for t09731 51749 bafykbzacebaxqw66et326qwsj6x4uy4jfgm3gqek55vit2vld3gkoslnabdrw
+Already have log for t09597 52012 bafykbzacebaxqw66et326qwsj6x4uy4jfgm3gqek55vit2vld3gkoslnabdrw
+
+0 wiki.zip.am.bs
+t02665-2887 t02404-5287 t01289-8018 t02613-8931 t010173-49370 t010438-50023 t010346-51911
+Already imported, skipping
+1 wiki.zip.aa.bo
+t09707-24731 t02658-27777 t08399-27953 t09731-28168 t03264-28773 t03512-37124 t08988-48241 t010433-48579 t07944-49401 t010297-49681 t09771-50056 t03340-51339 t015771-51944
+Already imported, skipping
+2 wiki.zip.ab.be
+t01247-3020 t02385-5699 t02613-8323 t07710-13522 t02404-15404 t02301-48275 t010152-48619 t03340-49416 t010311-50286 t015891-51595
+Already imported, skipping
+3 wiki.zip.al.bb
+t03143-2857 t03194-6931 t07775-7917 t03646-26601 t014328-49341 t09771-49998
+Already imported, skipping
+4 wiki.zip.aj.ao
+t02613-6751 t03305-22422 t08399-28918 t08854-36491 t08246-37251 t02658-46535 t09792-49264 t02540-49951 t09771-50252 t010453-50848 t015714-51753
+Already imported, skipping
+5 wiki.zip.ah.bf
+t07710-4451 t08432-14551 t07826-17903 t03328-51990 t09731-52097
+Already have log for t07710 4451 bafykbzacebjjsssgrk7y2ujv7kkmxntaqgbyjh7hzmirebheqna6nmfh6dp2s
+Already have log for t08432 14551 bafykbzacebjjsssgrk7y2ujv7kkmxntaqgbyjh7hzmirebheqna6nmfh6dp2s
+Already have log for t07826 17903 bafykbzacebjjsssgrk7y2ujv7kkmxntaqgbyjh7hzmirebheqna6nmfh6dp2s
+Already have log for t03328 51990 bafykbzacebjjsssgrk7y2ujv7kkmxntaqgbyjh7hzmirebheqna6nmfh6dp2s
+Already have log for t09731 52097 bafykbzacebjjsssgrk7y2ujv7kkmxntaqgbyjh7hzmirebheqna6nmfh6dp2s
+
+0 wiki.zip.ac.bi
+t03314-4268 t03638-7337 t02404-9327 t07709-10354 t07710-17501 t010438-48322 t08399-48663 t03344-48996 t02540-50602 t09053-51431 t03339-52077
+Already imported, skipping
+1 wiki.zip.ab.ag
+t09789-24739 t03306-27424 t08246-27657 t09736-27703 t03223-27960 t03484-29964 t02301-40769 t02665-47205 t02620-48255 t03345-48925 t09792-49402 t014207-49690 t010468-51358
+Already imported, skipping
+2 wiki.zip.am.aj
+t07710-3898 t02540-5268 t03484-7981 t02307-22909 t09736-49357 t010491-50266 t010311-51889
+Already imported, skipping
+3 wiki.zip.ak.ac
+t03314-8811 t02404-9829 t03194-22537 t02301-49288 t08220-51789
+Already imported, skipping
+4 wiki.zip.ai.bc
+t01799-7742 t03002-10740 t09707-49234 t08399-49628 t09736-49901 t02620-50241 t02301-50808 t014327-51718
+Already imported, skipping
+5 wiki.zip.ah.ag
+t07709-3699 t08988-22059 t02404-30094 t03484-40429 t09736-37180 t02665-46773 t03339-48529 t010173-48863 t08301-49559 t09833-50751 t010551-51646
+Already imported, skipping
+6 wiki.zip.ai.al
+t07829-7711 t03314-10709 t09589-52014 t015760-52101
+Already imported, skipping
+7 wiki.zip.al.bb
+t03143-2857 t03194-6931 t07775-7917 t03646-26601 t014328-49341 t09771-49998
+Already imported, skipping
+8 wiki.zip.ah.at
+t03638-6632 t02575-22066 t03306-30101 t010303-48539 t03225-49191 t03339-49570 t09792-50432 t08371-51660
+Already imported, skipping
+9 wiki.zip.af.ax
+t02540-4972 t03638-7483 t02301-25421 t03223-15546 t02404-47003 t08448-47468 t02421-47996 t08301-48452 t010553-48788 t09833-49111 t03328-49518 t010453-50153 t03512-50691 t010551-51568
+Already imported, skipping
+10 wiki.zip.ah.aw
+t03002-6614 t02404-8608 t08980-16047 t08246-25815 t08178-14684 t08220-48542 t08109-48877 t010173-50223 t03339-50442 t014556-51662
+Already imported, skipping
+11 wiki.zip.ah.bn
+t02620-3219 t02404-4473 t03194-8596 t02627-25919 t03638-7188 t02301-35946 t08854-49203 t015643-51684
+Already imported, skipping
+12 wiki.zip.am.ar
+t07998-6992 t07710-8919 t09792-26641 t01799-13952 t02540-50008 t014207-51892
+Already imported, skipping
+13 wiki.zip.af.bc
+t03002-6503 t02404-8515 t02613-10543 t09736-46742 t02301-47004 t03512-48058 t03345-48457 t09833-48795 t010433-49115 t010446-49620 t02627-50398 t08399-50699 t03225-51571
+Already imported, skipping
+14 wiki.zip.ak.ag
+t02404-6784 t08006-30151 t08094-36530 t08311-37330 t03346-13782 t08482-46836 t02613-49290 t09771-49964 t07775-51793
+Already imported, skipping
+15 wiki.zip.am.ca
+t07710-3920 t09792-37447
+Already have log for t07710 3920 bafykbzaceagtcvsf5qu2ckmrcj4togv5m5q4oe4cr3ghmmmujjkx4rtsub5ug
+Already have log for t09792 37447 bafykbzaceagtcvsf5qu2ckmrcj4togv5m5q4oe4cr3ghmmmujjkx4rtsub5ug
+
+0 wiki.zip.ad.ag
+t02540-6365 t07709-9367 t03523-25155 t03345-35737 t02301-47247 t014233-48349 t010491-48689 t02627-49018 t03339-49453 t09731-51454
+Already imported, skipping
+1 wiki.zip.ad.ar
+t07848-3555 t02385-7360 t07806-9352 t03136-35744 t09792-48357 t02658-48696 t014328-49025 t02404-49457 t09833-49737 t03328-51465
+Already have log for t07848 3555 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+Already have log for t02385 7360 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+Already have log for t07806 9352 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+Already have log for t03136 35744 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+Already have log for t09792 48357 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+Retrieving t02658 48696 bafykbzacebcvmkpziqrpc4w4t3wjwxxja2dzvmabz6k4gzm42ugqlxg2lmxl6
+2020-09-01T14:18:26.944-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWRxbE66sHsxoSSE6uLybmNqXWFPKBdk6QC7KPoSZFx8Xy: all dials failed\\n  * [/ip4/123.137.128.188/tcp/3698] failed to negotiate security protocol: peer id mismatch: expected 12D3KooWRxbE66sHsxoSSE6uLybmNqXWFPKBdk6QC7KPoSZFx8Xy, but remote key matches 12D3KooWRVsiRe1qEUbpA1YeWoeMRBj3T4EBz1cxSWF6hfV8tELv\\n  * [/ip4/112.15.188.130/tcp/3698] failed to negotiate security protocol: peer id mismatch: expected 12D3KooWRxbE66sHsxoSSE6uLybmNqXWFPKBdk6QC7KPoSZFx8Xy, but remote key matches 12D3KooWRVsiRe1qEUbpA1YeWoeMRBj3T4EBz1cxSWF6hfV8tELv\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02658\",\"MinerPeer\":{\"Address\":\"t02658\",\"ID\":\"12D3KooWRxbE66sHsxoSSE6uLybmNqXWFPKBdk6QC7KPoSZFx8Xy\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.07user 0.01system 0:00.77elapsed 11%CPU (0avgtext+0avgdata 38600maxresident)k
+200inputs+0outputs (2major+3691minor)pagefaults 0swaps
+t015968: 9.279790538624102399 FIL (77G free)
+Skipping ahead
+
+1 wiki.zip.am.bh
+t08980-15342 t02404-37415
+Already have log for t08980 15342 bafykbzacebaywbpjpler5c5zwwxm3bagkjmbuidp7eo4bldaumbmdneqi24va
+Already have log for t02404 37415 bafykbzacebaywbpjpler5c5zwwxm3bagkjmbuidp7eo4bldaumbmdneqi24va
+
+0 wiki.zip.ai.ax
+t08301-27521 t02421-27852 t03339-28208 t03519-28907 t09833-37249 t03523-49230 t010152-50239 t09771-50486
+Already imported, skipping
+1 wiki.zip.ac.bp
+t03339-4267 t02404-4845 t03314-9339 t08301-21662 t02540-8731 t08094-47545 t07806-48668 t09589-48998 t02620-49440 t09771-50589 t010468-51438
+Already imported, skipping
+2 wiki.zip.af.az
+t03194-4970 t08399-25423 t08246-30054 t08311-36285 t02540-51569 t02613-51964
+Already have log for t03194 4970 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+Already have log for t08399 25423 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+Already have log for t08246 30054 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+Already have log for t08311 36285 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+Already have log for t02540 51569 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+Already have log for t02613 51964 bafykbzaced7jyoqsd4pymgdowzn4vo3tvjcbjm4d53mtwrtczukqlzpq5xggi
+
+0 wiki.zip.ai.bb
+t01247-2696 t02404-4509 t010491-49235 t08301-49627 t03340-50242 t014328-50794 t03345-51717 t03619-51997
+Already imported, skipping
+1 wiki.zip.af.bd
+t07709-3644 t01101-6507 t03340-25428 t02301-47624 t08937-48458 t010551-48792 t08220-49116 t09736-49521 t09771-49834 t010311-51573
+Already imported, skipping
+2 wiki.zip.ac.aq
+t02540-5744 t07710-9325 t08980-24951 t02620-46682 t010433-46937 t09736-47103 t02665-47701 t09833-47828 t08482-48019 t02404-48323 t03225-48976 t08301-49720 t014328-51416
+Already imported, skipping
+3 wiki.zip.af.ap
+t03194-4369 t07709-5828 t03340-7491 t08904-17617 t09736-25417 t02421-35832 t02404-47304 t09792-47622 t09771-47880 t03136-48104 t03002-48450 t010311-48784 t03512-49823 t02301-50144 t09597-50698 t015833-51559
+Already imported, skipping
+4 wiki.zip.ak.av
+t01289-6818 t03544-15004 t02421-36523 t010491-50053 t08432-51808
+Already imported, skipping
+5 wiki.zip.aa.bh
+t03194-4183 t03345-13433 t08311-24720 t02540-51941
+Already have log for t03194 4183 bafykbzacedr5ut2b2sugd5ilf3v6qup7ilirkfl3cd7gszou2sp6nbppd74ju
+Already have log for t03345 13433 bafykbzacedr5ut2b2sugd5ilf3v6qup7ilirkfl3cd7gszou2sp6nbppd74ju
+Already have log for t08311 24720 bafykbzacedr5ut2b2sugd5ilf3v6qup7ilirkfl3cd7gszou2sp6nbppd74ju
+Retrieving t02540 51941 bafykbzacedr5ut2b2sugd5ilf3v6qup7ilirkfl3cd7gszou2sp6nbppd74ju
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
