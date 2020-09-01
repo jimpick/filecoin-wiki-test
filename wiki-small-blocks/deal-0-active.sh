@@ -13,7 +13,8 @@ if [ -z "$MINER" ]; then
 	exit 1
 fi
 
-echo $CLIENT: $(lotus wallet balance)
+FREE=$(df -h . | tail -1 | awk '{ print $4 }')
+echo $CLIENT: $(lotus wallet balance) "($FREE free)"
 
 # CHUNKS=$(grep 'Active: \(0\|1\)' check-count/$CLIENT.txt | awk '{ print $2 }')
 CHUNKS=$(grep 'Active: \(0\)' check-count/$CLIENT.txt | awk '{ print $2 }')
