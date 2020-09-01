@@ -4,6 +4,17 @@ CLIENT=$(lotus state lookup `lotus wallet default`)
 #echo Client: $CLIENT
 mkdir -p retrievals/$CLIENT
 
+EPOCH=$(cat .retrieval-epoch)
+
+if [ -z "$EPOCH" ]; then
+  EPOCH=$(date -u +'%s')
+  echo $EPOCH > .retrieval-epoch
+fi
+
+mkdir -p retrievals/$CLIENT-$EPOCH
+
+TARGET_DIR=retrievals/$CLIENT-$EPOCH
+
 WORKDIR=$(mktemp -d -t blaster-import.XXXXXXX)
 function cleanup {
   if [ -d "$WORKDIR" ]; then
@@ -14,7 +25,9 @@ trap cleanup EXIT
 
 count=0
 
-grep -l Success retrievals/$CLIENT/wiki*.log > $WORKDIR/success.txt
+grep -l Success $TARGET_DIR/wiki*.log > $WORKDIR/success.txt
+#echo Jim1 $WORKDIR/success.txt
+#cat $WORKDIR/success.txt
 
 for logfile in `cat $WORKDIR/success.txt`; do
 	binfile=$(echo $logfile | sed 's,\.log,\.bin,')
