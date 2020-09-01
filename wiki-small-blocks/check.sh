@@ -21,12 +21,14 @@ trap cleanup EXIT
 
 COUNTER=1
 for x in *.zip.??.??.$CLIENT.import; do
-  x2=$(echo $x | sed s',\.t[0-9]*\.import,,')
-  echo $((COUNTER++)) $x2 1>&2
-  echo $x2
-  cat $x2.$CLIENT.*.deal 2> /dev/null | grep ^bafy > $WORKDIR/deals.txt
-  #cat $WORKDIR/deals.txt
-  grep -f $WORKDIR/deals.txt $OUTPUT 
-  echo
+  if [ -f "$x" ]; then
+    x2=$(echo "$x" | sed -n s',\.t[0-9]*\.import,,p')
+    echo $CLIENT $((COUNTER++)) "$x2" 1>&2
+    echo $x2
+    cat $x2.$CLIENT.*.deal 2> /dev/null | grep ^bafy > $WORKDIR/deals.txt
+    #cat $WORKDIR/deals.txt
+    grep -f $WORKDIR/deals.txt $OUTPUT 
+    echo
+  fi
 done
 

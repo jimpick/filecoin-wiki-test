@@ -1,10 +1,12 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
-#echo Client: $CLIENT
-mkdir -p retrievals/$CLIENT
+TARGET_DIR=$1
+if [ -z "$TARGET_DIR" ]; then
+  echo "Need target dir"
+  exit 1
+fi
 
-TARGET=t03296 # nuc
+CLIENT=$(lotus state lookup `lotus wallet default`)
 
 WORKDIR=$(mktemp -d -t blaster-retrieve.XXXXXXX)
 function cleanup {
@@ -15,9 +17,14 @@ function cleanup {
 trap cleanup EXIT
 
 CHECK=$WORKDIR/check.txt
-./check.sh $TARGET > $CHECK
+for f in list-deals/*.txt; do
+  MINER=$(echo $f | sed 's,^.*/\(.*\)\.txt,\1,')
+  echo Loading deals $MINER
+  ./check.sh $MINER >> $CHECK 2>&2
+done
+#cp $CHECK ~/tmp/check.txt
 
-TO_DELETE=$(grep -l refused retrievals/$CLIENT/wiki*.log 2> /dev/null)
+TO_DELETE=$(grep -l refused $TARGET_DIR/wiki*.log 2> /dev/null)
 if [ -n "${TO_DELETE}" ]; then
 	echo ${TO_DELETE} | xargs rm
 fi
@@ -30,7 +37,7 @@ for x in $(grep ^wiki $CHECK | shuf); do
 	#cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing'
 	DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing' | awk '{ print $6 "-" $5 }')
 	#DEALS=$(cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active' | awk '{ print $6 "-" $5 }')
-	#echo $DEALS
+	echo $DEALS
 	#continue
 	#wiki.zip.ae.an.t08106.import
 	if [ -f $x.$CLIENT.import ]; then
@@ -43,10 +50,10 @@ for x in $(grep ^wiki $CHECK | shuf); do
 		MINER=$(echo $d | sed 's,-.*$,,')
 		DEAL=$(echo $d | sed 's,^.*-,,')
 		CID=$(cat $x.cid)
-   		LOG=$(ls $PWD/retrievals/$CLIENT/$x-$MINER-$DEAL-*.log 2> /dev/null)
+   		LOG=$(ls $TARGET_DIR/$x-$MINER-$DEAL-*.log 2> /dev/null)
 		if [ -z "$LOG" ]; then 
 		      	echo Retrieving $MINER $DEAL $CID
-			/usr/bin/time timeout -k 18m 17m lotus client retrieve --miner=$MINER --maxPrice=0.000000000050000000 $CID $PWD/retrievals/$CLIENT/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $PWD/retrievals/$CLIENT/$x-$MINER-$DEAL-$TIMESTAMP.log
+			/usr/bin/time timeout -k 18m 17m lotus client retrieve --miner=$MINER --maxPrice=0.000000000050000000 $CID $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
 			  echo $((++COUNTER)) > /dev/null
 			  if [ "$COUNTER" = "1" ]; then
 			    echo "Skipping ahead"
