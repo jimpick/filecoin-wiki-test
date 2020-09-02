@@ -1,6 +1,0 @@
-2020-09-01T02:01:56.744-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"protocol not supported\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t02421\",\"MinerPeer\":{\"Address\":\"t02421\",\"ID\":\"12D3KooWPQgh1tLEZ6sxmnoZ2xX4xLHB8rrxNeEnEA5untT9rhdU\",\"PieceCID\":null}}"}
-ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
-
-Command exited with non-zero status 1
-0.02user 0.01system 0:01.62elapsed 2%CPU (0avgtext+0avgdata 37584maxresident)k
-0inputs+0outputs (0major+3683minor)pagefaults 0swaps

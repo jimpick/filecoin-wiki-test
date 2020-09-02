@@ -6382,3 +6382,51 @@ Already imported, skipping
 t02658-4549 t01101-7851 t07826-14981 t08988-22543 t07806-49292 t08178-49971 t014327-51798
 Already have log for t02658 4549 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
 Already have log for t01101 7851 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
+Already have log for t07826 14981 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
+Already have log for t08988 22543 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
+Already have log for t07806 49292 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
+Retrieving t08178 49971 bafykbzacedcpdmbssrwhjtb6cyyoayjvq2lprbtrmu3xzjsgtet7xtsunxpy2
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL,  (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:04.27elapsed 0%CPU (0avgtext+0avgdata 37560maxresident)k
+0inputs+0outputs (0major+3619minor)pagefaults 0swaps
+t015968: 9.277701571366749092 FIL (77G free)
+Skipping ahead
+
+1 wiki.zip.al.bn
+t02658-4624 t02304-7924 t08988-22700
+Already have log for t02658 4624 bafykbzaceb3v7zonrzpbs2l5ipmxlxptjurbrhzavn7zw74gvtghj745ycxwm
+Already have log for t02304 7924 bafykbzaceb3v7zonrzpbs2l5ipmxlxptjurbrhzavn7zw74gvtghj745ycxwm
+Already have log for t08988 22700 bafykbzaceb3v7zonrzpbs2l5ipmxlxptjurbrhzavn7zw74gvtghj745ycxwm
+
+0 wiki.zip.ae.ak
+t07772-27469 t02421-27713 t02540-28220 t08988-28834 t08284-30017 t03523-35787 t02613-37159 t09731-49061 t014207-50124 t09771-50658 t015709-51509
+Already have log for t07772 27469 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t02421 27713 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t02540 28220 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t08988 28834 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t08284 30017 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t03523 35787 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t02613 37159 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t09731 49061 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Already have log for t014207 50124 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+Retrieving t09771 50658 bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m
+ERROR: The received offer errored: retrieval query offer errored: get cid info: No state for /bafykbzaceczdhtvss7ewlw2frubyyduxfztvyxiksgtvesva7qqn6rwt5ik2m: datastore: key not found
+
+Command exited with non-zero status 1
+0.07user 0.03system 0:00.33elapsed 31%CPU (0avgtext+0avgdata 37356maxresident)k
+112inputs+0outputs (1major+3748minor)pagefaults 0swaps
+t015968: 9.277701571366749092 FIL (77G free)
+Skipping ahead
+
+1 wiki.zip.ah.bq
+t02540-25922 t02421-27673 t08399-27862 t08988-28242 t03264-28898 t08911-30107 t09731-36433 t03484-40436 t09833-49205 t03002-49892 t09597-50226 t02613-51686 t015231-51986
+Already have log for t02540 25922 bafykbzaced24sl3ethgywy5tsh4zaeqjaxqc7rx5ezdm6u4f7psx4cnpupdqu
+Already have log for t02421 27673 bafykbzaced24sl3ethgywy5tsh4zaeqjaxqc7rx5ezdm6u4f7psx4cnpupdqu
+Already have log for t08399 27862 bafykbzaced24sl3ethgywy5tsh4zaeqjaxqc7rx5ezdm6u4f7psx4cnpupdqu
+Retrieving t08988 28242 bafykbzaced24sl3ethgywy5tsh4zaeqjaxqc7rx5ezdm6u4f7psx4cnpupdqu

@@ -6464,3 +6464,42 @@ Retrieving t02665 47076 bafykbzacebnqpg7dgcob2faiuobyd4o2f7ojdi22e2k66ckjkvdub26
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingFunds)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.07user 0.03system 3:12.02elapsed 0%CPU (0avgtext+0avgdata 37840maxresident)k
+0inputs+0outputs (0major+3697minor)pagefaults 0swaps
+t015968: 9.277701571366749092 FIL (77G free)
+Skipping ahead
+
+1 wiki.zip.ac.as
+t07710-3508 t07806-7310 t02620-47697 t02301-48084
+Already imported, skipping
+2 wiki.zip.ah.af
+t03194-5028 t02385-7625 t08220-16033 t08399-25694 t09573-48526 t02301-49181 t010173-49557 t010152-50205 t08432-51647
+Already imported, skipping
+3 wiki.zip.ac.bd
+t03344-3522 t07709-6379 t03328-25020 t08019-48318 t010533-48657 t03345-48994 t010453-49437 t08988-49731 t02627-50323 t014207-50594
+Already imported, skipping
+4 wiki.zip.ak.bk
+t02540-3801 t02613-6077 t08448-15037 t09792-26413 t09573-51821
+Already imported, skipping
+5 wiki.zip.ac.ad
+t07924-4221 t03264-24979 t02613-29978 t08911-37144 t06775-48640 t08094-48973 t010297-49427 t08109-49712 t02540-50083 t03619-51402
+Already have log for t07924 4221 bafykbzacea5rgermyfndic6aocargixsclhl32nsbkrf4dfzji27xnqz22ygq

@@ -43,6 +43,8 @@ for logfile in `cat $WORKDIR/success.txt`; do
 	fi
 done
 
+echo Imported: $(ls wiki.*.$CLIENT.import | wc -l) of $(ls wiki.*.t03296.import | wc -l)
+
 #total=`ls wiki*.zip.??.?? | wc -l`
 #for f in wiki*.zip.??.??; do
 #	echo $f $((++count)) of $total
