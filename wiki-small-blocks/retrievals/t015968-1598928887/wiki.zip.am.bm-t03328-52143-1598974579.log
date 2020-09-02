@@ -1,5 +1,0 @@
-ERROR: The received offer errored: retrieval query offer errored: get cid info: No state for /bafykbzacecfwnsfsj32csyh2fy367nddvpl7wgw2icnq2tj64327qkq7u227w: datastore: key not found
-
-Command exited with non-zero status 1
-0.05user 0.01system 0:00.28elapsed 25%CPU (0avgtext+0avgdata 37316maxresident)k
-0inputs+0outputs (0major+3557minor)pagefaults 0swaps

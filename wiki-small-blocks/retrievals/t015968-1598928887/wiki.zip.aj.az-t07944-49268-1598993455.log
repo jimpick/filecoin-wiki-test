@@ -1,6 +1,0 @@
-2020-09-01T13:50:56.158-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWGEbPyPAqBw7c693nhBQ7JgC5PTfz6fMWj2FqjkDEh4Dn: all dials failed\\n  * [/ip4/103.46.128.45/tcp/57670] failed to negotiate security protocol: peer id mismatch: expected 12D3KooWGEbPyPAqBw7c693nhBQ7JgC5PTfz6fMWj2FqjkDEh4Dn, but remote key matches 12D3KooWGYZ4x6ceaEQY6xSpnZwaB84k6j45BnxiJvWNUY3anGMG\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t07944\",\"MinerPeer\":{\"Address\":\"t07944\",\"ID\":\"12D3KooWGEbPyPAqBw7c693nhBQ7JgC5PTfz6fMWj2FqjkDEh4Dn\",\"PieceCID\":null}}"}
-ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
-
-Command exited with non-zero status 1
-0.03user 0.01system 0:00.56elapsed 7%CPU (0avgtext+0avgdata 37732maxresident)k
-0inputs+0outputs (0major+3644minor)pagefaults 0swaps
