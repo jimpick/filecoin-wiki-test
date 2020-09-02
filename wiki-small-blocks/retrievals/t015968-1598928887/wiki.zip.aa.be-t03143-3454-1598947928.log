@@ -1,0 +1,6 @@
+2020-09-01T01:12:08.963-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"failed to dial 12D3KooWK2ysbctAuy3TuWSyufLyprV2fsZKZN5GMbodQvaY6SD4: all dials failed\\n  * [/ip4/101.32.40.15/tcp/23456] failed to negotiate security protocol: read tcp4 10.0.1.9:43123-\\u003e101.32.40.15:23456: read: connection reset by peer\\n  * [/ip4/101.200.203.66/tcp/23456] failed to negotiate security protocol: read tcp4 10.0.1.9:43123-\\u003e101.200.203.66:23456: read: connection reset by peer\\n  * [/ip4/110.249.214.74/tcp/23456] dial tcp4 110.249.214.74:23456: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t03143\",\"MinerPeer\":{\"Address\":\"t03143\",\"ID\":\"12D3KooWK2ysbctAuy3TuWSyufLyprV2fsZKZN5GMbodQvaY6SD4\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.08user 0.03system 0:00.47elapsed 25%CPU (0avgtext+0avgdata 38216maxresident)k
+0inputs+0outputs (0major+3605minor)pagefaults 0swaps
