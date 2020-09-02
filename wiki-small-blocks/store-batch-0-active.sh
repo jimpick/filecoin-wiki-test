@@ -38,7 +38,7 @@ console.log(filtered.join("\n"))
 ')
 
 # TRIES=4
-TRIES=1
+TRIES=2
 for n in $(seq 1 "$TRIES"); do
   for m in $MINERS; do
     echo $m "($n / $TRIES tries)":
