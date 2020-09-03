@@ -109,7 +109,7 @@
 109 wiki.zip.ac.ac 6 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 110 wiki.zip.ac.ad 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 111 wiki.zip.ac.ae 4 Active: 1 Sealing: 3 Xfr: 0 Error: 0
-112 wiki.zip.ac.af 13 Active: 1 Sealing: 10 Xfr: 0 Error: 1
+112 wiki.zip.ac.af 12 Active: 1 Sealing: 10 Xfr: 0 Error: 0
 113 wiki.zip.ac.ag 7 Active: 4 Sealing: 3 Xfr: 0 Error: 0
 114 wiki.zip.ac.ah 6 Active: 3 Sealing: 3 Xfr: 0 Error: 0
 115 wiki.zip.ac.ai 8 Active: 7 Sealing: 1 Xfr: 0 Error: 0
@@ -183,7 +183,7 @@
 183 wiki.zip.ad.ax 5 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 184 wiki.zip.ad.ay 8 Active: 4 Sealing: 3 Xfr: 0 Error: 0
 185 wiki.zip.ad.az 9 Active: 6 Sealing: 2 Xfr: 0 Error: 0
-186 wiki.zip.ad.ba 18 Active: 3 Sealing: 13 Xfr: 0 Error: 1
+186 wiki.zip.ad.ba 17 Active: 3 Sealing: 13 Xfr: 0 Error: 0
 187 wiki.zip.ad.bb 7 Active: 5 Sealing: 2 Xfr: 0 Error: 0
 188 wiki.zip.ad.bc 5 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 189 wiki.zip.ad.bd 7 Active: 5 Sealing: 2 Xfr: 0 Error: 0
@@ -267,7 +267,7 @@
 267 wiki.zip.af.ab 6 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 268 wiki.zip.af.ac 4 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 269 wiki.zip.af.ad 7 Active: 3 Sealing: 2 Xfr: 0 Error: 0
-270 wiki.zip.af.ae 17 Active: 2 Sealing: 11 Xfr: 0 Error: 1
+270 wiki.zip.af.ae 16 Active: 2 Sealing: 11 Xfr: 0 Error: 0
 271 wiki.zip.af.af 9 Active: 4 Sealing: 2 Xfr: 0 Error: 0
 272 wiki.zip.af.ag 6 Active: 2 Sealing: 3 Xfr: 0 Error: 0
 273 wiki.zip.af.ah 18 Active: 6 Sealing: 10 Xfr: 0 Error: 0
@@ -367,7 +367,7 @@
 367 wiki.zip.ag.bw 7 Active: 4 Sealing: 3 Xfr: 0 Error: 0
 368 wiki.zip.ag.bx 8 Active: 6 Sealing: 1 Xfr: 0 Error: 0
 369 wiki.zip.ag.by 6 Active: 2 Sealing: 2 Xfr: 0 Error: 0
-370 wiki.zip.ag.bz 6 Active: 1 Sealing: 2 Xfr: 0 Error: 1
+370 wiki.zip.ag.bz 5 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 371 wiki.zip.ag.ca 4 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 372 wiki.zip.ah.aa 8 Active: 4 Sealing: 3 Xfr: 0 Error: 0
 373 wiki.zip.ah.ab 3 Active: 2 Sealing: 1 Xfr: 0 Error: 0
@@ -377,7 +377,7 @@
 377 wiki.zip.ah.af 5 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 378 wiki.zip.ah.ag 7 Active: 3 Sealing: 3 Xfr: 0 Error: 0
 379 wiki.zip.ah.ah 6 Active: 3 Sealing: 3 Xfr: 0 Error: 0
-380 wiki.zip.ah.ai 10 Active: 6 Sealing: 1 Xfr: 0 Error: 1
+380 wiki.zip.ah.ai 9 Active: 6 Sealing: 1 Xfr: 0 Error: 0
 381 wiki.zip.ah.aj 6 Active: 3 Sealing: 2 Xfr: 0 Error: 0
 382 wiki.zip.ah.ak 6 Active: 1 Sealing: 3 Xfr: 0 Error: 0
 383 wiki.zip.ah.al 6 Active: 3 Sealing: 2 Xfr: 0 Error: 0
@@ -386,7 +386,7 @@
 386 wiki.zip.ah.ao 18 Active: 2 Sealing: 11 Xfr: 0 Error: 0
 387 wiki.zip.ah.ap 8 Active: 5 Sealing: 2 Xfr: 0 Error: 0
 388 wiki.zip.ah.aq 10 Active: 5 Sealing: 2 Xfr: 0 Error: 0
-389 wiki.zip.ah.ar 15 Active: 1 Sealing: 11 Xfr: 0 Error: 1
+389 wiki.zip.ah.ar 14 Active: 1 Sealing: 11 Xfr: 0 Error: 0
 390 wiki.zip.ah.as 4 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 391 wiki.zip.ah.at 7 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 392 wiki.zip.ah.au 8 Active: 3 Sealing: 3 Xfr: 0 Error: 0
@@ -400,8 +400,8 @@
 400 wiki.zip.ah.bc 7 Active: 5 Sealing: 1 Xfr: 0 Error: 0
 401 wiki.zip.ah.bd 6 Active: 1 Sealing: 5 Xfr: 0 Error: 0
 402 wiki.zip.ah.be 6 Active: 3 Sealing: 1 Xfr: 0 Error: 0
-403 wiki.zip.ah.bf 16 Active: 2 Sealing: 10 Xfr: 0 Error: 1
-404 wiki.zip.ah.bg 5 Active: 3 Sealing: 2 Xfr: 0 Error: 0
+403 wiki.zip.ah.bf 15 Active: 2 Sealing: 10 Xfr: 0 Error: 0
+404 wiki.zip.ah.bg 5 Active: 4 Sealing: 1 Xfr: 0 Error: 0
 405 wiki.zip.ah.bh 5 Active: 3 Sealing: 2 Xfr: 0 Error: 0
 406 wiki.zip.ah.bi 4 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 407 wiki.zip.ah.bj 5 Active: 3 Sealing: 2 Xfr: 0 Error: 0
@@ -436,7 +436,7 @@
 436 wiki.zip.ai.al 7 Active: 1 Sealing: 4 Xfr: 0 Error: 0
 437 wiki.zip.ai.am 5 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 438 wiki.zip.ai.an 8 Active: 2 Sealing: 1 Xfr: 0 Error: 0
-439 wiki.zip.ai.ao 19 Active: 3 Sealing: 12 Xfr: 0 Error: 1
+439 wiki.zip.ai.ao 18 Active: 3 Sealing: 12 Xfr: 0 Error: 0
 440 wiki.zip.ai.ap 10 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 441 wiki.zip.ai.aq 5 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 442 wiki.zip.ai.ar 7 Active: 4 Sealing: 2 Xfr: 0 Error: 0
@@ -502,8 +502,8 @@
 502 wiki.zip.aj.ay 5 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 503 wiki.zip.aj.az 5 Active: 1 Sealing: 3 Xfr: 0 Error: 0
 504 wiki.zip.aj.ba 5 Active: 2 Sealing: 0 Xfr: 0 Error: 0
-505 wiki.zip.aj.bb 14 Active: 2 Sealing: 8 Xfr: 0 Error: 1
-506 wiki.zip.aj.bc 14 Active: 1 Sealing: 9 Xfr: 0 Error: 1
+505 wiki.zip.aj.bb 13 Active: 2 Sealing: 8 Xfr: 0 Error: 0
+506 wiki.zip.aj.bc 13 Active: 1 Sealing: 9 Xfr: 0 Error: 0
 507 wiki.zip.aj.bd 5 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 508 wiki.zip.aj.be 3 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 509 wiki.zip.aj.bf 15 Active: 4 Sealing: 10 Xfr: 0 Error: 0
@@ -538,7 +538,7 @@
 538 wiki.zip.ak.ah 10 Active: 3 Sealing: 4 Xfr: 0 Error: 0
 539 wiki.zip.ak.ai 7 Active: 2 Sealing: 2 Xfr: 1 Error: 0
 540 wiki.zip.ak.aj 13 Active: 2 Sealing: 6 Xfr: 0 Error: 0
-541 wiki.zip.ak.ak 12 Active: 2 Sealing: 6 Xfr: 0 Error: 1
+541 wiki.zip.ak.ak 11 Active: 2 Sealing: 6 Xfr: 0 Error: 0
 542 wiki.zip.ak.al 5 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 543 wiki.zip.ak.am 3 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 544 wiki.zip.ak.an 6 Active: 2 Sealing: 3 Xfr: 0 Error: 0
@@ -570,7 +570,7 @@
 570 wiki.zip.ak.bn 8 Active: 4 Sealing: 2 Xfr: 0 Error: 0
 571 wiki.zip.ak.bo 8 Active: 2 Sealing: 1 Xfr: 1 Error: 0
 572 wiki.zip.ak.bp 6 Active: 3 Sealing: 3 Xfr: 0 Error: 0
-573 wiki.zip.ak.bq 10 Active: 1 Sealing: 7 Xfr: 0 Error: 0
+573 wiki.zip.ak.bq 10 Active: 2 Sealing: 6 Xfr: 0 Error: 0
 574 wiki.zip.ak.br 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 575 wiki.zip.ak.bs 12 Active: 2 Sealing: 9 Xfr: 0 Error: 0
 576 wiki.zip.ak.bt 6 Active: 1 Sealing: 3 Xfr: 0 Error: 0
@@ -596,7 +596,7 @@
 596 wiki.zip.al.am 6 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 597 wiki.zip.al.an 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 598 wiki.zip.al.ao 5 Active: 1 Sealing: 3 Xfr: 0 Error: 0
-599 wiki.zip.al.ap 13 Active: 2 Sealing: 9 Xfr: 1 Error: 1
+599 wiki.zip.al.ap 12 Active: 2 Sealing: 9 Xfr: 1 Error: 0
 600 wiki.zip.al.aq 3 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 601 wiki.zip.al.ar 5 Active: 2 Sealing: 3 Xfr: 0 Error: 0
 602 wiki.zip.al.as 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
@@ -604,7 +604,7 @@
 604 wiki.zip.al.au 11 Active: 3 Sealing: 5 Xfr: 0 Error: 0
 605 wiki.zip.al.av 6 Active: 1 Sealing: 3 Xfr: 1 Error: 0
 606 wiki.zip.al.aw 4 Active: 2 Sealing: 2 Xfr: 0 Error: 0
-607 wiki.zip.al.ax 15 Active: 3 Sealing: 9 Xfr: 0 Error: 1
+607 wiki.zip.al.ax 14 Active: 3 Sealing: 9 Xfr: 0 Error: 0
 608 wiki.zip.al.ay 6 Active: 3 Sealing: 2 Xfr: 0 Error: 0
 609 wiki.zip.al.az 4 Active: 3 Sealing: 1 Xfr: 0 Error: 0
 610 wiki.zip.al.ba 4 Active: 3 Sealing: 0 Xfr: 1 Error: 0
@@ -633,7 +633,7 @@
 633 wiki.zip.al.bx 3 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 634 wiki.zip.al.by 10 Active: 3 Sealing: 5 Xfr: 1 Error: 0
 635 wiki.zip.al.bz 11 Active: 1 Sealing: 9 Xfr: 0 Error: 0
-636 wiki.zip.al.ca 9 Active: 1 Sealing: 5 Xfr: 0 Error: 1
+636 wiki.zip.al.ca 8 Active: 1 Sealing: 5 Xfr: 0 Error: 0
 637 wiki.zip.am.aa 14 Active: 3 Sealing: 6 Xfr: 0 Error: 0
 638 wiki.zip.am.ab 4 Active: 1 Sealing: 3 Xfr: 0 Error: 0
 639 wiki.zip.am.ac 8 Active: 2 Sealing: 2 Xfr: 0 Error: 0
@@ -644,13 +644,13 @@
 644 wiki.zip.am.ah 4 Active: 2 Sealing: 1 Xfr: 1 Error: 0
 645 wiki.zip.am.ai 12 Active: 1 Sealing: 9 Xfr: 0 Error: 0
 646 wiki.zip.am.aj 3 Active: 1 Sealing: 1 Xfr: 1 Error: 0
-647 wiki.zip.am.ak 11 Active: 1 Sealing: 7 Xfr: 0 Error: 1
+647 wiki.zip.am.ak 10 Active: 1 Sealing: 7 Xfr: 0 Error: 0
 648 wiki.zip.am.al 7 Active: 1 Sealing: 5 Xfr: 0 Error: 0
 649 wiki.zip.am.am 7 Active: 2 Sealing: 4 Xfr: 0 Error: 0
 650 wiki.zip.am.an 7 Active: 2 Sealing: 3 Xfr: 1 Error: 0
 651 wiki.zip.am.ao 7 Active: 4 Sealing: 0 Xfr: 1 Error: 0
 652 wiki.zip.am.ap 6 Active: 3 Sealing: 1 Xfr: 0 Error: 0
-653 wiki.zip.am.aq 10 Active: 2 Sealing: 5 Xfr: 0 Error: 1
+653 wiki.zip.am.aq 9 Active: 2 Sealing: 5 Xfr: 0 Error: 0
 654 wiki.zip.am.ar 4 Active: 2 Sealing: 0 Xfr: 1 Error: 0
 655 wiki.zip.am.as 6 Active: 3 Sealing: 3 Xfr: 0 Error: 0
 656 wiki.zip.am.at 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
@@ -672,7 +672,7 @@
 672 wiki.zip.am.bj 4 Active: 1 Sealing: 1 Xfr: 1 Error: 0
 673 wiki.zip.am.bk 4 Active: 2 Sealing: 2 Xfr: 0 Error: 0
 674 wiki.zip.am.bl 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
-675 wiki.zip.am.bm 12 Active: 1 Sealing: 9 Xfr: 0 Error: 1
+675 wiki.zip.am.bm 11 Active: 1 Sealing: 9 Xfr: 0 Error: 0
 676 wiki.zip.am.bn 3 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 677 wiki.zip.am.bo 4 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 678 wiki.zip.am.bp 8 Active: 1 Sealing: 5 Xfr: 1 Error: 0
@@ -693,5 +693,5 @@
 693 wiki.zip.an.ad 4 Active: 1 Sealing: 2 Xfr: 0 Error: 0
 694 wiki.zip.an.ae 7 Active: 2 Sealing: 3 Xfr: 0 Error: 0
 695 wiki.zip.an.af 3 Active: 3 Sealing: 0 Xfr: 0 Error: 0
-696 wiki.zip.an.ag 5 Active: 1 Sealing: 0 Xfr: 1 Error: 1
+696 wiki.zip.an.ag 4 Active: 1 Sealing: 0 Xfr: 1 Error: 0
 697 wiki.zip.an.ah 6 Active: 1 Sealing: 4 Xfr: 0 Error: 0
