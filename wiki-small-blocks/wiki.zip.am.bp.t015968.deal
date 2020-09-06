@@ -1,2 +1,0 @@
-ERROR: failed to start deal: computing commP failed: generating CommP: error traversing node at "Links/0/Hash": could not load link "bafk2bzacecen7uavo2lijwozsgotxfjvhv7bmyd7hun56d6fzmxy2khw3k4cq": open /home/lotus1/filecoin-wiki-test/wiki-small-blocks/retrievals/t015968-1598928887/wiki.zip.am.bp-t01800-8010-1598938561.bin: no such file or directory
-
