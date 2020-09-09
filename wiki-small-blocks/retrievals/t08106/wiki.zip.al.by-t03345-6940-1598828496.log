@@ -1,8 +1,0 @@
-> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
-> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
-Success
-Command exited with non-zero status 124
-0.12user 0.04system 17:00.01elapsed 0%CPU (0avgtext+0avgdata 34464maxresident)k
-680inputs+0outputs (58major+3807minor)pagefaults 0swaps
