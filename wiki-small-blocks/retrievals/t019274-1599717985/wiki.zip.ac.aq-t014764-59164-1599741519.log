@@ -1,0 +1,6 @@
+2020-09-10T05:39:20.094-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t014764\",\"MinerPeer\":{\"Address\":\"t014764\",\"ID\":\"12D3KooWFCjUREoR1s5bPgrHcnRw4u3dmFmcwjyiFf3GpPnhCfPH\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:40.73elapsed 0%CPU (0avgtext+0avgdata 37788maxresident)k
+0inputs+0outputs (0major+3607minor)pagefaults 0swaps

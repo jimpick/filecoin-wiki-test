@@ -1,0 +1,29 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+2020-09-10T02:16:36.839-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+2020-09-10T02:16:36.926-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:213	rpc output message buffer	{"n": 2}
+2020-09-10T02:16:37.043-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0.00000000000209769 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 2 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+2020-09-10T02:16:40.699-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3 MiB, Paid 0.00000000000209769 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3 MiB, Paid 0.000000000006291994 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 4 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventAllBlocksReceived (DealStatusBlocksComplete)
+> Recv: 4.769 MiB, Paid 0.000000000006291994 FIL, ClientEventLastPaymentRequested (DealStatusSendFundsLastPayment)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 4.769 MiB, Paid 0.000000000010000538 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.04user 0.05system 5:32.08elapsed 0%CPU (0avgtext+0avgdata 35888maxresident)k
+7848inputs+0outputs (223major+4087minor)pagefaults 0swaps
