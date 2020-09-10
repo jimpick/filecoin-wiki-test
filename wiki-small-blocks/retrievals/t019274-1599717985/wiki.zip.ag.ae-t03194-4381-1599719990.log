@@ -1,0 +1,21 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 269 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+2020-09-09T23:42:05.781-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:213	rpc output message buffer	{"n": 2}
+> Recv: 1 MiB, Paid 0 FIL, ClientEventWriteDealPaymentErrored (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: writing deal payment: Unable to send request: failed to dial 12D3KooWJLGfdTXPaGCqEazUnGy2tZz6v8KjWdWHSjEXRFHB1huu: all dials failed
+  * [/ip4/47.88.10.179/tcp/5427] failed to negotiate security protocol: EOF
+  * [/ip4/47.115.150.1/tcp/5427] failed to negotiate security protocol: EOF
+  * [/ip4/47.245.136.114/tcp/5427] failed to negotiate security protocol: EOF
+
+Command exited with non-zero status 1
+0.01user 0.03system 2:15.53elapsed 0%CPU (0avgtext+0avgdata 38868maxresident)k
+0inputs+0outputs (0major+3753minor)pagefaults 0swaps
