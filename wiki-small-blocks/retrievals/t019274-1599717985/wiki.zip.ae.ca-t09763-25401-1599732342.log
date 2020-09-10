@@ -1,0 +1,6 @@
+2020-09-10T03:06:05.682-0700	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20200822201400-474f4fdccc52/client.go:430	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWP2q5QyxunHE9MZ7MUWQhGcB88p26XjcAbg2iQxZY6CPt: all dials failed\\n  * [/ip4/47.254.25.128/tcp/7000] failed to negotiate security protocol: peer id mismatch: expected 12D3KooWP2q5QyxunHE9MZ7MUWQhGcB88p26XjcAbg2iQxZY6CPt, but remote key matches 12D3KooWQ8QQBiN1gFR3UQoamTGqA1nUzgsQWdnDF1PLujjT8ZZT\\n  * [/ip4/47.254.128.95/tcp/7000] failed to negotiate security protocol: peer id mismatch: expected 12D3KooWP2q5QyxunHE9MZ7MUWQhGcB88p26XjcAbg2iQxZY6CPt, but remote key matches 12D3KooWQ8QQBiN1gFR3UQoamTGqA1nUzgsQWdnDF1PLujjT8ZZT\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"t09763\",\"MinerPeer\":{\"Address\":\"t09763\",\"ID\":\"12D3KooWP2q5QyxunHE9MZ7MUWQhGcB88p26XjcAbg2iQxZY6CPt\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.02user 0.01system 0:23.61elapsed 0%CPU (0avgtext+0avgdata 38460maxresident)k
+0inputs+0outputs (0major+3675minor)pagefaults 0swaps
