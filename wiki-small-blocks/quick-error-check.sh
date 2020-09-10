@@ -1,3 +1,3 @@
 #! /bin/bash
 
-./check-cached.sh | grep Error | sort -k6 | grep -v activation
+./check-cached.sh | grep Error | sort -k6 | grep -v activation | grep -v 'Response Rejected'
