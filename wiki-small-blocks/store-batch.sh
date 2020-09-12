@@ -11,7 +11,7 @@ const fixedJs = js.replace(/export.*/, "").replace(/^const /, "var ")
 
 eval(fixedJs)
 
-let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^active,/) || text.match(/^sealing,/)).map(([miner]) => miner)
+let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^(active,|sealing,|invite-active,|invite-sealing,)/)).map(([miner]) => miner)
 
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
