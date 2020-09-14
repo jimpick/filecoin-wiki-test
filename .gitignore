@@ -2,4 +2,5 @@
 *.zip.??.??
 *.bin
 tmp
-.retrieval-epoch 
+.retrieval-epoch
+*.gz
