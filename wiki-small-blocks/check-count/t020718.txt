@@ -638,7 +638,7 @@
 638 wiki.zip.am.ab 3 Active: 0 Sealing: 2 Xfr: 1 Error: 0
 639 wiki.zip.am.ac 3 Active: 0 Sealing: 2 Xfr: 1 Error: 0
 640 wiki.zip.am.ad 3 Active: 0 Sealing: 2 Xfr: 1 Error: 0
-641 wiki.zip.am.ae 3 Active: 0 Sealing: 2 Xfr: 0 Error: 1
+641 wiki.zip.am.ae 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
 642 wiki.zip.am.af 3 Active: 2 Sealing: 1 Xfr: 0 Error: 0
 643 wiki.zip.am.ag 2 Active: 0 Sealing: 1 Xfr: 1 Error: 0
 644 wiki.zip.am.ah 3 Active: 0 Sealing: 2 Xfr: 1 Error: 0
