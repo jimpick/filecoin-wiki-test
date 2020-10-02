@@ -130,3 +130,5 @@
 130 wiki.zip.ac.ax 0 Active: 0 Sealing: 0 Xfr: 0 Error: 0
 131 wiki.zip.ac.ay 0 Active: 0 Sealing: 0 Xfr: 0 Error: 0
 132 wiki.zip.ac.az 0 Active: 0 Sealing: 0 Xfr: 0 Error: 0
+ERROR: expected 4 args: dataCid, miner, price, duration
+
