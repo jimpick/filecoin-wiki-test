@@ -2,4 +2,7 @@
 
 CLIENT=$(lotus state lookup `lotus wallet default`)
 
-rm -f wiki.zip.??.??.$CLIENT.deal
+for f in ls *.cid; do
+	BASE=$(echo $f | sed 's,\.cid$,,')
+	rm -vf $BASE.$CLIENT.deal
+done
