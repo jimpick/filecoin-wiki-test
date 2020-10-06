@@ -12,7 +12,7 @@ const fixedJs = js.replace(/export.*/m, "").replace(/^const /m, "var ")
 
 eval(fixedJs)
 
-let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^(live,)/)).map(([miner]) => miner)
+let filtered = Object.entries(annotations).filter(([miner, text]) => text.match(/^(candidate,)/)).map(([miner]) => miner)
 
 function shuffle(array) {
   var currentIndex = array.length, temporaryValue, randomIndex;
@@ -34,6 +34,8 @@ function shuffle(array) {
 }
 
 shuffle(filtered)
+
+filtered.length = 5
 
 console.log(filtered.join("\n"))
 ')
