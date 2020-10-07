@@ -71,7 +71,7 @@ func main() {
 	}
 	finalOutput, _, _ := e.Expect(acceptRE, timeout)
 	fmt.Println(term.Greenf("final output: %s\n", finalOutput))
-	if price <= 0.05 {
+	if price > 0.05 {
 		os.Exit(1)
 	}
 }
