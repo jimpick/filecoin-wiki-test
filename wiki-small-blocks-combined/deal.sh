@@ -35,8 +35,12 @@ for CID_FILE in *.cid; do
 		timeout -k 25s 20s lotus client query-ask $MINER
 		#lotus client deal `cat $f` $MINER 0.000000000000000006 600000 | tee -a $DEAL_FILE
 		echo Miner: $MINER
-		echo CID: `cat $CID_FILE`
-		lotus client deal # interactive
+    CID=$(cat $CID_FILE)
+		echo CID: $CID
+		#lotus client deal # interactive
+    echo 'Press enter to start deal'
+    read
+    ./deal-tool/deal-tool -cid=$CID -miner=$MINER # Expect-style scripting
 		lotus client list-deals -v | tail -1 | awk '{ print $4 }' > $DEAL_FILE
 		cp $DEAL_FILE $DEAL_FILE_MINER
 		#echo $CLIENT: $(lotus wallet balance)
