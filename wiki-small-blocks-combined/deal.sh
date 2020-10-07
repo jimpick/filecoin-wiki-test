@@ -18,7 +18,7 @@ echo $CLIENT: $(lotus wallet balance) "($FREE free)"
 
 count=0
 total=`ls *.cid | wc -l`
-for CID_FILE in *.cid; do
+for CID_FILE in `ls *.cid | grep -v wiki.aa`; do
 	#echo $f $((++count)) of $total
 	BASE=$(echo $CID_FILE | sed 's,\.cid,,')
 	DEAL_FILE=$BASE.$CLIENT.deal
