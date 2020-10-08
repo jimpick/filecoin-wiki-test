@@ -8,5 +8,6 @@ mkdir -p deals
   MINER=$(echo $f | sed "s,^wiki.*\.\(f0[0-9]*\)\.deal,\1,")
   WIKIFILE=$(echo $f | sed "s,^\(wiki\.[^.]*\).*,\1,")
   DEAL=$(cat $f)
-  echo "{\"miner\": \"$MINER\", \"wikiFile\": \"$WIKIFILE\", \"dealCid\": \"$DEAL\" }"
+  CID=$(cat $WIKIFILE.cid)
+  echo "{\"miner\": \"$MINER\", \"wikiFile\": \"$WIKIFILE\", \"dealCid\": \"$DEAL\", \"cid\": \"$CID\" }"
 done) | jq -s > deals/$CLIENT.json
