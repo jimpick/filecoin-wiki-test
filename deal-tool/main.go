@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+  "io/ioutil"
 	"log"
 	"os"
 	"regexp"
@@ -20,12 +21,15 @@ const (
 var (
 	cid   = flag.String("cid", "", "cid")     // QmQagJpZKcxfDUQaH5a5WWPajqdWiX2fJyEQaQ6Tyu9nsx
 	miner = flag.String("miner", "", "miner") // f023013
+	dealfile = flag.String("dealfile", "", "dealfile") // f023013
 
 	dataCidRE  = regexp.MustCompile("Data CID .*:")
 	durationRE = regexp.MustCompile("Deal duration .*:")
 	minerRE    = regexp.MustCompile("Miner Address .*:")
 	acceptRE   = regexp.MustCompile("Accept .*:")
 	priceRE    = regexp.MustCompile("Total price: ~([0-9.]+) FIL")
+	finalResultRE    = regexp.MustCompile("Final result .*") // Bogus match
+	dealCidRE    = regexp.MustCompile("Deal CID:.*(bafy.*)")
 )
 
 // go run . -cid=QmQagJpZKcxfDUQaH5a5WWPajqdWiX2fJyEQaQ6Tyu9nsx -miner=f023013
@@ -69,9 +73,16 @@ func main() {
 	} else {
 		e.Send("no\n")
 	}
-	finalOutput, _, _ := e.Expect(acceptRE, timeout)
-	fmt.Println(term.Greenf("final output: %s\n", finalOutput))
+	finalResult, _, _ := e.Expect(finalResultRE, timeout)
+	fmt.Println(term.Greenf("Final result: %s\n", finalResult))
 	if price > 0.05 {
 		os.Exit(1)
 	}
+	dealCID := dealCidRE.FindStringSubmatch(finalResult)[1]
+	fmt.Println(term.Greenf("Deal CID: %s\n", dealCID))
+  err = ioutil.WriteFile(*dealfile, []byte(dealCID), 0644)
+	if err != nil {
+		log.Fatal(err)
+	}
+  fmt.Printf("Wrote %v to %v\n", dealCID, *dealfile)
 }

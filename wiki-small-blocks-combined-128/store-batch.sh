@@ -35,7 +35,7 @@ function shuffle(array) {
 
 shuffle(filtered)
 
-filtered.length = 5
+filtered.length = 20
 
 console.log(filtered.join("\n"))
 ')
