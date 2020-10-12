@@ -29,7 +29,7 @@ var (
 	acceptRE   = regexp.MustCompile("Accept .*:")
 	priceRE    = regexp.MustCompile("Total price: ~([0-9.]+) FIL")
 	finalResultRE    = regexp.MustCompile("Final result .*") // Bogus match
-	dealCidRE    = regexp.MustCompile("Deal CID:.*(bafy.*)")
+	dealCidRE    = regexp.MustCompile("Deal CID:.*(bafy.*)\x1b")
 )
 
 // go run . -cid=QmQagJpZKcxfDUQaH5a5WWPajqdWiX2fJyEQaQ6Tyu9nsx -miner=f023013
@@ -78,7 +78,7 @@ func main() {
 	if price > 0.05 {
 		os.Exit(1)
 	}
-	dealCID := dealCidRE.FindStringSubmatch(finalResult)[1]
+	dealCID := dealCidRE.FindStringSubmatch(finalResult)[1] + "\n"
 	fmt.Println(term.Greenf("Deal CID: %s\n", dealCID))
   err = ioutil.WriteFile(*dealfile, []byte(dealCID), 0644)
 	if err != nil {
