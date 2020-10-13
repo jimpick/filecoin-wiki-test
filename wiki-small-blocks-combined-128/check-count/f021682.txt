@@ -22,6 +22,6 @@
 22 wiki.22 5 Active: 0 Sealing: 3 Xfr: 1 Error: 1
 23 wiki.23 5 Active: 1 Sealing: 2 Xfr: 1 Error: 1
 24 wiki.24 7 Active: 1 Sealing: 3 Xfr: 1 Error: 2
-25 wiki.25 7 Active: 0 Sealing: 6 Xfr: 0 Error: 0
+25 wiki.25 7 Active: 0 Sealing: 6 Xfr: 1 Error: 0
 26 wiki.26 5 Active: 0 Sealing: 3 Xfr: 0 Error: 1
 27 wiki.27 5 Active: 0 Sealing: 4 Xfr: 0 Error: 0
