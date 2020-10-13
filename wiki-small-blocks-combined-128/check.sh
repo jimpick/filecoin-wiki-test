@@ -8,7 +8,7 @@ if [ -z "$CLIENT" ]; then
   mkdir -p list-deals
   OUTPUT=list-deals/$CLIENT.txt
 
-  lotus client list-deals -v > $OUTPUT
+  lotus client list-deals -v --show-failed > $OUTPUT
 fi
 
 WORKDIR=$(mktemp -d -t blaster-deals.XXXXXXX)
