@@ -68,14 +68,15 @@ func main() {
 	fmt.Println(term.Greenf("result: %s\n", result))
 	price, err := strconv.ParseFloat(priceRE.FindStringSubmatch(result)[1], 32)
 	fmt.Printf("Price: %v\n", price)
-	if price <= 0.5 {
+  maxPrice := 0.01
+	if price < maxPrice {
 		e.Send("yes\n")
 	} else {
 		e.Send("no\n")
 	}
 	finalResult, _, _ := e.Expect(finalResultRE, timeout)
 	fmt.Println(term.Greenf("Final result: %s\n", finalResult))
-	if price > 0.5 {
+	if price >= maxPrice {
 		os.Exit(1)
 	}
 	dealCID := dealCidRE.FindStringSubmatch(finalResult)[1] + "\n"
