@@ -40,7 +40,7 @@ for CID_FILE in `ls *.cid | grep -v wiki.01`; do
 		#lotus client deal # interactive
     #echo 'Press enter to start deal'
     #read
-    ../deal-tool/deal-tool -cid=$CID -miner=$MINER -dealfile=$DEAL_FILE # Expect-style scripting
+    timeout -k 95s 90s ../deal-tool/deal-tool -cid=$CID -miner=$MINER -dealfile=$DEAL_FILE # Expect-style scripting
 		#lotus client list-deals -v | tail -1 | awk '{ print $4 }' > $DEAL_FILE
 		cp $DEAL_FILE $DEAL_FILE_MINER
 		#echo $CLIENT: $(lotus wallet balance)
