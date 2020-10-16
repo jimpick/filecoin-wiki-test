@@ -26,6 +26,6 @@ console.log(filtered.join("\n"))
 
 for m in $MINERS; do
   echo $m
-  lotus client query-ask $m
+  timeout 10s lotus client query-ask $m
   sleep 1
 done
