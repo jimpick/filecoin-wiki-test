@@ -4,6 +4,13 @@ mkdir -p tmp
 #curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/spacerace/src/annotations-spacerace-slingshot-medium.js
 cp -f /home/ubuntu/workshop-client-testnet/src/annotations-spacerace-slingshot-medium.js tmp/annotations.js
 
+CLIENT=$(./client.sh)
+
+NUM_CIDS=$(ls *.cid | wc -l)
+
+TRIES=1
+for n in $(seq 1 "$TRIES"); do
+
 MINERS=$(node -e '
 const fs = require("fs")
 
@@ -40,14 +47,21 @@ shuffle(filtered)
 console.log(filtered.join("\n"))
 ')
 
-TRIES=1
-for n in $(seq 1 "$TRIES"); do
   for m in $MINERS; do
-    echo $m "($n / $TRIES tries)":
-    ./deal.sh $m
-    echo
-    #read -p pause...
-    #echo
-    sleep 1
+    COUNT=$(ls *.$CLIENT.deal | wc -l)
+    echo "Count:" $COUNT "of" $NUM_CIDS
+    if [ "$COUNT" != "$NUM_CIDS" ]; then
+      echo $m "($n / $TRIES tries)":
+      ./deal.sh $m
+      echo
+      #read -p pause...
+      #echo
+      sleep 1
+    else
+      echo "Resetting"
+      ./reset-batch.sh
+      echo
+      sleep 5
+    fi
   done
 done
