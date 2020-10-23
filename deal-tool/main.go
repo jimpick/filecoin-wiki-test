@@ -86,6 +86,10 @@ func main() {
 	finalResult, _, _ := e.Expect(finalResultRE, timeout)
 	fmt.Println(term.Greenf("Final result: %s\n", finalResult))
 	if price >= maxPrice {
+    err = ioutil.WriteFile("skip-miners/" + *miner, []byte("min-ask"), 0644)
+    if err != nil {
+      log.Fatal(err)
+    }
 		os.Exit(1)
 	}
 	dealCID := dealCidRE.FindStringSubmatch(finalResult)[1] + "\n"

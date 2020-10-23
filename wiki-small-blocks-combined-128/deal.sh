@@ -13,6 +13,11 @@ if [ -z "$MINER" ]; then
 	exit 1
 fi
 
+if [ -f "skip-miners/$MINER" ]; then
+  echo "Skipping $MINER:" $(cat skip-miners/$MINER)
+  exit 0
+fi
+
 FREE=$(df -h . | tail -1 | awk '{ print $4 }')
 echo $CLIENT: $(lotus wallet balance) "($FREE free)"
 
@@ -31,9 +36,10 @@ for CID_FILE in `ls *.cid`; do
 		echo -n .
 		echo $((++count)) > /dev/null
 	else
-		echo
+		echo error-ask > skip-miners/$MINER
 		echo $BASE $((++count)) of $total
 		timeout -k 25s 20s lotus client query-ask $MINER
+    rm skip-miners/$MINER
 		#lotus client deal `cat $f` $MINER 0.000000000000000006 600000 | tee -a $DEAL_FILE
 		echo Miner: $MINER
     CID=$(cat $CID_FILE)
