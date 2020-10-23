@@ -1,0 +1,14 @@
+1 wiki.aa 2 Active: 1 Sealing: 1 Xfr: 0 Error: 0
+2 wiki.ab 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
+3 wiki.ac 2 Active: 2 Sealing: 0 Xfr: 0 Error: 0
+4 wiki.ad 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
+5 wiki.ae 2 Active: 2 Sealing: 0 Xfr: 0 Error: 0
+6 wiki.af 1 Active: 0 Sealing: 0 Xfr: 1 Error: 0
+7 wiki.ag 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
+8 wiki.ah 2 Active: 1 Sealing: 1 Xfr: 0 Error: 0
+9 wiki.ai 1 Active: 0 Sealing: 0 Xfr: 1 Error: 0
+10 wiki.aj 2 Active: 0 Sealing: 1 Xfr: 1 Error: 0
+11 wiki.ak 2 Active: 0 Sealing: 1 Xfr: 1 Error: 0
+12 wiki.al 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
+13 wiki.am-an 1 Active: 0 Sealing: 1 Xfr: 0 Error: 0
+14 wiki.am 2 Active: 0 Sealing: 2 Xfr: 0 Error: 0
