@@ -1,5 +1,10 @@
 #! /bin/bash
 
+PORT=$(lotus auth api-info --perm admin | grep FULLNODE_API_INFO | sed 's,^FULLNODE_API_INFO=.*:,,' | sed 's,/ip4/0.0.0.0/tcp/\([0-9]*\)/http,\1,')
+echo $PORT
+TOKEN=$(lotus auth api-info --perm admin | grep FULLNODE_API_INFO | sed 's,^FULLNODE_API_INFO=\(.*\):.*,\1,')
+echo $TOKEN
+
 TARGET_DIR=$1
 if [ -z "$TARGET_DIR" ]; then
   echo "Need target dir"
@@ -53,6 +58,12 @@ for x in $(grep ^wiki $CHECK | shuf); do
    		LOG=$(ls $TARGET_DIR/$x-$MINER-$DEAL-*.log 2> /dev/null)
 		if [ -z "$LOG" ]; then 
 		      	echo Retrieving $MINER $DEAL $CID
+      curl -m 60 -X POST  -H "Content-Type: application/json"  -H "Authorization: Bearer $TOKEN"  --data "{ \"jsonrpc\": \"2.0\", \"method\": \"Filecoin.ClientMinerQueryOffer\", \"params\": [\"$MINER\", { \"/\": \"$CID\" }, null], \"id\": 1 }"  http://127.0.0.1:$PORT/rpc/v0
+      if [ "$?" != "0" ]; then
+        echo Failed CURL check | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
+        continue
+      fi
+
 			/usr/bin/time timeout -k 18m 17m lotus client retrieve --miner=$MINER --maxPrice=0.000000000050000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"
