@@ -16,3 +16,8 @@
 > Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.39user 0.34system 22:00.04elapsed 0%CPU (0avgtext+0avgdata 39104maxresident)k
+135168inputs+0outputs (6468major+5825minor)pagefaults 0swaps

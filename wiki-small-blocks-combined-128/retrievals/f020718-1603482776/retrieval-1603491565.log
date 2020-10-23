@@ -81,3 +81,38 @@ Retrieving f023977 889372 QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
 > Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.39user 0.34system 22:00.04elapsed 0%CPU (0avgtext+0avgdata 39104maxresident)k
+135168inputs+0outputs (6468major+5825minor)pagefaults 0swaps
+f020718: 0.497675489922647004 FIL (32G free)
+Skipping ahead
+
+1 wiki.17
+f019240-889495 f01278-897623 f048172-937898 f023928-937892 f024146-937998 f044160-938047 f048557-938181 f07850-938302 f023492-676869 f025019-712480 f02423-714898 f039515-799178 f023565-799706 f05316-801313
+Already have log for f019240 889495 QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+Retrieving f01278 897623 QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    800 --:--:-- --:--:-- --:--:--   796100   532  100   372  100   160    877    377 --:--:-- --:--:-- --:--:--  1251
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"},"Piece":null,"Size":134217728,"MinPrice":"12499999938052098","UnsealPrice":"2","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01019","MinerPeer":{"Address":"f01278","ID":"12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7","PieceCID":null}},"id":1}
+ERROR: failed to find offer satisfying maxPrice: 5000000000
+
+Command exited with non-zero status 1
+0.11user 0.04system 0:00.35elapsed 45%CPU (0avgtext+0avgdata 41904maxresident)k
+19592inputs+0outputs (116major+3790minor)pagefaults 0swaps
+f020718: 0.497675489922647004 FIL (32G free)
+Skipping ahead
+
+1 wiki.22
+f010479-838373 f08264-889910 f08025-890425 f019100-891380 f024184-894097 f05316-897675 f020378-937855 f049772-938106 f042558-938169 f022142-938324 f07819-637947 f05317-638481 f08240-712437 f015734-800191 f010088-800813 f033511-801136
+Retrieving f010479 838373 QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    800 --:--:-- --:--:-- --:--:--   800100   526  100   365  100   161    619    273 --:--:-- --:--:-- --:--:--   891
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08391","MinerPeer":{"Address":"f010479","ID":"12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
