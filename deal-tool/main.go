@@ -25,11 +25,12 @@ var (
 
 	dataCidRE  = regexp.MustCompile("Data CID .*:")
 	durationRE = regexp.MustCompile("Deal duration .*:")
-	minerRE    = regexp.MustCompile("Miner Address .*:")
+	minerRE    = regexp.MustCompile("Miner Addresses .*:")
 	acceptRE   = regexp.MustCompile("Accept .*:")
-	priceRE    = regexp.MustCompile("Total price: ~([0-9.]+) FIL")
+	// priceXRE    = regexp.MustCompile("Total price: ~.....(.*) FIL")
+	priceRE    = regexp.MustCompile("Total price: ~.....([0-9.]+) FIL")
 	finalResultRE    = regexp.MustCompile("Final result .*") // Bogus match
-	dealCidRE    = regexp.MustCompile("Deal CID:.*(bafy.*)\x1b")
+	dealCidRE    = regexp.MustCompile("Deal .* CID:.*(bafy.*)\x1b")
 )
 
 // go run . -cid=QmQagJpZKcxfDUQaH5a5WWPajqdWiX2fJyEQaQ6Tyu9nsx -miner=f023013
@@ -65,8 +66,16 @@ func main() {
 
 		fmt.Println(term.Greenf("%s: result: %s\n", *cmd, result))
 	*/
-	fmt.Println(term.Greenf("result: %s\n", result))
+	// fmt.Printf(term.Greenf("result: %s\n", result))
+  /*
+	priceX := priceXRE.FindStringSubmatch(result)[1]
+	fmt.Printf("PriceX: %v\n", priceX)
+	fmt.Printf("PriceX bytes: %v\n", []byte(priceX))
+  */
 	price, err := strconv.ParseFloat(priceRE.FindStringSubmatch(result)[1], 32)
+  if err != nil {
+    log.Fatal(err)
+  }
 	fmt.Printf("Price: %v\n", price)
   maxPrice := 0.01
 	if price < maxPrice {
