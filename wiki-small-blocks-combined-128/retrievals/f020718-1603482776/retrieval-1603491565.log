@@ -116,3 +116,50 @@ Retrieving f010479 838373 QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.24user 0.26system 22:00.03elapsed 0%CPU (0avgtext+0avgdata 39828maxresident)k
+69936inputs+0outputs (5682major+5298minor)pagefaults 0swaps
+f020718: 0.497674619939070881 FIL (31G free)
+Skipping ahead
+
+1 wiki.23
+f025019-837271 f03274-839105 f023467-889891 f023495-892395 f025007-895889 f018783-897710 f033189-937903 f023490-937908 f035436-937968 f024147-938109 f023853-539818 f01247-637961 f021870-638471 f024969-640063 f03273-712440 f023861-800392
+Retrieving f025019 837271 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161    310    136  0:00:01  0:00:01 --:--:--   447100   527  100   366  100   161    310    136  0:00:01  0:00:01 --:--:--   447
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f021268","MinerPeer":{"Address":"f025019","ID":"12D3KooWPcST189CRdZ2BLrE5NhFz2YQwcfCWdabj12FWwVNBjYj","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.502 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.448 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.33user 0.23system 22:00.03elapsed 0%CPU (0avgtext+0avgdata 39188maxresident)k
+105384inputs+0outputs (5464major+5169minor)pagefaults 0swaps
+f020718: 0.497673697021400715 FIL (31G free)
+Skipping ahead
+
+1 wiki.24
+f043313-889937 f04443-938022 f024015-938331 f023853-580733 f02301-637950 f021540-638555 f03275-639959 f023492-712544 f024016-800187 f024147-800388 f018781-800794 f023662-801152
+Already have log for f043313 889937 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Already have log for f04443 938022 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Retrieving f024015 938331 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    805 --:--:-- --:--:-- --:--:--   800100   527  100   366  100   161   1119    492 --:--:-- --:--:-- --:--:--  1606
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f023829","MinerPeer":{"Address":"f024015","ID":"12D3KooWFhCpWBkkd495L5u7mHc3cDjThHeixTQ3kgAGK7YyajZb","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
