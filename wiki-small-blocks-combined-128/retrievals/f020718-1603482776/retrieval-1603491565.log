@@ -163,3 +163,22 @@ Retrieving f024015 938331 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.25user 0.28system 22:00.03elapsed 0%CPU (0avgtext+0avgdata 39808maxresident)k
+87976inputs+0outputs (5813major+5146minor)pagefaults 0swaps
+f020718: 0.497672784182335231 FIL (31G free)
+Skipping ahead
+
+1 wiki.09
+f029401-836684 f010253-836982 f024015-838921 f05317-893696 f039515-894908 f010446-937849 f08383-937930 f046426-938137 f023009-938319 f08240-938385 f010247-636657 f08157-638483 f023492-676609 f020928-706738 f024969-710141 f024156-713605 f022261-799313 f033036-800365 f01782-800930
+Retrieving f029401 836684 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   134100   527  100   366  100   161    195     85  0:00:01  0:00:01 --:--:--   280100   527  100   366  100   161    195     85  0:00:01  0:00:01 --:--:--   280
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f029398","MinerPeer":{"Address":"f029401","ID":"12D3KooWL7ZqZX8YWoJj4C3oTTApZrojTWA8HgCiGG4DKaNyvkXk","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
