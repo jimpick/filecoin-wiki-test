@@ -7,5 +7,5 @@
 ERROR: retrieval timed out
 
 Command exited with non-zero status 124
-0.17user 0.07system 22:00.00elapsed 0%CPU (0avgtext+0avgdata 43520maxresident)k
-0inputs+0outputs (0major+3924minor)pagefaults 0swaps
+0.17user 0.13system 22:00.00elapsed 0%CPU (0avgtext+0avgdata 42240maxresident)k
+176inputs+0outputs (1major+3896minor)pagefaults 0swaps
