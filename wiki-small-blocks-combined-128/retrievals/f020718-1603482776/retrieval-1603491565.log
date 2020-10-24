@@ -346,3 +346,1872 @@ Retrieving f02301 637950 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
 > Recv: 24.1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 24.35 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
 > Recv: 24.35 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.37user 0.23system 22:00.02elapsed 0%CPU (0avgtext+0avgdata 40360maxresident)k
+107112inputs+0outputs (5731major+5524minor)pagefaults 0swaps
+f020718: 0.497671024260899609 FIL (30G free)
+Skipping ahead
+
+1 wiki.10
+f09770-890614 f010507-894662 f047858-937907 f042635-938085 f09696-938288 f08157-938382 f024127-539709 f023152-636787 f09731-637872 f01238-638027 f029524-672651 f023647-674245 f022163-675533 f01287-799024 f020541-799650 f024008-801348
+Retrieving f09770 890614 QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   160    0     0  100   160      0     72  0:00:02  0:00:02 --:--:--    72100   160    0     0  100   160      0     49  0:00:03  0:00:03 --:--:--    49100   160    0     0  100   160      0     38  0:00:04  0:00:04 --:--:--    38100   160    0     0  100   160      0     30  0:00:05  0:00:05 --:--:--    30100   160    0     0  100   160      0     25  0:00:06  0:00:06 --:--:--     0100   160    0     0  100   160      0     22  0:00:07  0:00:07 --:--:--     0100   160    0     0  100   160      0     19  0:00:08  0:00:08 --:--:--     0100   160    0     0  100   160      0     17  0:00:09  0:00:09 --:--:--     0100   160    0     0  100   160      0     15  0:00:10  0:00:10 --:--:--     0100   160    0     0  100   160      0     14  0:00:11  0:00:11 --:--:--     0100   160    0     0  100   160      0     13  0:00:12  0:00:12 --:--:--     0100   160    0     0  100   160      0     12  0:00:13  0:00:13 --:--:--     0100   160    0     0  100   160      0     11  0:00:14  0:00:14 --:--:--     0100   160    0     0  100   160      0     10  0:00:16  0:00:15  0:00:01     0100   160    0     0  100   160      0      9  0:00:17  0:00:16  0:00:01     0100   160    0     0  100   160      0      9  0:00:17  0:00:17 --:--:--     0100   160    0     0  100   160      0      8  0:00:20  0:00:18  0:00:02     0100   160    0     0  100   160      0      8  0:00:20  0:00:19  0:00:01     0100   160    0     0  100   160      0      7  0:00:22  0:00:20  0:00:02     0100   160    0     0  100   160      0      7  0:00:22  0:00:21  0:00:01     0100   160    0     0  100   160      0      7  0:00:22  0:00:22 --:--:--     0100   160    0     0  100   160      0      6  0:00:26  0:00:23  0:00:03     0100   160    0     0  100   160      0      6  0:00:26  0:00:24  0:00:02     0100   160    0     0  100   160      0      6  0:00:26  0:00:25  0:00:01     0100   160    0     0  100   160      0      6  0:00:26  0:00:26 --:--:--     0100   160    0     0  100   160      0      5  0:00:32  0:00:27  0:00:05     0100   160    0     0  100   160      0      5  0:00:32  0:00:28  0:00:04     0100   160    0     0  100   160      0      5  0:00:32  0:00:29  0:00:03     0100   160    0     0  100   160      0      5  0:00:32  0:00:30  0:00:02     0100   160    0     0  100   160      0      5  0:00:32  0:00:31  0:00:01     0100   160    0     0  100   160      0      4  0:00:40  0:00:32  0:00:08     0100   160    0     0  100   160      0      4  0:00:40  0:00:33  0:00:07     0100   160    0     0  100   160      0      4  0:00:40  0:00:34  0:00:06     0100   160    0     0  100   160      0      4  0:00:40  0:00:35  0:00:05     0100   160    0     0  100   160      0      4  0:00:40  0:00:36  0:00:04     0100   160    0     0  100   160      0      4  0:00:40  0:00:37  0:00:03     0100   160    0     0  100   160      0      4  0:00:40  0:00:38  0:00:02     0100   160    0     0  100   160      0      4  0:00:40  0:00:39  0:00:01     0100   160    0     0  100   160      0      3  0:00:53  0:00:40  0:00:13     0100   160    0     0  100   160      0      3  0:00:53  0:00:41  0:00:12     0100   160    0     0  100   160      0      3  0:00:53  0:00:42  0:00:11     0100   160    0     0  100   160      0      3  0:00:53  0:00:43  0:00:10     0100   160    0     0  100   160      0      3  0:00:53  0:00:44  0:00:09     0100   160    0     0  100   160      0      3  0:00:53  0:00:45  0:00:08     0100   160    0     0  100   160      0      3  0:00:53  0:00:46  0:00:07     0100   160    0     0  100   160      0      3  0:00:53  0:00:47  0:00:06     0100   160    0     0  100   160      0      3  0:00:53  0:00:48  0:00:05     0100   160    0     0  100   160      0      3  0:00:53  0:00:49  0:00:04     0100   160    0     0  100   160      0      3  0:00:53  0:00:50  0:00:03     0100   160    0     0  100   160      0      3  0:00:53  0:00:51  0:00:02     0100   160    0     0  100   160      0      3  0:00:53  0:00:52  0:00:01     0100   160    0     0  100   160      0      3  0:00:53  0:00:53 --:--:--     0100   160    0     0  100   160      0      2  0:01:20  0:00:54  0:00:26     0100   160    0     0  100   160      0      2  0:01:20  0:00:55  0:00:25     0100   160    0     0  100   160      0      2  0:01:20  0:00:56  0:00:24     0100   160    0     0  100   160      0      2  0:01:20  0:00:57  0:00:23     0100   160    0     0  100   160      0      2  0:01:20  0:00:58  0:00:22     0100   160    0     0  100   160      0      2  0:01:20  0:00:59  0:00:21     0100   160    0     0  100   160      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received
+Failed CURL check
+Retrieving f010507 894662 QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    134  0:00:01  0:00:01 --:--:--   134100   161    0     0  100   161      0     73  0:00:02  0:00:02 --:--:--    73100   161    0     0  100   161      0     50  0:00:03  0:00:03 --:--:--    50100   161    0     0  100   161      0     38  0:00:04  0:00:04 --:--:--    38100   161    0     0  100   161      0     30  0:00:05  0:00:05 --:--:--    30100   161    0     0  100   161      0     25  0:00:06  0:00:06 --:--:--     0100   161    0     0  100   161      0     22  0:00:07  0:00:07 --:--:--     0100   161    0     0  100   161      0     19  0:00:08  0:00:08 --:--:--     0100   161    0     0  100   161      0     17  0:00:09  0:00:09 --:--:--     0100   161    0     0  100   161      0     15  0:00:10  0:00:10 --:--:--     0100   161    0     0  100   161      0     14  0:00:11  0:00:11 --:--:--     0100   161    0     0  100   161      0     13  0:00:12  0:00:12 --:--:--     0100   161    0     0  100   161      0     12  0:00:13  0:00:13 --:--:--     0100   161    0     0  100   161      0     11  0:00:14  0:00:14 --:--:--     0100   161    0     0  100   161      0     10  0:00:16  0:00:15  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:16  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:17 --:--:--     0100   161    0     0  100   161      0      8  0:00:20  0:00:18  0:00:02     0100   161    0     0  100   161      0      8  0:00:20  0:00:19  0:00:01     0100   161    0     0  100   161      0      7  0:00:23  0:00:20  0:00:03     0100   161    0     0  100   161      0      7  0:00:23  0:00:21  0:00:02     0100   161    0     0  100   161      0      7  0:00:23  0:00:22  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:23  0:00:03     0100   161    0     0  100   161      0      6  0:00:26  0:00:24  0:00:02     0100   161    0     0  100   161      0      6  0:00:26  0:00:25  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:26 --:--:--     0100   161    0     0  100   161      0      5  0:00:32  0:00:27  0:00:05     0100   161    0     0  100   161      0      5  0:00:32  0:00:28  0:00:04     0100   161    0     0  100   161      0      5  0:00:32  0:00:29  0:00:03     0100   161    0     0  100   161      0      5  0:00:32  0:00:30  0:00:02     0100   161    0     0  100   161      0      5  0:00:32  0:00:31  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:32  0:00:08     0100   161    0     0  100   161      0      4  0:00:40  0:00:33  0:00:07     0100   161    0     0  100   161      0      4  0:00:40  0:00:34  0:00:06     0100   161    0     0  100   161      0      4  0:00:40  0:00:35  0:00:05     0100   161    0     0  100   161      0      4  0:00:40  0:00:36  0:00:04     0100   161    0     0  100   161      0      4  0:00:40  0:00:37  0:00:03     0100   161    0     0  100   161      0      4  0:00:40  0:00:38  0:00:02     0100   161    0     0  100   161      0      4  0:00:40  0:00:39  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:40  0:00:13     0100   161    0     0  100   161      0      3  0:00:53  0:00:41  0:00:12     0100   161    0     0  100   161      0      3  0:00:53  0:00:42  0:00:11     0100   161    0     0  100   161      0      3  0:00:53  0:00:43  0:00:10     0100   161    0     0  100   161      0      3  0:00:53  0:00:44  0:00:09     0100   161    0     0  100   161      0      3  0:00:53  0:00:45  0:00:08     0100   161    0     0  100   161      0      3  0:00:53  0:00:46  0:00:07     0100   161    0     0  100   161      0      3  0:00:53  0:00:47  0:00:06     0100   161    0     0  100   161      0      3  0:00:53  0:00:48  0:00:05     0100   161    0     0  100   161      0      3  0:00:53  0:00:49  0:00:04     0100   161    0     0  100   161      0      3  0:00:53  0:00:50  0:00:03     0100   161    0     0  100   161      0      3  0:00:53  0:00:51  0:00:02     0100   161    0     0  100   161      0      3  0:00:53  0:00:52  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:53 --:--:--     0100   161    0     0  100   161      0      2  0:01:20  0:00:54  0:00:26     0100   161    0     0  100   161      0      2  0:01:20  0:00:55  0:00:25     0100   161    0     0  100   161      0      2  0:01:20  0:00:56  0:00:24     0100   161    0     0  100   161      0      2  0:01:20  0:00:57  0:00:23     0100   161    0     0  100   161      0      2  0:01:20  0:00:58  0:00:22     0100   161    0     0  100   161      0      2  0:01:20  0:00:59  0:00:21     0100   161    0     0  100   161      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received
+Failed CURL check
+Retrieving f047858 937907 QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    134  0:00:01  0:00:01 --:--:--   134100   161    0     0  100   161      0     73  0:00:02  0:00:02 --:--:--    73100   161    0     0  100   161      0     50  0:00:03  0:00:03 --:--:--    50100   161    0     0  100   161      0     38  0:00:04  0:00:04 --:--:--    38100   161    0     0  100   161      0     30  0:00:05  0:00:05 --:--:--    30100   161    0     0  100   161      0     25  0:00:06  0:00:06 --:--:--     0100   161    0     0  100   161      0     22  0:00:07  0:00:07 --:--:--     0100   161    0     0  100   161      0     19  0:00:08  0:00:08 --:--:--     0100   161    0     0  100   161      0     17  0:00:09  0:00:09 --:--:--     0100   161    0     0  100   161      0     15  0:00:10  0:00:10 --:--:--     0100   161    0     0  100   161      0     14  0:00:11  0:00:11 --:--:--     0100   161    0     0  100   161      0     13  0:00:12  0:00:12 --:--:--     0100   161    0     0  100   161      0     12  0:00:13  0:00:13 --:--:--     0100   161    0     0  100   161      0     11  0:00:14  0:00:14 --:--:--     0100   161    0     0  100   161      0     10  0:00:16  0:00:15  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:16  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:17 --:--:--     0100   161    0     0  100   161      0      8  0:00:20  0:00:18  0:00:02     0100   161    0     0  100   161      0      8  0:00:20  0:00:19  0:00:01     0100   161    0     0  100   161      0      7  0:00:23  0:00:20  0:00:03     0100   161    0     0  100   161      0      7  0:00:23  0:00:21  0:00:02     0100   161    0     0  100   161      0      7  0:00:23  0:00:22  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:23  0:00:03     0100   161    0     0  100   161      0      6  0:00:26  0:00:24  0:00:02     0100   161    0     0  100   161      0      6  0:00:26  0:00:25  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:26 --:--:--     0100   161    0     0  100   161      0      5  0:00:32  0:00:27  0:00:05     0100   161    0     0  100   161      0      5  0:00:32  0:00:28  0:00:04     0100   161    0     0  100   161      0      5  0:00:32  0:00:29  0:00:03     0100   161    0     0  100   161      0      5  0:00:32  0:00:30  0:00:02     0100   161    0     0  100   161      0      5  0:00:32  0:00:31  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:32  0:00:08     0100   161    0     0  100   161      0      4  0:00:40  0:00:33  0:00:07     0100   161    0     0  100   161      0      4  0:00:40  0:00:34  0:00:06     0100   161    0     0  100   161      0      4  0:00:40  0:00:35  0:00:05     0100   161    0     0  100   161      0      4  0:00:40  0:00:36  0:00:04     0100   161    0     0  100   161      0      4  0:00:40  0:00:37  0:00:03     0100   161    0     0  100   161      0      4  0:00:40  0:00:38  0:00:02     0100   161    0     0  100   161      0      4  0:00:40  0:00:39  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:40  0:00:13     0100   161    0     0  100   161      0      3  0:00:53  0:00:41  0:00:12     0100   161    0     0  100   161      0      3  0:00:53  0:00:42  0:00:11     0100   161    0     0  100   161      0      3  0:00:53  0:00:43  0:00:10     0100   161    0     0  100   161      0      3  0:00:53  0:00:44  0:00:09     0100   161    0     0  100   161      0      3  0:00:53  0:00:45  0:00:08     0100   161    0     0  100   161      0      3  0:00:53  0:00:46  0:00:07     0100   161    0     0  100   161      0      3  0:00:53  0:00:47  0:00:06     0100   161    0     0  100   161      0      3  0:00:53  0:00:48  0:00:05     0100   161    0     0  100   161      0      3  0:00:53  0:00:49  0:00:04     0100   161    0     0  100   161      0      3  0:00:53  0:00:50  0:00:03     0100   161    0     0  100   161      0      3  0:00:53  0:00:51  0:00:02     0100   161    0     0  100   161      0      3  0:00:53  0:00:52  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:53 --:--:--     0100   161    0     0  100   161      0      2  0:01:20  0:00:54  0:00:26     0100   161    0     0  100   161      0      2  0:01:20  0:00:55  0:00:25     0100   161    0     0  100   161      0      2  0:01:20  0:00:56  0:00:24     0100   161    0     0  100   161      0      2  0:01:20  0:00:57  0:00:23     0100   161    0     0  100   161      0      2  0:01:20  0:00:58  0:00:22     0100   161    0     0  100   161      0      2  0:01:20  0:00:59  0:00:21     0100   161    0     0  100   161      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received
+Failed CURL check
+Retrieving f042635 938085 QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161   1016    447 --:--:-- --:--:-- --:--:--  1463
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f042632","MinerPeer":{"Address":"f042635","ID":"12D3KooWHa8fs3ysuzKgqPNzj6rjvunSjCvX9TpdWJfx9xc3ytiB","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+Success
+0.26user 0.28system 16:40.26elapsed 0%CPU (0avgtext+0avgdata 38972maxresident)k
+131360inputs+0outputs (6177major+5733minor)pagefaults 0swaps
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+f020718: (29G free)
+Skipping ahead
+
+1 wiki.25
+f01247-837177 f010558-839113 f02622-893691 f029490-894478 f034701-938113 f030296-636964 f03363-637963 f03274-638468 f03491-738469 f03275-799430 f023981-800494 f033189-800881
+Retrieving f01247 837177 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010558 839113 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02622 893691 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029490 894478 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f034701 938113 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f030296 636964 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03363 637963 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03274 638468 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03491 738469 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03275 799430 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023981 800494 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033189 800881 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.16
+f09696-837088 f023649-838444 f021444-890414 f023825-890694 f02576-894667 f03488-897711 f024084-937850 f01238-938059 f033124-938158 f02623-938297 f010241-939606 f023495-638469 f010498-640173 f010558-706835 f05315-707939 f024030-712469 f034039-799443 f022125-801104
+Already have log for f09696 837088 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Retrieving f023649 838444 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f021444 890414 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023825 890694 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02576 894667 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03488 897711 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024084 937850 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01238 938059 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033124 938158 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02623 938297 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010241 939606 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023495 638469 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010498 640173 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010558 706835 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f05315 707939 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024030 712469 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f034039 799443 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022125 801104 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.12
+f022522-891150 f043376-937878 f047978-937947 f03339-937940 f02401-937996 f050271-938177 f029404-938294 f023649-938392 f024800-539715 f019551-636790 f010507-638486 f029368-672639 f018783-705886 f02514-707864 f021255-712473 f023660-740031 f015927-799033 f024012-800064 f09693-800261 f023853-800728
+Already have log for f022522 891150 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+Already have log for f043376 937878 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+Retrieving f047978 937947 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03339 937940 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02401 937996 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f050271 938177 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029404 938294 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023649 938392 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024800 539715 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f019551 636790 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010507 638486 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029368 672639 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f018783 705886 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02514 707864 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f021255 712473 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023660 740031 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f015927 799033 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024012 800064 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f09693 800261 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023853 800728 QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.04
+f02514-836932 f020928-838515 f010241-839145 f02645-894502 f021262-898220 f010617-938033 f033111-938357 f08240-638494 f020541-640111 f010479-674084 f033124-705832 f08383-706565 f022163-713556 f07850-713928 f014394-800207 f01278-800894
+Already have log for f02514 836932 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Retrieving f020928 838515 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010241 839145 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02645 894502 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f021262 898220 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010617 938033 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033111 938357 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08240 638494 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f020541 640111 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010479 674084 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033124 705832 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08383 706565 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022163 713556 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f07850 713928 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f014394 800207 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01278 800894 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.13
+f08240-837011 f08285-889247 f025017-938043 f034777-938098 f048135-942959 f03347-939466 f01272-637896 f01247-638475 f019100-738582 f029524-799453 f01291-799664 f023928-799973 f02625-800655 f024081-800959 f020523-801288
+Retrieving f08240 837011 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08285 889247 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f025017 938043 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f034777 938098 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f048135 942959 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03347 939466 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01272 637896 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01247 638475 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f019100 738582 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029524 799453 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01291 799664 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023928 799973 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02625 800655 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024081 800959 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f020523 801288 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.23
+f025019-837271 f03274-839105 f023467-889891 f023495-892395 f025007-895889 f018783-897710 f033189-937903 f023490-937908 f035436-937968 f024147-938109 f023853-539818 f01247-637961 f021870-638471 f024969-640063 f03273-712440 f023861-800392
+Already have log for f025019 837271 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Retrieving f03274 839105 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023467 889891 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023495 892395 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f025007 895889 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f018783 897710 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033189 937903 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023490 937908 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f035436 937968 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024147 938109 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023853 539818 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01247 637961 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f021870 638471 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024969 640063 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03273 712440 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023861 800392 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.01
+f022163-839071 f024066-890178 f03273-937918 f019824-938012 f010505-938078 f019534-938299 f014768-938347 f010617-539618 f023971-637125 f010400-674081 f022072-675136 f024156-707889 f029404-713872 f02415-799011 f010507-799238 f034047-800287 f033545-801613
+Retrieving f022163 839071 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024066 890178 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03273 937918 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f019824 938012 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010505 938078 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f019534 938299 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f014768 938347 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010617 539618 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023971 637125 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010400 674081 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022072 675136 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024156 707889 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029404 713872 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02415 799011 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010507 799238 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f034047 800287 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033545 801613 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.21
+f08157-837148 f029524-894377 f018782-937971 f01278-637943 f024015-706411 f025017-799112 f029368-800459 f024006-801019
+Retrieving f08157 837148 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029524 894377 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f018782 937971 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01278 637943 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024015 706411 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f025017 799112 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029368 800459 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024006 801019 QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.09
+f029401-836684 f010253-836982 f024015-838921 f05317-893696 f039515-894908 f010446-937849 f08383-937930 f046426-938137 f023009-938319 f08240-938385 f010247-636657 f08157-638483 f023492-676609 f020928-706738 f024969-710141 f024156-713605 f022261-799313 f033036-800365 f01782-800930
+Already have log for f029401 836684 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Retrieving f010253 836982 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024015 838921 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f05317 893696 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f039515 894908 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010446 937849 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08383 937930 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f046426 938137 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023009 938319 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08240 938385 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010247 636657 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08157 638483 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023492 676609 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f020928 706738 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024969 710141 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024156 713605 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022261 799313 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033036 800365 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01782 800930 QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.20
+f03328-889892 f02633-891463 f03624-937895 f010501-938069 f020523-938318 f022142-638480 f033111-707071 f03274-712416 f023467-738612 f023179-740483 f034075-799215 f023219-799460 f023859-799838 f010400-800036
+Already have log for f03328 889892 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Retrieving f02633 891463 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03624 937895 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010501 938069 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f020523 938318 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022142 638480 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f033111 707071 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03274 712416 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023467 738612 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023179 740483 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f034075 799215 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023219 799460 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023859 799838 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010400 800036 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.18
+f08403-836744 f019551-838886 f022352-895666 f048192-937999 f018781-938127 f03274-938303 f010446-638591 f02416-640153 f032934-674920 f032835-675751 f010253-706878 f023825-739018 f03339-740016 f023495-799062 f08257-800319 f023870-801340
+Retrieving f08403 836744 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f019551 838886 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022352 895666 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f048192 937999 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f018781 938127 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03274 938303 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010446 638591 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f02416 640153 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f032934 674920 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f032835 675751 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f010253 706878 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023825 739018 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03339 740016 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023495 799062 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08257 800319 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f023870 801340 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.14
+f021870-890193 f023858-890906 f01287-937948 f046317-938157 f05664-939461 f024969-539761 f024081-604430 f03302-639977 f029401-708048 f022142-712346 f08403-713599 f018784-739720
+Already have log for f021870 890193 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Retrieving f023858 890906 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f01287 937948 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f046317 938157 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f05664 939461 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024969 539761 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f024081 604430 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f03302 639977 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f029401 708048 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f022142 712346 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f08403 713599 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+Retrieving f018784 739720 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Failed CURL check
+
+0 wiki.15
+f02623-838293 f029404-839032 f029580-891522 f03275-897519 f023859-937946 f014394-938057 f09696-637892 f018785-707946 f010479-712357 f023649-714470 f023868-799985 f035436-800397 f030335-800750
+Retrieving f02623 838293 QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   524  100   364  100   160    179     78  0:00:02  0:00:02 --:--:--   258100   524  100   364  100   160    179     78  0:00:02  0:00:02 --:--:--   258
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f02538","MinerPeer":{"Address":"f02623","ID":"12D3KooWAFSYFNoxUXR5dxSX3XgFanpFKmhSLX7RhTqKN4m8W8yh","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+2020-10-24T01:17:31.115Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+2020-10-24T01:17:31.125Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 3}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 3}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 4}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 5}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 6}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 7}
+> Recv: 1.502 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.448 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.22user 0.19system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 39092maxresident)k
+40664inputs+0outputs (1404major+4457minor)pagefaults 0swaps
+f020718: 0.497668380872875686 FIL (29G free)
+Skipping ahead
+
+1 wiki.11
+f023647-836818 f08482-890221 f019354-890659 f010491-893688 f015877-937884 f019362-937936 f07998-937995 f010479-938292 f02514-938379 f025025-539712 f024012-604376 f025017-638552 f024800-640042 f04443-705857 f08025-738583 f024511-799653 f023939-800067 f022853-800242 f019029-800974
+Already have log for f023647 836818 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Retrieving f08482 890221 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   160    0     0  100   160      0     72  0:00:02  0:00:02 --:--:--    72100   160    0     0  100   160      0     49  0:00:03  0:00:03 --:--:--    49100   160    0     0  100   160      0     38  0:00:04  0:00:04 --:--:--    38100   160    0     0  100   160      0     30  0:00:05  0:00:05 --:--:--    30100   160    0     0  100   160      0     25  0:00:06  0:00:06 --:--:--     0100   160    0     0  100   160      0     22  0:00:07  0:00:07 --:--:--     0100   160    0     0  100   160      0     19  0:00:08  0:00:08 --:--:--     0100   160    0     0  100   160      0     17  0:00:09  0:00:09 --:--:--     0100   160    0     0  100   160      0     15  0:00:10  0:00:10 --:--:--     0100   160    0     0  100   160      0     14  0:00:11  0:00:11 --:--:--     0100   160    0     0  100   160      0     13  0:00:12  0:00:12 --:--:--     0100   160    0     0  100   160      0     12  0:00:13  0:00:13 --:--:--     0100   160    0     0  100   160      0     11  0:00:14  0:00:14 --:--:--     0100   160    0     0  100   160      0     10  0:00:16  0:00:15  0:00:01     0100   160    0     0  100   160      0      9  0:00:17  0:00:16  0:00:01     0100   160    0     0  100   160      0      9  0:00:17  0:00:17 --:--:--     0100   160    0     0  100   160      0      8  0:00:20  0:00:18  0:00:02     0100   160    0     0  100   160      0      8  0:00:20  0:00:19  0:00:01     0100   160    0     0  100   160      0      7  0:00:22  0:00:20  0:00:02     0100   160    0     0  100   160      0      7  0:00:22  0:00:21  0:00:01     0100   160    0     0  100   160      0      7  0:00:22  0:00:22 --:--:--     0100   160    0     0  100   160      0      6  0:00:26  0:00:23  0:00:03     0100   160    0     0  100   160      0      6  0:00:26  0:00:24  0:00:02     0100   160    0     0  100   160      0      6  0:00:26  0:00:25  0:00:01     0100   160    0     0  100   160      0      6  0:00:26  0:00:26 --:--:--     0100   160    0     0  100   160      0      5  0:00:32  0:00:27  0:00:05     0100   160    0     0  100   160      0      5  0:00:32  0:00:28  0:00:04     0100   160    0     0  100   160      0      5  0:00:32  0:00:29  0:00:03     0100   160    0     0  100   160      0      5  0:00:32  0:00:30  0:00:02     0100   160    0     0  100   160      0      5  0:00:32  0:00:31  0:00:01     0100   160    0     0  100   160      0      4  0:00:40  0:00:32  0:00:08     0100   160    0     0  100   160      0      4  0:00:40  0:00:33  0:00:07     0100   160    0     0  100   160      0      4  0:00:40  0:00:34  0:00:06     0100   160    0     0  100   160      0      4  0:00:40  0:00:35  0:00:05     0100   160    0     0  100   160      0      4  0:00:40  0:00:36  0:00:04     0100   160    0     0  100   160      0      4  0:00:40  0:00:37  0:00:03     0100   160    0     0  100   160      0      4  0:00:40  0:00:38  0:00:02     0100   160    0     0  100   160      0      4  0:00:40  0:00:39  0:00:01     0100   160    0     0  100   160      0      3  0:00:53  0:00:40  0:00:13     0100   160    0     0  100   160      0      3  0:00:53  0:00:41  0:00:12     0100   160    0     0  100   160      0      3  0:00:53  0:00:42  0:00:11     0100   160    0     0  100   160      0      3  0:00:53  0:00:43  0:00:10     0100   160    0     0  100   160      0      3  0:00:53  0:00:44  0:00:09     0100   160    0     0  100   160      0      3  0:00:53  0:00:45  0:00:08     0100   160    0     0  100   160      0      3  0:00:53  0:00:46  0:00:07     0100   160    0     0  100   160      0      3  0:00:53  0:00:47  0:00:06     0100   160    0     0  100   160      0      3  0:00:53  0:00:48  0:00:05     0100   160    0     0  100   160      0      3  0:00:53  0:00:49  0:00:04     0100   160    0     0  100   160      0      3  0:00:53  0:00:50  0:00:03     0100   160    0     0  100   160      0      3  0:00:53  0:00:51  0:00:02     0100   160    0     0  100   160      0      3  0:00:53  0:00:52  0:00:01     0100   160    0     0  100   160      0      3  0:00:53  0:00:53 --:--:--     0100   160    0     0  100   160      0      2  0:01:20  0:00:54  0:00:26     0100   160    0     0  100   160      0      2  0:01:20  0:00:55  0:00:25     0100   160    0     0  100   160      0      2  0:01:20  0:00:56  0:00:24     0100   160    0     0  100   160      0      2  0:01:20  0:00:57  0:00:23     0100   160    0     0  100   160      0      2  0:01:20  0:00:58  0:00:22     0100   160    0     0  100   160      0      2  0:01:20  0:00:59  0:00:21     0100   160    0     0  100   160      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received
+Failed CURL check
+Retrieving f019354 890659 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    134  0:00:01  0:00:01 --:--:--   134100   527  100   366  100   161    230    101  0:00:01  0:00:01 --:--:--   332
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f050492","MinerPeer":{"Address":"f019354","ID":"12D3KooWLYorbezhim25zw5oAaPH6hpzKajEg4qiD7QcEFTNa1vJ","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+> Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.26user 0.16system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 38112maxresident)k
+65160inputs+0outputs (2687major+4634minor)pagefaults 0swaps
+f020718: 0.497666649268295708 FIL (29G free)
+Skipping ahead
+
+1 wiki.18
+f08403-836744 f019551-838886 f022352-895666 f048192-937999 f018781-938127 f03274-938303 f010446-638591 f02416-640153 f032934-674920 f032835-675751 f010253-706878 f023825-739018 f03339-740016 f023495-799062 f08257-800319 f023870-801340
+Already have log for f08403 836744 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f019551 838886 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f022352 895666 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f048192 937999 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f018781 938127 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f03274 938303 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f010446 638591 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f02416 640153 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f032934 674920 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f032835 675751 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f010253 706878 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f023825 739018 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f03339 740016 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f023495 799062 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f08257 800319 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Already have log for f023870 801340 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+
+0 wiki.19
+f01241-937854 f022853-937904 f022125-938002 f030379-637023 f023971-799446 f022352-799713
+Retrieving f01241 937854 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   524  100   364  100   160    195     85  0:00:01  0:00:01 --:--:--   280100   524  100   364  100   160    195     85  0:00:01  0:00:01 --:--:--   280
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01034","MinerPeer":{"Address":"f01241","ID":"12D3KooWGhx74VR4bzJLJeG4Da69V1Xc3ofRTkUz4FVxtCDuFWER","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+2020-10-24T02:05:09.513Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+> Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.30user 0.16system 22:00.03elapsed 0%CPU (0avgtext+0avgdata 39192maxresident)k
+51664inputs+0outputs (2919major+4889minor)pagefaults 0swaps
+f020718: 0.497665823718636282 FIL (29G free)
+Skipping ahead
+
+1 wiki.05
+f07850-838088 f03491-890152 f015927-894789 f018784-894476 f022130-937868 f048545-937926 f049055-937974 f010084-938111 f022163-938267 f05315-938359 f024030-637137 f08403-638003 f024066-639846 f023854-672627 f029490-675184 f023855-738318 f010491-799021 f023869-799273 f023980-799898
+Retrieving f07850 838088 QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    800 --:--:-- --:--:-- --:--:--   796100   524  100   364  100   160    559    245 --:--:-- --:--:-- --:--:--   803
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f07742","MinerPeer":{"Address":"f07850","ID":"12D3KooWQ7gsHKxet9M6U9qWrZGT1PXULnr266QQtvRHHBBu2qGm","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+2020-10-24T02:27:18.123Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+2020-10-24T02:27:18.128Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+2020-10-24T02:27:18.128Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+2020-10-24T02:27:18.128Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 3}
+2020-10-24T02:27:18.128Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 4}
+2020-10-24T02:27:18.128Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 5}
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelCreating)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1.002 MiB, Paid 0.00000000000210216 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 1.252 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 1.502 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 1.752 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.002 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.252 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.502 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.752 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.752 MiB, Paid 0.00000000000210216 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 3.002 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 3.002 MiB, Paid 0.00000000000210216 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 3.002 MiB, Paid 0.000000000006296688 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 3.253 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 3.503 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 3.753 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.003 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.253 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.503 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.753 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.771 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.772 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 4.772 MiB, Paid 0.000000000006296688 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 5.022 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 5.272 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 5.522 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 5.772 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 6.022 MiB, Paid 0.000000000006296688 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 6.022 MiB, Paid 0.000000000006296688 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 6.022 MiB, Paid 0.000000000012628974 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 6.272 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 6.522 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 6.772 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 7.022 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 7.272 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 7.522 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 7.772 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 8.022 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 8.272 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 8.522 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 8.772 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 9.022 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 9.272 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 9.522 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 9.522 MiB, Paid 0.000000000012628974 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 9.541 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 9.541 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 9.791 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 10.04 MiB, Paid 0.000000000012628974 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 10.04 MiB, Paid 0.000000000012628974 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 10.04 MiB, Paid 0.000000000021058524 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 10.29 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 10.54 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 10.79 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 11.04 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 11.29 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 11.54 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 11.79 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 12.04 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 12.29 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 12.54 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 12.79 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 13.04 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 13.29 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 13.54 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 13.79 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 14.04 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 14.29 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 14.31 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 14.31 MiB, Paid 0.000000000021058524 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 14.31 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 14.56 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 14.81 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 15.06 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 15.06 MiB, Paid 0.000000000021058524 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 15.06 MiB, Paid 0.000000000031585338 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 15.31 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 15.56 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 15.81 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 16.06 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 16.31 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 16.56 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 16.81 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 17.06 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 17.31 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 17.56 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 17.81 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 18.06 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 18.31 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 18.56 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 18.81 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.06 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.08 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.08 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.33 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.58 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 19.83 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 20.08 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 20.33 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 20.58 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 20.83 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 20.83 MiB, Paid 0.000000000031585338 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 21.08 MiB, Paid 0.000000000031585338 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 21.08 MiB, Paid 0.000000000031585338 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 21.08 MiB, Paid 0.000000000044209128 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 21.33 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 21.58 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 21.83 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 22.08 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 22.33 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 22.58 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 22.83 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.08 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.38 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.63 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 23.88 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 24.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 24.38 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 24.63 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 24.88 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 25.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 25.38 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 25.63 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 25.88 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 26.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 26.38 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 26.63 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 26.88 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 27.13 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 27.38 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 27.63 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 27.63 MiB, Paid 0.000000000044209128 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 27.88 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 27.89 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 27.9 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 28.15 MiB, Paid 0.000000000044209128 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 28.15 MiB, Paid 0.000000000044209128 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 28.15 MiB, Paid 0.000000000059026132 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 28.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 28.65 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 28.9 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 29.15 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 29.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 29.65 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 29.9 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 30.15 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 30.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 30.65 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 30.9 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 31.15 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 31.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 31.65 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 31.9 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.15 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.65 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.66 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.67 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 32.92 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 33.17 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 33.42 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 33.67 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 33.92 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 34.17 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 34.42 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 34.67 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 34.92 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 35.17 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 35.17 MiB, Paid 0.000000000059026132 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 35.42 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 35.67 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 35.92 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 36.17 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 36.17 MiB, Paid 0.000000000059026132 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 36.17 MiB, Paid 0.000000000075844738 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 36.42 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 36.67 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 36.92 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.17 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.42 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.43 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.43 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.68 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 37.93 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 38.19 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 38.44 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 38.69 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 38.94 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 39.19 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 39.44 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 39.69 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 39.94 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 40.19 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 40.44 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 40.69 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 40.94 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 41.19 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 41.44 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 41.69 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 41.94 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.19 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.2 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.2 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.45 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.7 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 42.95 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 43.2 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 43.45 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 43.7 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 43.95 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 44.2 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 44.45 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 44.7 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 44.95 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 44.95 MiB, Paid 0.000000000075844738 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 45.2 MiB, Paid 0.000000000075844738 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 45.2 MiB, Paid 0.000000000075844738 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 45.2 MiB, Paid 0.000000000094801102 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 45.45 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 45.7 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 45.95 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.2 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.45 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.7 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.95 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 46.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 47.22 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 47.47 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 47.72 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 47.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 48.22 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 48.47 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 48.72 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 48.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 49.22 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 49.47 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 49.72 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 49.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 50.22 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 50.47 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 50.72 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 50.97 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.22 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.47 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.72 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.74 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.74 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 51.99 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 52.24 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 52.49 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 52.74 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 52.99 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 53.24 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 53.49 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 53.74 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 53.99 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 54.24 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 54.49 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 54.74 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 54.99 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 54.99 MiB, Paid 0.000000000094801102 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 55.24 MiB, Paid 0.000000000094801102 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 55.24 MiB, Paid 0.000000000094801102 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 55.24 MiB, Paid 0.00000000011585473 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 55.49 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 55.74 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 55.99 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.24 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.49 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.76 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.01 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.26 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.76 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.01 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.26 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.76 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.01 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.26 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.76 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.01 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.26 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.51 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.76 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.01 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.26 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.53 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.78 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.03 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.53 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.78 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.03 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.53 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.78 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.03 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.53 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.78 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.03 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.28 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.53 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.78 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.78 MiB, Paid 0.00000000011585473 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 66.03 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.05 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.05 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.3 MiB, Paid 0.00000000011585473 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.3 MiB, Paid 0.00000000011585473 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 66.3 MiB, Paid 0.000000000139046116 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 66.55 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 66.8 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.05 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.3 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.55 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.8 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.05 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.3 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.55 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.8 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.05 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.3 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.55 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.8 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.05 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.3 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.55 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.8 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.07 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.32 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.57 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.07 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.32 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.57 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.07 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.32 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.57 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.07 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.32 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.57 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.82 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.07 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.32 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.57 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.59 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.59 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.84 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.09 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.34 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.59 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.84 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.09 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.34 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.59 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.84 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.09 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.09 MiB, Paid 0.000000000139046116 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 78.34 MiB, Paid 0.000000000139046116 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 78.34 MiB, Paid 0.000000000139046116 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 78.34 MiB, Paid 0.000000000164294272 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 78.59 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.84 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.09 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.34 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.59 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.84 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.09 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.34 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.61 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.86 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.11 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.61 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.86 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.11 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.61 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.86 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.11 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.61 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.86 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.11 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.36 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.61 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.86 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.11 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.38 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.63 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.88 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.38 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.63 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.88 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.38 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.63 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.88 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.38 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.63 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.88 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.13 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.38 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.63 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.88 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.9 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.9 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.15 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.4 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.65 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.9 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.9 MiB, Paid 0.000000000164294272 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 91.15 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 91.4 MiB, Paid 0.000000000164294272 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 91.4 MiB, Paid 0.000000000164294272 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 91.4 MiB, Paid 0.000000000191680186 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 91.65 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.15 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.65 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.15 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.65 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.15 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.65 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.92 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.17 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.42 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.92 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.17 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.42 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.92 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.17 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.42 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.92 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.17 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.42 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.67 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.92 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.17 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.42 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.44 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.44 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.69 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.94 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.7 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.7 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.7 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.4 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.7 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.9 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.2 MiB, Paid 0.000000000191680186 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 104.5 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 104.7 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.2 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.5 MiB, Paid 0.000000000191680186 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.5 MiB, Paid 0.000000000191680186 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 105.5 MiB, Paid 0.000000000221163364 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 105.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.7 MiB, Paid 0.000000000221163364 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 117 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 117.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 117.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 117.7 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 118 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 118.2 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 118.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 118.5 MiB, Paid 0.000000000221163364 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 118.5 MiB, Paid 0.000000000221163364 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 118.5 MiB, Paid 0.00000000024854734 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 118.5 MiB, Paid 0.00000000024854734 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.32user 0.12system 4:27.39elapsed 0%CPU (0avgtext+0avgdata 39108maxresident)k
+11632inputs+0outputs (153major+4379minor)pagefaults 0swaps
+f020718: 0.497664916172069323 FIL (28G free)
+Skipping ahead
+
+1 wiki.14
+f021870-890193 f023858-890906 f01287-937948 f046317-938157 f05664-939461 f024969-539761 f024081-604430 f03302-639977 f029401-708048 f022142-712346 f08403-713599 f018784-739720
+Already have log for f021870 890193 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f023858 890906 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f01287 937948 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f046317 938157 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f05664 939461 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f024969 539761 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f024081 604430 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f03302 639977 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f029401 708048 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f022142 712346 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f08403 713599 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f018784 739720 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+
+0 wiki.02
+f019104-889787 f022922-889952 f03176-892349 f024016-893694 f019534-937870 f034047-937921 f02665-938042 f010088-938079 f020904-938348 f029556-636729 f03273-638477 f010491-640003 f022227-640662 f02501-707800 f03224-714894 f010498-799989 f021262-800190 f033511-800619 f010513-800877 f032934-801293
+Retrieving f019104 889787 QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161   2346   1032 --:--:-- --:--:-- --:--:--  3378
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f019102","MinerPeer":{"Address":"f019104","ID":"12D3KooWH5PDdPxQsPSegABD8FUkSvcg7czGYWwWsj666aEAhyDx","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
