@@ -3,6 +3,7 @@
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
 > Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
+2020-10-23T18:25:30.338-0700	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
 > Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
 > Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
 > Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelCreating)
@@ -20,8 +21,8 @@
 > Recv: 2.002 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 2.252 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 2.502 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 2.502 MiB, Paid 0.00000000000210216 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
-> Recv: 2.752 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 2.752 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.752 MiB, Paid 0.00000000000210216 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
 > Recv: 3.002 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 3.002 MiB, Paid 0.00000000000210216 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 3.002 MiB, Paid 0.000000000006296688 FIL, ClientEventPaymentSent (DealStatusOngoing)
@@ -184,8 +185,8 @@
 > Recv: 35.14 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 35.39 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 35.64 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 35.89 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 35.89 MiB, Paid 0.000000000058930758 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 35.64 MiB, Paid 0.000000000058930758 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 35.89 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 36.14 MiB, Paid 0.000000000075789858 FIL, ClientEventPaymentSent (DealStatusOngoing)
@@ -571,12 +572,12 @@
 > Recv: 118.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 118.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 119 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
-> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 119 MiB, Paid 0.000000000221108484 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
 > Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
 > Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
 > Recv: 119.2 MiB, Paid 0.000000000250065408 FIL, ClientEventPaymentSent (DealStatusFinalizing)
 > Recv: 119.2 MiB, Paid 0.000000000250065408 FIL, ClientEventComplete (DealStatusCompleted)
 Success
-0.28user 0.16system 4:30.38elapsed 0%CPU (0avgtext+0avgdata 43644maxresident)k
-0inputs+0outputs (0major+4027minor)pagefaults 0swaps
+0.29user 0.12system 4:55.71elapsed 0%CPU (0avgtext+0avgdata 44292maxresident)k
+0inputs+0outputs (0major+4053minor)pagefaults 0swaps
