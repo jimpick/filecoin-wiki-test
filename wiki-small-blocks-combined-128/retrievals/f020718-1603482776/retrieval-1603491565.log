@@ -208,3 +208,141 @@ Retrieving f08025 890425 QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.24user 0.27system 22:00.08elapsed 0%CPU (0avgtext+0avgdata 39376maxresident)k
+114888inputs+0outputs (5834major+5227minor)pagefaults 0swaps
+f020718: 0.497671024260899609 FIL (30G free)
+Skipping ahead
+
+1 wiki.24
+f043313-889937 f04443-938022 f024015-938331 f023853-580733 f02301-637950 f021540-638555 f03275-639959 f023492-712544 f024016-800187 f024147-800388 f018781-800794 f023662-801152
+Already have log for f043313 889937 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Already have log for f04443 938022 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Already have log for f024015 938331 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Retrieving f023853 580733 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    805 --:--:-- --:--:-- --:--:--   800100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   161    0     0  100   161      0     73  0:00:02  0:00:02 --:--:--    72100   161    0     0  100   161      0     50  0:00:03  0:00:03 --:--:--    50100   161    0     0  100   161      0     38  0:00:04  0:00:04 --:--:--    38100   161    0     0  100   161      0     30  0:00:05  0:00:05 --:--:--     0100   161    0     0  100   161      0     25  0:00:06  0:00:06 --:--:--     0100   161    0     0  100   161      0     22  0:00:07  0:00:07 --:--:--     0100   161    0     0  100   161      0     19  0:00:08  0:00:08 --:--:--     0100   161    0     0  100   161      0     17  0:00:09  0:00:09 --:--:--     0100   161    0     0  100   161      0     15  0:00:10  0:00:10 --:--:--     0100   161    0     0  100   161      0     14  0:00:11  0:00:11 --:--:--     0100   161    0     0  100   161      0     13  0:00:12  0:00:12 --:--:--     0100   161    0     0  100   161      0     12  0:00:13  0:00:13 --:--:--     0100   161    0     0  100   161      0     11  0:00:14  0:00:14 --:--:--     0100   161    0     0  100   161      0     10  0:00:16  0:00:15  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:16  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:17 --:--:--     0100   161    0     0  100   161      0      8  0:00:20  0:00:18  0:00:02     0100   161    0     0  100   161      0      8  0:00:20  0:00:19  0:00:01     0100   161    0     0  100   161      0      7  0:00:23  0:00:20  0:00:03     0100   161    0     0  100   161      0      7  0:00:23  0:00:21  0:00:02     0100   161    0     0  100   161      0      7  0:00:23  0:00:22  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:23  0:00:03     0100   161    0     0  100   161      0      6  0:00:26  0:00:24  0:00:02     0100   161    0     0  100   161      0      6  0:00:26  0:00:25  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:26 --:--:--     0100   161    0     0  100   161      0      5  0:00:32  0:00:27  0:00:05     0100   161    0     0  100   161      0      5  0:00:32  0:00:28  0:00:04     0100   161    0     0  100   161      0      5  0:00:32  0:00:29  0:00:03     0100   161    0     0  100   161      0      5  0:00:32  0:00:30  0:00:02     0100   161    0     0  100   161      0      5  0:00:32  0:00:31  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:32  0:00:08     0100   161    0     0  100   161      0      4  0:00:40  0:00:33  0:00:07     0100   161    0     0  100   161      0      4  0:00:40  0:00:34  0:00:06     0100   161    0     0  100   161      0      4  0:00:40  0:00:35  0:00:05     0100   161    0     0  100   161      0      4  0:00:40  0:00:36  0:00:04     0100   161    0     0  100   161      0      4  0:00:40  0:00:37  0:00:03     0100   161    0     0  100   161      0      4  0:00:40  0:00:38  0:00:02     0100   161    0     0  100   161      0      4  0:00:40  0:00:39  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:40  0:00:13     0100   161    0     0  100   161      0      3  0:00:53  0:00:41  0:00:12     0100   161    0     0  100   161      0      3  0:00:53  0:00:42  0:00:11     0100   161    0     0  100   161      0      3  0:00:53  0:00:43  0:00:10     0100   161    0     0  100   161      0      3  0:00:53  0:00:44  0:00:09     0100   161    0     0  100   161      0      3  0:00:53  0:00:45  0:00:08     0100   161    0     0  100   161      0      3  0:00:53  0:00:46  0:00:07     0100   161    0     0  100   161      0      3  0:00:53  0:00:47  0:00:06     0100   161    0     0  100   161      0      3  0:00:53  0:00:48  0:00:05     0100   161    0     0  100   161      0      3  0:00:53  0:00:49  0:00:04     0100   161    0     0  100   161      0      3  0:00:53  0:00:50  0:00:03     0100   161    0     0  100   161      0      3  0:00:53  0:00:51  0:00:02     0100   161    0     0  100   161      0      3  0:00:53  0:00:52  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:53 --:--:--     0100   161    0     0  100   161      0      2  0:01:20  0:00:54  0:00:26     0100   161    0     0  100   161      0      2  0:01:20  0:00:55  0:00:25     0100   161    0     0  100   161      0      2  0:01:20  0:00:56  0:00:24     0100   161    0     0  100   161      0      2  0:01:20  0:00:57  0:00:23     0100   161    0     0  100   161      0      2  0:01:20  0:00:58  0:00:22     0100   161    0     0  100   161      0      2  0:01:20  0:00:59  0:00:21     0100   161    0     0  100   161      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received
+Failed CURL check
+Retrieving f02301 637950 QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160   3913   1720 --:--:-- --:--:-- --:--:--  5574100   524  100   364  100   160   3913   1720 --:--:-- --:--:-- --:--:--  5574
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01111","MinerPeer":{"Address":"f02301","ID":"12D3KooWSTo41sjDVRTWMnW2NrDkUD5MvAHMX7BqWc6uNSSWN1zA","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitForAcceptance)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.252 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.502 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.752 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.252 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.502 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.752 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 3.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 3.253 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 3.503 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 3.753 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.003 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.253 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.503 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.753 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.771 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 4.772 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 5.022 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 5.272 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 5.522 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 5.772 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 6.022 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 6.272 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 6.522 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 6.772 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 7.022 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 7.272 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 7.522 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 7.772 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 8.022 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 8.272 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 8.522 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 8.772 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.022 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.272 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.522 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.541 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.541 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 9.791 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 10.04 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 10.29 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 10.54 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 10.79 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 11.04 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 11.29 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 11.54 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 11.79 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 12.04 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 12.29 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 12.54 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 12.79 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 13.04 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 13.29 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 13.54 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 13.79 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.04 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.29 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.56 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 14.81 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 15.06 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 15.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 15.56 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 15.81 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 16.06 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 16.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 16.56 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 16.81 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 17.06 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 17.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 17.56 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 17.81 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 18.06 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 18.31 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 18.56 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 18.81 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.06 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.33 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.58 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 19.83 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 20.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 20.33 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 20.58 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 20.83 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 21.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 21.33 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 21.58 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 21.83 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 22.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 22.33 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 22.58 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 22.83 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.08 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.33 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.33 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 23.58 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.83 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.85 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 23.85 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 24.1 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 24.35 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 24.35 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
