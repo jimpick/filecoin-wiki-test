@@ -1,0 +1,69 @@
+12345
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.CwXzlWn5SIA-lIW9cmYJ1Aicr576_BIsOZfRcbhjsA8
+Loading deals f020718
+f020718 1 wiki.01
+f020718 2 wiki.02
+f020718 3 wiki.03
+f020718 4 wiki.04
+f020718 5 wiki.05
+f020718 6 wiki.06
+f020718 7 wiki.07
+f020718 8 wiki.08
+f020718 9 wiki.09
+f020718 10 wiki.10
+f020718 11 wiki.11
+f020718 12 wiki.12
+f020718 13 wiki.13
+f020718 14 wiki.14
+f020718 15 wiki.15
+f020718 16 wiki.16
+f020718 17 wiki.17
+f020718 18 wiki.18
+f020718 19 wiki.19
+f020718 20 wiki.20
+f020718 21 wiki.21
+f020718 22 wiki.22
+f020718 23 wiki.23
+f020718 24 wiki.24
+f020718 25 wiki.25
+f020718 26 wiki.26
+f020718 27 wiki.27
+Loading deals f021682
+f021682 1 wiki.01
+f021682 2 wiki.02
+f021682 3 wiki.03
+f021682 4 wiki.04
+f021682 5 wiki.05
+f021682 6 wiki.06
+f021682 7 wiki.07
+f021682 8 wiki.08
+f021682 9 wiki.09
+f021682 10 wiki.10
+f021682 11 wiki.11
+f021682 12 wiki.12
+f021682 13 wiki.13
+f021682 14 wiki.14
+f021682 15 wiki.15
+f021682 16 wiki.16
+f021682 17 wiki.17
+f021682 18 wiki.18
+f021682 19 wiki.19
+f021682 20 wiki.20
+f021682 21 wiki.21
+f021682 22 wiki.22
+f021682 23 wiki.23
+f021682 24 wiki.24
+f021682 25 wiki.25
+f021682 26 wiki.26
+f021682 27 wiki.27
+1 wiki.02
+f019104-889787 f022922-889952 f03176-892349 f024016-893694 f019534-937870 f034047-937921 f02665-938042 f010088-938079 f020904-938348 f029556-636729 f03273-638477 f010491-640003 f022227-640662 f02501-707800 f03224-714894 f010498-799989 f021262-800190 f033511-800619 f010513-800877 f032934-801293
+Already have log for f019104 889787 QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+Already have log for f022922 889952 QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+Retrieving f03176 892349 QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0     72  0:00:02  0:00:02 --:--:--    72100   160    0     0  100   160      0     38  0:00:04  0:00:04 --:--:--    38100   160    0     0  100   160      0     25  0:00:06  0:00:06 --:--:--    25100   160    0     0  100   160      0     19  0:00:08  0:00:08 --:--:--    19100   160    0     0  100   160      0     15  0:00:10  0:00:10 --:--:--    15100   160    0     0  100   160      0     13  0:00:12  0:00:12 --:--:--     0100   160    0     0  100   160      0     11  0:00:14  0:00:14 --:--:--     0100   160    0     0  100   160      0      9  0:00:17  0:00:16  0:00:01     0100   160    0     0  100   160      0      8  0:00:20  0:00:18  0:00:02     0100   160    0     0  100   160      0      7  0:00:22  0:00:20  0:00:02     0100   160    0     0  100   160      0      7  0:00:22  0:00:22 --:--:--     0100   160    0     0  100   160      0      6  0:00:26  0:00:24  0:00:02     0100   524  100   364  100   160     13      6  0:00:28  0:00:26  0:00:02    36100   524  100   364  100   160     13      6  0:00:28  0:00:26  0:00:02    45
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01003","MinerPeer":{"Address":"f03176","ID":"12D3KooWJDRs59cCHghj6CER31rWZ7sX6Y5nRXXDTWvVUeSqVBuj","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
