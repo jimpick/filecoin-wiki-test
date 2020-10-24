@@ -1,0 +1,23 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+2020-10-24T01:17:31.115Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 2}
+2020-10-24T01:17:31.125Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 3}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 3}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 4}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 5}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 6}
+2020-10-24T01:17:31.126Z	[34mINFO[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:346	rpc output message buffer	{"n": 7}
+> Recv: 1.502 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.448 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.22user 0.19system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 39092maxresident)k
+40664inputs+0outputs (1404major+4457minor)pagefaults 0swaps
