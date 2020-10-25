@@ -12,6 +12,12 @@
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
+    "miner": "f018501",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreie76dgrqsettzfdzptxrkji6djqddvfiih2fb4jeuwdq3c3x7qdja",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
     "miner": "f019534",
     "wikiFile": "wiki.01",
     "dealCid": "bafyreiboqrbe5ohvv3klgh5zikobvsqcjb56khe3fy5vz32ahqgysyg44a",
@@ -21,6 +27,12 @@
     "miner": "f019824",
     "wikiFile": "wiki.01",
     "dealCid": "bafyreiclrz7jflhgadn2vpf7ssmys55adxbfesuuzik64c5gepq36yqn7e",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f021532",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreic244rfbeoypw7u72mlfwyaniu6dihx5q2olt25yay6pk7dtyug5e",
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
@@ -36,15 +48,45 @@
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
+    "miner": "f023662",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreif45y26k3lvezowqnbqwolst3xov5u5eamv5ujqpanlufx4y45d5q",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f024014",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreif5iugp67dbclhtflnpeunb74z5mx3e43fudierh3fh7ieywjkslu",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
     "miner": "f024066",
     "wikiFile": "wiki.01",
     "dealCid": "bafyreiekixs72hymvotv7egtffcptstxlnm6zvfcc23uilv72wkzmwus74",
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
+    "miner": "f025007",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreihix7hg2ltmsg6a74prcd7mp43fyvifyilulh6xy5ddhmwoh2e57e",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
     "miner": "f030284",
     "wikiFile": "wiki.01",
     "dealCid": "bafyreiblwklneuqyqu6qgzdekejdpchlsnfikccguyabem22j6oljhtbma",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f03131",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreihwbujjuadxsmi7dlcfmmjpybb33azuoolnjdaemzncfojbmsjk6y",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f03176",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreihejing6dxqkvdv5fn6ku4kn4e77yr3umukbyffklnzg3gkboup7i",
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
@@ -66,15 +108,57 @@
     "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
   },
   {
+    "miner": "f05316",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreib2wcn5c3hk67lnmlczq24li4aeda2iaxeaq4tdw7vcbhkrez5gee",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f07709",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreihqusc7cqt2oc5m7hgo5s6v5ubdczk3mkcgrogyf3z7uctnmuz5lq",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
+    "miner": "f08025",
+    "wikiFile": "wiki.01",
+    "dealCid": "bafyreihl6cs73knxeectauefos7jtnvnrstyldl77et5uptzpzmknugram",
+    "cid": "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"
+  },
+  {
     "miner": "f010088",
     "wikiFile": "wiki.02",
     "dealCid": "bafyreideaybuegejmfrh5if5seng7iodlp6dvdauc722mg6siik4gmgao4",
     "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
   },
   {
+    "miner": "f010400",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreibdiknvy5tzuskytfc7habv2wcda6ihrtxuoeellgt33qwjwfifkm",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f010507",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreie3fxpoofvjjlexd4jrp2mkxt3x6n52ybpseyabkw2u7bknrsyury",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f01277",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreictelobjs2mgprfaok3vl2suelweismtp6n32jdwzha3b3k7pbvbm",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
     "miner": "f014281",
     "wikiFile": "wiki.02",
     "dealCid": "bafyreiacucybb2iwxmu3mgqj622aemzetzpi3tmgghbsjisudny3clzm4i",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f018785",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreiffu7sd5o6k6lx3o245o6kzphq6xjwye44gothraabpzgooweaeca",
     "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
   },
   {
@@ -126,6 +210,54 @@
     "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
   },
   {
+    "miner": "f047327",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreiexlclbakuqn4z3muki6kuijydxwgz62bhp2l3v3nr2ssqqxr3z6e",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f049953",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreia6hnjqfqyfvncq5n6rre5zdww2lezh5z6driqjx4jn7gtz2mczn4",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f050500",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreieq72xjkdsycr34cnent5pooxaeidrvysptzzqq3hxq447xzsjbpy",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f052447",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreibqfrm7fcjpnzo4x565yy5gtjwfhgnvmmu6xyy67emncp7jkehbma",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f08285",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreia34qdpaaep7l3det2c3qhhp5chrppe5dm7gjlsag2ckcjrmdpizq",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f08474",
+    "wikiFile": "wiki.02",
+    "dealCid": "bafyreibe3mahnrn4x26bbfvryugm2nfncglhhc3gknjdwgz3zbh3ffzfoe",
+    "cid": "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"
+  },
+  {
+    "miner": "f010035",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreigird4y2rvn6vwrgyrgqllmwuwy5rbwv5f2r4v5p4qtbbiecgkvre",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
+    "miner": "f010528",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreihtpdoqw4camzxxjkcyu7uws3qd3uhw2f57mplv7zuwvg3uoerj2a",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
     "miner": "f010558",
     "wikiFile": "wiki.03",
     "dealCid": "bafyreic73ffjc5xuklso4tjsnvfjsqmi55hgzbnaoun3k3uwp4kazbj4a4",
@@ -144,9 +276,21 @@
     "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
   },
   {
+    "miner": "f023016",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreidiyou7h2yf47jb3syv7jqmjzgifwyuqw2zap7kwu7su32orqujhu",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
     "miner": "f023152",
     "wikiFile": "wiki.03",
     "dealCid": "bafyreibgpipa5jswo37fu5ocjp4hmibwufgh74cpoetb34r6omwnc62pim",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
+    "miner": "f023662",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreibtcljbrbfgx2cpv4rrfvxfpd7l6isbg4rm4uwwajnns3ywxrvs4q",
     "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
   },
   {
@@ -162,15 +306,51 @@
     "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
   },
   {
+    "miner": "f024156",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreieucmr4bckasfdi6x7lvsrh5s7n56pcdqnktr5dbabfifnhkn4o54",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
+    "miner": "f024800",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreiayt4bs5o6aaoscjkg3idwb3ivx3uaalz64v5udvfwd2myhyblwoa",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
     "miner": "f033111",
     "wikiFile": "wiki.03",
     "dealCid": "bafyreidzwipgz6km7d6nnkzvirvry4o6lpkyiyfjixgdtf2uxkfq7o5deu",
     "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
   },
   {
+    "miner": "f047327",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreihcdknla2gk7yalflww2yxhx5owl6b77kyktzi4il5sx52jjtvnpe",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
+    "miner": "f048176",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreiazbhb5padyp3ddlj6hk3nir3wig6sjeicnggbibbeofnfw4hutpy",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
+    "miner": "f08399",
+    "wikiFile": "wiki.03",
+    "dealCid": "bafyreido6icqtrib7zg4zhfmnq6ntwdtz263r6tsip2pp445mlnodbkurq",
+    "cid": "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"
+  },
+  {
     "miner": "f010241",
     "wikiFile": "wiki.04",
     "dealCid": "bafyreihgiy5zs3xh442og54t7lj7vp5ryr6zyyavfweuhkllutsol4utie",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f010493",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreia6ipjzqf7aexasy2msigfqflgpecfdmnd4ma6cm7ovks6qa6ifdu",
     "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
   },
   {
@@ -189,6 +369,30 @@
     "miner": "f021262",
     "wikiFile": "wiki.04",
     "dealCid": "bafyreier2crqhx3cnbqproasg6xiygab253pehr5u5vovgw3em3lbfdnoe",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f021583",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreicxpujy6t46fcd3kn4fx2ikq6e767izgwfjg5sbb2ic2x6spxuqw4",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f022753",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreig7azyd4hsmjhwdjqdgekvorf5jbtyp7iymqkipbyiehm3ap5jzhe",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f023977",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreifnrmjhrcck63oibej4ldxl36a47fcjnev5ozdey34r3mxkeexjgy",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f024468",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreigntysrkc75m45jbmu7znpkgk3jtewgmbvsqilr4xldmiqyrels7m",
     "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
   },
   {
@@ -216,6 +420,30 @@
     "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
   },
   {
+    "miner": "f03345",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreifbhhseoqbl73qlynkoyp4vl7bfz5om7va4rdbn3hya6i44ty33q4",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f048174",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreib75j7nuww24ixu6sjbgqyy3svjj4cr6bkkooxlddqpf2kei55wje",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f048540",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreigtqs2lqnycywsbnnbrtv7ljjhrwu6nklydygaentc4rcyhxf3otm",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
+    "miner": "f054619",
+    "wikiFile": "wiki.04",
+    "dealCid": "bafyreieqd35wmm4zbyhu2gk436z22zhfyby6b7dqaxhnbzi3gwlfc47mky",
+    "cid": "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"
+  },
+  {
     "miner": "f07806",
     "wikiFile": "wiki.04",
     "dealCid": "bafyreica4oklkxii2j67gm5hbhe3kgdb5ddtg2m7xhbj6kmw4twv73o2mq",
@@ -234,6 +462,18 @@
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
+    "miner": "f010247",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreihph3ytcsyw4frfeizx6tuvyzcpcbneyxkub35lfme3hil2hbbzka",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
+    "miner": "f01240",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreibnhoo7lxwho6oadcbiovzukmtoat6qicwn5ycwtps4ns4fwqrbxa",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
     "miner": "f015927",
     "wikiFile": "wiki.05",
     "dealCid": "bafyreicvt2om3vp66yyvo6kn7zzfd34osaeox7beedpvqzmwaskx4wvpxa",
@@ -246,6 +486,12 @@
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
+    "miner": "f021444",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreihpnmr7xbridrmsyb26a6hvk3dfwudvxd3d27c4cbddjtgxsylpde",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
     "miner": "f022130",
     "wikiFile": "wiki.05",
     "dealCid": "bafyreibcupzoknywuej74ve5gygb6d7p3as6bo7nh3fx3mvdng3v7oui34",
@@ -255,6 +501,18 @@
     "miner": "f022163",
     "wikiFile": "wiki.05",
     "dealCid": "bafyreid45n3mxuroo3a4ytpwxxc7tj6o7wp677ah4u4dgirg2ln42fp4eu",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
+    "miner": "f023492",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreigbkfyhvvrnoeodnpbghbaamjwd27mdo6se5lp4ylun4sjqgfzn5e",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
+    "miner": "f030327",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreifm7s4dg4qsbh4pa75wjuhnwmiyqunwe4awej4kuhrrqx662sqwja",
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
@@ -276,6 +534,12 @@
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
+    "miner": "f048540",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreifswn3djf34dt7gkelhdovgne7a256aalbkb3oybfdcq6r2vmgypq",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
     "miner": "f048545",
     "wikiFile": "wiki.05",
     "dealCid": "bafyreihkuzmvkxvgpvigba7tqbemllt332h2ns5ydemvatsxne7qunmiyq",
@@ -285,6 +549,12 @@
     "miner": "f049055",
     "wikiFile": "wiki.05",
     "dealCid": "bafyreie4xppctdqcrvbwo6qu2sekntyqxh3ntt6wny4asse7epy5pwogni",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
+    "miner": "f052759",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreigequqz3zgugphwyzhqiijbc4jglapnsl4dly3kdqznvct5hy3piu",
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
@@ -300,6 +570,18 @@
     "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
   },
   {
+    "miner": "f08264",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreidk5tu3tknrakvbumfnxxvfen4y3yrwnqbeqn2hz2gp2ieikkqbci",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
+    "miner": "f09589",
+    "wikiFile": "wiki.05",
+    "dealCid": "bafyreibkxjrihvukjfuzmsqkm5meb2qsquegep4s4crun3dfisckf65dda",
+    "cid": "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"
+  },
+  {
     "miner": "f010241",
     "wikiFile": "wiki.06",
     "dealCid": "bafyreiavt5dctn6jr5glix2rzd4bg3qf5heqmtarm3nda3yq2cop2gkshq",
@@ -312,9 +594,33 @@
     "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
   },
   {
+    "miner": "f010491",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreia6uiwjarj2cwm77o7snauc6adxrrczkyj2lxrwydaq5grxyfdtxa",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
     "miner": "f010493",
     "wikiFile": "wiki.06",
     "dealCid": "bafyreig7tjye4qc7h2hb6amt57gbsekgkjimjlzk7s3llni6tmn2kc6lpq",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f010507",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreiafmhh2xtovn2jgow6feef6rfq7ua63yyi7uzyg2oajvxyy657u6u",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f014324",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreiamhdbz2t7pyavnykxctnj3z3oje3ibojjk5taditjjyjnm4c4p4e",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f018785",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreiaok4aajp4dvva3uoysqr7dsm6xbewqacmod3yldylczxqan2fgiy",
     "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
   },
   {
@@ -336,9 +642,39 @@
     "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
   },
   {
+    "miner": "f024013",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreih22qi2hhuhg6ff2kgozsvla7jxjhahcydnueq23sxhn2pozppxga",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f02415",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreiaqlc6qwkqm3w75vzgfr2jobgo23oztnsxwnlvjh4jpbom6igmfrm",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f02423",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreigkfu5y3jhvspy2bfnfv665kirtgay5etgifh3jvkv6qwe33qhjv4",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f02606",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreia6yjmmjf5suwt54ad6t5zc2dw5xlz7ajk4lmui52ttkdzxcpytli",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
     "miner": "f03134",
     "wikiFile": "wiki.06",
     "dealCid": "bafyreig5fjkxytkge5tl3xamw5liyvlf2tfvk4gltjna66n5qprd6e4fo4",
+    "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
+  },
+  {
+    "miner": "f033356",
+    "wikiFile": "wiki.06",
+    "dealCid": "bafyreigbnhyaseeh4efkok4rn7cgww6vxidyjf32qqc2tvoazgaxviadym",
     "cid": "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i"
   },
   {
@@ -351,6 +687,12 @@
     "miner": "f014409",
     "wikiFile": "wiki.07",
     "dealCid": "bafyreih2krib6egxy3jkl2dmpnrhl4r2nguicrpc7d2rhtrqmniuq37dri",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f015927",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreiga2z5voqk66x5dffgyosdcgloeddg6wpsksoyrbpxj7ermjx6u44",
     "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
   },
   {
@@ -378,6 +720,18 @@
     "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
   },
   {
+    "miner": "f021583",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreie75hwie5sndbxsgds2kz3jppuo7car2oyczwmi4h6excuqc3n2ga",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f022352",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreidqoxo3wjk7tjeaqxcmf37b4gmxwmhf2rkofjl7s4gho3wfchdhgy",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
     "miner": "f023660",
     "wikiFile": "wiki.07",
     "dealCid": "bafyreidamv4pgjvt75hnowxdxzgxsml5bkmt6lqacrfnqfhfrdyhtgfiwa",
@@ -396,6 +750,12 @@
     "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
   },
   {
+    "miner": "f024969",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreicwdha6eilhiso7vrlqlhfkokcc7y2avxd4f6llqm2oll325vmil4",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
     "miner": "f02540",
     "wikiFile": "wiki.07",
     "dealCid": "bafyreieh3qdxm4v7wayf4thqa6zpgvhweialhmsudvzmmtjrvwhajbj7lm",
@@ -408,10 +768,46 @@
     "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
   },
   {
+    "miner": "f03222",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreichfnbaj6mpc5ecnwfcvmkovubxbhrowktzqsiyy5jtkdagpdyp2i",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f039792",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreiassmsufr5rwaq72ridlcy4nfhih554omzluhhxy5smaoeqf56abm",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f040173",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreihoyle7xfw6nn7f7tdykkgpvo6wxhjws3e2hpspdkkcxm5v23jh3q",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f047419",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreieprcu3czl6dwkpozldmqgadysfs25semyepnn7v27cov5vzdn3ju",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f053255",
+    "wikiFile": "wiki.07",
+    "dealCid": "bafyreiexalncp5mroprdiiz7x4yi3ywdxqiiyijleewxw4xeh7qblz6hmq",
+    "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
     "miner": "f07982",
     "wikiFile": "wiki.07",
     "dealCid": "bafyreihhjjrv66hkiiowwn4ul2ukzvqwdjc44d4dralj55zzlgadnsj7sm",
     "cid": "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"
+  },
+  {
+    "miner": "f016594",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreihurkbwtrkk3czhnl3bjv4rp4xkqpqjpppfbmpoeuisc66kjz56aq",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
   },
   {
     "miner": "f019551",
@@ -432,15 +828,45 @@
     "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
   },
   {
+    "miner": "f024016",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreifbgcisf2c6vdchnuo66txg6ipjwqir6n7recjw3e6fr2eu6vv7ki",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f024136",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreidh42dubmwkgkodpjanrdetpnzrnk5v3hbu77jrahrgd7tmrszpr4",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
     "miner": "f02501",
     "wikiFile": "wiki.08",
     "dealCid": "bafyreifzt3x4vhbfocptl5hlavypsoblujrs75hdzbe42hedjlbystepli",
     "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
   },
   {
+    "miner": "f02622",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreiagrtf4xzhhdys73wgslxxbk2wi2k5aquyyv2ibmelpgohwrn3zgm",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f029524",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreidirgc7ulavf5mukcu5icnulv2k62srb5fecmcbi53xut4wjunji4",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
     "miner": "f032977",
     "wikiFile": "wiki.08",
     "dealCid": "bafyreigjqzake66to2bnkzjde32naor4dy6py3zl7zvybtdhu5qx5wreum",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f034362",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreictuiouzxqy7e5ib7ievta2r4grvghwybvlbjvpkvdaj4eptxzp7y",
     "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
   },
   {
@@ -459,6 +885,24 @@
     "miner": "f050201",
     "wikiFile": "wiki.08",
     "dealCid": "bafyreifccarknfyd3xlecx5gtqfeiki3ou7wux3bcpnwa4d4k2ktxplzvy",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f05316",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreihfyjnbcc6rua6u7dybqz2ilvsgrsq4xwaj7ls7ot3hwepuglwkwy",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f054163",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreiemtiqhztbtdlr6fhyzav43upgxeosymojw6puifvjb4cro65rnym",
+    "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
+  },
+  {
+    "miner": "f054389",
+    "wikiFile": "wiki.08",
+    "dealCid": "bafyreidpq3yshjwjbfdnabltto46sb7gdtjmds22zsxlgyh4s55asulz34",
     "cid": "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"
   },
   {
@@ -492,9 +936,39 @@
     "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
   },
   {
+    "miner": "f019041",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreifbeqzmglv4p42ycbamdc2ixh2ibwr4i4zyddt72lvsyulootssce",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f021346",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreidtou4yyv5tk7haor4cdlen2nkpwiq3bokn4a6n6lplq5n6cqybpi",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f022352",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreibzzx3qsxcwd4ds3ajwlgvyzwf7swkd3wno2wltiuoyeavtniaqle",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f022566",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreic5hlyedrgc3yyawx53uivar5v7cuqt7mw6avlqw3bknnvlyedvzu",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
     "miner": "f023009",
     "wikiFile": "wiki.09",
     "dealCid": "bafyreihjmtlfozgbuimai7moojh5sih6pnrucnauvnkaovc5kpnlj5wcei",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f023647",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreigncgrvlhsnkwykbsewyhquuhehayrqyn5ttdkbhewk6qiltfvqju",
     "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
   },
   {
@@ -504,9 +978,21 @@
     "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
   },
   {
+    "miner": "f02576",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreib64sjq5mnqk5uxowadazngl3djaszsklhwvcoussik6bxypleaue",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
     "miner": "f029401",
     "wikiFile": "wiki.09",
     "dealCid": "bafyreibi6khmjt2q5lur76ah4gbf4i32lwe5cfffgiplypdmj5cahbpave",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f03488",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreiejgcrvna7phrxfnwuhqvqko27fynnfest3thllljrue6sbgb3hbu",
     "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
   },
   {
@@ -528,6 +1014,18 @@
     "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
   },
   {
+    "miner": "f054083",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreiexkd5nldebcgglvluhlve3rgyepd73tcgjorlpvonqsdz3tacpmq",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
+    "miner": "f054163",
+    "wikiFile": "wiki.09",
+    "dealCid": "bafyreibopasl33r77ibslsrg5l67hhwtqtgbqaigprn5e2uhkeiua6dso4",
+    "cid": "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ"
+  },
+  {
     "miner": "f08240",
     "wikiFile": "wiki.09",
     "dealCid": "bafyreigjhgbqvr7a4qcejepwzv4gnmbm74mb3lp4iezdkij3g2eq4irzgq",
@@ -546,9 +1044,45 @@
     "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
   },
   {
+    "miner": "f01278",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreibhilm6v3cw4vvwymfk3arrci4okrtrz2p4l2atpg5b76ybineqcu",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f023467",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreiftlmn34qmripqxgbeofpnwp3fjuu2f2n43jdyrzc6oaq6fvsu7tu",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f029490",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreiadq2vk7dv5qywm7vq5mak34gv2mbwufeelk5hupfkxy2zqmxq77u",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f038299",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreicuqx7tw4ht7barzcb2ywu63yamujuxdmpngnpzbugdsulkowatv4",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
     "miner": "f042635",
     "wikiFile": "wiki.10",
     "dealCid": "bafyreieg7o2gcvxwzu2j72rrgkb2sphgcqwxkfyrulwuklcf4uld5x334a",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f044374",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreievrpo7c6qokfdin5j56ct5aemzkzgdxixb33cgnidgeprlhxnu6a",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f047419",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreif7pigcbz3sxu2knrqvonjv3vf6mrj2g5e3qa7bk2ifzrkxaujkhe",
     "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
   },
   {
@@ -558,9 +1092,27 @@
     "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
   },
   {
+    "miner": "f053088",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreig24mqh67khrrecjptulzk3my3szeh6rucykugcbn4j24da2ecrzm",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f05317",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreidwxbi54dxviuotryye6w46hm7edcebb7fzhd6hqxkpnmgvj4am5i",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
     "miner": "f08157",
     "wikiFile": "wiki.10",
     "dealCid": "bafyreihm5pnavy6kbdcva74vtgc5uytkdnkz2zez62h2o5yhlkcgosqnka",
+    "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
+  },
+  {
+    "miner": "f08204",
+    "wikiFile": "wiki.10",
+    "dealCid": "bafyreieuduvygr724b7obzbdbd6ilzun2l3lnhu4zao3tq3ogot7rdtjim",
     "cid": "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"
   },
   {
@@ -600,6 +1152,12 @@
     "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
   },
   {
+    "miner": "f01782",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreibj5urmqhyznfno5cco2gkutrygj2hp3schh65vyzb6anfhfkbuy4",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
     "miner": "f019354",
     "wikiFile": "wiki.11",
     "dealCid": "bafyreigde2fax2kyv2hz6pnysuaa5tibgqtgi5avt2bcsgo7ec62wrazjm",
@@ -618,15 +1176,57 @@
     "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
   },
   {
+    "miner": "f023870",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreifrrd2t7q7yrs72raz73wamxpsi7sm5swp3tkqer2nsnlqfg4hjim",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f02415",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreick2d6w5rohkdmynzq4a7kiz7cxxkedc4vugrqwzw25q6b6a6lxrq",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f024944",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreic3jkrsjzq5hinvi72vhoahf6xafc5e6fu2gdtmeo7w6lmlznt3ee",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
     "miner": "f02514",
     "wikiFile": "wiki.11",
     "dealCid": "bafyreidsahhdpj2qkalquyglsrsgm7ddtnl6e2ozikkp4jeoeahxbhskvm",
     "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
   },
   {
+    "miner": "f02622",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreiak34gsrypzi5in7bryiaw44vayzijr347vj3ln3acxocbnztmbuq",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f03134",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreihpgkbc4icni2i55x56l5ypb5467ougvpn36flsfzylqms4z3laqi",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f033517",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreic2cqlyokpupdxrspi7ecywe3hcmimsuh3jd6mcwesx35ucxwguyq",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
     "miner": "f033545",
     "wikiFile": "wiki.11",
     "dealCid": "bafyreihej32pn4bw2layou76n7ec2qstigpr2nq6mwd6eltiufzlt7tacy",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f048858",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreifbo4ek62o5haqrvkkinqyp2gi4gtp34gxzhmgkw6liwgd2ljiqve",
     "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
   },
   {
@@ -640,6 +1240,30 @@
     "wikiFile": "wiki.11",
     "dealCid": "bafyreihcnh6lij3my4faseontop35sffn33fvc35r3llw4ox6fcqtwdkgm",
     "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f09848",
+    "wikiFile": "wiki.11",
+    "dealCid": "bafyreifaagktchxk3xhvmdpma6f3p5ibqtsfl6dbrfosfzk57sbkftbyja",
+    "cid": "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"
+  },
+  {
+    "miner": "f010399",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreiazmvvakfgvqjndcahc7vkpq3alix5ncjngdkbgudpq7qvg7ngdme",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f010498",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreiagz3odbfjqhhqs5ggo2k5hknwwoqc5mbzgyilgp35ry6a3fdqqbe",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f020489",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreiblubd3qhjy6gfy3oki2b6f3uecf6tprt2c5gqrek5bjr2p4mjlyu",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
   },
   {
     "miner": "f022522",
@@ -660,15 +1284,51 @@
     "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
   },
   {
+    "miner": "f023854",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreie4fftctwmfea2o7xgpbuzyfr6b4zxgq6jltcnykhgju42y7wb5zy",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
     "miner": "f02401",
     "wikiFile": "wiki.12",
     "dealCid": "bafyreicugd35j7jwg5jf4zhazngjrfngdvwl7lrrjqj3arukwr2ea2gyxq",
     "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
   },
   {
+    "miner": "f024014",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreibrtpq6ocw7akvkttsgerhsxaqkzll52tlzknlediltnepdjr7jgi",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f024511",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreihaian2o3nwncyea5rm37qveynfdssr7laz2fcmxw3mwyqrwgwyny",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
     "miner": "f029404",
     "wikiFile": "wiki.12",
     "dealCid": "bafyreia4savlha7dfh5vxqro5zqiebjjddlwsldxbehohlnt5yvilshxt4",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f030226",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreifidikxzmgwytejjbl3xxjnirpbnqso6nqogqz7lrbfg2vzq2duee",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f030347",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreiai5o5okr3mzkgxggwbynsh4hncripuxmfdtdqq27b3kisozav2xe",
+    "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
+  },
+  {
+    "miner": "f03275",
+    "wikiFile": "wiki.12",
+    "dealCid": "bafyreibjb5vm22utvn35eq5zzwbruo27oaiw7o6cq6orus63tpr2rlul34",
     "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
   },
   {
@@ -696,6 +1356,30 @@
     "cid": "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"
   },
   {
+    "miner": "f014281",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreichzn7atqhhzvujk3psigl43iwtujnpwcmuhxxirxdzpqxdp5qyei",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
+    "miner": "f022072",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreibyit5umfjdnhpd7c3ql2e6ztrfrrv5p27oxnw7sy6wsgrjujfs5q",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
+    "miner": "f02299",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreigjbvb4tmkg4stiadls54ciplygytdmudf3jkjglphoayt6etnbbm",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
+    "miner": "f023876",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreid7us6yfs5iqqfs7jwcwuvd57hh4wkyi23lo2mcyvzgopjnr3ya5e",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
     "miner": "f024025",
     "wikiFile": "wiki.13",
     "dealCid": "bafyreicfqdfuogirdlscgrtv22dxlvae3fykxjg7ovgrkrbhv7ttxxcwgm",
@@ -708,6 +1392,12 @@
     "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
   },
   {
+    "miner": "f024184",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreiawiefghxuq7bhxniqcocjiuoup5j4mo4zfkjamgfmz753zu3x2ye",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
     "miner": "f025017",
     "wikiFile": "wiki.13",
     "dealCid": "bafyreifgyo4tnhidk4ffx5v5twjh3upul4heei6ok6f4rdxpsbwqe5y3vi",
@@ -717,6 +1407,12 @@
     "miner": "f03347",
     "wikiFile": "wiki.13",
     "dealCid": "bafyreicq2bmypsb6tua4xdzohg2iakjlsw7szuuhpdk3dbjy2tbt2xucf4",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
+    "miner": "f03364",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreibf7fldzxa2nxahodiixjtvmtg3pternvdc7jm7zho2n66yutvgl4",
     "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
   },
   {
@@ -738,6 +1434,18 @@
     "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
   },
   {
+    "miner": "f052767",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreihncljtwuyrgycnn4qmqju464p4cc3t5w7xh5y747gp3opq76bxtu",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
+    "miner": "f07945",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreifzh3pn737cvedqwpv2raj5agjjrayt6n5sh6v5tigdyjmpfwrhtu",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
     "miner": "f08240",
     "wikiFile": "wiki.13",
     "dealCid": "bafyreig4nq2e2wwg3kchkiwklucatcoddhmlgotsu5id5kuo5vvmxapave",
@@ -750,15 +1458,39 @@
     "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
   },
   {
+    "miner": "f09569",
+    "wikiFile": "wiki.13",
+    "dealCid": "bafyreibbzupnart5ix6ahn3x5q66clxlfvz7hwswsntrv6tcn74iqywmy4",
+    "cid": "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"
+  },
+  {
     "miner": "f01287",
     "wikiFile": "wiki.14",
     "dealCid": "bafyreihjfur2wpyihgdh44lpyapmoclqmqmqpbiestcu373pvga4sag6ja",
     "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
   },
   {
+    "miner": "f01291",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreicl3mpedcv7zxznp5cih2bu7tp7vtblwfp546isa3mf5h2gt4y4pi",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f01782",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreihizukbm6653xczyhvox4z2q2zurkcdlfbbwoec7bspilqeni4x54",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
     "miner": "f021870",
     "wikiFile": "wiki.14",
     "dealCid": "bafyreiadzstxqgncvfj7utzhkn6k65hwwhukydp6kzwzhb7a6wltrbx3zq",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f022227",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreie4c6mp4ddxxvfjniknchewrupnb5wqkkho5tdnny647ibmv5te5a",
     "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
   },
   {
@@ -774,15 +1506,51 @@
     "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
   },
   {
+    "miner": "f024550",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreiakl7mep7nopdu2qjffhnrzrz7jaf4yys2ywamieh2u7ipti3p67i",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f02492",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreiffsac6mgwefl2grzl2safwoz6ykefgpfvrtzsk5mrj37qm2ciz3q",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f03328",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreielqltfb2tur3z557jycmfkgipe2sbpcl52waatxu2xpq74jcm4ea",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f03488",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreihaymkjpc2xqjcevmey5rmbp4efhkdyvu7nvi7zajrtwc6u662swm",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
     "miner": "f046317",
     "wikiFile": "wiki.14",
     "dealCid": "bafyreidcsrbkhxvkq6zb3qp6r7wqu2wjbmxwear6kpv7uwii4jhtlpq7em",
     "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
   },
   {
+    "miner": "f053916",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreiffbch2sryca7ryi36nawy4afoiapnuorze4rxzvlxgyqdttbqywi",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
     "miner": "f05664",
     "wikiFile": "wiki.14",
     "dealCid": "bafyreibvwlhr2x643zmdcnvgd3pltqispcw6ggirus7yb3uwfswe3m5v44",
+    "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
+  },
+  {
+    "miner": "f07806",
+    "wikiFile": "wiki.14",
+    "dealCid": "bafyreicjp56wmpdv7lby7kgrvliyxohhskzg4bq4psjwsaehbfyhgserta",
     "cid": "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD"
   },
   {
@@ -798,15 +1566,57 @@
     "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
   },
   {
+    "miner": "f017665",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreidz7qbpbsnbcmhfewu2i7pwlkn4appe4v52gmet2ezdc3hx3wc3vq",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
+    "miner": "f020436",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreiayv73nbfit72n4t5swj7yo4ascpap4bthhg2ot4yqofh2iadobiy",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
+    "miner": "f022522",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreigxaey3gbnmumbhm22n5igtg3lvwj52tr4jeoegc5xubcnbuhstza",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
     "miner": "f023859",
     "wikiFile": "wiki.15",
     "dealCid": "bafyreibke2kvj534jf6gmkgzmoa3zflbh4fvsybm3uofpfyq55yny2tc3m",
     "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
   },
   {
+    "miner": "f023981",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreiec4j2wtgfy4fii6ehnji2n224vcymwkra36ug7xc62mv2uruzfka",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
+    "miner": "f024012",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreibzn6e5weiajuynqgsfawycsw2r5jbfi7jatb5chwsfqfznof4bsm",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
+    "miner": "f024136",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreif7nbfdbjucb2bscpywinfzvqsvppskhw5rvoucaxubrnuvpfpvqi",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
     "miner": "f02623",
     "wikiFile": "wiki.15",
     "dealCid": "bafyreiapytigrhmjveax5bftfmg6bzlilfc6vmljp4xlkbmtyaimw6ia6q",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
+    "miner": "f02633",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreigguok3wkiir7fo5htayzkyptqgcuseytxu5gxx5ulj6ionocs37e",
     "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
   },
   {
@@ -828,15 +1638,33 @@
     "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
   },
   {
+    "miner": "f03302",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreiayivvobc2jc7kh77tv3x35o2f5zb3nd67xmhz625wegple5tb4fm",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
     "miner": "f034084",
     "wikiFile": "wiki.15",
     "dealCid": "bafyreibitrdrkw5g6hiwrurvvdqq7m4k33sslnrpyxk2c2vilsn5qj33fa",
     "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
   },
   {
+    "miner": "f052740",
+    "wikiFile": "wiki.15",
+    "dealCid": "bafyreicqx5f3rxhziizwosct64ch4rgobdjltc63w7sis7s5itsetorq3y",
+    "cid": "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"
+  },
+  {
     "miner": "f010241",
     "wikiFile": "wiki.16",
     "dealCid": "bafyreierql4dwkymi2qxywcwirn2taxcs4uwc7bwwkohfrc4gd376dud2u",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f010513",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreierfhuz6pc7yhm2iyvb5lnjsrh5rcsivtxmn2xldktxcophpyk53m",
     "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
   },
   {
@@ -852,6 +1680,12 @@
     "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
   },
   {
+    "miner": "f023565",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreidrurj5hmhq2xulxob6xyfijhwj7vjp4bbd7wv7gzjzx7g6bz4hle",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
     "miner": "f023649",
     "wikiFile": "wiki.16",
     "dealCid": "bafyreigbaeq56qvnzkvm2fnasx7ftylxjp2njy53oiu5xorhrknjg45pbm",
@@ -861,6 +1695,12 @@
     "miner": "f023825",
     "wikiFile": "wiki.16",
     "dealCid": "bafyreihlboho2yae7j3c6ob3ez3nivn724wp5pxyfmw3ocz6csoqdke2jy",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f024066",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreib7wzgfcmsyxet6toqvh7xfzsh6xn7kboc63kmrwvte57aoe2fgxq",
     "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
   },
   {
@@ -882,6 +1722,30 @@
     "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
   },
   {
+    "miner": "f02645",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreic5m3popcmxc4duquwojghqqi4ubji5bezasu7uk2xqfxoaw6s2ni",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f029490",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreif3v6iimx6ezsgxdqeata7a4c3exglq5vuwbejarwtkvru2pajfve",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f032913",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreihps34kptdqcit7gl7ubrvnvxqepbm2f3qokkzzyfuio3a7o2crvi",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f033113",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreibce2z5mvzp55qb3c2rqvpxcxoot4bq6q2ayev4eouwgjcci5o6fu",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
     "miner": "f033124",
     "wikiFile": "wiki.16",
     "dealCid": "bafyreie76zksie35cjyjelmws7qcylqeftldlfhr45tkzsq3n4q265wmhe",
@@ -891,6 +1755,18 @@
     "miner": "f03488",
     "wikiFile": "wiki.16",
     "dealCid": "bafyreihmruiqiepsui66tfjawbbk7gf3ykoaj4rqyutbe3qk2k3jr6gwwq",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f049882",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreifpwodg3y72eor6ttfpvtreby3tg5g5bxqanpkgqmsqiuhfim3adu",
+    "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
+  },
+  {
+    "miner": "f052135",
+    "wikiFile": "wiki.16",
+    "dealCid": "bafyreighz33c3db23czk42v7wa4rkm6ehkxe2dez22ovezg2dzc76m6jv4",
     "cid": "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q"
   },
   {
@@ -912,6 +1788,12 @@
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
   },
   {
+    "miner": "f01799",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreia7q4zo5grttymww4n4fdwry5fwpj2hkksquzp7igezxnhbf2em24",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
     "miner": "f019240",
     "wikiFile": "wiki.17",
     "dealCid": "bafyreieqr6rzw4zsidyqgisni3ka3rafcpmstnprlejhwyetbkclaghhge",
@@ -924,6 +1806,18 @@
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
   },
   {
+    "miner": "f022522",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreic74dyrqzwqbjh2twh2zv7ruonpeenanfljrprhvafd7rynph36si",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f023825",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreief5aghahl4pbefycsktpadqxlq5oxrnppynx4zlar6t4vs4gqcly",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
     "miner": "f023928",
     "wikiFile": "wiki.17",
     "dealCid": "bafyreidlj5gcg6fb55u3dsypb7f2cv7547hdcn3jls2sqz3eibn74fxfuu",
@@ -933,6 +1827,36 @@
     "miner": "f024146",
     "wikiFile": "wiki.17",
     "dealCid": "bafyreihjavmhkwivzyu3bjamf4ars5roi7mvcwhesjsldu6madjwo4fqde",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f02416",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreibc3p7pvvkjlcy3pgk6wounohydktdnhuatzf6oocqw56qxrzut5e",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f03131",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreiewloz7fa5any36h4dkjyegjkg5elh2fcezdoqcms3wujr7vac76e",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f03482",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreifrbc3vdxic5igdjblqbtf6vt3q5rpueff2hxjhg2pi42hcvgppim",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f039235",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreicydf4dz577g5ponlgkiy3nmv2qxq3fxfup6saiofsm2k5ewfcsje",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f040218",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreif54gb4gvnanozoeig3owuitcqbtg6r3r2c4bi6wqikdz2evu3fya",
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
   },
   {
@@ -954,10 +1878,22 @@
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
   },
   {
+    "miner": "f07819",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreifasp7eys2a4puyuygipsfzxx7l4dmr34tukxhrpubweamfla7bvy",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
     "miner": "f07850",
     "wikiFile": "wiki.17",
     "dealCid": "bafyreiblomdtemvlm4bkfsv25m4obhxd4tqbytwycbtnxj2x6lf6dpw2cy",
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
+    "miner": "f01234",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreiguzj36kqftlckaigkoqdjtlmg3xrxg7yab2xt3xpcdblwjsxe4k4",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
     "miner": "f018781",
@@ -969,6 +1905,18 @@
     "miner": "f019551",
     "wikiFile": "wiki.18",
     "dealCid": "bafyreihvo2oevoonl2pi3fj6sunyhkwdcw2peu74dp42iyka3wmp65nqku",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f021532",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreicigewjevchbis7mtjrgfpienvqymppi3p7cm2zwc3kqec2qeo2x4",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f021870",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreiahx64czpkpqs4srcznebdpouweay7z4sqfzeio7r3bavktesorlq",
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
@@ -984,15 +1932,51 @@
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
+    "miner": "f023871",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreid3fphf4yim7vdfjnb4em5acfyjf77uu7zlgb35x4iid3parnb34q",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f02619",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreic653rxmtvdkfye5nls6umpzethzpdgbask76ajuedvvmjzzgenke",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f02620",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreibb5pih7ty4b3bk4ly2j2ftm4cq4s5wcvrheuqf3kgnsr65udjwbu",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
     "miner": "f03274",
     "wikiFile": "wiki.18",
     "dealCid": "bafyreie4vqawwyineckf2o6lsj3kdidnkgowkelb5eztovajoy2uel5iym",
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
+    "miner": "f034084",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreifciymrn5vw2qx5lbse7y5uwxt2dksfrhcu4evujctttwospaxfki",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f034652",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreigv2co2mte5fxjvunwenozxaursmt7hmhydkltvvzicubddiuqpmy",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
     "miner": "f03482",
     "wikiFile": "wiki.18",
     "dealCid": "bafyreihnzy2otydw5xx366z56xdbqiskafyqnoueqqkgjnr47zsffiuqza",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f039515",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreibtmlfmrz7yizefpn3kcqvteywe4ncfslakbghbygfmgtzrkyy7ca",
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
@@ -1008,15 +1992,39 @@
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
+    "miner": "f010247",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreic6uwaakfjujqjxudpvwucvkv3vtkfi3zyqp2ghzjgzxxkrnhqbfq",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
     "miner": "f01241",
     "wikiFile": "wiki.19",
     "dealCid": "bafyreidgdgz5qvxnbkm7afpmabhvy5u77gnxseend2zo25bqk5q33exvyy",
     "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
   },
   {
+    "miner": "f015734",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreig66v5o6b6pmrrr4m7s7rok3tzib76dyzytvggnaputg526uqkrpy",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
     "miner": "f01799",
     "wikiFile": "wiki.19",
     "dealCid": "bafyreiedxaju427iz62h4cnbtwyb47hu3ia2y7d6wfmvdpvi7jh3dg2phq",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f021262",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreierdq2poko2m3nedonvodqeg4ropcw4d4bbb7kxpyhyrfkspqigxe",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f022072",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreib5yv4h7ba2x76dasynnn5bkfnalrrvrytf3dxgyf5fu2hcrvicpi",
     "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
   },
   {
@@ -1032,6 +2040,36 @@
     "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
   },
   {
+    "miner": "f023980",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreicvbjihna425s3dxxfx2supei6bfmhxjczcuec7sgglb7qq7ouiqy",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f032934",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreidtupqdwtvwjazjxl46gj2f3zmdfvfgbm6putcoad36nus4ox35ce",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f043929",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreib7nvjy224vdudalftyrawinqmtm5dprucauu66frszjiwcsfv6dq",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f054619",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreied262fskv6vd4qrtbldcxcp5b3pn2bkkgujycf6ajunq5ola6ure",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
+    "miner": "f08482",
+    "wikiFile": "wiki.19",
+    "dealCid": "bafyreifzkosopdyqoee633tnkm45hzmj34rkkuyg5soveso7nz2oyi3j3a",
+    "cid": "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"
+  },
+  {
     "miner": "f010498",
     "wikiFile": "wiki.20",
     "dealCid": "bafyreiaimtsovjhphkaehzrgjb6knfzrbct3htlugyfcayd34kqysk4jim",
@@ -1041,6 +2079,18 @@
     "miner": "f010501",
     "wikiFile": "wiki.20",
     "dealCid": "bafyreifrrwh5vv6fi5ff2m33toezaumoqipmv6arx2nxsajtbeyhuos4ce",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f01276",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreiffwcxejzivbvgdsg3u4kqe2yzntdwwbqlhaqtykwq3jkheybvhre",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f015941",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreid6xu73kwalwzf45xmd7bfkl6dzco6cttdn7qidcptu3mri26gori",
     "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
   },
   {
@@ -1056,9 +2106,39 @@
     "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
   },
   {
+    "miner": "f022308",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreicoub5px2ucd3cxwrtvypsbfxn6pudqfge6shjus3ako2jpzi7viu",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f023868",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreidnnefykuuzryugey5rujcugoi7o3d2vdjoyrajkqyric7cw77654",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f025025",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreig3lmucnvwhj5o3bqqhznn3xr7h36wmj2f4nnmzu4p5eweemq4wsi",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
     "miner": "f02633",
     "wikiFile": "wiki.20",
     "dealCid": "bafyreihwa4or4fon3o3qz4dj2hfhapjwkr5i5r2d44up5v3cbrt7jwekii",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f030226",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreifvcv4fy4il3x7swyu24dljrzjmldxyuvcwkiik7vrkr2souibahm",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f030384",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreifcshyojqusoofdc2gi2k74dxphowlxrjdvlmtphvtkhexughfm2a",
     "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
   },
   {
@@ -1086,15 +2166,81 @@
     "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
   },
   {
+    "miner": "f049751",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreic37ekvznrr5yyjjbsir3qkcblnx4p4btvlv7pswlbm52gxvzwxxq",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f049773",
+    "wikiFile": "wiki.20",
+    "dealCid": "bafyreigltgsejacv67vwwon32m2t6w7sghw6756u6digubnrqsexr62rwy",
+    "cid": "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"
+  },
+  {
+    "miner": "f010523",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreiekrherlggatydm3pwnuguqi5nltnh2e3jdhijqujkzpfmvzgyls4",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f010559",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreiax3q55dxtwji36hmonjq7iizvcexpwh2xp2tsrcvcucs5eomhg5m",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f01247",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreiaww56lndo5dqukvoaxgoycr7d53wysyqi336x6qd7x3mu3topbqi",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f014569",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreicopiny2msgcuqrqvpbkvu2j577l3vp3fbqlvqeytcrlf3jcznqqe",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f01800",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreiccesyamr545iv33ag5vlilmqx2pascajv6g7d4cnbytz6cvdkybu",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
     "miner": "f018782",
     "wikiFile": "wiki.21",
     "dealCid": "bafyreibfmbhkn2hpyghrxadszz6aven5vi7sti52rx3lofqp7mnl5xv344",
     "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
   },
   {
+    "miner": "f018783",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreigzekpdfrqek2aye37amaghosqpfq22jfryxeja3gqoci6j5ildai",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f023870",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreiftdq6lppn2olwrvm5f6xae6ixepd4nb2vkzk4xdplpqaeerogu3u",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
     "miner": "f029524",
     "wikiFile": "wiki.21",
     "dealCid": "bafyreiakppq5iriqxudtrhsjx55gunlastue4zo36ek6mkodtnkuffo25a",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f030338",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreic3rhfehtsaczdgfp6uihz4eqxjxfq4mjsivggh3biqwwpvmjqvhy",
+    "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
+  },
+  {
+    "miner": "f033438",
+    "wikiFile": "wiki.21",
+    "dealCid": "bafyreify4nwbsvww5qrbcjbxirgekne3z2d7zrezosebhukq3xmml2tcaq",
     "cid": "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke"
   },
   {
@@ -1110,9 +2256,21 @@
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
+    "miner": "f010523",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreihtxpr4vjjxf6e2yl5s2m4ybjnpy44o7ab37g4h5cqn2pkwni6yxu",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
     "miner": "f019100",
     "wikiFile": "wiki.22",
     "dealCid": "bafyreigbtsw6bmksync5d5raoqwho4l6lcywzgpevtkweclbfyn6ek5yty",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f019240",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreifyoxctpjh2crt6zh6x6tfqwk5lzf73fb45hcgfbgdv6wy7lg7bhe",
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
@@ -1128,9 +2286,39 @@
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
+    "miner": "f022922",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreigslxdaclqwpgzxc6jmeppfkli4y57ijxziya6rbcfuoszl6kyrzu",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f023971",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreibof5g3vebkj3qvjl7nr26hwnd2tknid7fcjt4s3b45iwtykzikfi",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f023978",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreiczmbbvrjmpmjii3criynyuffg5kfafnxe4jveky6dsh3hl36i57m",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
     "miner": "f024184",
     "wikiFile": "wiki.22",
     "dealCid": "bafyreicri3x5i44cfy2opkp53yz67nl4xeoquqruxdus3tqztlyxkfdziy",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f029368",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreieyut3uvrsqcz2oaup2ikzla7mjndozlhth34rqlfmkho3vo4axti",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f039792",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreigwg43lkgctj6conlltoo4qrkvntdqgz4qopimcs6xaw473h3zrua",
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
@@ -1140,9 +2328,21 @@
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
+    "miner": "f048181",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreih5czdzfrgi6qoqkmym3j2ljxphkiesbazo6vxz2q7smaiw5na7ju",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
     "miner": "f049772",
     "wikiFile": "wiki.22",
     "dealCid": "bafyreiamntz5ydfq3wipbmitgkmy3xky5zrpivw25r3adhgiq5wtysah7e",
+    "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f052447",
+    "wikiFile": "wiki.22",
+    "dealCid": "bafyreihg2k7f3azijtslvpj52isxp46mnjtg7b7x7vgbux55ze7s2vqqmu",
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
   },
   {
@@ -1162,6 +2362,12 @@
     "wikiFile": "wiki.22",
     "dealCid": "bafyreif3btnembfcmwszqvvbazreeshzjstjmtreodobfrixt7jpc3t6tm",
     "cid": "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh"
+  },
+  {
+    "miner": "f01272",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreicxh76u5axyiucilujla5andplntilzrq2elezv6gvfpp4zvakqbi",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
     "miner": "f018783",
@@ -1188,6 +2394,24 @@
     "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
+    "miner": "f023869",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreiaxztdai4ogonrzoxoi4h4m5dgwgw7t5usv5tvbdgtkednzqawnsm",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
+    "miner": "f02388",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreidppvc5uwxytr5o6k5jldobfthreqz5tff2x2fctzrb5a7tnhphoa",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
+    "miner": "f023977",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreigzjmmbcfjgn6ztesiipurmzyaoxuxw4p22nuwfpjvav3nj5cvoxu",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
     "miner": "f024147",
     "wikiFile": "wiki.23",
     "dealCid": "bafyreiglaqjkmudujlt5gpanssem4kx7toq7wgqivyh723mxbts5auj3ma",
@@ -1206,9 +2430,27 @@
     "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
+    "miner": "f025044",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreicchksyebjnio3bj3iwgph3mhewx5u3awfv6ax7ufbxn4lamlq4fi",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
     "miner": "f03274",
     "wikiFile": "wiki.23",
     "dealCid": "bafyreifu6j6ocodzp6zkeo6nmncegpxwx26c5665jbu74srmmrq6qsmatu",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
+    "miner": "f032913",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreidt6kba2ymkv5s5enhsln3635cxvu4ofxkngrhxjnrcttzyewrioy",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
+    "miner": "f03302",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreicj3cqqz7yajyismy7nm4rw2oq53lee2asinme2seh5mcmabr7sse",
     "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
@@ -1218,15 +2460,63 @@
     "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
+    "miner": "f034808",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreid7jwfzvvf4e3vknggyu4zb6kyntqruq6qr5lenallyp2nl3j3fwq",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
     "miner": "f035436",
     "wikiFile": "wiki.23",
     "dealCid": "bafyreig7pv6rw4mpr53mb5vyr6k5lkxxwt4apjelkpok4aoew6rpzmmfw4",
     "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
   },
   {
+    "miner": "f048174",
+    "wikiFile": "wiki.23",
+    "dealCid": "bafyreie3mx7uukfhb6csmfdnrko5c6fvgrk5qivb7h4z4lhqyuwzoeskku",
+    "cid": "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"
+  },
+  {
+    "miner": "f018780",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreihucbdc5o45qxzgpty4cs5ihxn762lrtiwlspkqua7a2e55u4dn44",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f019437",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreia5ai4lcqwk47g35w5rm2yrvep2kjuuvjms26fpq4lmfpzblrenmu",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f023495",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreian64jmmbtepd5nbtbcrugnq6plxdi7ehai2baxiuqsqcdfe7yldm",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f023939",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreigrunzcmkturftyh5ezg7d7ougycdyevj5imj6f7vvhgxa4ljqkfy",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
     "miner": "f024015",
     "wikiFile": "wiki.24",
     "dealCid": "bafyreihumdl7xb5dclig7puegvl4as2l5kaqhhnoavfs4e3to3xlgc7nea",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f03364",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreih4fzv6riixrxnmuwv7i7etfddkha4ovd54iljdpk36v4odknyop4",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f034362",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreiawms3xp3tcdxtjhgtr7bqgtaexkgliaotldsckhd47lnl5ucibim",
     "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
   },
   {
@@ -1242,15 +2532,39 @@
     "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
   },
   {
+    "miner": "f045714",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreid2jddy6drkpigl3kkioswegcb4xpk22v4jm7muipkjz52bfnfoui",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
     "miner": "f049990",
     "wikiFile": "wiki.24",
     "dealCid": "bafyreidnhnvrmgfojatffzkfxs36acuv2owuynf3nykm6ix5yubo3rufty",
     "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
   },
   {
+    "miner": "f07945",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreibdikixvi75puvdm2j2nzcenpgqllwjhlv6dibvzi3usv6e3h5e6y",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
+    "miner": "f08285",
+    "wikiFile": "wiki.24",
+    "dealCid": "bafyreiac4w7gijltltkocemoxlmalyp7stzlhffrevvtjnpj42n7dtsgzy",
+    "cid": "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"
+  },
+  {
     "miner": "f010501",
     "wikiFile": "wiki.25",
     "dealCid": "bafyreifppvhdp3tetro4dim7y5cv7noiqqz56cpbvpiotcqsgvvdfi2lry",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f010528",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreibgukl3y45xvqr2iyxpknp7jpmmjme2nb2k2k66outs6upgefvpfi",
     "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
   },
   {
@@ -1266,6 +2580,30 @@
     "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
   },
   {
+    "miner": "f018784",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreihemnrptgd2fec4sde4jrdsg4vh3g553l5cpateu37cahgpkz3no4",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f020605",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreicxvthm6ncsfdi42jvwrc2prbmyyuore3idzhsk2ycreyogo3tyv4",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f023858",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreigjhvo5d3dnilge4fnedsysi3ymx7y63kikqilasnry5u465qgoy4",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f024148",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreigbn2lwnwqhwfxo3guc4q2vtdhdgcgalnc667xzouknb5ckrp5gse",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
     "miner": "f02622",
     "wikiFile": "wiki.25",
     "dealCid": "bafyreiewr4abdp27zvcxsxeruxm3qeivo3noni77g5h6ta7wwbajroeyye",
@@ -1278,15 +2616,63 @@
     "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
   },
   {
+    "miner": "f030338",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreibx6knf4nig7idgztn35yg256s6jgobh4p3ozg5mqh42ylkxtsmge",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f034039",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreifwlnge54momvwtrcp7x7xru6ube2mqnp3msxxw3fqoe3kl76k7ia",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
+    "miner": "f034084",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreicnel6oqihtrsuv5hsiw5sm2gvmcyqzggn2ui2dxhgzjgpxff3zm4",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
     "miner": "f034701",
     "wikiFile": "wiki.25",
     "dealCid": "bafyreigwmlt4v34bzg77d7botbtimfigzsa2tqodyqrlswedpem4duq4mi",
     "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
   },
   {
+    "miner": "f039800",
+    "wikiFile": "wiki.25",
+    "dealCid": "bafyreigchfkwxnq7gsogjx5tserbr4ppyhzabl2y44tpt2lhxzoug4g7ri",
+    "cid": "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"
+  },
+  {
     "miner": "f010528",
     "wikiFile": "wiki.26",
     "dealCid": "bafyreih7m2b2vvzdnirghzk4cxwyq4mk27lna6qufvbanz4wxoby5kkksa",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f010559",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreihwnrlrao3nmtcv7fopttbpe3wejapqv5zocw5rn5tfybcdzty7ny",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f01240",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreidycpf5zkocyvd6fu4cvk5w5fz2lzdaweu2wmxqvqggxgeaakgqni",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f01280",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreiamcefxac75qpgd2grbzioiacxqail3ndcr5eec22kbxm5c6j3rje",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f019100",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreifecncn3yp3qgajvhwhav43ljow4myliwaem44u3dufph5olqkxui",
     "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
   },
   {
@@ -1299,6 +2685,12 @@
     "miner": "f022261",
     "wikiFile": "wiki.26",
     "dealCid": "bafyreighn5o5okwoypuwjyppwlszslklyjm6zxcazk4gcgxy6i3ulaggne",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f02387",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreie5xsjanyik4rxqje7fqxnogwnftpwft67fd37um4zrqf3mqet3dm",
     "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
   },
   {
@@ -1320,10 +2712,40 @@
     "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
   },
   {
+    "miner": "f03491",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreig4rbpyrpulyyymm3t3tz2cla3lwxp6myzimplusewqbzi6ik4nc4",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f038299",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreieer3qew234fyaxk4xohjn3owa6wcw3jueqnwbttntytr7get7suy",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f042391",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreiaj3eayzmerqjpbky7lpzal5pecowsgnxl3uiluyw23tpvjnzfxoy",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f049773",
+    "wikiFile": "wiki.26",
+    "dealCid": "bafyreiesjcprgwyugnebo6bfaci4gyzxws4ukuoiw7wezz2r27sp5a2t5q",
+    "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
     "miner": "f09693",
     "wikiFile": "wiki.26",
     "dealCid": "bafyreiaan6l6aqnd4c5xyvpifppezccstz2dsywdmwkm224urye7us7n74",
     "cid": "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"
+  },
+  {
+    "miner": "f010498",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreidojkc2vnqlkjwdk4ycvjx5qobqn3esogkyzzuoqa3q2b3f5dcmxm",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
   },
   {
     "miner": "f01277",
@@ -1341,6 +2763,18 @@
     "miner": "f014768",
     "wikiFile": "wiki.27",
     "dealCid": "bafyreibihl7cjz47oiu3ys6oms2f72i5mlgtd7vldudgbhe7n4q5uokpua",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f01800",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreigkycef63sjrj7ht5ti5bcixkhff3wbe5n63ls444ir374gtxnsbq",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f019104",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreiaocvdhywf3xovi2mlbfu5a4zn5dic3vhhgxpr5k7nrjtegy5xlvm",
     "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
   },
   {
@@ -1362,6 +2796,30 @@
     "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
   },
   {
+    "miner": "f023179",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreibmxfuzkobuhiszyls7dxdgne6z5hzye26zp5v4up6qvnffwntjaq",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f023492",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreigg57ci6guyoqzvbyltw3hhwqjam26hkqxlan3ho3dn367sgq5g4y",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f023565",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreibnq6jviwx2ngclv5q5pel26xk3oom22gafpdqz44o3w43l7mu3sa",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f023871",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreibvtj4jjf3ggoc3vmafnpkeqisbb4wgq774ssyoc3dlsrvibm3gd4",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
     "miner": "f023876",
     "wikiFile": "wiki.27",
     "dealCid": "bafyreibuv6v6p2uwjv7vjhbenuahs2332gz2ft2fr7tbdbdetaww5xw764",
@@ -1374,9 +2832,21 @@
     "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
   },
   {
+    "miner": "f030384",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreifvilh3iypan4fowt2a4umxshoqat3mwqqw62asik45os527mcuv4",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
     "miner": "f045555",
     "wikiFile": "wiki.27",
     "dealCid": "bafyreifi52qm2qrbdsgjwemz6zbkck2gf6yq3deuttz66kkrx3cqey6mre",
+    "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
+  },
+  {
+    "miner": "f053037",
+    "wikiFile": "wiki.27",
+    "dealCid": "bafyreifzfhl22bluflv7piqt6e62fqxrkou3vyohet2cancq6g4sbnp2hm",
     "cid": "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"
   }
 ]
