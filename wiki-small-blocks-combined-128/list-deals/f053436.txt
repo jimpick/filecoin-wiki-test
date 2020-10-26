@@ -1,0 +1,1 @@
+Created  DealCid  DealId  Provider  State  On Chain?  Slashed?  PieceCID  Size  Price  Duration  Verified  Message
