@@ -13,6 +13,7 @@ if [ -z "$MINER" ]; then
 	exit 1
 fi
 
+mkdir -p skip-miners
 if [ -f "skip-miners/$MINER" ]; then
   echo "Skipping $MINER:" $(cat skip-miners/$MINER)
   exit 0
