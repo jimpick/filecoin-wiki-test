@@ -1,0 +1,6 @@
+2020-10-30T06:57:31.062Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:526	unmarshaling failed	{"message": "{\"Err\":\"EOF\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f038299\",\"MinerPeer\":{\"Address\":\"f038299\",\"ID\":\"12D3KooWQLZ9eGTMVGS4895PdvBVAoYDotPAZukiJQji5KQMnbLx\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.10user 0.02system 0:00.24elapsed 51%CPU (0avgtext+0avgdata 43032maxresident)k
+576inputs+0outputs (7major+3933minor)pagefaults 0swaps
