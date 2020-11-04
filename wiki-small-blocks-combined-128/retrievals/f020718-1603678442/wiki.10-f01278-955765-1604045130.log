@@ -1,5 +1,0 @@
-ERROR: failed to find offer satisfying maxPrice: 5000000000
-
-Command exited with non-zero status 1
-0.09user 0.02system 0:00.13elapsed 84%CPU (0avgtext+0avgdata 41808maxresident)k
-560inputs+0outputs (9major+3837minor)pagefaults 0swaps
