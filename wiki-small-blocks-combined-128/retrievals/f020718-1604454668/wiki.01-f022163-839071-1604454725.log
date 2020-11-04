@@ -188,3 +188,12 @@
 > Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventVoucherShortfall (DealStatusCheckFunds)
 > Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+> Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+> Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 36.14 MiB, Paid 0.000000000058930758 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 36.14 MiB, Paid 0.000000000075789858 FIL, ClientEventPaymentSent (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.25user 0.13system 22:00.00elapsed 0%CPU (0avgtext+0avgdata 41796maxresident)k
+560inputs+0outputs (3major+4001minor)pagefaults 0swaps
