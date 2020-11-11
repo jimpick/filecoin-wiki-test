@@ -7,8 +7,8 @@
 7 wiki.07 29 Active: 21 Sealing: 3 Xfr: 0 Error: 5
 8 wiki.08 27 Active: 19 Sealing: 1 Xfr: 0 Error: 7
 9 wiki.09 30 Active: 21 Sealing: 5 Xfr: 0 Error: 4
-10 wiki.10 21 Active: 13 Sealing: 4 Xfr: 1 Error: 3
-11 wiki.11 24 Active: 15 Sealing: 2 Xfr: 0 Error: 6
+10 wiki.10 21 Active: 14 Sealing: 3 Xfr: 1 Error: 3
+11 wiki.11 24 Active: 16 Sealing: 1 Xfr: 0 Error: 6
 12 wiki.12 23 Active: 14 Sealing: 5 Xfr: 0 Error: 3
 13 wiki.13 25 Active: 16 Sealing: 2 Xfr: 0 Error: 6
 14 wiki.14 22 Active: 14 Sealing: 1 Xfr: 0 Error: 7
@@ -16,10 +16,10 @@
 16 wiki.16 24 Active: 15 Sealing: 3 Xfr: 0 Error: 4
 17 wiki.17 24 Active: 16 Sealing: 0 Xfr: 0 Error: 7
 18 wiki.18 25 Active: 19 Sealing: 0 Xfr: 0 Error: 6
-19 wiki.19 18 Active: 9 Sealing: 2 Xfr: 0 Error: 6
-20 wiki.20 19 Active: 10 Sealing: 3 Xfr: 0 Error: 5
+19 wiki.19 18 Active: 10 Sealing: 1 Xfr: 0 Error: 6
+20 wiki.20 19 Active: 11 Sealing: 2 Xfr: 0 Error: 5
 21 wiki.21 15 Active: 10 Sealing: 5 Xfr: 0 Error: 0
-22 wiki.22 27 Active: 19 Sealing: 4 Xfr: 1 Error: 3
+22 wiki.22 27 Active: 20 Sealing: 3 Xfr: 1 Error: 3
 23 wiki.23 28 Active: 20 Sealing: 2 Xfr: 0 Error: 6
 24 wiki.24 15 Active: 7 Sealing: 1 Xfr: 1 Error: 6
 25 wiki.25 20 Active: 11 Sealing: 2 Xfr: 1 Error: 5
