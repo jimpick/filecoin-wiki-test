@@ -50,7 +50,7 @@ for x in $(grep ^wiki $CHECK | shuf); do
 		continue
 	fi
   	COUNTER=0
-	for d in $DEALS; do
+	for d in $(echo $DEALS | shuf); do
 		TIMESTAMP=`date +%s`
 		MINER=$(echo $d | sed 's,-.*$,,')
 		DEAL=$(echo $d | sed 's,^.*-,,')
