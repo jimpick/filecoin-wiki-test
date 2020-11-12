@@ -581,3 +581,23 @@
 > Recv: 120.3 MiB, Paid 0.000000000221163482 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
 > Recv: 120.5 MiB, Paid 0.000000000221163482 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 120.5 MiB, Paid 0.000000000221163482 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 120.5 MiB, Paid 0.000000000252743924 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 120.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.5 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.5 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 123 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 123 MiB, Paid 0.000000000252743924 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000258549956 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 123.3 MiB, Paid 0.000000000258549956 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.32user 0.17system 6:45.99elapsed 0%CPU (0avgtext+0avgdata 43068maxresident)k
+32inputs+0outputs (2major+4122minor)pagefaults 0swaps
