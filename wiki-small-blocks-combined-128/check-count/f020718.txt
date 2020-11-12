@@ -1,6 +1,6 @@
 1 wiki.01 19 Active: 14 Sealing: 3 Xfr: 0 Error: 1
 2 wiki.02 23 Active: 17 Sealing: 2 Xfr: 0 Error: 2
-3 wiki.03 15 Active: 11 Sealing: 4 Xfr: 0 Error: 0
+3 wiki.03 15 Active: 12 Sealing: 3 Xfr: 0 Error: 0
 4 wiki.04 21 Active: 14 Sealing: 6 Xfr: 0 Error: 1
 5 wiki.05 23 Active: 18 Sealing: 4 Xfr: 0 Error: 0
 6 wiki.06 17 Active: 13 Sealing: 1 Xfr: 0 Error: 3
