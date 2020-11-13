@@ -8,7 +8,7 @@
 8 wiki.08 26 Active: 21 Sealing: 2 Xfr: 0 Error: 3
 9 wiki.09 33 Active: 24 Sealing: 7 Xfr: 0 Error: 2
 10 wiki.10 23 Active: 15 Sealing: 5 Xfr: 0 Error: 2
-11 wiki.11 25 Active: 18 Sealing: 2 Xfr: 0 Error: 3
+11 wiki.11 25 Active: 18 Sealing: 3 Xfr: 0 Error: 3
 12 wiki.12 28 Active: 18 Sealing: 6 Xfr: 0 Error: 3
 13 wiki.13 26 Active: 17 Sealing: 5 Xfr: 0 Error: 3
 14 wiki.14 21 Active: 17 Sealing: 1 Xfr: 0 Error: 3
