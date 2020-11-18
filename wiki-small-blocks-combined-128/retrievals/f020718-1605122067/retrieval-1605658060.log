@@ -650,3 +650,41 @@ Retrieving f048135 1213520 QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
 > Recv: 112 MiB, Paid 0.000000000221163482 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 112.2 MiB, Paid 0.000000000221163482 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 112.2 MiB, Paid 0.000000000221163482 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+1.29user 0.19system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 67532maxresident)k
+0inputs+0outputs (0major+9847minor)pagefaults 0swaps
+f020718: 0.483376777034584276 FIL (276G free)
+Skipping ahead
+
+1 wiki.27
+f020904-837216 f014768-838435 f022142-838828 f023876-890914 f029368-894707 f01291-895648 f019104-955447 f023492-956944 f058369-1044546 f038299-1213354 f044160-1213436 f019240-1213492 f061158-1273683 f068096-1279651 f03488-1287351 f010523-1327869 f022352-1327926 f029404-573421 f05316-637980 f03176-638488 f029566-640058 f025032-799612 f010501-799791 f021710-800100 f010446-800789 f023978-801087
+Already have log for f020904 837216 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f014768 838435 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f022142 838828 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f023876 890914 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f029368 894707 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f01291 895648 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f019104 955447 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f023492 956944 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f058369 1044546 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f038299 1213354 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f044160 1213436 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Already have log for f019240 1213492 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Retrieving f061158 1273683 QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    134  0:00:01  0:00:01 --:--:--   134100   527  100   366  100   161    204     89  0:00:01  0:00:01 --:--:--   294100   527  100   366  100   161    204     89  0:00:01  0:00:01 --:--:--   293
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d"},"Piece":null,"Size":268435456,"MinPrice":"536870912","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f061155","MinerPeer":{"Address":"f061158","ID":"12D3KooWPsWqHbBkdjuAWHHG5pKt8uBCPfbKPNh49wjpqAuZTiKT","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 2.077 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 3.023 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 259 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 515.1 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 771.1 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 771.1 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.003 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.003 MiB, Paid 0 FIL, ClientEventPaymentChannelCreateInitiated (DealStatusPaymentChannelCreating)
