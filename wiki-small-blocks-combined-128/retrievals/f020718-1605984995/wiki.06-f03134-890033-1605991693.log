@@ -1,0 +1,25 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+> Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 1.002 MiB, Paid 0.00000000000210216 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 1.252 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 1.502 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 1.752 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.002 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.252 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 2.502 MiB, Paid 0.00000000000210216 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+1.17user 0.13system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 67200maxresident)k
+0inputs+0outputs (0major+10195minor)pagefaults 0swaps
