@@ -425,3 +425,29 @@
 > Recv: 86.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 87.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 87.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.62 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.62 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.87 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.12 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.12 MiB, Paid 0.000000000164239392 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 91.37 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 91.37 MiB, Paid 0.000000000164239392 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 91.37 MiB, Paid 0.000000000191625306 FIL, ClientEventPaymentSent (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+1.43user 0.20system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 66140maxresident)k
+320inputs+0outputs (32major+10476minor)pagefaults 0swaps
