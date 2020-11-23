@@ -1,0 +1,10 @@
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventProviderCancelled (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
+
+Command exited with non-zero status 1
+0.52user 0.05system 5:12.61elapsed 0%CPU (0avgtext+0avgdata 65632maxresident)k
+0inputs+0outputs (0major+9923minor)pagefaults 0swaps
