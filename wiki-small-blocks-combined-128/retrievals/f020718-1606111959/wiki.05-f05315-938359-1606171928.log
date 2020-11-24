@@ -159,3 +159,9 @@
 > Recv: 29.9 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 30.15 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 30.4 MiB, Paid 0.000000000059026132 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+2020-11-23T23:14:08.922Z	[31mERROR[0m	rpc	go-jsonrpc@v0.1.2-0.20201008195726-68c6a2704e49/client.go:377	got rpc message with cancelled context: context canceled
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+1.19user 0.11system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 67224maxresident)k
+304inputs+0outputs (2major+10363minor)pagefaults 0swaps
