@@ -58,7 +58,8 @@ for x in $(grep ^wiki $CHECK | shuf); do
    		LOG=$(ls $TARGET_DIR/$x-$MINER-$DEAL-*.log 2> /dev/null)
 		if [ -z "$LOG" ]; then 
 		      	echo Retrieving $MINER $DEAL $CID
-      curl -m 60 -X POST  -H "Content-Type: application/json"  -H "Authorization: Bearer $TOKEN"  --data "{ \"jsonrpc\": \"2.0\", \"method\": \"Filecoin.ClientMinerQueryOffer\", \"params\": [\"$MINER\", { \"/\": \"$CID\" }, null], \"id\": 1 }"  http://127.0.0.1:$PORT/rpc/v0
+      curl -m 60 -X POST  -H "Content-Type: application/json"  -H "Authorization: Bearer $TOKEN"  --data "{ \"jsonrpc\": \"2.0\", \"method\": \"Filecoin.ClientMinerQueryOffer\", \"params\": [\"$MINER\", { \"/\": \"$CID\" }, null], \"id\": 1 }"  http://127.0.0.1:$PORT/rpc/v0 >> $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
+      cat $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
       if [ "$?" != "0" ]; then
         echo Failed CURL check | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
         continue
