@@ -26,7 +26,7 @@ for x in *.cid; do
   cat $OUTPUT | grep -f $WORKDIR/deals.txt > $WORKDIR/filtered.txt
 	COUNT=$(cat $WORKDIR/filtered.txt | wc -l)
 	ACTIVE_COUNT=$(cat $WORKDIR/filtered.txt | grep Active | wc -l)
-	SEALING_COUNT=$(cat $WORKDIR/filtered.txt | grep Sealing | wc -l)
+	SEALING_COUNT=$(cat $WORKDIR/filtered.txt | grep 'Sealing\|AwaitingPreCommit' | wc -l)
 	TRANSFERRING_COUNT=$(cat $WORKDIR/filtered.txt | grep Transferring | wc -l)
 	ERROR_COUNT=$(cat $WORKDIR/filtered.txt | grep Error | wc -l)
 	echo $((COUNTER++)) $x2 $COUNT Active: $ACTIVE_COUNT Sealing: $SEALING_COUNT Xfr: $TRANSFERRING_COUNT Error: $ERROR_COUNT
