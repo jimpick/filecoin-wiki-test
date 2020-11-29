@@ -1,0 +1,283 @@
+1234
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.Z7UTp2uTZPGK6TkIZwnxG5R-Ql3wjtEZdZaHgLHkRYo
+Loading deals f020718
+f020718 1 wiki.01
+f020718 2 wiki.02
+f020718 3 wiki.03
+f020718 4 wiki.04
+f020718 5 wiki.05
+f020718 6 wiki.06
+f020718 7 wiki.07
+f020718 8 wiki.08
+f020718 9 wiki.09
+f020718 10 wiki.10
+f020718 11 wiki.11
+f020718 12 wiki.12
+f020718 13 wiki.13
+f020718 14 wiki.14
+f020718 15 wiki.15
+f020718 16 wiki.16
+f020718 17 wiki.17
+f020718 18 wiki.18
+f020718 19 wiki.19
+f020718 20 wiki.20
+f020718 21 wiki.21
+f020718 22 wiki.22
+f020718 23 wiki.23
+f020718 24 wiki.24
+f020718 25 wiki.25
+f020718 26 wiki.26
+f020718 27 wiki.27
+Loading deals f021682
+f021682 1 wiki.01
+f021682 2 wiki.02
+f021682 3 wiki.03
+f021682 4 wiki.04
+f021682 5 wiki.05
+f021682 6 wiki.06
+f021682 7 wiki.07
+f021682 8 wiki.08
+f021682 9 wiki.09
+f021682 10 wiki.10
+f021682 11 wiki.11
+f021682 12 wiki.12
+f021682 13 wiki.13
+f021682 14 wiki.14
+f021682 15 wiki.15
+f021682 16 wiki.16
+f021682 17 wiki.17
+f021682 18 wiki.18
+f021682 19 wiki.19
+f021682 20 wiki.20
+f021682 21 wiki.21
+f021682 22 wiki.22
+f021682 23 wiki.23
+f021682 24 wiki.24
+f021682 25 wiki.25
+f021682 26 wiki.26
+f021682 27 wiki.27
+Loading deals f053436
+f053436 1 wiki.01
+f053436 2 wiki.02
+f053436 3 wiki.03
+f053436 4 wiki.04
+f053436 5 wiki.05
+f053436 6 wiki.06
+f053436 7 wiki.07
+f053436 8 wiki.08
+f053436 9 wiki.09
+f053436 10 wiki.10
+f053436 11 wiki.11
+f053436 12 wiki.12
+f053436 13 wiki.13
+f053436 14 wiki.14
+f053436 15 wiki.15
+f053436 16 wiki.16
+f053436 17 wiki.17
+f053436 18 wiki.18
+f053436 19 wiki.19
+f053436 20 wiki.20
+f053436 21 wiki.21
+f053436 22 wiki.22
+f053436 23 wiki.23
+f053436 24 wiki.24
+f053436 25 wiki.25
+f053436 26 wiki.26
+f053436 27 wiki.27
+1 wiki.13
+f08240-837011 f08285-889247 f025017-938043 f034777-938098 f022072-955507 f024184-955682 f052447-1044454 f09693-1044556 f047419-1044887 f056611-1213398 f061158-1213479 f02415-1213515 f01782-1216139 f010507-1227218 f064664-1273436 f024015-1273520 f04443-1279387 f010617-1279629 f042567-1327868 f023009-1366479 f057115-1369508 f02423-1376974 f019824-1388742 f01272-637896 f01247-638475 f019100-738582 f029524-799453 f01291-799664 f023928-799973 f02625-800655 f024081-800959 f020523-801288
+Retrieving f08240 837011 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160    352    154  0:00:01  0:00:01 --:--:--   507100   524  100   364  100   160    352    154  0:00:01  0:00:01 --:--:--   506
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08232","MinerPeer":{"Address":"f08240","ID":"12D3KooWRqTJvHhhtLm64Hwi5bqArrCWmFJAgeMKSovQiB4KiSoM","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.502 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.448 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.1694247933705009 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.30user 0.05system 0:13.61elapsed 2%CPU (0avgtext+0avgdata 64632maxresident)k
+336inputs+0outputs (3major+9333minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.02
+f019104-889787 f022922-889952 f03176-892349 f024016-893694 f034047-937921 f020904-938348 f01277-955559 f08285-957013 f052447-957145 f02514-1044651 f025007-1044955 f062260-1213390 f018781-1213388 f010617-1213420 f08103-1213527 f01238-1227061 f042567-1279421 f024184-1279596 f062518-1287225 f024511-1287326 f058000-1327802 f065141-1327956 f010507-1327963 f065280-1366514 f02856-1369520 f02490-1369546 f083550-1369576 f019243-1376841 f079817-1376873 f020385-1376952 f019100-1388425 f079007-1390252 f029556-636729 f03273-638477 f010491-640003 f022227-640662 f02501-707800 f03224-714894 f010498-799989 f021262-800190 f033511-800619 f010513-800877 f032934-801293
+Retrieving f019104 889787 QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161   5013   2205 --:--:-- --:--:-- --:--:--  7219
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f019102","MinerPeer":{"Address":"f019104","ID":"12D3KooWH5PDdPxQsPSegABD8FUkSvcg7czGYWwWsj666aEAhyDx","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16942479332120529 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.36user 0.05system 0:00.58elapsed 70%CPU (0avgtext+0avgdata 64652maxresident)k
+8inputs+0outputs (1major+9891minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.15
+f02623-838293 f029404-839032 f03275-897519 f023859-937946 f014394-938057 f02633-955834 f08403-1045348 f048192-1213264 f029401-1213341 f057560-1213431 f07850-1213500 f010446-1227278 f09693-1273446 f038299-1273492 f020489-1279385 f030384-1279552 f010247-1279656 f020904-1327887 f067642-1327954 f022163-1366876 f05664-1369565 f047858-1369584 f066568-1376850 f014768-1389967 f09696-637892 f018785-707946 f010479-712357 f023649-714470 f023868-799985 f035436-800397 f030335-800750
+Retrieving f02623 838293 QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   160    0     0  100   160      0     72  0:00:02  0:00:02 --:--:--    72100   524  100   364  100   160    137     60  0:00:02  0:00:02 --:--:--   198
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f02538","MinerPeer":{"Address":"f02623","ID":"12D3KooWAFSYFNoxUXR5dxSX3XgFanpFKmhSLX7RhTqKN4m8W8yh","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16942479315435861 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.35user 0.04system 0:01.07elapsed 37%CPU (0avgtext+0avgdata 64936maxresident)k
+56inputs+0outputs (2major+9901minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.11
+f010491-893688 f019362-937936 f02514-938379 f09848-955398 f02415-955571 f02622-957067 f05317-1044400 f02490-1044550 f010507-1045425 f019100-1213402 f034701-1213355 f018785-1227118 f014768-1227330 f065280-1273515 f067283-1273610 f058000-1279442 f062260-1279513 f025019-1366558 f01238-1369556 f044160-1370056 f079092-1369700 f014394-1376965 f025025-539712 f024012-604376 f025017-638552 f024800-640042 f04443-705857 f08025-738583 f024511-799653 f023939-800067 f022853-800242 f019029-800974
+Retrieving f010491 893688 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    805 --:--:-- --:--:-- --:--:--   800100   161    0     0  100   161      0    134  0:00:01  0:00:01 --:--:--   134100   539  100   378  100   161    236    100  0:00:01  0:00:01 --:--:--   336
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"},"Piece":null,"Size":134217728,"MinPrice":"56174015488","UnsealPrice":"50000000000","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f010488","MinerPeer":{"Address":"f010491","ID":"12D3KooWHDL8znsCGQLoXXFwV3QuZqLqnTrzkuwL8C2pgQdYmbBE","PieceCID":null}},"id":1}
+ERROR: failed to find offer satisfying maxPrice: 50000000000
+
+Command exited with non-zero status 1
+0.32user 0.05system 0:00.41elapsed 92%CPU (0avgtext+0avgdata 64320maxresident)k
+0inputs+0outputs (0major+9894minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.05
+f07850-838088 f03491-890152 f015927-894789 f018784-894476 f022163-938267 f05315-938359 f023492-955434 f08264-955492 f010617-1044389 f057614-1044947 f022853-1213176 f010479-1213437 f030379-1213480 f01278-1273487 f022352-1273538 f01238-1273700 f047858-1279529 f057466-1279694 f062318-1327803 f019100-1327946 f066563-1327961 f02576-1366860 f079425-1369493 f07819-1369542 f08103-1369623 f02401-1376916 f083550-1389308 f080480-1389139 f055132-1388228 f015897-1389536 f019104-1390251 f024030-637137 f08403-638003 f024066-639846 f023854-672627 f029490-675184 f023855-738318 f010491-799021 f023869-799273 f023980-799898
+Retrieving f07850 838088 QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   524  100   364  100   160    190     83  0:00:01  0:00:01 --:--:--   274100   524  100   364  100   160    190     83  0:00:01  0:00:01 --:--:--   274
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f07742","MinerPeer":{"Address":"f07850","ID":"12D3KooWQ7gsHKxet9M6U9qWrZGT1PXULnr266QQtvRHHBBu2qGm","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16919809755941175 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.39user 0.06system 0:14.92elapsed 3%CPU (0avgtext+0avgdata 65212maxresident)k
+8inputs+0outputs (1major+10021minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.10
+f010507-894662 f047858-937907 f042635-938085 f09696-938288 f023467-955396 f05317-955554 f01278-955765 f029490-955948 f047419-957080 f022142-1044551 f020523-1213269 f09848-1213310 f064218-1227480 f010088-1273418 f055102-1273522 f079787-1327807 f03339-1369475 f083065-1369672 f010513-1376968 f08240-1388115 f01799-1388210 f024127-539709 f023152-636787 f09731-637872 f01238-638027 f029524-672651 f023647-674245 f022163-675533 f01287-799024 f020541-799650 f024008-801348
+Retrieving f010507 894662 QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   526  100   365  100   161    222     98  0:00:01  0:00:01 --:--:--   320
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f02630","MinerPeer":{"Address":"f010507","ID":"12D3KooWQb1CpdSujwXeyMJroR8qAkekXiZdNXVPKqis5ENXZGVw","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16919809686493953 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.39user 0.05system 0:00.96elapsed 46%CPU (0avgtext+0avgdata 65152maxresident)k
+16inputs+0outputs (1major+10010minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.25
+f01247-837177 f010558-839113 f02622-893691 f029490-894478 f034701-938113 f018784-957124 f042558-1044537 f023495-1213311 f05316-1213470 f019551-1213517 f02514-1214122 f022853-1286599 f032934-1273504 f02856-1287397 f073878-1327962 f014409-1369650 f081323-1376923 f030296-636964 f03363-637963 f03274-638468 f03491-738469 f03275-799430 f023981-800494 f033189-800881
+Retrieving f01247 837177 QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160   9578   4210 --:--:-- --:--:-- --:--:-- 13789
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01071","MinerPeer":{"Address":"f01247","ID":"12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16919809778259627 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.36user 0.04system 0:00.86elapsed 47%CPU (0avgtext+0avgdata 65432maxresident)k
+0inputs+0outputs (0major+9488minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.13
+f08240-837011 f08285-889247 f025017-938043 f034777-938098 f022072-955507 f024184-955682 f052447-1044454 f09693-1044556 f047419-1044887 f056611-1213398 f061158-1213479 f02415-1213515 f01782-1216139 f010507-1227218 f064664-1273436 f024015-1273520 f04443-1279387 f010617-1279629 f042567-1327868 f023009-1366479 f057115-1369508 f02423-1376974 f019824-1388742 f01272-637896 f01247-638475 f019100-738582 f029524-799453 f01291-799664 f023928-799973 f02625-800655 f024081-800959 f020523-801288
+Already have log for f08240 837011 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+Retrieving f08285 889247 QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160    362    159  0:00:01  0:00:01 --:--:--   521100   524  100   364  100   160    361    159  0:00:01  0:00:01 --:--:--   520
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01118","MinerPeer":{"Address":"f08285","ID":"12D3KooWBBghMwnobTZP1Buw72KVEuzURgLPUYaq5WRF1wcygy9C","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventProviderCancelled (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
+
+Command exited with non-zero status 1
+0.38user 0.04system 0:00.70elapsed 59%CPU (0avgtext+0avgdata 65412maxresident)k
+0inputs+0outputs (0major+10075minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.26
+f010528-890435 f09693-895646 f024007-937863 f022261-937978 f030335-938061 f019100-955540 f038299-1044662 f03275-1044788 f058374-1044946 f08285-1045171 f053916-1213240 f01291-1213400 f048135-1213520 f055132-1227382 f023843-1273456 f022308-1279502 f010498-1279594 f022522-1279667 f071624-1287307 f022853-1327919 f049882-1329781 f01289-1327952 f054677-1366587 f010491-1369921 f01276-1376854 f079817-1388211 f024084-604369 f02401-637974 f022922-639958 f019118-799250 f039873-799902 f02622-801056
+Retrieving f010528 890435 QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161   1105    486 --:--:-- --:--:-- --:--:--  1592
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f010521","MinerPeer":{"Address":"f010528","ID":"12D3KooWPw6phtaL2ftZq7wQLjc6z1YoVou4BK48ZzXk3TVNVPjK","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16966692086352585 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.37user 0.04system 0:02.05elapsed 20%CPU (0avgtext+0avgdata 65348maxresident)k
+64inputs+0outputs (1major+9448minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+

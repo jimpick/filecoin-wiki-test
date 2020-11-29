@@ -1,0 +1,12 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01071","MinerPeer":{"Address":"f01247","ID":"12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.16919809778259627 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.36user 0.04system 0:00.86elapsed 47%CPU (0avgtext+0avgdata 65432maxresident)k
+0inputs+0outputs (0major+9488minor)pagefaults 0swaps

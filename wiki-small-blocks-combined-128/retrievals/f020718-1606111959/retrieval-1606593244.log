@@ -12525,3 +12525,625 @@ Retrieving f09693 1388014 QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
 > Recv: 54.97 MiB, Paid 0.000000000094746222 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 55.22 MiB, Paid 0.000000000094746222 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 55.22 MiB, Paid 0.000000000094746222 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 55.22 MiB, Paid 0.00000000011579985 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 55.47 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 55.72 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 55.97 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.22 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.47 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.72 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 56.97 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.22 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.49 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.74 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 57.99 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.49 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.74 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 58.99 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.49 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.74 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 59.99 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.49 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.74 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 60.99 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.24 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.49 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.74 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 61.99 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.26 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.51 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 62.76 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.26 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.51 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 63.76 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.26 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.51 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 64.76 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.26 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.51 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 65.51 MiB, Paid 0.00000000011579985 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 65.76 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.01 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.26 MiB, Paid 0.00000000011579985 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 66.26 MiB, Paid 0.00000000011579985 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 66.26 MiB, Paid 0.000000000138950742 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 66.51 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 66.76 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 66.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 66.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.03 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.28 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.53 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 67.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.03 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.28 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.53 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 68.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.03 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.28 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.53 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 69.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.03 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.28 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.53 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 70.78 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.03 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.28 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.53 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.54 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.55 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 71.8 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.05 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.3 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.55 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 72.8 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.05 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.3 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.55 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 73.8 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.05 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.3 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.55 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 74.8 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.05 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.3 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.55 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 75.8 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.05 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.3 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.31 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.32 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.57 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 76.82 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.07 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.32 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.57 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 77.82 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.07 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.07 MiB, Paid 0.000000000138950742 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 78.32 MiB, Paid 0.000000000138950742 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 78.32 MiB, Paid 0.000000000138950742 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 78.32 MiB, Paid 0.000000000164239392 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 78.57 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 78.82 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.07 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.32 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.57 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 79.82 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.07 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.32 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.57 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 80.82 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.07 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.08 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.08 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.33 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.58 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 81.83 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.08 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.33 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.58 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 82.83 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.09 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.34 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.59 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 83.84 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.09 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.34 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.59 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 84.84 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.09 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.34 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.59 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.84 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 85.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 86.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 87.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 88.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 89.85 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.1 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.35 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.6 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.62 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.62 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 90.87 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.12 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.12 MiB, Paid 0.000000000164239392 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 91.37 MiB, Paid 0.000000000164239392 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 91.37 MiB, Paid 0.000000000164239392 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 91.37 MiB, Paid 0.000000000191625306 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 91.62 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 91.87 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.12 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.37 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.62 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 92.87 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.12 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.37 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.62 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 93.87 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.12 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.37 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.62 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 94.87 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.12 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.37 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.64 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 95.89 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.14 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.64 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 96.89 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.14 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.64 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 97.89 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.14 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.64 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 98.89 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.14 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.39 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.64 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 99.89 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.1 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.7 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 100.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.7 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 101.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.7 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 102.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.7 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 103.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.7 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 104.9 MiB, Paid 0.000000000191625306 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+> Recv: 104.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 104.9 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.2 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.4 MiB, Paid 0.000000000191625306 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+> Recv: 105.4 MiB, Paid 0.000000000191625306 FIL, ClientEventSendFunds (DealStatusSendFunds)
+> Recv: 105.4 MiB, Paid 0.000000000221108484 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 105.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 105.9 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.4 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 106.9 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.4 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 107.9 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.4 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 108.9 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.4 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 109.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 110.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 111.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 112.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 113.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 114.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 115.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 116.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 117 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 117.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 117.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 117.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 118 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 118.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 118.5 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 118.5 MiB, Paid 0.000000000221108484 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 118.7 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 119 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 119.2 MiB, Paid 0.000000000221108484 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 119.2 MiB, Paid 0.000000000250065408 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 119.2 MiB, Paid 0.000000000250065408 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.51user 0.13system 0:49.94elapsed 1%CPU (0avgtext+0avgdata 63816maxresident)k
+608inputs+0outputs (20major+10112minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.04
+f02514-836932 f020928-838515 f010241-839145 f02645-894502 f010617-938033 f02388-1044390 f019104-1044834 f060072-1213198 f02490-1213287 f022308-1213424 f05664-1213427 f022352-1227396 f02576-1273620 f02401-1273625 f068528-1287271 f014768-1369677 f062318-1388234 f08240-638494 f020541-640111 f010479-674084 f033124-705832 f08383-706565 f022163-713556 f07850-713928 f014394-800207 f01278-800894
+Already have log for f02514 836932 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f020928 838515 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f010241 839145 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02645 894502 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f010617 938033 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02388 1044390 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f019104 1044834 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f060072 1213198 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02490 1213287 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f022308 1213424 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f05664 1213427 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f022352 1227396 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02576 1273620 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Retrieving f02401 1273625 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160  11375   5000 --:--:-- --:--:-- --:--:-- 16375
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01039","MinerPeer":{"Address":"f02401","ID":"12D3KooWA2Hq1ugNf16XYD6PwuECpYjDZZ5PnY1U4fbmjwmHmFo8","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.17085021818594748 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.40user 0.04system 0:03.08elapsed 14%CPU (0avgtext+0avgdata 64840maxresident)k
+48inputs+0outputs (1major+10024minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.23
+f025019-837271 f03274-839105 f023467-889891 f023495-892395 f018783-897710 f033189-937903 f035436-937968 f024147-938109 f02388-955417 f014409-1044426 f058000-1045470 f047858-1213253 f042558-1213308 f029404-1213349 f062318-1213438 f02423-1214064 f018782-1227177 f03275-1227319 f022142-1279412 f050022-1327981 f01278-1327978 f019243-1366513 f081323-1366537 f057466-1369564 f024015-1369577 f066104-1369635 f010479-1370047 f023853-539818 f01247-637961 f021870-638471 f024969-640063 f03273-712440 f023861-800392
+Already have log for f025019 837271 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f03274 839105 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f023467 889891 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f023495 892395 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f018783 897710 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f033189 937903 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f035436 937968 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f024147 938109 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f02388 955417 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f014409 1044426 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f058000 1045470 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f047858 1213253 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f042558 1213308 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Already have log for f029404 1213349 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Retrieving f062318 1213438 QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161    310    136  0:00:01  0:00:01 --:--:--   447100   527  100   366  100   161    310    136  0:00:01  0:00:01 --:--:--   446
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f059682","MinerPeer":{"Address":"f062318","ID":"12D3KooWA9SYCqqCXMyyU1WXVZJTjeMFAcPprgtk5avsCjcjdBL7","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.1708502183170413 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.42user 0.04system 0:00.83elapsed 56%CPU (0avgtext+0avgdata 64692maxresident)k
+0inputs+0outputs (0major+9979minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.01
+f022163-839071 f019824-938012 f010505-938078 f014768-938347 f03131-955502 f08025-955573 f023662-955628 f03176-955827 f022125-1213285 f052447-1213445 f062518-1227113 f08240-1273702 f015885-1279668 f054370-1279671 f080480-1369586 f01278-1388126 f066596-1388356 f010617-539618 f023971-637125 f010400-674081 f022072-675136 f024156-707889 f029404-713872 f02415-799011 f010507-799238 f034047-800287 f033545-801613
+Already have log for f022163 839071 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f019824 938012 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f010505 938078 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f014768 938347 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f03131 955502 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f08025 955573 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f023662 955628 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f03176 955827 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f022125 1213285 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f052447 1213445 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f062518 1227113 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f08240 1273702 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f015885 1279668 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f054370 1279671 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f080480 1369586 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f01278 1388126 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Retrieving f066596 1388356 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161    816    359 --:--:-- --:--:-- --:--:--  1176
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f066595","MinerPeer":{"Address":"f066596","ID":"12D3KooWQJJ3B99spiRS8dbFjAMFcmJkvtsNT1BFENDivUABpaov","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: initializing paych actor: mpool push: failed to push message: not enough funds including pending messages (required: 0.261729921113115458 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.43user 0.06system 0:00.66elapsed 75%CPU (0avgtext+0avgdata 64636maxresident)k
+448inputs+0outputs (3major+9930minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.16
+f09696-837088 f023649-838444 f023825-890694 f02576-894667 f03488-897711 f024084-937850 f02623-938297 f010241-939606 f02645-955424 f029490-956926 f022352-1044469 f022522-1213339 f023467-1214091 f05664-1273450 f060072-1279689 f057115-1287243 f030335-1287309 f01240-1327937 f034701-1327966 f033549-1369636 f056226-1369715 f062981-1376910 f023495-638469 f010498-640173 f010558-706835 f05315-707939 f024030-712469 f034039-799443 f022125-801104
+Already have log for f09696 837088 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f023649 838444 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f023825 890694 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f02576 894667 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f03488 897711 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f024084 937850 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f02623 938297 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f010241 939606 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f02645 955424 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f029490 956926 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f022352 1044469 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f022522 1213339 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f023467 1214091 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f05664 1273450 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f060072 1279689 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f057115 1287243 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f030335 1287309 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f01240 1327937 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f034701 1327966 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f033549 1369636 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f056226 1369715 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f062981 1376910 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f023495 638469 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f010498 640173 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f010558 706835 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f05315 707939 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f024030 712469 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f034039 799443 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Already have log for f022125 801104 QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+
+0 wiki.19
+f022853-937904 f043929-955439 f032934-955515 f022072-956992 f015927-1044413 f02645-1045626 f02633-1213477 f057614-1214097 f019029-1227403 f063996-1273495 f018501-1279465 f09848-1327889 f03339-1327935 f067170-1328041 f03488-1366519 f010505-1369517 f039515-1369514 f056573-1369597 f019104-1376845 f010446-1376947 f030379-637023 f023971-799446 f022352-799713
+Already have log for f022853 937904 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f043929 955439 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f032934 955515 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f022072 956992 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f015927 1044413 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f02645 1045626 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f02633 1213477 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f057614 1214097 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f019029 1227403 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f063996 1273495 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f018501 1279465 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f09848 1327889 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f03339 1327935 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f067170 1328041 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f03488 1366519 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Retrieving f010505 1369517 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   134100   527  100   366  100   161    222     97  0:00:01  0:00:01 --:--:--   319
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f010500","MinerPeer":{"Address":"f010505","ID":"12D3KooWCFhmdmduqq59w8CsEgEX2qi9KQqE9wmTHmqC5W4tcEaA","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.502 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.448 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 770.5 KiB, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.17163513531241953 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.30user 0.03system 0:04.29elapsed 7%CPU (0avgtext+0avgdata 63672maxresident)k
+0inputs+0outputs (0major+9743minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.04
+f02514-836932 f020928-838515 f010241-839145 f02645-894502 f010617-938033 f02388-1044390 f019104-1044834 f060072-1213198 f02490-1213287 f022308-1213424 f05664-1213427 f022352-1227396 f02576-1273620 f02401-1273625 f068528-1287271 f014768-1369677 f062318-1388234 f08240-638494 f020541-640111 f010479-674084 f033124-705832 f08383-706565 f022163-713556 f07850-713928 f014394-800207 f01278-800894
+Already have log for f02514 836932 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f020928 838515 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f010241 839145 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02645 894502 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f010617 938033 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02388 1044390 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f019104 1044834 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f060072 1213198 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02490 1213287 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f022308 1213424 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f05664 1213427 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f022352 1227396 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02576 1273620 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02401 1273625 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Retrieving f068528 1287271 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   527  100   366  100   161    716    315 --:--:-- --:--:-- --:--:--  1029100   527  100   366  100   161    716    315 --:--:-- --:--:-- --:--:--  1029
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f068515","MinerPeer":{"Address":"f068528","ID":"12D3KooWMGvFWQaKTGqnB9DGKSXRjKACjcvQcG1vsbfFUnvfspsP","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: miner is not accepting online retrieval deals
+
+Command exited with non-zero status 1
+0.32user 0.07system 0:00.98elapsed 39%CPU (0avgtext+0avgdata 64744maxresident)k
+0inputs+0outputs (0major+9911minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.01
+f022163-839071 f019824-938012 f010505-938078 f014768-938347 f03131-955502 f08025-955573 f023662-955628 f03176-955827 f022125-1213285 f052447-1213445 f062518-1227113 f08240-1273702 f015885-1279668 f054370-1279671 f080480-1369586 f01278-1388126 f066596-1388356 f010617-539618 f023971-637125 f010400-674081 f022072-675136 f024156-707889 f029404-713872 f02415-799011 f010507-799238 f034047-800287 f033545-801613
+Already have log for f022163 839071 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f019824 938012 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f010505 938078 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f014768 938347 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f03131 955502 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f08025 955573 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f023662 955628 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f03176 955827 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f022125 1213285 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f052447 1213445 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f062518 1227113 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f08240 1273702 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f015885 1279668 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f054370 1279671 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f080480 1369586 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f01278 1388126 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Already have log for f066596 1388356 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Retrieving f010617 539618 QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   526  100   365  100   161   1713    755 --:--:-- --:--:-- --:--:--  2469
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08038","MinerPeer":{"Address":"f010617","ID":"12D3KooW9txku6jNfPtCr4Rtvjn2BzgetANMMESS9h675Cdpwndy","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: mpool push: failed to push message: not enough funds including pending messages (required: 0.17130725297201391 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.29user 0.07system 0:00.63elapsed 58%CPU (0avgtext+0avgdata 64816maxresident)k
+8inputs+0outputs (1major+9928minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.20
+f03328-889892 f02633-891463 f010501-938069 f022308-955499 f01276-957062 f023971-1044416 f02416-1044778 f057368-1213371 f020378-1214059 f08403-1273594 f022125-1279402 f03134-1279655 f058374-1327916 f022853-1369545 f022522-1369628 f048192-1376899 f067545-1388629 f024156-1389073 f022142-638480 f033111-707071 f03274-712416 f023467-738612 f023179-740483 f034075-799215 f023219-799460 f023859-799838 f010400-800036
+Already have log for f03328 889892 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f02633 891463 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f010501 938069 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f022308 955499 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f01276 957062 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f023971 1044416 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f02416 1044778 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f057368 1213371 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f020378 1214059 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f08403 1273594 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f022125 1279402 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f03134 1279655 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f058374 1327916 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f022853 1369545 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f022522 1369628 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f048192 1376899 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Already have log for f067545 1388629 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Retrieving f024156 1389073 QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    805 --:--:-- --:--:-- --:--:--   800100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   527  100   366  100   161    279    122  0:00:01  0:00:01 --:--:--   401
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f024155","MinerPeer":{"Address":"f024156","ID":"12D3KooWEsLDasE5cPgedsus1ps6F3aKgpPjcEANJ9LYoJTiHgct","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: initializing paych actor: mpool push: failed to push message: not enough funds including pending messages (required: 0.261729921113115458 FIL, balance: 0.163355945610042911 FIL): validation failure
+
+Command exited with non-zero status 1
+0.30user 0.04system 0:06.88elapsed 5%CPU (0avgtext+0avgdata 64560maxresident)k
+0inputs+0outputs (0major+9412minor)pagefaults 0swaps
+f020718: 0.163355945610042911 FIL (66G free)
+Skipping ahead
+
+1 wiki.11
+f010491-893688 f019362-937936 f02514-938379 f09848-955398 f02415-955571 f02622-957067 f05317-1044400 f02490-1044550 f010507-1045425 f019100-1213402 f034701-1213355 f018785-1227118 f014768-1227330 f065280-1273515 f067283-1273610 f058000-1279442 f062260-1279513 f025019-1366558 f01238-1369556 f044160-1370056 f079092-1369700 f014394-1376965 f025025-539712 f024012-604376 f025017-638552 f024800-640042 f04443-705857 f08025-738583 f024511-799653 f023939-800067 f022853-800242 f019029-800974
+Already have log for f010491 893688 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f019362 937936 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f02514 938379 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f09848 955398 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f02415 955571 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f02622 957067 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f05317 1044400 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f02490 1044550 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f010507 1045425 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f019100 1213402 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f034701 1213355 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f018785 1227118 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f014768 1227330 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f065280 1273515 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f067283 1273610 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f058000 1279442 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f062260 1279513 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f025019 1366558 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f01238 1369556 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Already have log for f044160 1370056 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Retrieving f079092 1369700 QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    800 --:--:-- --:--:-- --:--:--   797100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   161    0     0  100   161      0     72  0:00:02  0:00:02 --:--:--    72100   161    0     0  100   161      0     50  0:00:03  0:00:03 --:--:--    50100   161    0     0  100   161      0     38  0:00:04  0:00:04 --:--:--    38100   161    0     0  100   161      0     30  0:00:05  0:00:05 --:--:--     0100   161    0     0  100   161      0     25  0:00:06  0:00:06 --:--:--     0100   161    0     0  100   161      0     22  0:00:07  0:00:07 --:--:--     0100   161    0     0  100   161      0     19  0:00:08  0:00:08 --:--:--     0100   161    0     0  100   161      0     17  0:00:09  0:00:09 --:--:--     0100   161    0     0  100   161      0     15  0:00:10  0:00:10 --:--:--     0100   161    0     0  100   161      0     14  0:00:11  0:00:11 --:--:--     0100   161    0     0  100   161      0     13  0:00:12  0:00:12 --:--:--     0100   161    0     0  100   161      0     12  0:00:13  0:00:13 --:--:--     0100   161    0     0  100   161      0     11  0:00:14  0:00:14 --:--:--     0100   161    0     0  100   161      0     10  0:00:16  0:00:15  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:16  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:17 --:--:--     0100   161    0     0  100   161      0      8  0:00:20  0:00:18  0:00:02     0100   161    0     0  100   161      0      8  0:00:20  0:00:19  0:00:01     0100   161    0     0  100   161      0      7  0:00:23  0:00:20  0:00:03     0100   161    0     0  100   161      0      7  0:00:23  0:00:21  0:00:02     0100   161    0     0  100   161      0      7  0:00:23  0:00:22  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:23  0:00:03     0100   161    0     0  100   161      0      6  0:00:26  0:00:24  0:00:02     0100   161    0     0  100   161      0      6  0:00:26  0:00:25  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:26 --:--:--     0100   161    0     0  100   161      0      5  0:00:32  0:00:27  0:00:05     0100   161    0     0  100   161      0      5  0:00:32  0:00:28  0:00:04     0100   161    0     0  100   161      0      5  0:00:32  0:00:29  0:00:03     0100   161    0     0  100   161      0      5  0:00:32  0:00:30  0:00:02     0100   161    0     0  100   161      0      5  0:00:32  0:00:31  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:32  0:00:08     0100   161    0     0  100   161      0      4  0:00:40  0:00:33  0:00:07     0100   161    0     0  100   161      0      4  0:00:40  0:00:34  0:00:06     0100   161    0     0  100   161      0      4  0:00:40  0:00:35  0:00:05     0100   161    0     0  100   161      0      4  0:00:40  0:00:36  0:00:04     0100   161    0     0  100   161      0      4  0:00:40  0:00:37  0:00:03     0100   161    0     0  100   161      0      4  0:00:40  0:00:38  0:00:02     0100   161    0     0  100   161      0      4  0:00:40  0:00:39  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:40  0:00:13     0100   161    0     0  100   161      0      3  0:00:53  0:00:41  0:00:12     0100   161    0     0  100   161      0      3  0:00:53  0:00:42  0:00:11     0100   161    0     0  100   161      0      3  0:00:53  0:00:43  0:00:10     0100   161    0     0  100   161      0      3  0:00:53  0:00:44  0:00:09     0100   161    0     0  100   161      0      3  0:00:53  0:00:45  0:00:08     0100   161    0     0  100   161      0      3  0:00:53  0:00:46  0:00:07     0100   161    0     0  100   161      0      3  0:00:53  0:00:47  0:00:06     0100   161    0     0  100   161      0      3  0:00:53  0:00:48  0:00:05     0100   161    0     0  100   161      0      3  0:00:53  0:00:49  0:00:04     0100   161    0     0  100   161      0      3  0:00:53  0:00:50  0:00:03     0100   161    0     0  100   161      0      3  0:00:53  0:00:51  0:00:02     0100   161    0     0  100   161      0      3  0:00:53  0:00:52  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:53 --:--:--     0100   161    0     0  100   161      0      2  0:01:20  0:00:54  0:00:26     0100   161    0     0  100   161      0      2  0:01:20  0:00:55  0:00:25     0100   161    0     0  100   161      0      2  0:01:20  0:00:56  0:00:24     0100   161    0     0  100   161      0      2  0:01:20  0:00:57  0:00:23     0100   161    0     0  100   161      0      2  0:01:20  0:00:58  0:00:22     0100   161    0     0  100   161      0      2  0:01:20  0:00:59  0:00:21     0100   161    0     0  100   161      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received
