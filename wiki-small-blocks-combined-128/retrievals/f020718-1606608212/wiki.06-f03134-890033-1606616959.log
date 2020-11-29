@@ -66,3 +66,8 @@
 > Recv: 10.54 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 10.79 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 > Recv: 11.04 MiB, Paid 0.000000000021058524 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+1.13user 0.15system 22:00.01elapsed 0%CPU (0avgtext+0avgdata 64024maxresident)k
+1064inputs+0outputs (89major+10287minor)pagefaults 0swaps
