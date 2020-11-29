@@ -51,6 +51,12 @@ for x in $(grep ^wiki $CHECK | shuf); do
 	fi
   	COUNTER=0
 	for d in $(echo $DEALS | shuf); do
+    PENDING=$(lotus mpool pending --local | jq -s length)
+    if [ "$PENDING" != "0" ]; then
+      echo "Mpool pending $PENDING, skipping + sleeping 30s"
+      sleep 30
+      continue
+    fi
 		TIMESTAMP=`date +%s`
 		MINER=$(echo $d | sed 's,-.*$,,')
 		DEAL=$(echo $d | sed 's,^.*-,,')

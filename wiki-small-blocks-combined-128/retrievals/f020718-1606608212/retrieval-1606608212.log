@@ -281,3 +281,14 @@ Command exited with non-zero status 1
 f020718: 0.163355945610042911 FIL (66G free)
 Skipping ahead
 
+1 wiki.26
+f010528-890435 f09693-895646 f024007-937863 f022261-937978 f030335-938061 f019100-955540 f038299-1044662 f03275-1044788 f058374-1044946 f08285-1045171 f053916-1213240 f01291-1213400 f048135-1213520 f055132-1227382 f023843-1273456 f022308-1279502 f010498-1279594 f022522-1279667 f071624-1287307 f022853-1327919 f049882-1329781 f01289-1327952 f054677-1366587 f010491-1369921 f01276-1376854 f079817-1388211 f024084-604369 f02401-637974 f022922-639958 f019118-799250 f039873-799902 f02622-801056
+Already have log for f010528 890435 QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+Retrieving f09693 895646 QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   160    0     0  100   160      0    133  0:00:01  0:00:01 --:--:--   133100   524  100   364  100   160    173     76  0:00:02  0:00:02 --:--:--   250100   524  100   364  100   160    173     76  0:00:02  0:00:02 --:--:--   250
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f09691","MinerPeer":{"Address":"f09693","ID":"12D3KooWCchA7WX3dvkFHgQUMUp7gWY3GiF3Z9tCSnp1rShE5znD","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
