@@ -581,3 +581,22 @@
 > Recv: 120.5 MiB, Paid 0.000000000221163482 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 > Recv: 120.5 MiB, Paid 0.000000000221163482 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 120.5 MiB, Paid 0.000000000252743924 FIL, ClientEventPaymentSent (DealStatusOngoing)
+> Recv: 120.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.5 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 121.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.5 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.8 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+> Recv: 122.8 MiB, Paid 0.000000000252743924 FIL, ClientEventLastPaymentRequested (DealStatusFundsNeededLastPayment)
+> Recv: 123 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventBlocksReceived (DealStatusFundsNeededLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000252743924 FIL, ClientEventAllBlocksReceived (DealStatusSendFundsLastPayment)
+> Recv: 123.3 MiB, Paid 0.000000000258549956 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+> Recv: 123.3 MiB, Paid 0.000000000258549956 FIL, ClientEventComplete (DealStatusCompleted)
+Success
+0.59user 0.10system 0:42.03elapsed 1%CPU (0avgtext+0avgdata 67528maxresident)k
+0inputs+0outputs (0major+9502minor)pagefaults 0swaps
