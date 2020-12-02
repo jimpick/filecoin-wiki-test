@@ -1,7 +1,0 @@
-> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-ERROR: retrieval timed out
-
-Command exited with non-zero status 124
-1.22user 0.12system 22:00.00elapsed 0%CPU (0avgtext+0avgdata 66956maxresident)k
-48inputs+0outputs (1major+10179minor)pagefaults 0swaps
