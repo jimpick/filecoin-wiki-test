@@ -1,0 +1,11 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f034656","MinerPeer":{"Address":"f050022","ID":"12D3KooWJRLFeWE4tR2E19ies4a2FtTkNL8dy1ka5EAUq5UrPcTG","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventProviderCancelled (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: Provider cancelled retrieval due to error
+
+Command exited with non-zero status 1
+0.37user 0.08system 0:03.05elapsed 15%CPU (0avgtext+0avgdata 65432maxresident)k
+0inputs+0outputs (0major+10053minor)pagefaults 0swaps
