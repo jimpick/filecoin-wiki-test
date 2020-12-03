@@ -1,5 +1,0 @@
-{"jsonrpc":"2.0","result":{"Err":"retrieval query offer errored: get cid info: No state for /QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG: datastore: key not found","Root":{"/":"QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG"},"Piece":null,"Size":0,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01059","MinerPeer":{"Address":"f01277","ID":"12D3KooWPi3Xj7mVNqSUBgk4FTedPPsEQ7BuX2xAq9ko7FB5K3vY","PieceCID":null}},"id":1}
-timeout: failed to run command ‘lotus’: No such file or directory
-Command exited with non-zero status 127
-0.00user 0.00system 0:00.00elapsed 50%CPU (0avgtext+0avgdata 2148maxresident)k
-8inputs+0outputs (1major+161minor)pagefaults 0swaps

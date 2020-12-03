@@ -1,5 +1,0 @@
-{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f010251","MinerPeer":{"Address":"f010253","ID":"12D3KooWLJvGE5NQYLUgXXGjp7sSAZ6MGHHdakkTpH8RVr6mLF2R","PieceCID":null}},"id":1}
-timeout: failed to run command ‘lotus’: No such file or directory
-Command exited with non-zero status 127
-0.00user 0.00system 0:00.00elapsed 16%CPU (0avgtext+0avgdata 2148maxresident)k
-0inputs+0outputs (0major+163minor)pagefaults 0swaps
