@@ -21,6 +21,7 @@ fi
 
 FREE=$(df -h . | tail -1 | awk '{ print $4 }')
 echo $CLIENT: $(lotus wallet balance) "($FREE free)"
+lotus state market balance $CLIENT
 
 count=0
 total=`ls *.cid | wc -l`

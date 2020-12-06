@@ -1,6 +1,6 @@
 #! /bin/bash
 
-. ~/lotus/SETENV-LITE-9001
+#. ~/lotus/SETENV-LITE-9001
 ./client.sh
 
 mkdir -p store-logs
