@@ -1,0 +1,19 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01290","MinerPeer":{"Address":"f02501","ID":"12D3KooWSS4Jpy5kQdHg4WTbyzhCyHk8wkU2suAgnb4eDbTLnCDE","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 1.444 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 2.391 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 258.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 514.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 770.4 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusAccepted)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 1.002 MiB, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: initializing paych actor: mpool push: failed to push message: not enough funds (required: 0.099999999996366492 FIL, balance: 0.082558722130818668 FIL): not enough funds to execute transaction
+
+Command exited with non-zero status 1
+0.35user 0.04system 0:10.99elapsed 3%CPU (0avgtext+0avgdata 64924maxresident)k
+0inputs+0outputs (0major+9876minor)pagefaults 0swaps
