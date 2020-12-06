@@ -1,0 +1,6 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW"},"Piece":null,"Size":134217728,"MinPrice":"11249999999999894618112","UnsealPrice":"10000000000000000000000","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f022515","MinerPeer":{"Address":"f022522","ID":"12D3KooWNJFQKtNKSyEx1qy2hV7N69euGbPVsutBucdP4dbfFrjL","PieceCID":null}},"id":1}
+ERROR: failed to find offer satisfying maxPrice: 50000000000
+
+Command exited with non-zero status 1
+0.43user 0.03system 0:00.41elapsed 112%CPU (0avgtext+0avgdata 65304maxresident)k
+0inputs+0outputs (0major+9499minor)pagefaults 0swaps
