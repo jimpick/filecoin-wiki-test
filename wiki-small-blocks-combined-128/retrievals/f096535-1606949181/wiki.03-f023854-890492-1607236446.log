@@ -1,0 +1,6 @@
+2020-12-06T06:37:29.557Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.2/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: dial backoff\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f023854\",\"MinerPeer\":{\"Address\":\"f023854\",\"ID\":\"12D3KooWBeBvNwmHEUz3FMWJbRuTxZWXRwgeKi46Yb48KBW88Wcm\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.43user 0.03system 2:22.86elapsed 0%CPU (0avgtext+0avgdata 64404maxresident)k
+40inputs+0outputs (1major+9710minor)pagefaults 0swaps
