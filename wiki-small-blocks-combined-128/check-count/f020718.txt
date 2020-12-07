@@ -15,7 +15,7 @@
 15 wiki.15 26 Active: 25 Sealing: 0 Xfr: 0 Error: 0
 16 wiki.16 25 Active: 24 Sealing: 0 Xfr: 0 Error: 0
 17 wiki.17 18 Active: 17 Sealing: 0 Xfr: 0 Error: 0
-18 wiki.18 28 Active: 27 Sealing: 0 Xfr: 0 Error: 0
+18 wiki.18 28 Active: 26 Sealing: 0 Xfr: 0 Error: 0
 19 wiki.19 24 Active: 24 Sealing: 0 Xfr: 0 Error: 0
 20 wiki.20 19 Active: 19 Sealing: 0 Xfr: 0 Error: 0
 21 wiki.21 21 Active: 19 Sealing: 0 Xfr: 0 Error: 0
