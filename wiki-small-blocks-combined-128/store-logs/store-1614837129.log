@@ -1,0 +1,32 @@
+ls: cannot access '*.f0252068.deal': No such file or directory
+Count: 0 of 27
+f078522 (1 / 1 tries):
+f0252068: 0.893727170754911774 FIL (251G free)
+Escrow: 0.2 FIL
+Locked: 0 FIL
+wiki.01 1 of 27
+Ask: f078522
+Price per GiB: 0.0000000000000001 FIL
+Verified Price per GiB: 0.000000000000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 4 GiB
+Miner: f078522
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+[34mLotus deal-tool[39m
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Miner: f078522
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Jim Result1: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq\n"
+Jim Result2: [34m.. calculating data size
+[0mERROR: merkledag: not found
+
+
+Jim Result3: 
+Jim Result4: 
+panic: runtime error: index out of range [1] with length 0
+
+goroutine 1 [running]:
+main.main()
+	/home/ubuntu/filecoin-wiki-test/deal-tool/main.go:79 +0xebe
+

@@ -1,0 +1,19 @@
+ls: cannot access '*.f0252068.deal': No such file or directory
+Count: 0 of 27
+f025025 (1 / 1 tries):
+f0252068: 0.893727170754911774 FIL (252G free)
+Escrow: 0.2 FIL
+Locked: 0 FIL
+wiki.01 1 of 27
+Ask: f025025
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f025025
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+[34mLotus deal-tool[39m
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Miner: f025025
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq\n"

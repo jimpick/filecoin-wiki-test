@@ -2,7 +2,7 @@
 
 mkdir -p tmp
 #curl -o tmp/annotations.js https://raw.githubusercontent.com/jimpick/workshop-client-testnet/spacerace/src/annotations-spacerace-slingshot-medium.js
-cp -f /home/ubuntu/workshop-client-testnet/src/annotations-spacerace-slingshot-medium.js tmp/annotations.js
+cp -f /home/ubuntu/workshop-client-mainnet/src/annotations-mainnet-128mib-unverified.js tmp/annotations.js
 
 CLIENT=$(./client.sh)
 
