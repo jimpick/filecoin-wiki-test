@@ -23,6 +23,7 @@ trap cleanup EXIT
 
 CHECK=$WORKDIR/check.txt
 for f in list-deals/*.txt; do
+# for f in list-deals/f0252068.txt; do # skip old deals
   CLIENT2=$(echo $f | sed 's,^.*/\(.*\)\.txt,\1,')
   echo Loading deals $CLIENT2
   ./check.sh $CLIENT2 >> $CHECK 2>&2
