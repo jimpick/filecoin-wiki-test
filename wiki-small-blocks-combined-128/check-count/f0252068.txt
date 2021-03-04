@@ -6,7 +6,7 @@
 6 wiki.06 7 Active: 0 Sealing: 1 Xfr: 0 Error: 6
 7 wiki.07 7 Active: 0 Sealing: 1 Xfr: 0 Error: 6
 8 wiki.08 7 Active: 0 Sealing: 2 Xfr: 0 Error: 5
-9 wiki.09 7 Active: 0 Sealing: 1 Xfr: 0 Error: 6
+9 wiki.09 7 Active: 1 Sealing: 0 Xfr: 0 Error: 6
 10 wiki.10 7 Active: 0 Sealing: 3 Xfr: 0 Error: 4
 11 wiki.11 7 Active: 0 Sealing: 2 Xfr: 0 Error: 5
 12 wiki.12 7 Active: 1 Sealing: 2 Xfr: 0 Error: 4
