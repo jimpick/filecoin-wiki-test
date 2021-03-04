@@ -23,9 +23,9 @@ trap cleanup EXIT
 
 CHECK=$WORKDIR/check.txt
 for f in list-deals/*.txt; do
-  MINER=$(echo $f | sed 's,^.*/\(.*\)\.txt,\1,')
-  echo Loading deals $MINER
-  ./check.sh $MINER >> $CHECK 2>&2
+  CLIENT2=$(echo $f | sed 's,^.*/\(.*\)\.txt,\1,')
+  echo Loading deals $CLIENT2
+  ./check.sh $CLIENT2 >> $CHECK 2>&2
 done
 #cp $CHECK ~/tmp/check.txt
 
