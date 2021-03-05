@@ -1,0 +1,7 @@
+{"jsonrpc":"2.0","result":{"Err":"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWNL7TCSZNN4jQa9Qic8YKaeLFNmJNjbXNLcwrWip7CQD8: all dials failed\n  * [/ip4/45.15.9.50/tcp/2345] failed to negotiate security protocol: message did not have trailing newline","Root":null,"Piece":null,"Size":0,"MinPrice":"\u003cnil\u003e","UnsealPrice":"\u003cnil\u003e","PaymentInterval":0,"PaymentIntervalIncrease":0,"Miner":"f05664","MinerPeer":{"Address":"f05664","ID":"12D3KooWNL7TCSZNN4jQa9Qic8YKaeLFNmJNjbXNLcwrWip7CQD8","PieceCID":null}},"id":1}
+2021-03-05T01:56:49.873Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWNL7TCSZNN4jQa9Qic8YKaeLFNmJNjbXNLcwrWip7CQD8: all dials failed\\n  * [/ip4/45.15.9.50/tcp/2345] failed to negotiate security protocol: message did not have trailing newline\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f05664\",\"MinerPeer\":{\"Address\":\"f05664\",\"ID\":\"12D3KooWNL7TCSZNN4jQa9Qic8YKaeLFNmJNjbXNLcwrWip7CQD8\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.31user 0.03system 0:45.24elapsed 0%CPU (0avgtext+0avgdata 73164maxresident)k
+0inputs+0outputs (0major+11383minor)pagefaults 0swaps

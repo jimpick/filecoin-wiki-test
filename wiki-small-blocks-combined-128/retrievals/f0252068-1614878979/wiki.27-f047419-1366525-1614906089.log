@@ -7,3 +7,8 @@
 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
 > Recv: 0 B, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
 > Recv: 0 B, Paid 0.000000000002 FIL, ClientEventPaymentSent (DealStatusOngoing)
+ERROR: retrieval timed out
+
+Command exited with non-zero status 124
+0.87user 0.14system 22:00.00elapsed 0%CPU (0avgtext+0avgdata 73760maxresident)k
+0inputs+0outputs (0major+11523minor)pagefaults 0swaps
