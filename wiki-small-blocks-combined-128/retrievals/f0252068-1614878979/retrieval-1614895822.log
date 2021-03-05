@@ -13662,3 +13662,75 @@ Already have log for f021870 890193 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkg
 Already have log for f023858 890906 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
 Already have log for f05664 939461 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
 Mpool pending 1, skipping + sleeping 30s
+Already have log for f08240 1044854 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f024015 1044965 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f09693 1213194 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Already have log for f010247 1213322 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Retrieving f015877 1213372 QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   161    0     0  100   161      0     73  0:00:02  0:00:02 --:--:--    73100   161    0     0  100   161      0     50  0:00:03  0:00:03 --:--:--    50100   161    0     0  100   161      0     38  0:00:04  0:00:04 --:--:--    38100   161    0     0  100   161      0     30  0:00:05  0:00:05 --:--:--    30100   161    0     0  100   161      0     25  0:00:06  0:00:06 --:--:--     0100   161    0     0  100   161      0     22  0:00:07  0:00:07 --:--:--     0100   161    0     0  100   161      0     19  0:00:08  0:00:08 --:--:--     0100   161    0     0  100   161      0     17  0:00:09  0:00:09 --:--:--     0100   161    0     0  100   161      0     15  0:00:10  0:00:10 --:--:--     0100   161    0     0  100   161      0     14  0:00:11  0:00:11 --:--:--     0100   161    0     0  100   161      0     13  0:00:12  0:00:12 --:--:--     0100   161    0     0  100   161      0     12  0:00:13  0:00:13 --:--:--     0100   161    0     0  100   161      0     11  0:00:14  0:00:14 --:--:--     0100   161    0     0  100   161      0     10  0:00:16  0:00:15  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:16  0:00:01     0100   161    0     0  100   161      0      9  0:00:17  0:00:17 --:--:--     0100   161    0     0  100   161      0      8  0:00:20  0:00:18  0:00:02     0100   161    0     0  100   161      0      8  0:00:20  0:00:19  0:00:01     0100   161    0     0  100   161      0      7  0:00:23  0:00:20  0:00:03     0100   161    0     0  100   161      0      7  0:00:23  0:00:21  0:00:02     0100   161    0     0  100   161      0      7  0:00:23  0:00:22  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:23  0:00:03     0100   161    0     0  100   161      0      6  0:00:26  0:00:24  0:00:02     0100   161    0     0  100   161      0      6  0:00:26  0:00:25  0:00:01     0100   161    0     0  100   161      0      6  0:00:26  0:00:26 --:--:--     0100   161    0     0  100   161      0      5  0:00:32  0:00:27  0:00:05     0100   161    0     0  100   161      0      5  0:00:32  0:00:28  0:00:04     0100   161    0     0  100   161      0      5  0:00:32  0:00:29  0:00:03     0100   161    0     0  100   161      0      5  0:00:32  0:00:30  0:00:02     0100   161    0     0  100   161      0      5  0:00:32  0:00:31  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:32  0:00:08     0100   161    0     0  100   161      0      4  0:00:40  0:00:33  0:00:07     0100   161    0     0  100   161      0      4  0:00:40  0:00:34  0:00:06     0100   161    0     0  100   161      0      4  0:00:40  0:00:35  0:00:05     0100   161    0     0  100   161      0      4  0:00:40  0:00:36  0:00:04     0100   161    0     0  100   161      0      4  0:00:40  0:00:37  0:00:03     0100   161    0     0  100   161      0      4  0:00:40  0:00:38  0:00:02     0100   161    0     0  100   161      0      4  0:00:40  0:00:39  0:00:01     0100   161    0     0  100   161      0      4  0:00:40  0:00:40 --:--:--     0100   161    0     0  100   161      0      3  0:00:53  0:00:41  0:00:12     0100   161    0     0  100   161      0      3  0:00:53  0:00:42  0:00:11     0100   161    0     0  100   161      0      3  0:00:53  0:00:43  0:00:10     0100   161    0     0  100   161      0      3  0:00:53  0:00:44  0:00:09     0100   161    0     0  100   161      0      3  0:00:53  0:00:45  0:00:08     0100   161    0     0  100   161      0      3  0:00:53  0:00:46  0:00:07     0100   161    0     0  100   161      0      3  0:00:53  0:00:47  0:00:06     0100   161    0     0  100   161      0      3  0:00:53  0:00:48  0:00:05     0100   161    0     0  100   161      0      3  0:00:53  0:00:49  0:00:04     0100   161    0     0  100   161      0      3  0:00:53  0:00:50  0:00:03     0100   161    0     0  100   161      0      3  0:00:53  0:00:51  0:00:02     0100   161    0     0  100   161      0      3  0:00:53  0:00:52  0:00:01     0100   161    0     0  100   161      0      3  0:00:53  0:00:53 --:--:--     0100   161    0     0  100   161      0      2  0:01:20  0:00:54  0:00:26     0100   161    0     0  100   161      0      2  0:01:20  0:00:55  0:00:25     0100   161    0     0  100   161      0      2  0:01:20  0:00:56  0:00:24     0100   161    0     0  100   161      0      2  0:01:20  0:00:57  0:00:23     0100   161    0     0  100   161      0      2  0:01:20  0:00:58  0:00:22     0100   161    0     0  100   161      0      2  0:01:20  0:00:59  0:00:21     0100   161    0     0  100   161      0      2  0:01:20  0:01:00  0:00:20     0
+curl: (28) Operation timed out after 60003 milliseconds with 0 bytes received
+2021-03-05T00:54:01.980Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: routing: not found\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f015877\",\"MinerPeer\":{\"Address\":\"f015877\",\"ID\":\"12D3KooWDXeF96VEMHn2t2Mzh6W3tjScc6rt1DTQPddN6VW7SDY7\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.28user 0.05system 2:02.82elapsed 0%CPU (0avgtext+0avgdata 73132maxresident)k
+0inputs+0outputs (0major+11316minor)pagefaults 0swaps
+f0252068: 0.621829205910180603 FIL (226G free)
+Skipping ahead
+
+1 wiki.19
+f022853-937904 f043929-955439 f032934-955515 f022072-956992 f015927-1044413 f02645-1045626 f02633-1213477 f057614-1214097 f063996-1273495 f018501-1279465 f09848-1327889 f03339-1327935 f067170-1328041 f03488-1366519 f010505-1369517 f039515-1369514 f056573-1369597 f019104-1376845 f010446-1376947 f048135-1390369 f060072-1390821 f079425-1390306 f065103-1390276 f030379-637023 f02620-638472 f023971-799446 f022352-799713 f0165375-1596757 f0115108-1596766 f097720-1596779
+Already have log for f022853 937904 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f043929 955439 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f032934 955515 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Mpool pending 1, skipping + sleeping 30s
+Already have log for f015927 1044413 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f02645 1045626 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f02633 1213477 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Mpool pending 1, skipping + sleeping 30s
+Already have log for f063996 1273495 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f018501 1279465 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f09848 1327889 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f03339 1327935 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f067170 1328041 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Already have log for f03488 1366519 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Retrieving f010505 1369517 QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   161    0     0  100   161      0    133  0:00:01  0:00:01 --:--:--   133100   527  100   366  100   161    221     97  0:00:01  0:00:01 --:--:--   318
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f010500","MinerPeer":{"Address":"f010505","ID":"12D3KooWCFhmdmduqq59w8CsEgEX2qi9KQqE9wmTHmqC5W4tcEaA","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: miner is not accepting online retrieval deals
+
+Command exited with non-zero status 1
+0.32user 0.04system 0:00.97elapsed 38%CPU (0avgtext+0avgdata 72960maxresident)k
+0inputs+0outputs (0major+10373minor)pagefaults 0swaps
+f0252068: 0.621810150775830038 FIL (226G free)
+Skipping ahead
+
+1 wiki.04
+f02514-836932 f010241-839145 f02645-894502 f010617-938033 f02388-1044390 f019104-1044834 f060072-1213198 f02490-1213287 f022308-1213424 f05664-1213427 f022352-1227396 f02576-1273620 f02401-1273625 f068528-1287271 f014768-1369677 f08240-638494 f020541-640111 f010479-674084 f08383-706565 f022163-713556 f014394-800207 f01278-800894 f0229547-1596775
+Already have log for f02514 836932 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f010241 839145 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f02645 894502 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Mpool pending 1, skipping + sleeping 30s
+Mpool pending 1, skipping + sleeping 30s
+Already have log for f019104 1044834 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Already have log for f060072 1213198 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Retrieving f02490 1213287 QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   524  100   364  100   160   1400    615 --:--:-- --:--:-- --:--:--  2023
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f02319","MinerPeer":{"Address":"f02490","ID":"12D3KooWLVWncWyeSEg7CNBvLWdwsPLQuHj7Kw93tDQ2dcHoZgbw","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+> Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
