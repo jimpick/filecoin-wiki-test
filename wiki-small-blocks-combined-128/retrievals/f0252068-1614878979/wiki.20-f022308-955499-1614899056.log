@@ -1,0 +1,12 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f021450","MinerPeer":{"Address":"f022308","ID":"12D3KooWKcyYX7FUbu9HpCv8P2R3xHrwqmDG6CwnpzXCWtG3YByZ","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: rejected for unknown reasons
+
+Command exited with non-zero status 1
+0.31user 0.04system 0:01.13elapsed 30%CPU (0avgtext+0avgdata 74068maxresident)k
+0inputs+0outputs (0major+10948minor)pagefaults 0swaps
