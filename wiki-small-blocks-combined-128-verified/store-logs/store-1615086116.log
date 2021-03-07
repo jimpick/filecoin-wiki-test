@@ -1,0 +1,3645 @@
+Count: 3 of 27
+f010010 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...wiki.04 4 of 27
+Ask: f010010
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0.0000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f010010
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+[34mLotus deal-tool[39m
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Miner: f010010
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f010010\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00648 FIL[0m (0.0000000125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.006479999981820583
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f010010) CID: [32mbafyreigebeszf2ylfedqw4u4s4ympltvmzvma5akacpymxtyr4jww33oyi[0m
+
+[39m
+[32mDeal CID: bafyreigebeszf2ylfedqw4u4s4ympltvmzvma5akacpymxtyr4jww33oyi
+
+[39m
+Wrote bafyreigebeszf2ylfedqw4u4s4ympltvmzvma5akacpymxtyr4jww33oyi
+ to wiki.04.f0394702.deal
+
+Count: 4 of 27
+f060072 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+....wiki.05 5 of 27
+Ask: f060072
+Price per GiB: 5 FIL
+Verified Price per GiB: 5 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f060072
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+[34mLotus deal-tool[39m
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+Miner: f060072
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f060072\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 118.5MiB)
+Duration: 4320h0m0s
+Total price: ~[36m324000 FIL[0m (0.625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 324000
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 4 of 27
+f023977 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+....wiki.05 5 of 27
+Ask: f023977
+Price per GiB: 0.0000000000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1.465 GiB
+Miner: f023977
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+[34mLotus deal-tool[39m
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+Miner: f023977
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023977\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 118.5MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f023977) CID: [32mbafyreigixlfgzddzrcbcr4zjgaosa4qjnfrflweipnv6qbvak2bbyypl2u[0m
+
+[39m
+[32mDeal CID: bafyreigixlfgzddzrcbcr4zjgaosa4qjnfrflweipnv6qbvak2bbyypl2u
+
+[39m
+Wrote bafyreigixlfgzddzrcbcr4zjgaosa4qjnfrflweipnv6qbvak2bbyypl2u
+ to wiki.05.f0394702.deal
+
+Count: 5 of 27
+f0151692 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.....wiki.06 6 of 27
+Ask: f0151692
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0151692
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+[34mLotus deal-tool[39m
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+Miner: f0151692
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0151692\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 5 of 27
+f066104 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.....wiki.06 6 of 27
+Ask: f066104
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f066104
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+[34mLotus deal-tool[39m
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+Miner: f066104
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f066104\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 5 of 27
+f015941 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.....wiki.06 6 of 27
+Ask: f015941
+Price per GiB: 0.0000002 FIL
+Verified Price per GiB: 0.00000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f015941
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+[34mLotus deal-tool[39m
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+Miner: f015941
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f015941\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00324 FIL[0m (0.00000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.0032399999909102917
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f015941) CID: [32mbafyreidm5uomv2gtrnwrmp24f33dsbv7hny7g5ioatpmrzv7zllovq3fsq[0m
+
+[39m
+[32mDeal CID: bafyreidm5uomv2gtrnwrmp24f33dsbv7hny7g5ioatpmrzv7zllovq3fsq
+
+[39m
+Wrote bafyreidm5uomv2gtrnwrmp24f33dsbv7hny7g5ioatpmrzv7zllovq3fsq
+ to wiki.06.f0394702.deal
+
+Count: 6 of 27
+f062353 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+......wiki.07 7 of 27
+Ask: f062353
+Price per GiB: 0.00000002 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 16 GiB
+Miner: f062353
+CID: QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i
+[34mLotus deal-tool[39m
+CID: QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i
+Miner: f062353
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f062353\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f062353) CID: [32mbafyreihqnrodqkqo44g37pfftla5bwnuy7pdmgh6xh7ucllfg6n3hssqru[0m
+
+[39m
+[32mDeal CID: bafyreihqnrodqkqo44g37pfftla5bwnuy7pdmgh6xh7ucllfg6n3hssqru
+
+[39m
+Wrote bafyreihqnrodqkqo44g37pfftla5bwnuy7pdmgh6xh7ucllfg6n3hssqru
+ to wiki.07.f0394702.deal
+
+Count: 7 of 27
+f014365 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.......wiki.08 8 of 27
+Ask: f014365
+Price per GiB: 0.99 FIL
+Verified Price per GiB: 0.99 FIL
+Max Piece size: 1 MiB
+Min Piece size: 16 MiB
+Miner: f014365
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+[34mLotus deal-tool[39m
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+Miner: f014365
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f014365\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64152 FIL[0m (0.12375 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64152
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 7 of 27
+f0157564 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.......wiki.08 8 of 27
+Ask: f0157564
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0157564
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+[34mLotus deal-tool[39m
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+Miner: f0157564
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0157564\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0157564) CID: [32mbafyreifumkwhdhbxnppsa2lvpw2mc4aj7tprfmhp4dqjpn2gh2lcnpvhsi[0m
+
+[39m
+[32mDeal CID: bafyreifumkwhdhbxnppsa2lvpw2mc4aj7tprfmhp4dqjpn2gh2lcnpvhsi
+
+[39m
+Wrote bafyreifumkwhdhbxnppsa2lvpw2mc4aj7tprfmhp4dqjpn2gh2lcnpvhsi
+ to wiki.08.f0394702.deal
+
+Count: 8 of 27
+f0151281 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+........wiki.09 9 of 27
+Ask: f0151281
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 64 GiB
+Min Piece size: 256 B
+Miner: f0151281
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+[34mLotus deal-tool[39m
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Miner: f0151281
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0151281\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 8 of 27
+f083903 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+........wiki.09 9 of 27
+Ask: f083903
+Price per GiB: 1.001 FIL
+Verified Price per GiB: 1.001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 56 KiB
+Miner: f083903
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+[34mLotus deal-tool[39m
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Miner: f083903
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f083903\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64864.8 FIL[0m (0.125125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64864.80078125
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 8 of 27
+f02619 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+........wiki.09 9 of 27
+Ask: f02619
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.0000000005 FIL
+Max Piece size: 1 MiB
+Min Piece size: 1 MiB
+Miner: f02619
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+[34mLotus deal-tool[39m
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Miner: f02619
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02619\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.0000324 FIL[0m (0.0000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.239999932702631e-05
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f02619) CID: [32mbafyreihrmorakbxlkub5mjjd3nwgx6h6zo4rmbiolfy5prmblxq3ywtmra[0m
+
+[39m
+[32mDeal CID: bafyreihrmorakbxlkub5mjjd3nwgx6h6zo4rmbiolfy5prmblxq3ywtmra
+
+[39m
+Wrote bafyreihrmorakbxlkub5mjjd3nwgx6h6zo4rmbiolfy5prmblxq3ywtmra
+ to wiki.09.f0394702.deal
+
+Count: 9 of 27
+f023981 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.........wiki.10 10 of 27
+Ask: f023981
+Price per GiB: 0.0000000000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1.465 GiB
+Miner: f023981
+CID: QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+[34mLotus deal-tool[39m
+CID: QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+Miner: f023981
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023981\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f023981) CID: [32mbafyreiaeggrtoejvb7lj5357lzmnjju4x3x3gq3c4p7f44ljovc2sfwasm[0m
+
+[39m
+[32mDeal CID: bafyreiaeggrtoejvb7lj5357lzmnjju4x3x3gq3c4p7f44ljovc2sfwasm
+
+[39m
+Wrote bafyreiaeggrtoejvb7lj5357lzmnjju4x3x3gq3c4p7f44ljovc2sfwasm
+ to wiki.10.f0394702.deal
+
+Count: 10 of 27
+f020436 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........wiki.11 11 of 27
+ERROR: failed to open stream to miner: open stream to 12D3KooWRgBCjVvmsgJuE1VzRZ3EgSQoQtasZKAgiQ7zQN2J49N5 canceled by context
+
+
+Count: 10 of 27
+f02501 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........wiki.11 11 of 27
+Ask: f02501
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f02501
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+[34mLotus deal-tool[39m
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Miner: f02501
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02501\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 10 of 27
+f073448 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........wiki.11 11 of 27
+ERROR: failed to open stream to miner: open stream to 12D3KooW9ssvSgDSqQQmsfAUcHqg4KrnGYQ28cTPusZLBx4iyW3m canceled by context
+
+
+Count: 10 of 27
+f024468 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........wiki.11 11 of 27
+Ask: f024468
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f024468
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+[34mLotus deal-tool[39m
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Miner: f024468
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f024468\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f024468) CID: [32mbafyreialktest3kxwwxa5sfg4zflntzhm6blfehg2p4t2qah4ufs5witwm[0m
+
+[39m
+[32mDeal CID: bafyreialktest3kxwwxa5sfg4zflntzhm6blfehg2p4t2qah4ufs5witwm
+
+[39m
+Wrote bafyreialktest3kxwwxa5sfg4zflntzhm6blfehg2p4t2qah4ufs5witwm
+ to wiki.11.f0394702.deal
+
+Count: 11 of 27
+f0349810 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...........wiki.12 12 of 27
+Ask: f0349810
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0349810
+CID: QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+[34mLotus deal-tool[39m
+CID: QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+Miner: f0349810
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0349810\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0349810) CID: [32mbafyreig7dwzg7qse2zfcoejhrsl4f2ulkykigzm3vat2blcdqikjnms4fi[0m
+
+[39m
+[32mDeal CID: bafyreig7dwzg7qse2zfcoejhrsl4f2ulkykigzm3vat2blcdqikjnms4fi
+
+[39m
+Wrote bafyreig7dwzg7qse2zfcoejhrsl4f2ulkykigzm3vat2blcdqikjnms4fi
+ to wiki.12.f0394702.deal
+
+Count: 12 of 27
+f0122496 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+............wiki.13 13 of 27
+ERROR: failed to open stream to miner: open stream to 12D3KooWBbqiDNmjKBBphXB8RKr6zyfyxAPUy9NkZD7ENKuLPKmM canceled by context
+
+
+Count: 12 of 27
+f019104 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+............wiki.13 13 of 27
+Ask: f019104
+Price per GiB: 0.000000018 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 8 MiB
+Miner: f019104
+CID: QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+[34mLotus deal-tool[39m
+CID: QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+Miner: f019104
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f019104\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f019104) CID: [32mbafyreicidd5hjy2f7znaytelchbxvnkhvgwazi444ccvd242mqsxtqlqru[0m
+
+[39m
+[32mDeal CID: bafyreicidd5hjy2f7znaytelchbxvnkhvgwazi444ccvd242mqsxtqlqru
+
+[39m
+Wrote bafyreicidd5hjy2f7znaytelchbxvnkhvgwazi444ccvd242mqsxtqlqru
+ to wiki.13.f0394702.deal
+
+Count: 13 of 27
+f01276 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.............wiki.14 14 of 27
+Ask: f01276
+Price per GiB: 0.000000018 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 16 GiB
+Miner: f01276
+CID: QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+[34mLotus deal-tool[39m
+CID: QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Miner: f01276
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f01276\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f01276) CID: [32mbafyreie7jihu4wcrxfpairamkj5umbj6mpxptlkejimbj54vejci6oa2pi[0m
+
+[39m
+[32mDeal CID: bafyreie7jihu4wcrxfpairamkj5umbj6mpxptlkejimbj54vejci6oa2pi
+
+[39m
+Wrote bafyreie7jihu4wcrxfpairamkj5umbj6mpxptlkejimbj54vejci6oa2pi
+ to wiki.14.f0394702.deal
+
+Count: 14 of 27
+f069915 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..............wiki.15 15 of 27
+Ask: f069915
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f069915
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+[34mLotus deal-tool[39m
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+Miner: f069915
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f069915\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 14 of 27
+f024511 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..............wiki.15 15 of 27
+Ask: f024511
+Price per GiB: 0.00000001 FIL
+Verified Price per GiB: 0.000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f024511
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+[34mLotus deal-tool[39m
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+Miner: f024511
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f024511\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.000324 FIL[0m (0.000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.0003239999932702631
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f024511) CID: [32mbafyreibjsztspkbrektkfjfnp73qxt6zaknldgysdt2titkt24mmlwujbe[0m
+
+[39m
+[32mDeal CID: bafyreibjsztspkbrektkfjfnp73qxt6zaknldgysdt2titkt24mmlwujbe
+
+[39m
+Wrote bafyreibjsztspkbrektkfjfnp73qxt6zaknldgysdt2titkt24mmlwujbe
+ to wiki.15.f0394702.deal
+
+Count: 15 of 27
+f019806 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...............wiki.16 16 of 27
+Ask: f019806
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0.0000001 FIL
+Max Piece size: 1 MiB
+Min Piece size: 256 B
+Miner: f019806
+CID: QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+[34mLotus deal-tool[39m
+CID: QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Miner: f019806
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f019806\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00648 FIL[0m (0.0000000125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.006479999981820583
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f019806) CID: [32mbafyreihzpjjbkav2eed52wiuxex7np22zncdnsx3oi4medeoilm5wbgk3e[0m
+
+[39m
+[32mDeal CID: bafyreihzpjjbkav2eed52wiuxex7np22zncdnsx3oi4medeoilm5wbgk3e
+
+[39m
+Wrote bafyreihzpjjbkav2eed52wiuxex7np22zncdnsx3oi4medeoilm5wbgk3e
+ to wiki.16.f0394702.deal
+
+Count: 16 of 27
+f0126824 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+................wiki.17 17 of 27
+Ask: f0126824
+Price per GiB: 0 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 64 MiB
+Miner: f0126824
+CID: QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+[34mLotus deal-tool[39m
+CID: QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+Miner: f0126824
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0126824\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0126824) CID: [32mbafyreibaks6k27q5om7p4rpixzkvmf356hq2n5npgis2gmwrevr7fazjl4[0m
+
+[39m
+[32mDeal CID: bafyreibaks6k27q5om7p4rpixzkvmf356hq2n5npgis2gmwrevr7fazjl4
+
+[39m
+Wrote bafyreibaks6k27q5om7p4rpixzkvmf356hq2n5npgis2gmwrevr7fazjl4
+ to wiki.17.f0394702.deal
+
+Count: 17 of 27
+f0215704 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.................wiki.18 18 of 27
+Ask: f0215704
+Price per GiB: 0 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 64 MiB
+Miner: f0215704
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+[34mLotus deal-tool[39m
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Miner: f0215704
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0215704\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0215704) CID: [32mbafyreif5ctul7665nprtiis7aoieymfjk54mbzdruh4a6yq5trkfinjbhi[0m
+
+[39m
+[32mDeal CID: bafyreif5ctul7665nprtiis7aoieymfjk54mbzdruh4a6yq5trkfinjbhi
+
+[39m
+Wrote bafyreif5ctul7665nprtiis7aoieymfjk54mbzdruh4a6yq5trkfinjbhi
+ to wiki.18.f0394702.deal
+
+Count: 18 of 27
+f0120983 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..................wiki.19 19 of 27
+Ask: f0120983
+Price per GiB: 9999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 MiB
+Miner: f0120983
+CID: QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+[34mLotus deal-tool[39m
+CID: QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Miner: f0120983
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0120983\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0120983) CID: [32mbafyreier6plybhniwnczvptre6csdim3q5cnlsewfpgkxkn3qzplbhn5sm[0m
+
+[39m
+[32mDeal CID: bafyreier6plybhniwnczvptre6csdim3q5cnlsewfpgkxkn3qzplbhn5sm
+
+[39m
+Wrote bafyreier6plybhniwnczvptre6csdim3q5cnlsewfpgkxkn3qzplbhn5sm
+ to wiki.19.f0394702.deal
+
+Count: 19 of 27
+f016276 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...................wiki.20 20 of 27
+Ask: f016276
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f016276
+CID: QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+[34mLotus deal-tool[39m
+CID: QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Miner: f016276
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f016276\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f016276) CID: [32mbafyreibq5pg5l5ge33ol6x7achq6p7jqvlm6npynakn25pcfymwp4psnl4[0m
+
+[39m
+[32mDeal CID: bafyreibq5pg5l5ge33ol6x7achq6p7jqvlm6npynakn25pcfymwp4psnl4
+
+[39m
+Wrote bafyreibq5pg5l5ge33ol6x7achq6p7jqvlm6npynakn25pcfymwp4psnl4
+ to wiki.20.f0394702.deal
+
+Count: 20 of 27
+f030379 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+....................wiki.21 21 of 27
+Ask: f030379
+Price per GiB: 0.00001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 2 GiB
+Miner: f030379
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+[34mLotus deal-tool[39m
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+Miner: f030379
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f030379\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f030379) CID: [32mbafyreiae7ev4pda4suzm5ocu5wbfuwyprrcrgr6xhbosafz7btzqmz7jju[0m
+
+[39m
+[32mDeal CID: bafyreiae7ev4pda4suzm5ocu5wbfuwyprrcrgr6xhbosafz7btzqmz7jju
+
+[39m
+Wrote bafyreiae7ev4pda4suzm5ocu5wbfuwyprrcrgr6xhbosafz7btzqmz7jju
+ to wiki.21.f0394702.deal
+
+Count: 21 of 27
+f02540 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.....................wiki.22 22 of 27
+Ask: f02540
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.0000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f02540
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+[34mLotus deal-tool[39m
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+Miner: f02540
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02540\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.0000324 FIL[0m (0.0000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.239999932702631e-05
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f02540) CID: [32mbafyreicdszueank25ymnxzt3qutpgzdqyvyvek4qfadjwaov47z5qazziq[0m
+
+[39m
+[32mDeal CID: bafyreicdszueank25ymnxzt3qutpgzdqyvyvek4qfadjwaov47z5qazziq
+
+[39m
+Wrote bafyreicdszueank25ymnxzt3qutpgzdqyvyvek4qfadjwaov47z5qazziq
+ to wiki.22.f0394702.deal
+
+Count: 22 of 27
+f0216138 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+......................wiki.23 23 of 27
+Ask: f0216138
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0216138
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+[34mLotus deal-tool[39m
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Miner: f0216138
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0216138\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0216138) CID: [32mbafyreiaxc2taaw4odxtf6hlqguqko774v7lsivr257kcc527j5bsrdwwsq[0m
+
+[39m
+[32mDeal CID: bafyreiaxc2taaw4odxtf6hlqguqko774v7lsivr257kcc527j5bsrdwwsq
+
+[39m
+Wrote bafyreiaxc2taaw4odxtf6hlqguqko774v7lsivr257kcc527j5bsrdwwsq
+ to wiki.23.f0394702.deal
+
+Count: 23 of 27
+f023971 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.......................wiki.24 24 of 27
+Ask: f023971
+Price per GiB: 0.000005 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f023971
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f023971
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023971\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f023971) CID: [32mbafyreibzaur36o6wluorsc7lmuqmqfusi7urr5ldpssyepsakhm3n42es4[0m
+
+[39m
+[32mDeal CID: bafyreibzaur36o6wluorsc7lmuqmqfusi7urr5ldpssyepsakhm3n42es4
+
+[39m
+Wrote bafyreibzaur36o6wluorsc7lmuqmqfusi7urr5ldpssyepsakhm3n42es4
+ to wiki.24.f0394702.deal
+
+Count: 24 of 27
+f0229547 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+........................wiki.25 25 of 27
+Ask: f0229547
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0229547
+CID: QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+[34mLotus deal-tool[39m
+CID: QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+Miner: f0229547
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0229547\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0229547) CID: [32mbafyreieka7alwsjdfbouclpmyvt5o644vk7ijhrus5fzvdgkzg2pq5zqx4[0m
+
+[39m
+[32mDeal CID: bafyreieka7alwsjdfbouclpmyvt5o644vk7ijhrus5fzvdgkzg2pq5zqx4
+
+[39m
+Wrote bafyreieka7alwsjdfbouclpmyvt5o644vk7ijhrus5fzvdgkzg2pq5zqx4
+ to wiki.25.f0394702.deal
+
+Count: 25 of 27
+f0149768 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.........................wiki.26 26 of 27
+Ask: f0149768
+Price per GiB: 1 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0149768
+CID: QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+[34mLotus deal-tool[39m
+CID: QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+Miner: f0149768
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0149768\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0149768) CID: [32mbafyreihhgk63kmp6ie7hjaxfn3af7eaw7jygkbxe2neygavb2rbvyjln7y[0m
+
+[39m
+[32mDeal CID: bafyreihhgk63kmp6ie7hjaxfn3af7eaw7jygkbxe2neygavb2rbvyjln7y
+
+[39m
+Wrote bafyreihhgk63kmp6ie7hjaxfn3af7eaw7jygkbxe2neygavb2rbvyjln7y
+ to wiki.26.f0394702.deal
+
+Count: 26 of 27
+f07850 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........................wiki.27 27 of 27
+Ask: f07850
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f07850
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+[34mLotus deal-tool[39m
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Miner: f07850
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f07850\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 256MiB (Payload size: 166.8MiB)
+Duration: 4320h0m0s
+Total price: ~[36m129600 FIL[0m (0.25 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 129600
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 26 of 27
+f024016 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........................wiki.27 27 of 27
+Ask: f024016
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f024016
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+[34mLotus deal-tool[39m
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Miner: f024016
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f024016\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 256MiB (Payload size: 166.8MiB)
+Duration: 4320h0m0s
+Total price: ~[36m129600 FIL[0m (0.25 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 129600
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 26 of 27
+f09848 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..........................wiki.27 27 of 27
+Ask: f09848
+Price per GiB: 0.00000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 512 MiB
+Miner: f09848
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+[34mLotus deal-tool[39m
+CID: QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d
+Miner: f09848
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXpbfstbcV9p1hdsUvtDvqZCDsxfnLxoq5RzHRZGkRH5d\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f09848\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 256MiB (Payload size: 166.8MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f09848) CID: [32mbafyreich5a5islrf6543lyb5u5sp5v6ff2aym56jeuz4a5k63lnbrtxtra[0m
+
+[39m
+[32mDeal CID: bafyreich5a5islrf6543lyb5u5sp5v6ff2aym56jeuz4a5k63lnbrtxtra
+
+[39m
+Wrote bafyreich5a5islrf6543lyb5u5sp5v6ff2aym56jeuz4a5k63lnbrtxtra
+ to wiki.27.f0394702.deal
+
+Count: 27 of 27
+Resetting
+removed 'wiki.01.f0394702.deal'
+removed 'wiki.02.f0394702.deal'
+removed 'wiki.03.f0394702.deal'
+removed 'wiki.04.f0394702.deal'
+removed 'wiki.05.f0394702.deal'
+removed 'wiki.06.f0394702.deal'
+removed 'wiki.07.f0394702.deal'
+removed 'wiki.08.f0394702.deal'
+removed 'wiki.09.f0394702.deal'
+removed 'wiki.10.f0394702.deal'
+removed 'wiki.11.f0394702.deal'
+removed 'wiki.12.f0394702.deal'
+removed 'wiki.13.f0394702.deal'
+removed 'wiki.14.f0394702.deal'
+removed 'wiki.15.f0394702.deal'
+removed 'wiki.16.f0394702.deal'
+removed 'wiki.17.f0394702.deal'
+removed 'wiki.18.f0394702.deal'
+removed 'wiki.19.f0394702.deal'
+removed 'wiki.20.f0394702.deal'
+removed 'wiki.21.f0394702.deal'
+removed 'wiki.22.f0394702.deal'
+removed 'wiki.23.f0394702.deal'
+removed 'wiki.24.f0394702.deal'
+removed 'wiki.25.f0394702.deal'
+removed 'wiki.26.f0394702.deal'
+removed 'wiki.27.f0394702.deal'
+
+ls: cannot access '*.f0394702.deal': No such file or directory
+Count: 0 of 27
+f022289 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+wiki.01 1 of 27
+Ask: f022289
+Price per GiB: 0.0000000000000001 FIL
+Verified Price per GiB: 0.000000000000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 4 GiB
+Miner: f022289
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+[34mLotus deal-tool[39m
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Miner: f022289
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f022289\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.0000000000648 FIL[0m (0.000000000000000125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 6.479999870023789e-11
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f022289) CID: [32mbafyreihvw3n3rree72a33662c6ffyetvukqi6e64sgnx2j6s6v5s6mv7vq[0m
+
+[39m
+[32mDeal CID: bafyreihvw3n3rree72a33662c6ffyetvukqi6e64sgnx2j6s6v5s6mv7vq
+
+[39m
+Wrote bafyreihvw3n3rree72a33662c6ffyetvukqi6e64sgnx2j6s6v5s6mv7vq
+ to wiki.01.f0394702.deal
+
+Count: 1 of 27
+f023871 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+.wiki.02 2 of 27
+Ask: f023871
+Price per GiB: 0.00000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 4 GiB
+Miner: f023871
+CID: QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+[34mLotus deal-tool[39m
+CID: QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz
+Miner: f023871
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmWGLecW8YaxsN3sTfoZ4NBtp3JdbC5HDeDWNZdXVCYzhz\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023871\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f023871) CID: [32mbafyreihm6is2dekjihwyrohp7gu6ikhshxavbq5gstlukgeiazpbe2h4ci[0m
+
+[39m
+[32mDeal CID: bafyreihm6is2dekjihwyrohp7gu6ikhshxavbq5gstlukgeiazpbe2h4ci
+
+[39m
+Wrote bafyreihm6is2dekjihwyrohp7gu6ikhshxavbq5gstlukgeiazpbe2h4ci
+ to wiki.02.f0394702.deal
+
+Count: 2 of 27
+f040218 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..wiki.03 3 of 27
+Ask: f040218
+Price per GiB: 100 FIL
+Verified Price per GiB: 100 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f040218
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+[34mLotus deal-tool[39m
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+Miner: f040218
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f040218\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m6480000 FIL[0m (12.5 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 6.48e+06
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 2 of 27
+f0145784 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..wiki.03 3 of 27
+Ask: f0145784
+Price per GiB: 0.01 FIL
+Verified Price per GiB: 0.01 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f0145784
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+[34mLotus deal-tool[39m
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+Miner: f0145784
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0145784\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m648 FIL[0m (0.00125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 648
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 2 of 27
+f0100116 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+..wiki.03 3 of 27
+Ask: f0100116
+Price per GiB: 0.000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f0100116
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+[34mLotus deal-tool[39m
+CID: QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG
+Miner: f0100116
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNnM8RXjLYiXr7DatzfC5fy4Mwmi3JwzYVWzaLop21rGG\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0100116\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0100116) CID: [32mbafyreigdjud75khd54mstg4b3lgleaxws4gcgqwilrcjdley36zcq4zvwu[0m
+
+[39m
+[32mDeal CID: bafyreigdjud75khd54mstg4b3lgleaxws4gcgqwilrcjdley36zcq4zvwu
+
+[39m
+Wrote bafyreigdjud75khd54mstg4b3lgleaxws4gcgqwilrcjdley36zcq4zvwu
+ to wiki.03.f0394702.deal
+
+Count: 3 of 27
+f073628 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...wiki.04 4 of 27
+Ask: f073628
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f073628
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+[34mLotus deal-tool[39m
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Miner: f073628
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f073628\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 3 of 27
+f0392785 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...wiki.04 4 of 27
+Ask: f0392785
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 64 GiB
+Min Piece size: 256 B
+Miner: f0392785
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+[34mLotus deal-tool[39m
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Miner: f0392785
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0392785\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 3 of 27
+f0109713 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+...wiki.04 4 of 27
+Ask: f0109713
+Price per GiB: 99999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 MiB
+Miner: f0109713
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+[34mLotus deal-tool[39m
+CID: QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL
+Miner: f0109713
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0109713\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0109713) CID: [32mbafyreibnvlfutt7kedpytxo7gm53y7nzbvhfkzsfkwb4esh2kqc4hyo4uy[0m
+
+[39m
+[32mDeal CID: bafyreibnvlfutt7kedpytxo7gm53y7nzbvhfkzsfkwb4esh2kqc4hyo4uy
+
+[39m
+Wrote bafyreibnvlfutt7kedpytxo7gm53y7nzbvhfkzsfkwb4esh2kqc4hyo4uy
+ to wiki.04.f0394702.deal
+
+Count: 4 of 27
+f024013 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+....wiki.05 5 of 27
+Ask: f024013
+Price per GiB: 0.00000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1.465 GiB
+Miner: f024013
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+[34mLotus deal-tool[39m
+CID: QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS
+Miner: f024013
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVcW2Uv2DrL3b1uggMgZh9Nd5xBxSfK5sjyk6K4VuSscS\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f024013\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 118.5MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f024013) CID: [32mbafyreicctbxw6kldrzgpykajl4nmak5wtfplgnfz3xmbh7ohn5fxb5hoeq[0m
+
+[39m
+[32mDeal CID: bafyreicctbxw6kldrzgpykajl4nmak5wtfplgnfz3xmbh7ohn5fxb5hoeq
+
+[39m
+Wrote bafyreicctbxw6kldrzgpykajl4nmak5wtfplgnfz3xmbh7ohn5fxb5hoeq
+ to wiki.05.f0394702.deal
+
+Count: 5 of 27
+f0101387 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.....wiki.06 6 of 27
+Ask: f0101387
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0101387
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+[34mLotus deal-tool[39m
+CID: Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i
+Miner: f0101387
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "Qmbib1rGUnZpEw3fi8WPURijnqXAPzCTjw5iQRpQTDHu3i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0101387\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0101387) CID: [32mbafyreibk33ojc5tp6tqynlznudn6hpepvnsizxt3uu4li2e3o5udmrzxnq[0m
+
+[39m
+[32mDeal CID: bafyreibk33ojc5tp6tqynlznudn6hpepvnsizxt3uu4li2e3o5udmrzxnq
+
+[39m
+Wrote bafyreibk33ojc5tp6tqynlznudn6hpepvnsizxt3uu4li2e3o5udmrzxnq
+ to wiki.06.f0394702.deal
+
+Count: 6 of 27
+f03624 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+......wiki.07 7 of 27
+Ask: f03624
+Price per GiB: 0.00000002 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 8 GiB
+Miner: f03624
+CID: QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i
+[34mLotus deal-tool[39m
+CID: QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i
+Miner: f03624
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f03624\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f03624) CID: [32mbafyreidzog4rkkrgag4rskdajewfdd7kn7gat24acyh3h4n355yzrwdm5a[0m
+
+[39m
+[32mDeal CID: bafyreidzog4rkkrgag4rskdajewfdd7kn7gat24acyh3h4n355yzrwdm5a
+
+[39m
+Wrote bafyreidzog4rkkrgag4rskdajewfdd7kn7gat24acyh3h4n355yzrwdm5a
+ to wiki.07.f0394702.deal
+
+Count: 7 of 27
+f02645 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......wiki.08 8 of 27
+Ask: f02645
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f02645
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+[34mLotus deal-tool[39m
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+Miner: f02645
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02645\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 7 of 27
+f05317 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......wiki.08 8 of 27
+Ask: f05317
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f05317
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+[34mLotus deal-tool[39m
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+Miner: f05317
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f05317\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 7 of 27
+f0126868 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......wiki.08 8 of 27
+Ask: f0126868
+Price per GiB: 0.00000011 FIL
+Verified Price per GiB: 0.00000011 FIL
+Max Piece size: 32 GiB
+Min Piece size: 10 MiB
+Miner: f0126868
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+[34mLotus deal-tool[39m
+CID: QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb
+Miner: f0126868
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0126868\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.007128 FIL[0m (0.00000001375 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.007127999793738127
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0126868) CID: [32mbafyreidusady7pl62mhfe3c43ay35hd5cr437fvmtrfwbkbm2zhcfgfcty[0m
+
+[39m
+[32mDeal CID: bafyreidusady7pl62mhfe3c43ay35hd5cr437fvmtrfwbkbm2zhcfgfcty
+
+[39m
+Wrote bafyreidusady7pl62mhfe3c43ay35hd5cr437fvmtrfwbkbm2zhcfgfcty
+ to wiki.08.f0394702.deal
+
+Count: 8 of 27
+f010035 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+........wiki.09 9 of 27
+Ask: f010035
+Price per GiB: 1000000000 FIL
+Verified Price per GiB: 1000000000 FIL
+Max Piece size: 32 GiB
+Min Piece size: 32 GiB
+Miner: f010035
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+[34mLotus deal-tool[39m
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Miner: f010035
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f010035\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800000000000 FIL[0m (125000000 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 6.4800000311296e+13
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 8 of 27
+f0134671 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+........wiki.09 9 of 27
+Ask: f0134671
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0134671
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+[34mLotus deal-tool[39m
+CID: QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ
+Miner: f0134671
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmeVdFidDdoNoAEQxyhh3yAHgS2QP11PM4Ua6pgFpRAsMJ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0134671\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0134671) CID: [32mbafyreiha4uyfgflp6alxcjdguyxs3ifgmjr6twr3fh4h2577mlxrfqtoga[0m
+
+[39m
+[32mDeal CID: bafyreiha4uyfgflp6alxcjdguyxs3ifgmjr6twr3fh4h2577mlxrfqtoga
+
+[39m
+Wrote bafyreiha4uyfgflp6alxcjdguyxs3ifgmjr6twr3fh4h2577mlxrfqtoga
+ to wiki.09.f0394702.deal
+
+Count: 9 of 27
+f098706 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.........wiki.10 10 of 27
+Ask: f098706
+Price per GiB: 0 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 64 MiB
+Miner: f098706
+CID: QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+[34mLotus deal-tool[39m
+CID: QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU
+Miner: f098706
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYrUpTQtTAX2c9kP9HEGoRKBRnhsopexJBjcFZfk6s5PU\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f098706\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f098706) CID: [32mbafyreihadkjfhba4lsak4g7cs6kcw4zex6a6rh3gpo7qamsae6qxobdfva[0m
+
+[39m
+[32mDeal CID: bafyreihadkjfhba4lsak4g7cs6kcw4zex6a6rh3gpo7qamsae6qxobdfva
+
+[39m
+Wrote bafyreihadkjfhba4lsak4g7cs6kcw4zex6a6rh3gpo7qamsae6qxobdfva
+ to wiki.10.f0394702.deal
+
+Count: 10 of 27
+f023869 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+..........wiki.11 11 of 27
+Ask: f023869
+Price per GiB: 0.00000000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1.465 GiB
+Miner: f023869
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+[34mLotus deal-tool[39m
+CID: QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H
+Miner: f023869
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023869\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f023869) CID: [32mbafyreifwh2q6swnirkhgtuy5prikliniweymcsiv5pbq72ckwkfudibmtq[0m
+
+[39m
+[32mDeal CID: bafyreifwh2q6swnirkhgtuy5prikliniweymcsiv5pbq72ckwkfudibmtq
+
+[39m
+Wrote bafyreifwh2q6swnirkhgtuy5prikliniweymcsiv5pbq72ckwkfudibmtq
+ to wiki.11.f0394702.deal
+
+Count: 11 of 27
+f097386 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+...........wiki.12 12 of 27
+Ask: f097386
+Price per GiB: 99999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 MiB
+Miner: f097386
+CID: QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+[34mLotus deal-tool[39m
+CID: QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW
+Miner: f097386
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmPoVeYdvVFMHJsGGq1BqA1qy9PRw3ULD7TQ11ZwaskqQW\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f097386\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f097386) CID: [32mbafyreifjvceihkh4cab73fjxegkawmimqqxvfofkpju2c7ga5vhc52v7ei[0m
+
+[39m
+[32mDeal CID: bafyreifjvceihkh4cab73fjxegkawmimqqxvfofkpju2c7ga5vhc52v7ei
+
+[39m
+Wrote bafyreifjvceihkh4cab73fjxegkawmimqqxvfofkpju2c7ga5vhc52v7ei
+ to wiki.12.f0394702.deal
+
+Count: 12 of 27
+f017665 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+............wiki.13 13 of 27
+ERROR: bls signature failed to verify
+
+
+Count: 12 of 27
+f0131901 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+............wiki.13 13 of 27
+Ask: f0131901
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0131901
+CID: QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+[34mLotus deal-tool[39m
+CID: QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4
+Miner: f0131901
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmS1PguSPcWn4ki1SwWHMyL7qMayPcT8SS4bCvVxxtzfa4\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0131901\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0131901) CID: [32mbafyreiepo3xibhzxpjgpsumtyidugmn2njrhqajhoirc3yxhci4beawkjq[0m
+
+[39m
+[32mDeal CID: bafyreiepo3xibhzxpjgpsumtyidugmn2njrhqajhoirc3yxhci4beawkjq
+
+[39m
+Wrote bafyreiepo3xibhzxpjgpsumtyidugmn2njrhqajhoirc3yxhci4beawkjq
+ to wiki.13.f0394702.deal
+
+Count: 13 of 27
+f030335 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.............wiki.14 14 of 27
+Ask: f030335
+Price per GiB: 0.00000001 FIL
+Verified Price per GiB: 0.000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f030335
+CID: QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+[34mLotus deal-tool[39m
+CID: QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD
+Miner: f030335
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXsNcWv4YhjpoGRBnPhR2Bd1gjDAHNyhtGddmJFWSkgdD\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f030335\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.000324 FIL[0m (0.000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.0003239999932702631
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f030335) CID: [32mbafyreidug5hksu6hfenloo6t7o6md7s724krirsiq4nnwyipegkcuonkpu[0m
+
+[39m
+[32mDeal CID: bafyreidug5hksu6hfenloo6t7o6md7s724krirsiq4nnwyipegkcuonkpu
+
+[39m
+Wrote bafyreidug5hksu6hfenloo6t7o6md7s724krirsiq4nnwyipegkcuonkpu
+ to wiki.14.f0394702.deal
+
+Count: 14 of 27
+f0110133 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+..............wiki.15 15 of 27
+Ask: f0110133
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0110133
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+[34mLotus deal-tool[39m
+CID: QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh
+Miner: f0110133
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXSuhty9GJ8kWA3UmXqveBNYKLgTUACAXtBusZoEaaeBh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0110133\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0110133) CID: [32mbafyreigih7wzchmspo4a4rnrwpjd2vxa5etdhjh5y5cc6xd6etp3hwl3du[0m
+
+[39m
+[32mDeal CID: bafyreigih7wzchmspo4a4rnrwpjd2vxa5etdhjh5y5cc6xd6etp3hwl3du
+
+[39m
+Wrote bafyreigih7wzchmspo4a4rnrwpjd2vxa5etdhjh5y5cc6xd6etp3hwl3du
+ to wiki.15.f0394702.deal
+
+Count: 15 of 27
+f032934 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+...............wiki.16 16 of 27
+Ask: f032934
+Price per GiB: 0.000000005 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f032934
+CID: QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+[34mLotus deal-tool[39m
+CID: QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q
+Miner: f032934
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYQ21KtvRYx6d1YNwK5NkMF2jWbhtQUEKejF986jZhi7Q\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f032934\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f032934) CID: [32mbafyreienwyxcur3cgswcicytxg6mxpkn3aiynk2vhzewco5qa423bsc3um[0m
+
+[39m
+[32mDeal CID: bafyreienwyxcur3cgswcicytxg6mxpkn3aiynk2vhzewco5qa423bsc3um
+
+[39m
+Wrote bafyreienwyxcur3cgswcicytxg6mxpkn3aiynk2vhzewco5qa423bsc3um
+ to wiki.16.f0394702.deal
+
+Count: 16 of 27
+f0137168 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+................wiki.17 17 of 27
+Ask: f0137168
+Price per GiB: 0.0000000005 FIL
+Verified Price per GiB: 0.00000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0137168
+CID: QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+[34mLotus deal-tool[39m
+CID: QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC
+Miner: f0137168
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0137168\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00000324 FIL[0m (0.00000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 3.240000069126836e-06
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0137168) CID: [32mbafyreiflc4tog5bbfdcspb3ymeyhcucqdrghmjtc2jgy53vztsstahajry[0m
+
+[39m
+[32mDeal CID: bafyreiflc4tog5bbfdcspb3ymeyhcucqdrghmjtc2jgy53vztsstahajry
+
+[39m
+Wrote bafyreiflc4tog5bbfdcspb3ymeyhcucqdrghmjtc2jgy53vztsstahajry
+ to wiki.17.f0394702.deal
+
+Count: 17 of 27
+f023825 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.................wiki.18 18 of 27
+Ask: f023825
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f023825
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+[34mLotus deal-tool[39m
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Miner: f023825
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f023825\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 17 of 27
+f08240 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.................wiki.18 18 of 27
+Ask: f08240
+Price per GiB: 0.00000002 FIL
+Verified Price per GiB: 0.0000000044 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f08240
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+[34mLotus deal-tool[39m
+CID: QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ
+Miner: f08240
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f08240\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00028512 FIL[0m (0.00000000055 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.0002851200115401298
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f08240) CID: [32mbafyreibsy7zietiqdozpkvcl2bpynhvqpqgoskigfruuq43f6mn4ti2n74[0m
+
+[39m
+[32mDeal CID: bafyreibsy7zietiqdozpkvcl2bpynhvqpqgoskigfruuq43f6mn4ti2n74
+
+[39m
+Wrote bafyreibsy7zietiqdozpkvcl2bpynhvqpqgoskigfruuq43f6mn4ti2n74
+ to wiki.18.f0394702.deal
+
+Count: 18 of 27
+f02419 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+..................wiki.19 19 of 27
+Ask: f02419
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0.0000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 MiB
+Miner: f02419
+CID: QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+[34mLotus deal-tool[39m
+CID: QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1
+Miner: f02419
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVfZFYpr1jJnrrWbZMdgq4pnEPPffcreeYZLPyuGtUMi1\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02419\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00648 FIL[0m (0.0000000125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.006479999981820583
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f02419) CID: [32mbafyreicqw3ix3zxogu3diuzfoqvwgrqxgrmckt6gzo4prdbrufug72pgwy[0m
+
+[39m
+[32mDeal CID: bafyreicqw3ix3zxogu3diuzfoqvwgrqxgrmckt6gzo4prdbrufug72pgwy
+
+[39m
+Wrote bafyreicqw3ix3zxogu3diuzfoqvwgrqxgrmckt6gzo4prdbrufug72pgwy
+ to wiki.19.f0394702.deal
+
+Count: 19 of 27
+f0158468 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+...................wiki.20 20 of 27
+Ask: f0158468
+Price per GiB: 99999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0158468
+CID: QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+[34mLotus deal-tool[39m
+CID: QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj
+Miner: f0158468
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmYv2pySWihg5jQgy2zNsNru4LtuwF4xexQhzv29JNRQWj\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0158468\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0158468) CID: [32mbafyreibhjghgyzqwaiatd5xnioxvszmniv3xnmfmmaiet3fr67ix5l4rmq[0m
+
+[39m
+[32mDeal CID: bafyreibhjghgyzqwaiatd5xnioxvszmniv3xnmfmmaiet3fr67ix5l4rmq
+
+[39m
+Wrote bafyreibhjghgyzqwaiatd5xnioxvszmniv3xnmfmmaiet3fr67ix5l4rmq
+ to wiki.20.f0394702.deal
+
+Count: 20 of 27
+f083625 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+....................wiki.21 21 of 27
+Ask: f083625
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f083625
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+[34mLotus deal-tool[39m
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+Miner: f083625
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f083625\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 20 of 27
+f08399 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+....................wiki.21 21 of 27
+Ask: f08399
+Price per GiB: 0.00000002 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 4 GiB
+Miner: f08399
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+[34mLotus deal-tool[39m
+CID: QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke
+Miner: f08399
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmaHJHi4TrLykcMTV8Z5mFUXJ74Az6rKvtS4ooXWYGjrke\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f08399\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f08399) CID: [32mbafyreibtcyvdkdsdunjb4mldwhysdblctw32idlinsh5nrv3u5t2i7jbkq[0m
+
+[39m
+[32mDeal CID: bafyreibtcyvdkdsdunjb4mldwhysdblctw32idlinsh5nrv3u5t2i7jbkq
+
+[39m
+Wrote bafyreibtcyvdkdsdunjb4mldwhysdblctw32idlinsh5nrv3u5t2i7jbkq
+ to wiki.21.f0394702.deal
+
+Count: 21 of 27
+f053088 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.....................wiki.22 22 of 27
+ERROR: failed to open stream to miner: open stream to 12D3KooWAiTKuREhzSas7aC6LkDqsg3A8S9tgp6wD9ii63f8tg12 canceled by context
+
+
+Count: 21 of 27
+f029401 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.....................wiki.22 22 of 27
+Ask: f029401
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f029401
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+[34mLotus deal-tool[39m
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+Miner: f029401
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f029401\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 21 of 27
+f0231161 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.....................wiki.22 22 of 27
+ERROR: failed to open stream to miner: open stream to 12D3KooWLmdEJSxsA9brp54mnr4WCKjPW3jRGzLQshicE19rfzc1 canceled by context
+
+
+Count: 21 of 27
+f0107308 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.....................wiki.22 22 of 27
+Ask: f0107308
+Price per GiB: 999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 MiB
+Miner: f0107308
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+[34mLotus deal-tool[39m
+CID: QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh
+Miner: f0107308
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmZDxmSzpb3XF28nhvfnhwX7VPERj4i7g49wYxKpewvqmh\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0107308\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0107308) CID: [32mbafyreieftyyoaqgqbugxplv4kptic6he5xin6olgqmto5pvrzrkuw6etcy[0m
+
+[39m
+[32mDeal CID: bafyreieftyyoaqgqbugxplv4kptic6he5xin6olgqmto5pvrzrkuw6etcy
+
+[39m
+Wrote bafyreieftyyoaqgqbugxplv4kptic6he5xin6olgqmto5pvrzrkuw6etcy
+ to wiki.22.f0394702.deal
+
+Count: 22 of 27
+f0103851 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+......................wiki.23 23 of 27
+Ask: f0103851
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+
+Count: 22 of 27
+f08025 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+......................wiki.23 23 of 27
+Ask: f08025
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f08025
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+[34mLotus deal-tool[39m
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Miner: f08025
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f08025\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 22 of 27
+f010088 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+......................wiki.23 23 of 27
+Ask: f010088
+Price per GiB: 0.0000000003 FIL
+Verified Price per GiB: 0.0000000003 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f010088
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+[34mLotus deal-tool[39m
+CID: QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1
+Miner: f010088
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVJ7gLMJXVdeBu7udZV78sz3SbUNH5A94UWd4nXGy5MM1\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f010088\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 123.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.00001944 FIL[0m (0.0000000000375 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 1.9439999960013665e-05
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f010088) CID: [32mbafyreiewkdlawewayjtx7yj433yqp62qdi4y2b7pxb2oveyehi724lzjsi[0m
+
+[39m
+[32mDeal CID: bafyreiewkdlawewayjtx7yj433yqp62qdi4y2b7pxb2oveyehi724lzjsi
+
+[39m
+Wrote bafyreiewkdlawewayjtx7yj433yqp62qdi4y2b7pxb2oveyehi724lzjsi
+ to wiki.23.f0394702.deal
+
+Count: 23 of 27
+f02514 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f02514
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f02514
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f02514
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f02514\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 23 of 27
+f078772 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f078772
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f078772
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f078772
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f078772\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 23 of 27
+f08383 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f08383
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f08383
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f08383
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f08383\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 23 of 27
+f0135738 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f0135738
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f0135738
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f0135738
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0135738\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 23 of 27
+f03273 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f03273
+Price per GiB: 1 FIL
+Verified Price per GiB: 1 FIL
+Max Piece size: 32 GiB
+Min Piece size: 128 MiB
+Miner: f03273
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f03273
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f03273\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m64800 FIL[0m (0.125 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 64800
+[34mSent:[39m "no\n"
+[32mFinal result: 
+[39m
+
+Count: 23 of 27
+f064668 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.......................wiki.24 24 of 27
+Ask: f064668
+Price per GiB: 0.000000005 FIL
+Verified Price per GiB: 0.000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 MiB
+Miner: f064668
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+[34mLotus deal-tool[39m
+CID: QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6
+Miner: f064668
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVaf8KJdu6ndYi8tm9sRRFMZ8AcEqf5YHYqBFJgpdz8j6\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f064668\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0.000324 FIL[0m (0.000000000625 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0.0003239999932702631
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f064668) CID: [32mbafyreibtdvqiaycspvabrl6g4cmjzjio6w32muiuuzlvbpullxqogw7sii[0m
+
+[39m
+[32mDeal CID: bafyreibtdvqiaycspvabrl6g4cmjzjio6w32muiuuzlvbpullxqogw7sii
+
+[39m
+Wrote bafyreibtdvqiaycspvabrl6g4cmjzjio6w32muiuuzlvbpullxqogw7sii
+ to wiki.24.f0394702.deal
+
+Count: 24 of 27
+f0218293 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+........................wiki.25 25 of 27
+Ask: f0218293
+Price per GiB: 9999999999 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f0218293
+CID: QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+[34mLotus deal-tool[39m
+CID: QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL
+Miner: f0218293
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmVzsKckqzWzvHRA4BHUWZYJ8ZFsJ1eXAasifpTyfRccaL\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
+[32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Make this a verified deal? (yes/no): 
+[34mSent:[39m "yes\n"
+[32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+[34mSent:[39m "f0218293\n"
+[32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+[0m-----
+Proposing from f3tgmml5p6i3jq3ze6sm3toqgz7pbx6eepdoegysa3lh7ws355salecx24vspt7d4xvjifyhmyzr6dpvawmifq
+	Balance: 0.558681870488218295 FIL
+
+Piece size: 128MiB (Payload size: 119.3MiB)
+Duration: 4320h0m0s
+Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Verified: true
+
+Accept (yes/no): 
+Price: 0
+[34mSent:[39m "yes\n"
+[32mFinal result: [34m.. executing
+[0mDeal (f0218293) CID: [32mbafyreiewgt46crw6cspfogjmeqbccqmnt67caicbvymzkph62b5gw2ykta[0m
+
+[39m
+[32mDeal CID: bafyreiewgt46crw6cspfogjmeqbccqmnt67caicbvymzkph62b5gw2ykta
+
+[39m
+Wrote bafyreiewgt46crw6cspfogjmeqbccqmnt67caicbvymzkph62b5gw2ykta
+ to wiki.25.f0394702.deal
+
+Count: 25 of 27
+f065280 (1 / 1 tries):
+f0394702: 0.558681870488218295 FIL (145G free)
+Escrow: 0.565064986125 FIL
+Locked: 0.026072761125 FIL
+Datacap: 6979321856
+.........................wiki.26 26 of 27
+Ask: f065280
+Price per GiB: 1 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f065280
+CID: QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+[34mLotus deal-tool[39m
+CID: QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M
+Miner: f065280
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M\n"

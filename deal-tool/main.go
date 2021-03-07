@@ -19,12 +19,14 @@ const (
 )
 
 var (
+	verified = flag.Bool("verified", false, "verified deals?") // true/false
 	cid   = flag.String("cid", "", "cid")     // QmQagJpZKcxfDUQaH5a5WWPajqdWiX2fJyEQaQ6Tyu9nsx
 	miner = flag.String("miner", "", "miner") // f023013
 	dealfile = flag.String("dealfile", "", "dealfile") // f023013
 
 	dataCidRE  = regexp.MustCompile("Data CID .*:")
 	durationRE = regexp.MustCompile("Deal duration .*:")
+	verifiedRE = regexp.MustCompile("Make this a verified deal.*:")
 	minerRE    = regexp.MustCompile("Miner Addresses .*:")
 	acceptRE   = regexp.MustCompile("Accept .*:")
 	// priceXRE    = regexp.MustCompile("Total price: ~.....(.*) FIL")
@@ -52,6 +54,13 @@ func main() {
 	e.Send(*cid + "\n")
 	e.Expect(durationRE, timeout)
 	e.Send("180\n")
+  // FIXME: Don't expect verified prompt if no datacap
+	e.Expect(verifiedRE, timeout)
+  if *verified == true {
+	  e.Send("yes\n")
+  } else {
+	  e.Send("no\n")
+  }
 	e.Expect(minerRE, timeout)
 	e.Send(*miner + "\n")
 	result, _, _ := e.Expect(acceptRE, timeout)
@@ -77,7 +86,7 @@ func main() {
     log.Fatal(err)
   }
 	fmt.Printf("Price: %v\n", price)
-  maxPrice := 0.15
+  maxPrice := 0.05
 	if price < maxPrice {
 		e.Send("yes\n")
 	} else {
