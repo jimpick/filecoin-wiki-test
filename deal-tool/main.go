@@ -55,12 +55,12 @@ func main() {
 	e.Expect(durationRE, timeout)
 	e.Send("180\n")
   // FIXME: Don't expect verified prompt if no datacap
-	e.Expect(verifiedRE, timeout)
-  if *verified == true {
-	  e.Send("yes\n")
-  } else {
-	  e.Send("no\n")
-  }
+	//e.Expect(verifiedRE, timeout)
+  //if *verified == true {
+	//  e.Send("yes\n")
+  //} else {
+	//  e.Send("no\n")
+  //}
 	e.Expect(minerRE, timeout)
 	e.Send(*miner + "\n")
 	result, _, _ := e.Expect(acceptRE, timeout)

@@ -1,0 +1,21 @@
+Count: 5 of 27
+f010405 (1 / 1 tries):
+f0252068: 0.787458187378057118 FIL (290G free)
+Escrow: 0.9966359243825 FIL
+Locked: 0.05128836961 FIL
+wiki.01 1 of 27
+Ask: f010405
+Price per GiB: 0.0000005 FIL
+Verified Price per GiB: 0.0000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 256 B
+Miner: f010405
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+[34mLotus deal-tool[39m
+CID: QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq
+Miner: f010405
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "QmXPgqyKSxCB3wPRBn9qVyzTax6HiiJEGyEMWrmzgYzkDq\n"
+[32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+[0mDeal duration (days): 
+[34mSent:[39m "180\n"
