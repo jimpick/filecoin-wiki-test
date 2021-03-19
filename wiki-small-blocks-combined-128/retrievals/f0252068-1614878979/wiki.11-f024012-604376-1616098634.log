@@ -1,0 +1,9 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmczhwwW7L57ndzQoPJMGwcpYNyFLMHr9FCUUAyP7N7r6H"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f024009","MinerPeer":{"Address":"f024012","ID":"12D3KooWJ2torQqE6kcmYBWH14apR6Grcz47E5xTcfq2pEGeaUGV","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+> Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Success
+0.31user 0.03system 1:04.32elapsed 0%CPU (0avgtext+0avgdata 72112maxresident)k
+0inputs+0outputs (0major+11270minor)pagefaults 0swaps

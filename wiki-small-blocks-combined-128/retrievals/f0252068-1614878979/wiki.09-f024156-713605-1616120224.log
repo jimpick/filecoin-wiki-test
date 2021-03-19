@@ -1,0 +1,7 @@
+{"jsonrpc":"2.0","result":{"Err":"exhausted 5 attempts but failed to open stream, err: dial backoff","Root":null,"Piece":null,"Size":0,"MinPrice":"\u003cnil\u003e","UnsealPrice":"\u003cnil\u003e","PaymentInterval":0,"PaymentIntervalIncrease":0,"Miner":"f024156","MinerPeer":{"Address":"f024156","ID":"12D3KooWEsLDasE5cPgedsus1ps6F3aKgpPjcEANJ9LYoJTiHgct","PieceCID":null}},"id":1}
+2021-03-19T02:18:55.849Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWEsLDasE5cPgedsus1ps6F3aKgpPjcEANJ9LYoJTiHgct: all dials failed\\n  * [/ip4/156.238.62.5/tcp/2345] dial tcp4 0.0.0.0:39241-\\u003e156.238.62.5:2345: i/o timeout\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f024156\",\"MinerPeer\":{\"Address\":\"f024156\",\"ID\":\"12D3KooWEsLDasE5cPgedsus1ps6F3aKgpPjcEANJ9LYoJTiHgct\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.32user 0.03system 1:32.02elapsed 0%CPU (0avgtext+0avgdata 72476maxresident)k
+0inputs+0outputs (0major+11250minor)pagefaults 0swaps

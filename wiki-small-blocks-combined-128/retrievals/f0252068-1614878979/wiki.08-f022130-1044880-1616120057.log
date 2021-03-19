@@ -1,0 +1,12 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmPowJrtwW41PZFiPb8rc659KFtTLCQ3XKkY2LHHLe2TGb"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f022126","MinerPeer":{"Address":"f022130","ID":"12D3KooWFS57NobNVWss3W6QhQ5wPNzpLMHyxZM9861bC8jsbC8s","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: miner is not accepting online retrieval deals
+
+Command exited with non-zero status 1
+0.33user 0.07system 0:00.77elapsed 52%CPU (0avgtext+0avgdata 72352maxresident)k
+0inputs+0outputs (0major+11192minor)pagefaults 0swaps
