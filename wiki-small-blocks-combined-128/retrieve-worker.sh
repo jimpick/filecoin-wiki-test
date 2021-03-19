@@ -75,6 +75,7 @@ for x in $(grep ^wiki $CHECK | shuf); do
 			/usr/bin/time timeout -k 23m 22m lotus client retrieve --miner=$MINER --maxPrice=0.000000050000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"
+        lotus chain list --count 1 --gas-stats | head -1
 
 			  echo $((++COUNTER)) > /dev/null
 			  if [ "$COUNTER" = "1" ]; then
