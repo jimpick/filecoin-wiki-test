@@ -1,0 +1,12 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmVuAQunh5fhfvGoFKhKBhRD75h2MM1UQsjAV6XFppCo4i"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0142561","MinerPeer":{"Address":"f0142606","ID":"12D3KooWMrXPKg7uBv9dFGVZBa68BpcRKHjokcDjMnKubj3PhcCh","PieceCID":null}},"id":1}
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+> Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+> Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelErrored (DealStatusFailing)
+> Recv: 0 B, Paid 0 FIL, ClientEventCancelComplete (DealStatusErrored)
+> Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+ERROR: retrieval failed: Retrieve: Retrieval Error: error from payment channel: initializing paych actor: mpool push: failed to push message: not enough funds (required: 0.088798070327987174 FIL, balance: 0.083261731268709429 FIL): not enough funds to execute transaction
+
+Command exited with non-zero status 1
+0.30user 0.05system 0:00.85elapsed 41%CPU (0avgtext+0avgdata 74212maxresident)k
+0inputs+0outputs (0major+11551minor)pagefaults 0swaps

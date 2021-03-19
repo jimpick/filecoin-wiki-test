@@ -1,0 +1,7 @@
+{"jsonrpc":"2.0","result":{"Err":"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWNAX5ocrm62VVbEY3SqmgX8ZfssUPT2SpvJZ6Ufrzu7iE: all dials failed\n  * [/ip4/72.80.136.205/tcp/24001] dial tcp4 72.80.136.205:24001: connect: connection refused","Root":null,"Piece":null,"Size":0,"MinPrice":"\u003cnil\u003e","UnsealPrice":"\u003cnil\u003e","PaymentInterval":0,"PaymentIntervalIncrease":0,"Miner":"f0400681","MinerPeer":{"Address":"f0400681","ID":"12D3KooWNAX5ocrm62VVbEY3SqmgX8ZfssUPT2SpvJZ6Ufrzu7iE","PieceCID":null}},"id":1}
+2021-03-19T05:00:43.175Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWNAX5ocrm62VVbEY3SqmgX8ZfssUPT2SpvJZ6Ufrzu7iE: all dials failed\\n  * [/ip4/72.80.136.205/tcp/24001] dial tcp4 72.80.136.205:24001: connect: connection refused\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f0400681\",\"MinerPeer\":{\"Address\":\"f0400681\",\"ID\":\"12D3KooWNAX5ocrm62VVbEY3SqmgX8ZfssUPT2SpvJZ6Ufrzu7iE\",\"PieceCID\":null}}"}
+ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
+
+Command exited with non-zero status 1
+0.31user 0.04system 1:21.12elapsed 0%CPU (0avgtext+0avgdata 73720maxresident)k
+0inputs+0outputs (0major+11230minor)pagefaults 0swaps
