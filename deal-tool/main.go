@@ -86,7 +86,7 @@ func main() {
     log.Fatal(err)
   }
 	fmt.Printf("Price: %v\n", price)
-  maxPrice := 0.05
+  maxPrice := 0.005
 	if price < maxPrice {
 		e.Send("yes\n")
 	} else {
