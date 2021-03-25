@@ -1,0 +1,6 @@
+{"jsonrpc":"2.0","result":{"Err":"retrieval query offer errored: get cid info: No state for /QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL: datastore: key not found","Root":{"/":"QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL"},"Piece":null,"Size":0,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0423970","MinerPeer":{"Address":"f0427996","ID":"12D3KooWA9uHF7pvXFVSJHSsEHrQMsRf39em4G9ZGieE2ZmxSH94","PieceCID":null}},"id":1}
+ERROR: The received offer errored: retrieval query offer errored: get cid info: No state for /QmNbRqDVXtzrswB2tASMeVk5BDift3DChXotF6rZe18UYL: datastore: key not found
+
+Command exited with non-zero status 1
+0.16user 0.02system 0:00.14elapsed 140%CPU (0avgtext+0avgdata 62524maxresident)k
+0inputs+0outputs (0major+8951minor)pagefaults 0swaps
