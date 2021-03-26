@@ -1050,6 +1050,12 @@
     "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
   },
   {
+    "miner": "f023858",
+    "wikiFile": "wiki.17",
+    "dealCid": "bafyreigzmfvs6lwfcqkfdyhl3gtqcgrovcawyven2x3axhnerwe2rufjiq",
+    "cid": "QmfLJTWaPRteQwGfUH81CBofY4Pmjr7xvDL7aG9tVL4oxC"
+  },
+  {
     "miner": "f023871",
     "wikiFile": "wiki.17",
     "dealCid": "bafyreihc6mazibqeipxwnsfwjfpmxow6ffrzwbfxxqtrupkadosoa6q2qm",
@@ -1119,6 +1125,12 @@
     "miner": "f0414184",
     "wikiFile": "wiki.18",
     "dealCid": "bafyreiamck5slepvfa64yhsjfee4fe4x6tpouvzdn67xtvpdjwpxrzmm2u",
+    "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
+  },
+  {
+    "miner": "f083920",
+    "wikiFile": "wiki.18",
+    "dealCid": "bafyreifkioioyg645royqjq6rrkhdzu6kqdmac7w2wp4cdxsvzsk3uzrne",
     "cid": "QmaYUgAYwAV8CWT17oEyU3FtK4B5JQE9fcN2wNEhdkWiQZ"
   },
   {
