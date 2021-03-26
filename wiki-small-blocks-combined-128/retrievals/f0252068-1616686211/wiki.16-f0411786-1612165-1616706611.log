@@ -1,0 +1,5 @@
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+Command exited with non-zero status 1
+0.14user 0.03system 0:00.15elapsed 112%CPU (0avgtext+0avgdata 60916maxresident)k
+0inputs+0outputs (0major+8525minor)pagefaults 0swaps
