@@ -55,12 +55,12 @@ func main() {
 	e.Expect(durationRE, timeout)
 	e.Send("180\n")
   // FIXME: Don't expect verified prompt if no datacap
-	//e.Expect(verifiedRE, timeout)
-  //if *verified == true {
-	//  e.Send("yes\n")
-  //} else {
-	//  e.Send("no\n")
-  //}
+	e.Expect(verifiedRE, timeout)
+  if *verified == true {
+	  e.Send("yes\n")
+  } else {
+	  e.Send("no\n")
+  }
 	e.Expect(minerRE, timeout)
 	e.Send(*miner + "\n")
 	result, _, _ := e.Expect(acceptRE, timeout)
@@ -86,7 +86,8 @@ func main() {
     log.Fatal(err)
   }
 	fmt.Printf("Price: %v\n", price)
-  maxPrice := 0.005
+  // maxPrice := 0.005
+  maxPrice := 0.1
 	if price < maxPrice {
 		e.Send("yes\n")
 	} else {
