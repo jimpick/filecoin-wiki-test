@@ -1,7 +1,0 @@
-{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"QmdkKZb4XD6hNN1EwQXUVBzZQdxPvcprQ1GUJjQSjPBN7M"},"Piece":null,"Size":134217728,"MinPrice":"268435456","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f024079","MinerPeer":{"Address":"f024084","ID":"12D3KooWRtbbEdEaYrwvbEwBTqvssaDibMpdM6z7VtK39yrrrEz5","PieceCID":null}},"id":1}
-2021-03-19T05:20:41.740Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"stream reset\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f024084\",\"MinerPeer\":{\"Address\":\"f024084\",\"ID\":\"12D3KooWRtbbEdEaYrwvbEwBTqvssaDibMpdM6z7VtK39yrrrEz5\",\"PieceCID\":null}}"}
-ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
-
-Command exited with non-zero status 1
-0.32user 0.05system 0:40.30elapsed 0%CPU (0avgtext+0avgdata 72524maxresident)k
-0inputs+0outputs (0major+11254minor)pagefaults 0swaps
