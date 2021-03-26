@@ -1,6 +1,0 @@
-2021-03-25T16:06:18.318Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/client.go:541	unmarshaling failed	{"message": "{\"Err\":\"exhausted 5 attempts but failed to open stream, err: failed to dial 12D3KooWCYNTXskYDLQM7rRydZDGAfLiCPfneN1NjmnCBXpMBW49: all dials failed\\n  * [/ip4/123.58.99.210/tcp/21735] dial tcp4 123.58.99.210:21735: connect: no route to host\",\"Root\":null,\"Piece\":null,\"Size\":0,\"MinPrice\":\"\\u003cnil\\u003e\",\"UnsealPrice\":\"\\u003cnil\\u003e\",\"PaymentInterval\":0,\"PaymentIntervalIncrease\":0,\"Miner\":\"f010523\",\"MinerPeer\":{\"Address\":\"f010523\",\"ID\":\"12D3KooWCYNTXskYDLQM7rRydZDGAfLiCPfneN1NjmnCBXpMBW49\",\"PieceCID\":null}}"}
-ERROR: RPC client error: unmarshaling result: failed to parse big string: '"\u003cnil\u003e"'
-
-Command exited with non-zero status 1
-0.33user 0.06system 1:32.23elapsed 0%CPU (0avgtext+0avgdata 72200maxresident)k
-0inputs+0outputs (0major+10935minor)pagefaults 0swaps
