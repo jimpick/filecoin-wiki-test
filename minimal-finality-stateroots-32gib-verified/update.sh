@@ -1,6 +1,9 @@
 #! /bin/bash
 
-./check.sh
+CLIENT=$(./client.sh)
+mkdir -p deals
+
+./check.sh | tee ./deals/$CLIENT.txt
 ./check-count.sh
 ./quick-error-check.sh
 ./update-deals-json.sh

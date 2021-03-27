@@ -3,11 +3,11 @@
 CLIENT=$(./client.sh)
 
 mkdir -p deals
-(for f in `ls wiki.*.$CLIENT.*.deal`; do
+(for f in `ls *.$CLIENT.*.deal`; do
   #echo $f
-  MINER=$(echo $f | sed "s,^wiki.*\.\(f0[0-9]*\)\.deal,\1,")
-  WIKIFILE=$(echo $f | sed "s,^\(wiki\.[^.]*\).*,\1,")
+  MINER=$(echo $f | sed 's,.*\.\(f0[0-9]*\)\.deal,\1,')
+  FILE=$(echo $f | sed 's,\.\(f0[0-9]*\)\.\(f0[0-9]*\)\.deal,,')
   DEAL=$(cat $f)
-  CID=$(cat $WIKIFILE.cid)
-  echo "{\"miner\": \"$MINER\", \"wikiFile\": \"$WIKIFILE\", \"dealCid\": \"$DEAL\", \"cid\": \"$CID\" }"
+  CID=$(cat $FILE.cid)
+  echo "{\"miner\": \"$MINER\", \"file\": \"$FILE\", \"dealCid\": \"$DEAL\", \"cid\": \"$CID\" }"
 done) | jq -s > deals/$CLIENT.json
