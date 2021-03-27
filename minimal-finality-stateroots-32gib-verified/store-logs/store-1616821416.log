@@ -1,0 +1,156 @@
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f0127896 (1 / 1 tries):
+f0421499: 23.991349442397273886 FIL (129G free)
+Escrow: 1 FIL
+Locked: 0.000000653265 FIL
+Datacap: 6596667113472
+minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Ask: f0127896
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0.0000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 512 MiB
+Miner: f0127896
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+[34mLotus deal-tool[39m
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Miner: f0127896
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"
+panic: runtime error: index out of range [1] with length 0
+
+goroutine 1 [running]:
+main.main()
+	/home/ubuntu/filecoin-wiki-test/deal-tool/main.go:84 +0xcf9
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f019362 (1 / 1 tries):
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+: (129G free)
+ERROR: must specify address to print market balance for
+
+NAME:
+   lotus state market balance - Get the market balance (locked and escrowed) for a given account
+
+USAGE:
+   lotus state market balance [command options] [arguments...]
+
+OPTIONS:
+   --help, -h  show help (default: false)
+   
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f015927 (1 / 1 tries):
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+: (129G free)
+ERROR: must specify address to print market balance for
+
+NAME:
+   lotus state market balance - Get the market balance (locked and escrowed) for a given account
+
+USAGE:
+   lotus state market balance [command options] [arguments...]
+
+OPTIONS:
+   --help, -h  show help (default: false)
+   
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f022163 (1 / 1 tries):
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+: (129G free)
+ERROR: must specify address to print market balance for
+
+NAME:
+   lotus state market balance - Get the market balance (locked and escrowed) for a given account
+
+USAGE:
+   lotus state market balance [command options] [arguments...]
+
+OPTIONS:
+   --help, -h  show help (default: false)
+   
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f01234 (1 / 1 tries):
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+: (129G free)
+ERROR: must specify address to print market balance for
+
+NAME:
+   lotus state market balance - Get the market balance (locked and escrowed) for a given account
+
+USAGE:
+   lotus state market balance [command options] [arguments...]
+
+OPTIONS:
+   --help, -h  show help (default: false)
+   
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f0165400 (1 / 1 tries):
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+
+: (129G free)
+ERROR: must specify address to print market balance for
+
+NAME:
+   lotus state market balance - Get the market balance (locked and escrowed) for a given account
+
+USAGE:
+   lotus state market balance [command options] [arguments...]
+
+OPTIONS:
+   --help, -h  show help (default: false)
+   
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f010479 (1 / 1 tries):
+f0421499: 23.991349442397273886 FIL (129G free)
+Escrow: 1 FIL
+Locked: 0.000000653265 FIL
+Datacap: 6596667113472
+minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Ask: f010479
+Price per GiB: 0.00000002 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 8 GiB
+Miner: f010479
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+[34mLotus deal-tool[39m
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Miner: f010479
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"

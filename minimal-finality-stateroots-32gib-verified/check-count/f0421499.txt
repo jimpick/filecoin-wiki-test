@@ -1,0 +1,2 @@
+1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 11 Active: 1 Sealing: 7 CFA: 0 Xfr: 0 Error: 3
+2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab 11 Active: 0 Sealing: 6 CFA: 1 Xfr: 0 Error: 4

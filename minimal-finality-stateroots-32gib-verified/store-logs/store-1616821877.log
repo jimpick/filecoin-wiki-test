@@ -1,0 +1,41 @@
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f015927 (1 / 1 tries):
+f0421499: 23.991349442397273886 FIL (129G free)
+Escrow: 1 FIL
+Locked: 0.000000653265 FIL
+Datacap: 6596667113472
+minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Ask: f015927
+Price per GiB: 0.00000005 FIL
+Verified Price per GiB: 0.000000005 FIL
+Max Piece size: 32 GiB
+Min Piece size: 1 GiB
+Miner: f015927
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+[34mLotus deal-tool[39m
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Miner: f015927
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f058369 (1 / 1 tries):
+f0421499: 23.991349442397273886 FIL (129G free)
+Escrow: 1 FIL
+Locked: 0.000000653265 FIL
+Datacap: 6596667113472
+minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Ask: f058369
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0 FIL
+Max Piece size: 32 GiB
+Min Piece size: 56 KiB
+Miner: f058369
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+[34mLotus deal-tool[39m
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Miner: f058369
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"
