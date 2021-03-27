@@ -30,14 +30,14 @@ for f in list-deals/*.txt; do
 done
 #cp $CHECK ~/tmp/check.txt
 
-TO_DELETE=$(grep -l refused $TARGET_DIR/wiki*.log 2> /dev/null)
+TO_DELETE=$(grep -l refused $TARGET_DIR/minimal*.log 2> /dev/null)
 if [ -n "${TO_DELETE}" ]; then
 	echo ${TO_DELETE} | xargs rm
 fi
 
 COUNTER=1
 mkdir -p tmp
-for x in $(grep ^wiki $CHECK | shuf); do
+for x in $(grep ^minimal $CHECK | shuf); do
 	echo $((COUNTER++)) $x
 	#cat $x*.deal > tmp/deals.txt
 	#cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing'
@@ -58,13 +58,14 @@ for x in $(grep ^wiki $CHECK | shuf); do
       sleep 30
       continue
     fi
-		TIMESTAMP=`date +%s`
+		TIMESTAMP=`date +%s-%N`
 		MINER=$(echo $d | sed 's,-.*$,,')
 		DEAL=$(echo $d | sed 's,^.*-,,')
 		CID=$(cat $x.cid)
    		LOG=$(ls $TARGET_DIR/$x-$MINER-$DEAL-*.log 2> /dev/null)
 		if [ -z "$LOG" ]; then 
 		      	echo Retrieving $MINER $DEAL $CID
+      touch $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
       curl -m 60 -X POST  -H "Content-Type: application/json"  -H "Authorization: Bearer $TOKEN"  --data "{ \"jsonrpc\": \"2.0\", \"method\": \"Filecoin.ClientMinerQueryOffer\", \"params\": [\"$MINER\", { \"/\": \"$CID\" }, null], \"id\": 1 }"  http://127.0.0.1:$PORT/rpc/v0 >> $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
       cat $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
       if [ "$?" != "0" ]; then
@@ -72,7 +73,8 @@ for x in $(grep ^wiki $CHECK | shuf); do
         continue
       fi
 
-			/usr/bin/time timeout -k 23m 22m lotus client retrieve --miner=$MINER --maxPrice=0.000000050000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
+			/usr/bin/time timeout -k 181m 180m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
+      rm -rf $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"
 
