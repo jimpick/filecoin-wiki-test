@@ -1,0 +1,25 @@
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f019100 (1 / 1 tries):
+Skipping f019100: error-ask
+
+ls: cannot access '*.f0421499.deal': No such file or directory
+Count: 0 of 2
+f0127896 (1 / 1 tries):
+f0421499: 23.722387259541586805 FIL (88G free)
+Escrow: 1 FIL
+Locked: 0.083242093265 FIL
+Datacap: 5909472346112
+minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Ask: f0127896
+Price per GiB: 0.0000001 FIL
+Verified Price per GiB: 0.0000001 FIL
+Max Piece size: 32 GiB
+Min Piece size: 512 MiB
+Miner: f0127896
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+[34mLotus deal-tool[39m
+CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Miner: f0127896
+[32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+[34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"

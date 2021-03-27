@@ -1,0 +1,42 @@
+Mar 27 21:33:17 1234
+Mar 27 21:33:17 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 27 21:33:18 Loading deals f0421499
+Mar 27 21:33:18 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 27 21:33:18 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 27 21:33:18 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 27 21:33:18 f0145874-1639395 f023971-1638943 f0157535-1639420 f015927-1639425 f0165400-1639461 f066596-1639456 f058369-1639480 f09848-1639498 f01278-1639962 f010479-1640202
+Mar 27 21:33:18 Mpool pending 1, skipping + sleeping 30s
+Mar 27 21:33:48 Retrieving f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 27 21:33:48   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 27 21:33:48                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 27 21:33:48   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   5287   2424 --:--:-- --:--:-- --:--:--  7712
+Mar 27 21:33:48 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f021068","MinerPeer":{"Address":"f023971","ID":"12D3KooWAFhv4Rq6X8WA6EMW8UfULykqzrVryas8XzJiFUJqTj5G","PieceCID":null}},"id":1}
+Mar 27 21:33:48 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 27 21:33:48 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 27 22:16:30 Success
+Mar 27 22:16:30 1.26user 0.30system 42:42.13elapsed 0%CPU (0avgtext+0avgdata 71792maxresident)k
+Mar 27 22:16:30 392inputs+0outputs (48major+11533minor)pagefaults 0swaps
+Mar 27 22:16:30 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 27 22:16:30 
+Mar 27 22:16:30 f0421499: (46G free)
+Mar 27 22:16:30 Skipping ahead
+Mar 27 22:16:30 
+Mar 27 22:16:31 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 27 22:16:31 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f09848-1639977 f066596-1640067 f058369-1640127
+Mar 27 22:16:32 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 27 22:16:32 
+Mar 27 22:16:32 Retrieving f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 27 22:16:32   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 27 22:16:32                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 27 22:16:32   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+Mar 27 22:16:32 curl: (7) Failed to connect to 127.0.0.1 port 1234: Connection refused
+Mar 27 22:16:32 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 27 22:16:32 
+Mar 27 22:16:32 Command exited with non-zero status 1
+Mar 27 22:16:32 0.15user 0.03system 0:00.10elapsed 173%CPU (0avgtext+0avgdata 62860maxresident)k
+Mar 27 22:16:32 8inputs+0outputs (1major+8607minor)pagefaults 0swaps
+Mar 27 22:16:32 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 27 22:16:32 
+Mar 27 22:16:32 f0421499: (46G free)
+Mar 27 22:16:32 Skipping ahead
+Mar 27 22:16:32 
