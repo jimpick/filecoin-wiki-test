@@ -1,0 +1,65 @@
+Mar 28 17:04:41 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:41 Count: 0 of 2
+Mar 28 17:04:41 f066596 (1 / 1 tries):
+Mar 28 17:04:41 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:41 Escrow: 1 FIL
+Mar 28 17:04:41 Locked: 0.166486893265 FIL
+Mar 28 17:04:42 Datacap: 5325356793856
+Mar 28 17:04:42 ..
+Mar 28 17:04:43 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:43 Count: 0 of 2
+Mar 28 17:04:43 f0127896 (1 / 1 tries):
+Mar 28 17:04:43 Skipping f0127896: min-ask
+Mar 28 17:04:43 
+Mar 28 17:04:44 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:44 Count: 0 of 2
+Mar 28 17:04:44 f099608 (1 / 1 tries):
+Mar 28 17:04:45 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:45 Escrow: 1 FIL
+Mar 28 17:04:45 Locked: 0.166486893265 FIL
+Mar 28 17:04:45 Datacap: 5325356793856
+Mar 28 17:04:45 ..
+Mar 28 17:04:46 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:46 Count: 0 of 2
+Mar 28 17:04:46 f01247 (1 / 1 tries):
+Mar 28 17:04:46 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:46 Escrow: 1 FIL
+Mar 28 17:04:46 Locked: 0.166486893265 FIL
+Mar 28 17:04:47 Datacap: 5325356793856
+Mar 28 17:04:47 ..
+Mar 28 17:04:48 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:48 Count: 0 of 2
+Mar 28 17:04:48 f062353 (1 / 1 tries):
+Mar 28 17:04:48 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:48 Escrow: 1 FIL
+Mar 28 17:04:48 Locked: 0.166486893265 FIL
+Mar 28 17:04:49 Datacap: 5325356793856
+Mar 28 17:04:49 ..
+Mar 28 17:04:50 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:50 Count: 0 of 2
+Mar 28 17:04:50 f07998 (1 / 1 tries):
+Mar 28 17:04:50 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:50 Escrow: 1 FIL
+Mar 28 17:04:50 Locked: 0.166486893265 FIL
+Mar 28 17:04:50 Datacap: 5325356793856
+Mar 28 17:04:50 ..
+Mar 28 17:04:51 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 28 17:04:51 Count: 0 of 2
+Mar 28 17:04:51 f022352 (1 / 1 tries):
+Mar 28 17:04:52 f0421499: 23.499064730391750094 FIL (44G free)
+Mar 28 17:04:52 Escrow: 1 FIL
+Mar 28 17:04:52 Locked: 0.166486893265 FIL
+Mar 28 17:04:52 Datacap: 5325356793856
+Mar 28 17:04:52 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 1 of 2
+Mar 28 17:04:53 Ask: f022352
+Mar 28 17:04:53 Price per GiB: 0.00000002 FIL
+Mar 28 17:04:53 Verified Price per GiB: 0 FIL
+Mar 28 17:04:53 Max Piece size: 32 GiB
+Mar 28 17:04:53 Min Piece size: 128 MiB
+Mar 28 17:04:53 Miner: f022352
+Mar 28 17:04:53 CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 28 17:04:53 [34mLotus deal-tool[39m
+Mar 28 17:04:53 CID: bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 28 17:04:53 Miner: f022352
+Mar 28 17:04:53 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 28 17:04:53 [34mSent:[39m "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2\n"

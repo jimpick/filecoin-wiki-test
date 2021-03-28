@@ -73,8 +73,8 @@ for x in $(grep ^minimal $CHECK | shuf); do
         continue
       fi
 
-			/usr/bin/time timeout -k 181m 180m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
-      rm -rf $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log
+			/usr/bin/time timeout -k 41m 40m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
+      rm -rf $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"
 
