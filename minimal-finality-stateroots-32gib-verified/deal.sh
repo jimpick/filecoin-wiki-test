@@ -25,11 +25,11 @@ lotus state market balance $CLIENT
 echo Datacap: $(./check-datacap.sh)
 
 count=0
-total=`ls *.cid | wc -l`
+total=`ls *.cid.store | wc -l`
 # for CID_FILE in `ls *.cid | grep -v wiki.02 | grep -v wiki.09 | grep -v wiki.04`; do
-for CID_FILE in `ls *.cid`; do
+for CID_FILE in `ls *.cid.store`; do
 	#echo $f $((++count)) of $total
-	BASE=$(echo $CID_FILE | sed 's,\.cid,,')
+	BASE=$(echo $CID_FILE | sed 's,\.cid.store,,')
 	DEAL_FILE=$BASE.$CLIENT.deal
 	DEAL_FILE_MINER=$BASE.$CLIENT.$MINER.deal
 	DEAL_FILES=$(ls $BASE.*.$MINER.deal $BASE.$MINER.deal 2> /dev/null || true)

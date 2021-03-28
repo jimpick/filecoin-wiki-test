@@ -6,7 +6,7 @@ cp -f /home/ubuntu/workshop-client-mainnet/src/annotations-mainnet-32gib-verifie
 
 CLIENT=$(./client.sh)
 
-NUM_CIDS=$(ls *.cid | wc -l)
+NUM_CIDS=$(ls *.cid.store | wc -l)
 
 TRIES=1
 for n in $(seq 1 "$TRIES"); do
