@@ -390,6 +390,12 @@
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
+    "miner": "f01247",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
+    "dealCid": "bafyreihmaztkvjmf6byy5tjzfpjc2sfv7lr4fwsxtca6rj5argo7rjcrpa",
+    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+  },
+  {
     "miner": "f01278",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
     "dealCid": "bafyreifcf3hyzp45cen5mdh56urs2pkxl3x7gtshtpgbieti3z5niv5rra",
@@ -423,6 +429,12 @@
     "miner": "f019041",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
     "dealCid": "bafyreicyl6qp3vsfrm44r3ezngjkyswihxncl2xxwvbjpmssqfyf2wvq4u",
+    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+  },
+  {
+    "miner": "f019104",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
+    "dealCid": "bafyreifwy6hzqtgixhjj2uqpawwaicvdxfhfp5fzmzfegucsenvs2vvprm",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -480,6 +492,18 @@
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
+    "miner": "f058369",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
+    "dealCid": "bafyreid3kwccrt6ixph63okncsvtiqzr6z6nkhris6zb4wwbxrghipiviy",
+    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+  },
+  {
+    "miner": "f062353",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
+    "dealCid": "bafyreiclooxwhf77a3hfodyp3ardeue2lk7xlngy7d5kxc6yfmvytkqg3m",
+    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+  },
+  {
     "miner": "f066596",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
     "dealCid": "bafyreiaaruprt3gke33hyrxj37mppnr7mlfzam2bqca5lezneyr747lgcq",
@@ -522,6 +546,12 @@
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
+    "miner": "f010617",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
+    "dealCid": "bafyreidgnztc6uferpernr3y4tvbhgd44n2ky3h4z7w2cjzg47fxtmnwcq",
+    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+  },
+  {
     "miner": "f01234",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreidckyxyxgymybdwspwwv2uroycoz7bpoug2sczukqj5qb6vwwyp2m",
@@ -552,15 +582,33 @@
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
+    "miner": "f0145874",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
+    "dealCid": "bafyreianfwzyfh35jat34gcop3wjnq4d22rwx2kabvp6kyiiwwmpun6pce",
+    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+  },
+  {
     "miner": "f0157535",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreicfg4kko3hefgp5dgoia4vx3yitwvsju5vd3lwnznfd35wkfyphmm",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
+    "miner": "f015927",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
+    "dealCid": "bafyreiga736xslb5isd3vr37x4fbey3wlrboa5vs7w27khxmqhajlkz3za",
+    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+  },
+  {
     "miner": "f0165400",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreib4hhfe34ousmq57is2jvzu4azr2rjk2rnutzhxlyissluphjvnje",
+    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+  },
+  {
+    "miner": "f019041",
+    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
+    "dealCid": "bafyreid4na6o3na7rsr7f7otvyzujuiorritiqrz44tiqyqqfhbl7wjtj4",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -670,5 +718,11 @@
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreihd6xbmb3n44xhgenty52nlkogfflo7gsb4vmhzyucqp2zq4xatse",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+  },
+  {
+    "miner": "f019041",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
   }
 ]

@@ -1,0 +1,403 @@
+Mar 29 20:15:59 ./client.sh: line 3: lotus: command not found
+Mar 29 20:15:59 ./client.sh: line 3: lotus: command not found
+Mar 29 20:15:59 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:59 Count: 0 of 4
+Mar 29 20:15:59 f08403 (1 / 1 tries):
+Mar 29 20:15:59 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:59 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:59 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:59 : (192G free)
+Mar 29 20:15:59 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:59 
+Mar 29 20:16:00 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:16:00 Count: 0 of 4
+Mar 29 20:16:00 f019041 (1 / 1 tries):
+Mar 29 20:16:00 f0421499: 23.362248955980388967 FIL (193G free)
+Mar 29 20:16:00 Escrow: 0.999999997255 FIL
+Mar 29 20:16:00 Locked: 0.24951489052 FIL
+Mar 29 20:16:01 Datacap: 4500723073024
+Mar 29 20:16:01 ..minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 3 of 4
+Mar 29 20:16:02 Ask: f019041
+Mar 29 20:16:02 Price per GiB: 0.000001 FIL
+Mar 29 20:16:02 Verified Price per GiB: 0.00000000001 FIL
+Mar 29 20:16:02 Max Piece size: 32 GiB
+Mar 29 20:16:02 Min Piece size: 128 MiB
+Mar 29 20:16:02 Miner: f019041
+Mar 29 20:16:02 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 29 20:16:02 [34mLotus deal-tool[39m
+Mar 29 20:16:02 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 29 20:16:02 Miner: f019041
+Mar 29 20:16:02 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 29 20:16:02 [34mSent:[39m "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry\n"
+Mar 29 20:19:37 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 29 20:19:37 [0mDeal duration (days): 
+Mar 29 20:19:37 [34mSent:[39m "180\n"
+Mar 29 20:19:37 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 29 20:19:37 Make this a verified deal? (yes/no): 
+Mar 29 20:19:37 [34mSent:[39m "yes\n"
+Mar 29 20:19:37 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 29 20:19:37 [34mSent:[39m "f019041\n"
+Mar 29 20:19:38 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 29 20:19:38 [0m-----
+Mar 29 20:19:38 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 29 20:19:38 	Balance: 23.362248955980388967 FIL
+Mar 29 20:19:38 
+Mar 29 20:19:38 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 29 20:19:38 Duration: 4320h0m0s
+Mar 29 20:19:38 Total price: ~[36m0.000165888 FIL[0m (0.00000000032 FIL per epoch)
+Mar 29 20:19:38 Verified: true
+Mar 29 20:19:38 
+Mar 29 20:19:38 Accept (yes/no): 
+Mar 29 20:19:38 Price: 0.00016588800644967705
+Mar 29 20:19:38 [34mSent:[39m "yes\n"
+Mar 29 20:19:40 [32mFinal result: [34m.. executing
+Mar 29 20:19:40 [0mDeal (f019041) CID: [32mbafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu[0m
+Mar 29 20:19:40 
+Mar 29 20:19:40 [39m
+Mar 29 20:19:40 [32mDeal CID: bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu
+Mar 29 20:19:40 
+Mar 29 20:19:40 [39m
+Mar 29 20:19:40 Wrote bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu
+Mar 29 20:19:40  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa.f0421499.deal
+Mar 29 20:19:40 
+Mar 29 20:19:41 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:19:41 Count: 0 of 4
+Mar 29 20:19:41 f0157535 (1 / 1 tries):
+Mar 29 20:19:42 f0421499: 23.348144188477617099 FIL (192G free)
+Mar 29 20:19:42 Escrow: 0.999999997255 FIL
+Mar 29 20:19:42 Locked: 0.24951489052 FIL
+Mar 29 20:19:43 Datacap: 4500723073024
+Mar 29 20:19:43 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 1 of 4
+Mar 29 20:19:43 Ask: f0157535
+Mar 29 20:19:43 Price per GiB: 0.00000001 FIL
+Mar 29 20:19:43 Verified Price per GiB: 0 FIL
+Mar 29 20:19:43 Max Piece size: 64 GiB
+Mar 29 20:19:43 Min Piece size: 4 GiB
+Mar 29 20:19:43 Miner: f0157535
+Mar 29 20:19:43 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 29 20:19:43 [34mLotus deal-tool[39m
+Mar 29 20:19:43 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 29 20:19:43 Miner: f0157535
+Mar 29 20:19:44 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 29 20:19:44 [34mSent:[39m "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2\n"
+Mar 29 20:22:36 panic: runtime error: index out of range [1] with length 0
+Mar 29 20:22:36 
+Mar 29 20:22:36 goroutine 1 [running]:
+Mar 29 20:22:36 main.main()
+Mar 29 20:22:36 	/home/ubuntu/filecoin-wiki-test/deal-tool/main.go:84 +0xcf9
+Mar 29 20:22:36 
+Mar 29 20:22:37 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:37 Count: 0 of 4
+Mar 29 20:22:37 f022142 (1 / 1 tries):
+Mar 29 20:22:37 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:37 
+Mar 29 20:22:37 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:37 
+Mar 29 20:22:37 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:37 
+Mar 29 20:22:37 : (192G free)
+Mar 29 20:22:37 ERROR: must specify address to print market balance for
+Mar 29 20:22:37 
+Mar 29 20:22:37 NAME:
+Mar 29 20:22:37    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:37 
+Mar 29 20:22:37 USAGE:
+Mar 29 20:22:37    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:37 
+Mar 29 20:22:37 OPTIONS:
+Mar 29 20:22:37    --help, -h  show help (default: false)
+Mar 29 20:22:37    
+Mar 29 20:22:37 
+Mar 29 20:22:38 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:38 Count: 0 of 4
+Mar 29 20:22:38 f062353 (1 / 1 tries):
+Mar 29 20:22:38 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:38 
+Mar 29 20:22:38 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:38 
+Mar 29 20:22:38 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:38 
+Mar 29 20:22:38 : (192G free)
+Mar 29 20:22:38 ERROR: must specify address to print market balance for
+Mar 29 20:22:38 
+Mar 29 20:22:38 NAME:
+Mar 29 20:22:38    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:38 
+Mar 29 20:22:38 USAGE:
+Mar 29 20:22:38    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:38 
+Mar 29 20:22:38 OPTIONS:
+Mar 29 20:22:38    --help, -h  show help (default: false)
+Mar 29 20:22:38    
+Mar 29 20:22:38 
+Mar 29 20:22:39 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:39 Count: 0 of 4
+Mar 29 20:22:39 f022163 (1 / 1 tries):
+Mar 29 20:22:40 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:40 
+Mar 29 20:22:40 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:40 
+Mar 29 20:22:40 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:40 
+Mar 29 20:22:40 : (192G free)
+Mar 29 20:22:40 ERROR: must specify address to print market balance for
+Mar 29 20:22:40 
+Mar 29 20:22:40 NAME:
+Mar 29 20:22:40    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:40 
+Mar 29 20:22:40 USAGE:
+Mar 29 20:22:40    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:40 
+Mar 29 20:22:40 OPTIONS:
+Mar 29 20:22:40    --help, -h  show help (default: false)
+Mar 29 20:22:40    
+Mar 29 20:22:40 
+Mar 29 20:22:41 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:41 Count: 0 of 4
+Mar 29 20:22:41 f07998 (1 / 1 tries):
+Mar 29 20:22:41 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:41 
+Mar 29 20:22:41 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:41 
+Mar 29 20:22:41 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:41 
+Mar 29 20:22:41 : (192G free)
+Mar 29 20:22:41 ERROR: must specify address to print market balance for
+Mar 29 20:22:41 
+Mar 29 20:22:41 NAME:
+Mar 29 20:22:41    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:41 
+Mar 29 20:22:41 USAGE:
+Mar 29 20:22:41    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:41 
+Mar 29 20:22:41 OPTIONS:
+Mar 29 20:22:41    --help, -h  show help (default: false)
+Mar 29 20:22:41    
+Mar 29 20:22:41 
+Mar 29 20:22:42 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:42 Count: 0 of 4
+Mar 29 20:22:42 f058369 (1 / 1 tries):
+Mar 29 20:22:42 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:42 
+Mar 29 20:22:43 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:43 
+Mar 29 20:22:43 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:43 
+Mar 29 20:22:43 : (192G free)
+Mar 29 20:22:43 ERROR: must specify address to print market balance for
+Mar 29 20:22:43 
+Mar 29 20:22:43 NAME:
+Mar 29 20:22:43    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:43 
+Mar 29 20:22:43 USAGE:
+Mar 29 20:22:43    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:43 
+Mar 29 20:22:43 OPTIONS:
+Mar 29 20:22:43    --help, -h  show help (default: false)
+Mar 29 20:22:43    
+Mar 29 20:22:43 
+Mar 29 20:22:44 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:44 Count: 0 of 4
+Mar 29 20:22:44 f0165400 (1 / 1 tries):
+Mar 29 20:22:44 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:44 
+Mar 29 20:22:44 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:44 
+Mar 29 20:22:44 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:44 
+Mar 29 20:22:44 : (192G free)
+Mar 29 20:22:44 ERROR: must specify address to print market balance for
+Mar 29 20:22:44 
+Mar 29 20:22:44 NAME:
+Mar 29 20:22:44    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:44 
+Mar 29 20:22:44 USAGE:
+Mar 29 20:22:44    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:44 
+Mar 29 20:22:44 OPTIONS:
+Mar 29 20:22:44    --help, -h  show help (default: false)
+Mar 29 20:22:44    
+Mar 29 20:22:44 
+Mar 29 20:22:45 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:45 Count: 0 of 4
+Mar 29 20:22:45 f010617 (1 / 1 tries):
+Mar 29 20:22:45 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:45 
+Mar 29 20:22:46 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:46 
+Mar 29 20:22:46 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:46 
+Mar 29 20:22:46 : (192G free)
+Mar 29 20:22:46 ERROR: must specify address to print market balance for
+Mar 29 20:22:46 
+Mar 29 20:22:46 NAME:
+Mar 29 20:22:46    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:46 
+Mar 29 20:22:46 USAGE:
+Mar 29 20:22:46    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:46 
+Mar 29 20:22:46 OPTIONS:
+Mar 29 20:22:46    --help, -h  show help (default: false)
+Mar 29 20:22:46    
+Mar 29 20:22:46 
+Mar 29 20:22:47 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:47 Count: 0 of 4
+Mar 29 20:22:47 f071624 (1 / 1 tries):
+Mar 29 20:22:47 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:47 
+Mar 29 20:22:47 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:47 
+Mar 29 20:22:47 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:47 
+Mar 29 20:22:47 : (192G free)
+Mar 29 20:22:47 ERROR: must specify address to print market balance for
+Mar 29 20:22:47 
+Mar 29 20:22:47 NAME:
+Mar 29 20:22:47    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:47 
+Mar 29 20:22:47 USAGE:
+Mar 29 20:22:47    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:47 
+Mar 29 20:22:47 OPTIONS:
+Mar 29 20:22:47    --help, -h  show help (default: false)
+Mar 29 20:22:47    
+Mar 29 20:22:47 
+Mar 29 20:22:48 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:48 Count: 0 of 4
+Mar 29 20:22:48 f0145874 (1 / 1 tries):
+Mar 29 20:22:48 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:48 
+Mar 29 20:22:48 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:48 
+Mar 29 20:22:49 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:49 
+Mar 29 20:22:49 : (192G free)
+Mar 29 20:22:49 ERROR: must specify address to print market balance for
+Mar 29 20:22:49 
+Mar 29 20:22:49 NAME:
+Mar 29 20:22:49    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:49 
+Mar 29 20:22:49 USAGE:
+Mar 29 20:22:49    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:49 
+Mar 29 20:22:49 OPTIONS:
+Mar 29 20:22:49    --help, -h  show help (default: false)
+Mar 29 20:22:49    
+Mar 29 20:22:49 
+Mar 29 20:22:50 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:50 Count: 0 of 4
+Mar 29 20:22:50 f015927 (1 / 1 tries):
+Mar 29 20:22:50 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:50 
+Mar 29 20:22:50 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:50 
+Mar 29 20:22:50 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:50 
+Mar 29 20:22:50 : (192G free)
+Mar 29 20:22:50 ERROR: must specify address to print market balance for
+Mar 29 20:22:50 
+Mar 29 20:22:50 NAME:
+Mar 29 20:22:50    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:50 
+Mar 29 20:22:50 USAGE:
+Mar 29 20:22:50    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:50 
+Mar 29 20:22:50 OPTIONS:
+Mar 29 20:22:50    --help, -h  show help (default: false)
+Mar 29 20:22:50    
+Mar 29 20:22:50 
+Mar 29 20:22:51 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:51 Count: 0 of 4
+Mar 29 20:22:51 f023467 (1 / 1 tries):
+Mar 29 20:22:51 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:51 
+Mar 29 20:22:51 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:51 
+Mar 29 20:22:51 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:51 
+Mar 29 20:22:51 : (192G free)
+Mar 29 20:22:52 ERROR: must specify address to print market balance for
+Mar 29 20:22:52 
+Mar 29 20:22:52 NAME:
+Mar 29 20:22:52    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:52 
+Mar 29 20:22:52 USAGE:
+Mar 29 20:22:52    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:52 
+Mar 29 20:22:52 OPTIONS:
+Mar 29 20:22:52    --help, -h  show help (default: false)
+Mar 29 20:22:52    
+Mar 29 20:22:52 
+Mar 29 20:22:53 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:53 Count: 0 of 4
+Mar 29 20:22:53 f014768 (1 / 1 tries):
+Mar 29 20:22:53 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:53 
+Mar 29 20:22:53 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:53 
+Mar 29 20:22:53 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:53 
+Mar 29 20:22:53 : (194G free)
+Mar 29 20:22:53 ERROR: must specify address to print market balance for
+Mar 29 20:22:53 
+Mar 29 20:22:53 NAME:
+Mar 29 20:22:53    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:53 
+Mar 29 20:22:53 USAGE:
+Mar 29 20:22:53    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:53 
+Mar 29 20:22:53 OPTIONS:
+Mar 29 20:22:53    --help, -h  show help (default: false)
+Mar 29 20:22:53    
+Mar 29 20:22:53 
+Mar 29 20:22:54 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:54 Count: 0 of 4
+Mar 29 20:22:54 f010479 (1 / 1 tries):
+Mar 29 20:22:54 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:54 
+Mar 29 20:22:54 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:54 
+Mar 29 20:22:54 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:54 
+Mar 29 20:22:54 : (194G free)
+Mar 29 20:22:54 ERROR: must specify address to print market balance for
+Mar 29 20:22:54 
+Mar 29 20:22:54 NAME:
+Mar 29 20:22:54    lotus state market balance - Get the market balance (locked and escrowed) for a given account
+Mar 29 20:22:54 
+Mar 29 20:22:54 USAGE:
+Mar 29 20:22:54    lotus state market balance [command options] [arguments...]
+Mar 29 20:22:54 
+Mar 29 20:22:54 OPTIONS:
+Mar 29 20:22:54    --help, -h  show help (default: false)
+Mar 29 20:22:54    
+Mar 29 20:22:54 
+Mar 29 20:22:55 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:55 Count: 0 of 4
+Mar 29 20:22:55 f0127896 (1 / 1 tries):
+Mar 29 20:22:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:56 
+Mar 29 20:22:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Mar 29 20:22:56 
+Mar 29 20:22:56 Skipping f0127896: min-ask
+Mar 29 20:22:56 
+Mar 29 20:22:57 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:22:57 Count: 0 of 4
+Mar 29 20:22:57 f023971 (1 / 1 tries):
+Mar 29 20:22:57 f0421499: 23.348144188477617099 FIL (194G free)
+Mar 29 20:22:57 Escrow: 0.999999997255 FIL
+Mar 29 20:22:57 Locked: 0.24951489052 FIL
+Mar 29 20:22:58 Datacap: 4500723073024
+Mar 29 20:22:58 ...minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 4 of 4
+Mar 29 20:22:58 Ask: f023971
+Mar 29 20:22:58 Price per GiB: 0.00000001 FIL
+Mar 29 20:22:58 Verified Price per GiB: 0 FIL
+Mar 29 20:22:58 Max Piece size: 32 GiB
+Mar 29 20:22:58 Min Piece size: 512 MiB
+Mar 29 20:22:58 Miner: f023971
+Mar 29 20:22:58 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 29 20:22:58 [34mLotus deal-tool[39m
+Mar 29 20:22:58 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 29 20:22:58 Miner: f023971
+Mar 29 20:22:58 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 29 20:22:58 [34mSent:[39m "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa\n"

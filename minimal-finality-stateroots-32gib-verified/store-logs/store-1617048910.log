@@ -1,0 +1,331 @@
+Mar 29 20:15:11 ./client.sh: line 3: lotus: command not found
+Mar 29 20:15:11 ./client.sh: line 3: lotus: command not found
+Mar 29 20:15:11 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:11 Count: 0 of 4
+Mar 29 20:15:11 f023467 (1 / 1 tries):
+Mar 29 20:15:11 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:11 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:11 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:11 : (192G free)
+Mar 29 20:15:11 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:11 
+Mar 29 20:15:13 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:13 Count: 0 of 4
+Mar 29 20:15:13 f02606 (1 / 1 tries):
+Mar 29 20:15:13 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:13 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:13 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:13 : (192G free)
+Mar 29 20:15:13 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:13 
+Mar 29 20:15:14 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:14 Count: 0 of 4
+Mar 29 20:15:14 f019041 (1 / 1 tries):
+Mar 29 20:15:14 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:14 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:14 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:14 : (192G free)
+Mar 29 20:15:14 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:14 
+Mar 29 20:15:15 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:15 Count: 0 of 4
+Mar 29 20:15:15 f01247 (1 / 1 tries):
+Mar 29 20:15:15 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:15 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:15 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:15 : (192G free)
+Mar 29 20:15:15 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:15 
+Mar 29 20:15:16 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:16 Count: 0 of 4
+Mar 29 20:15:16 f01278 (1 / 1 tries):
+Mar 29 20:15:16 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:16 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:16 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:16 : (192G free)
+Mar 29 20:15:16 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:16 
+Mar 29 20:15:17 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:18 Count: 0 of 4
+Mar 29 20:15:18 f02576 (1 / 1 tries):
+Mar 29 20:15:18 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:18 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:18 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:18 : (192G free)
+Mar 29 20:15:18 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:18 
+Mar 29 20:15:19 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:19 Count: 0 of 4
+Mar 29 20:15:19 f010617 (1 / 1 tries):
+Mar 29 20:15:19 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:19 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:19 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:19 : (192G free)
+Mar 29 20:15:19 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:19 
+Mar 29 20:15:20 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:20 Count: 0 of 4
+Mar 29 20:15:20 f09848 (1 / 1 tries):
+Mar 29 20:15:20 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:20 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:20 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:20 : (192G free)
+Mar 29 20:15:20 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:20 
+Mar 29 20:15:21 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:21 Count: 0 of 4
+Mar 29 20:15:21 f0127896 (1 / 1 tries):
+Mar 29 20:15:21 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:21 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:21 Skipping f0127896: min-ask
+Mar 29 20:15:21 
+Mar 29 20:15:22 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:22 Count: 0 of 4
+Mar 29 20:15:22 f021716 (1 / 1 tries):
+Mar 29 20:15:22 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:22 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:22 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:22 : (192G free)
+Mar 29 20:15:22 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:22 
+Mar 29 20:15:23 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:23 Count: 0 of 4
+Mar 29 20:15:23 f0157535 (1 / 1 tries):
+Mar 29 20:15:23 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:23 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:23 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:23 : (192G free)
+Mar 29 20:15:23 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:23 
+Mar 29 20:15:24 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:24 Count: 0 of 4
+Mar 29 20:15:24 f022352 (1 / 1 tries):
+Mar 29 20:15:24 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:24 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:24 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:24 : (192G free)
+Mar 29 20:15:24 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:24 
+Mar 29 20:15:25 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:25 Count: 0 of 4
+Mar 29 20:15:25 f099608 (1 / 1 tries):
+Mar 29 20:15:25 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:25 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:25 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:25 : (192G free)
+Mar 29 20:15:25 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:25 
+Mar 29 20:15:26 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:26 Count: 0 of 4
+Mar 29 20:15:26 f0165400 (1 / 1 tries):
+Mar 29 20:15:26 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:26 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:26 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:26 : (192G free)
+Mar 29 20:15:26 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:26 
+Mar 29 20:15:27 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:27 Count: 0 of 4
+Mar 29 20:15:27 f01277 (1 / 1 tries):
+Mar 29 20:15:27 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:27 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:27 Skipping f01277: min-ask
+Mar 29 20:15:27 
+Mar 29 20:15:28 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:28 Count: 0 of 4
+Mar 29 20:15:28 f066596 (1 / 1 tries):
+Mar 29 20:15:28 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:28 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:28 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:28 : (192G free)
+Mar 29 20:15:28 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:28 
+Mar 29 20:15:29 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:29 Count: 0 of 4
+Mar 29 20:15:29 f071624 (1 / 1 tries):
+Mar 29 20:15:29 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:29 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:30 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:30 : (192G free)
+Mar 29 20:15:30 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:30 
+Mar 29 20:15:31 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:31 Count: 0 of 4
+Mar 29 20:15:31 f010479 (1 / 1 tries):
+Mar 29 20:15:31 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:31 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:31 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:31 : (192G free)
+Mar 29 20:15:31 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:31 
+Mar 29 20:15:32 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:32 Count: 0 of 4
+Mar 29 20:15:32 f0145874 (1 / 1 tries):
+Mar 29 20:15:32 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:32 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:32 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:32 : (192G free)
+Mar 29 20:15:32 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:32 
+Mar 29 20:15:33 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:33 Count: 0 of 4
+Mar 29 20:15:33 f019104 (1 / 1 tries):
+Mar 29 20:15:33 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:33 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:33 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:33 : (191G free)
+Mar 29 20:15:33 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:33 
+Mar 29 20:15:34 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:34 Count: 0 of 4
+Mar 29 20:15:34 f019551 (1 / 1 tries):
+Mar 29 20:15:34 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:34 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:34 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:34 : (191G free)
+Mar 29 20:15:34 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:34 
+Mar 29 20:15:35 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:35 Count: 0 of 4
+Mar 29 20:15:35 f022163 (1 / 1 tries):
+Mar 29 20:15:35 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:35 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:35 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:35 : (191G free)
+Mar 29 20:15:35 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:35 
+Mar 29 20:15:36 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:36 Count: 0 of 4
+Mar 29 20:15:36 f08399 (1 / 1 tries):
+Mar 29 20:15:36 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:36 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:36 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:36 : (192G free)
+Mar 29 20:15:36 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:36 
+Mar 29 20:15:37 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:37 Count: 0 of 4
+Mar 29 20:15:37 f023971 (1 / 1 tries):
+Mar 29 20:15:37 f0421499: 23.362248955980388967 FIL (193G free)
+Mar 29 20:15:38 Escrow: 0.999999997255 FIL
+Mar 29 20:15:38 Locked: 0.24951489052 FIL
+Mar 29 20:15:38 Datacap: 4500723073024
+Mar 29 20:15:38 ..minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 3 of 4
+Mar 29 20:15:38 Ask: f023971
+Mar 29 20:15:38 Price per GiB: 0.00000001 FIL
+Mar 29 20:15:38 Verified Price per GiB: 0 FIL
+Mar 29 20:15:38 Max Piece size: 32 GiB
+Mar 29 20:15:38 Min Piece size: 512 MiB
+Mar 29 20:15:38 Miner: f023971
+Mar 29 20:15:38 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 29 20:15:39 [34mLotus deal-tool[39m
+Mar 29 20:15:39 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 29 20:15:39 Miner: f023971
+Mar 29 20:15:39 2021/03/29 20:15:39 exec: "lotus": executable file not found in $PATH
+Mar 29 20:15:39 
+Mar 29 20:15:40 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:40 Count: 0 of 4
+Mar 29 20:15:40 f062353 (1 / 1 tries):
+Mar 29 20:15:40 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:40 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:40 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:40 : (193G free)
+Mar 29 20:15:40 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:40 
+Mar 29 20:15:41 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:41 Count: 0 of 4
+Mar 29 20:15:41 f01240 (1 / 1 tries):
+Mar 29 20:15:41 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:41 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:41 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:41 : (193G free)
+Mar 29 20:15:41 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:41 
+Mar 29 20:15:42 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:42 Count: 0 of 4
+Mar 29 20:15:42 f08403 (1 / 1 tries):
+Mar 29 20:15:42 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:42 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:43 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:43 : (193G free)
+Mar 29 20:15:43 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:43 
+Mar 29 20:15:44 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:44 Count: 0 of 4
+Mar 29 20:15:44 f014409 (1 / 1 tries):
+Mar 29 20:15:44 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:44 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:44 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:44 : (193G free)
+Mar 29 20:15:44 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:44 
+Mar 29 20:15:45 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:45 Count: 0 of 4
+Mar 29 20:15:45 f015927 (1 / 1 tries):
+Mar 29 20:15:45 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:45 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:45 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:45 : (193G free)
+Mar 29 20:15:45 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:45 
+Mar 29 20:15:46 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:46 Count: 0 of 4
+Mar 29 20:15:46 f019362 (1 / 1 tries):
+Mar 29 20:15:46 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:46 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:46 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:46 : (193G free)
+Mar 29 20:15:46 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:46 
+Mar 29 20:15:47 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:47 Count: 0 of 4
+Mar 29 20:15:47 f01234 (1 / 1 tries):
+Mar 29 20:15:47 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:47 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:47 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:47 : (193G free)
+Mar 29 20:15:47 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:47 
+Mar 29 20:15:48 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:48 Count: 0 of 4
+Mar 29 20:15:48 f07998 (1 / 1 tries):
+Mar 29 20:15:48 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:48 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:48 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:48 : (193G free)
+Mar 29 20:15:48 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:48 
+Mar 29 20:15:49 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:49 Count: 0 of 4
+Mar 29 20:15:49 f014768 (1 / 1 tries):
+Mar 29 20:15:49 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:49 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:49 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:49 : (193G free)
+Mar 29 20:15:49 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:49 
+Mar 29 20:15:50 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:50 Count: 0 of 4
+Mar 29 20:15:50 f058369 (1 / 1 tries):
+Mar 29 20:15:50 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:50 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:50 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:50 : (193G free)
+Mar 29 20:15:50 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:50 
+Mar 29 20:15:51 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:51 Count: 0 of 4
+Mar 29 20:15:51 f022142 (1 / 1 tries):
+Mar 29 20:15:51 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:51 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:51 ./deal.sh: line 23: lotus: command not found
+Mar 29 20:15:51 : (192G free)
+Mar 29 20:15:51 ./deal.sh: line 24: lotus: command not found
+Mar 29 20:15:51 
+Mar 29 20:15:52 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:15:52 Count: 0 of 4
+Mar 29 20:15:52 f019100 (1 / 1 tries):
+Mar 29 20:15:52 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:52 ./deal.sh: line 3: lotus: command not found
+Mar 29 20:15:52 Skipping f019100: error-ask
+Mar 29 20:15:52 
