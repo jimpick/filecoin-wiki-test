@@ -1,0 +1,45 @@
+Mar 29 20:29:21 1234
+Mar 29 20:29:21 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 29 20:29:22 Loading deals f0421499
+Mar 29 20:29:22 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 20:29:22 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 29 20:29:22 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 29 20:29:22 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 20:29:22 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 29 20:29:23 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 29 20:29:23 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 29 20:29:23 f0165400-1642717 f022163-1643006 f019551-1645067 f022352-1642861 f066596-1643069 f023467-1642894 f01234-1642981 f0145874-1642998 f071624-1645163 f010479-1645175 f08399-1645224 f08403-1645153 f015927-1645215
+Mar 29 20:29:23 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:29:54 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:30:24 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:30:55 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:31:25 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:31:55 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:32:26 Retrieving f01234 1642981 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 29 20:32:26   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 20:32:26                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 20:32:26   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   687  100   511  100   176   4961   1708 --:--:-- --:--:-- --:--:--  6669
+Mar 29 20:32:26 {"jsonrpc":"2.0","result":{"Err":"retrieval query offer errored: get cid info: No state for /bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2: datastore: key not found","Root":{"/":"bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"},"Piece":null,"Size":0,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01076","MinerPeer":{"Address":"f01234","ID":"12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB","PieceCID":null}},"id":1}
+Mar 29 20:32:27 ERROR: The received offer errored: retrieval query offer errored: get cid info: No state for /bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2: datastore: key not found
+Mar 29 20:32:27 
+Mar 29 20:32:27 Command exited with non-zero status 1
+Mar 29 20:32:27 0.28user 0.04system 0:00.49elapsed 67%CPU (0avgtext+0avgdata 73284maxresident)k
+Mar 29 20:32:27 0inputs+0outputs (0major+10903minor)pagefaults 0swaps
+Mar 29 20:32:28 f0421499: 23.347622973940599995 FIL (193G free)
+Mar 29 20:32:28 Skipping ahead
+Mar 29 20:32:28 
+Mar 29 20:32:29 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 20:32:29 f071624-1643068 f09848-1642933 f022142-1645157 f058369-1645147 f019551-1645164 f01278-1645170 f01234-1645250 f08399-1645225 f08403-1645178
+Mar 29 20:32:29 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:33:00 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:33:35 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:34:50 Retrieving f058369 1645147 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 20:34:50   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 20:34:50                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 20:34:50   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177  20315   9315 --:--:-- --:--:-- --:--:-- 29631
+Mar 29 20:34:50 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f057190","MinerPeer":{"Address":"f058369","ID":"12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh","PieceCID":null}},"id":1}
+Mar 29 20:34:50 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 29 20:34:50 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 29 20:34:50 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Mar 29 20:35:17 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 29 20:35:17 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

@@ -1,0 +1,27 @@
+Mar 29 21:33:54 1234
+Mar 29 21:33:54 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 29 21:33:54 Loading deals f0421499
+Mar 29 21:33:54 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 21:33:54 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 29 21:33:54 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 29 21:33:54 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 21:33:54 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 29 21:33:54 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 29 21:33:55 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 21:33:55 f071624-1643068 f09848-1642933 f022142-1645157 f058369-1645147 f019551-1645164 f01278-1645170 f0165400-1645269 f01234-1645250 f08399-1645225 f08403-1645178 f066596-1645275
+Mar 29 21:33:55 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:33:56 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:33:58 Already have log for f022142 1645157 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:33:59 Already have log for f058369 1645147 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:34:00 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:34:02 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:34:04 Retrieving f0165400 1645269 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 21:34:04   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 21:34:04                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 21:34:04   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   566  100   388  100   178  29846  13692 --:--:-- --:--:-- --:--:-- 43538
+Mar 29 21:34:04 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0165394","MinerPeer":{"Address":"f0165400","ID":"12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM","PieceCID":null}},"id":1}
+Mar 29 21:34:04 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 29 21:34:04 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 29 21:34:04 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Mar 29 21:34:06 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 29 21:34:06 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

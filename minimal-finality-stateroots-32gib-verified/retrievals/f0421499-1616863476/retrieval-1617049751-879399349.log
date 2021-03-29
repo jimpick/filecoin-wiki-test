@@ -1,0 +1,39 @@
+Mar 29 20:29:12 1234
+Mar 29 20:29:12 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 29 20:29:12 Loading deals f0421499
+Mar 29 20:29:12 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 20:29:12 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 29 20:29:12 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 29 20:29:13 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 20:29:13 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 29 20:29:13 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 29 20:29:13 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 20:29:13 f0145874-1639395 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Mar 29 20:29:13 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:29:44 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:30:14 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:30:50 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:31:20 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:31:51 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:32:22 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 29 20:32:24 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 29 20:32:26 Already have log for f023467 1641041 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 29 20:32:28 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:32:59 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:33:29 
+Mar 29 20:33:30 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 20:33:30 f071624-1643068 f09848-1642933 f022142-1645157 f058369-1645147 f019551-1645164 f01278-1645170 f01234-1645250 f08399-1645225 f08403-1645178
+Mar 29 20:33:35 Mpool pending 1, skipping + sleeping 30s
+Mar 29 20:34:50 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 20:34:51 Already have log for f022142 1645157 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 20:35:15 Already have log for f058369 1645147 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 20:35:17 Retrieving f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 20:35:17   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 20:35:17                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 20:35:17   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   4541   2082 --:--:-- --:--:-- --:--:--  6623
+Mar 29 20:35:17 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f019519","MinerPeer":{"Address":"f019551","ID":"12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3","PieceCID":null}},"id":1}
+Mar 29 20:35:17 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 29 20:35:17 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 29 20:35:17 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Mar 29 20:35:19 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 29 20:35:19 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

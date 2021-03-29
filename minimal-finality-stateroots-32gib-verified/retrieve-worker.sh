@@ -5,6 +5,12 @@ echo $PORT
 TOKEN=$(lotus auth api-info --perm admin | grep FULLNODE_API_INFO | sed 's,^FULLNODE_API_INFO=\(.*\):.*,\1,')
 echo $TOKEN
 
+if [ -f drain ]; then
+  echo 'Draining, exiting...'
+  sleep 5
+  exit
+fi
+
 TARGET_DIR=$1
 if [ -z "$TARGET_DIR" ]; then
   echo "Need target dir"
@@ -38,6 +44,12 @@ fi
 COUNTER=1
 mkdir -p tmp
 for x in $(grep ^minimal $CHECK | shuf); do
+  if [ -f drain ]; then
+    echo 'Draining, exiting...'
+    sleep 5
+    exit
+  fi
+
 	echo $((COUNTER++)) $x
 	#cat $x*.deal > tmp/deals.txt
 	#cat $CHECK | awk "/$x/,/^$/ { print }" | grep 'Active\|Sealing'
@@ -46,12 +58,19 @@ for x in $(grep ^minimal $CHECK | shuf); do
 	echo $DEALS
 	#continue
 	#wiki.zip.ae.an.t08106.import
+
 	if [ -f $x.$CLIENT.import ]; then
 		echo Already imported, skipping
 		continue
 	fi
   	COUNTER=0
 	for d in $(echo $DEALS | shuf); do
+    if [ -f drain ]; then
+      echo 'Draining, exiting...'
+      sleep 5
+      exit
+    fi
+
     PENDING=$(lotus mpool pending --local | jq -s length)
     if [ "$PENDING" != "0" ]; then
       echo "Mpool pending $PENDING, skipping + sleeping 30s"
@@ -73,7 +92,7 @@ for x in $(grep ^minimal $CHECK | shuf); do
         continue
       fi
 
-			/usr/bin/time timeout -k 41m 40m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
+			/usr/bin/time timeout -k 121m 120m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
       rm -rf $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"

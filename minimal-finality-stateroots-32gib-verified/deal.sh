@@ -28,6 +28,12 @@ count=0
 total=`ls *.cid.store | wc -l`
 # for CID_FILE in `ls *.cid | grep -v wiki.02 | grep -v wiki.09 | grep -v wiki.04`; do
 for CID_FILE in `ls *.cid.store`; do
+  if [ -f drain ]; then
+    echo 'Draining, exiting...'
+    sleep 5
+    exit
+  fi
+
 	#echo $f $((++count)) of $total
 	BASE=$(echo $CID_FILE | sed 's,\.cid.store,,')
 	DEAL_FILE=$BASE.$CLIENT.deal

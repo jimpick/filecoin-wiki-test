@@ -5,3 +5,4 @@ tmp
 .retrieval-epoch
 *.gz
 skip-miners
+drain

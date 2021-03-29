@@ -48,6 +48,12 @@ console.log(filtered.join("\n"))
 ')
 
   for m in $MINERS; do
+    if [ -f drain ]; then
+      echo 'Draining, exiting...'
+      sleep 5
+      exit
+    fi
+
     COUNT=$(ls *.$CLIENT.deal | wc -l)
     echo "Count:" $COUNT "of" $NUM_CIDS
     if [ "$COUNT" != "$NUM_CIDS" ]; then

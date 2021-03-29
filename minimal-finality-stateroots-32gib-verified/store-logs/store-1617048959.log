@@ -401,3 +401,215 @@ Mar 29 20:22:58 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg7
 Mar 29 20:22:58 Miner: f023971
 Mar 29 20:22:58 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
 Mar 29 20:22:58 [34mSent:[39m "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa\n"
+Mar 29 20:27:27 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 29 20:27:27 [0mDeal duration (days): 
+Mar 29 20:27:27 [34mSent:[39m "180\n"
+Mar 29 20:27:27 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 29 20:27:27 Make this a verified deal? (yes/no): 
+Mar 29 20:27:27 [34mSent:[39m "yes\n"
+Mar 29 20:27:27 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 29 20:27:27 [34mSent:[39m "f023971\n"
+Mar 29 20:27:27 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 29 20:27:27 [0m-----
+Mar 29 20:27:27 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 29 20:27:27 	Balance: 23.348144188477617099 FIL
+Mar 29 20:27:27 
+Mar 29 20:27:27 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 29 20:27:27 Duration: 4320h0m0s
+Mar 29 20:27:27 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 29 20:27:27 Verified: true
+Mar 29 20:27:27 
+Mar 29 20:27:27 Accept (yes/no): 
+Mar 29 20:27:27 Price: 0
+Mar 29 20:27:27 [34mSent:[39m "yes\n"
+Mar 29 20:27:29 [32mFinal result: [34m.. executing
+Mar 29 20:27:29 [0mDeal (f023971) CID: [32mbafyreieu35p5u3hvdmqpuh2qxac56wpnsqsul3igrpt6fe33x5hmdilxxi[0m
+Mar 29 20:27:29 
+Mar 29 20:27:29 [39m
+Mar 29 20:27:29 [32mDeal CID: bafyreieu35p5u3hvdmqpuh2qxac56wpnsqsul3igrpt6fe33x5hmdilxxi
+Mar 29 20:27:29 
+Mar 29 20:27:29 [39m
+Mar 29 20:27:29 Wrote bafyreieu35p5u3hvdmqpuh2qxac56wpnsqsul3igrpt6fe33x5hmdilxxi
+Mar 29 20:27:29  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab.f0421499.deal
+Mar 29 20:27:29 
+Mar 29 20:27:30 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:27:30 Count: 0 of 4
+Mar 29 20:27:30 f014409 (1 / 1 tries):
+Mar 29 20:27:31 f0421499: 23.348144188477617099 FIL (194G free)
+Mar 29 20:27:31 Escrow: 0.999999997255 FIL
+Mar 29 20:27:31 Locked: 0.24951489052 FIL
+Mar 29 20:27:32 Datacap: 4466363334656
+Mar 29 20:27:32 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 1 of 4
+Mar 29 20:27:33 Ask: f014409
+Mar 29 20:27:33 Price per GiB: 0.000001 FIL
+Mar 29 20:27:33 Verified Price per GiB: 0 FIL
+Mar 29 20:27:33 Max Piece size: 32 GiB
+Mar 29 20:27:33 Min Piece size: 4 GiB
+Mar 29 20:27:33 Miner: f014409
+Mar 29 20:27:33 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 29 20:27:33 [34mLotus deal-tool[39m
+Mar 29 20:27:33 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 29 20:27:33 Miner: f014409
+Mar 29 20:27:33 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 29 20:27:33 [34mSent:[39m "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2\n"
+Mar 29 20:31:13 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 29 20:31:13 [0mDeal duration (days): 
+Mar 29 20:31:13 [34mSent:[39m "180\n"
+Mar 29 20:31:13 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 29 20:31:13 Make this a verified deal? (yes/no): 
+Mar 29 20:31:13 [34mSent:[39m "yes\n"
+Mar 29 20:31:13 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 29 20:31:13 [34mSent:[39m "f014409\n"
+Mar 29 20:31:13 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 29 20:31:13 [0m-----
+Mar 29 20:31:13 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 29 20:31:13 	Balance: 23.348144188477617099 FIL
+Mar 29 20:31:13 
+Mar 29 20:31:13 Piece size: 32GiB (Payload size: 16.64GiB)
+Mar 29 20:31:13 Duration: 4320h0m0s
+Mar 29 20:31:13 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 29 20:31:13 Verified: true
+Mar 29 20:31:13 
+Mar 29 20:31:13 Accept (yes/no): 
+Mar 29 20:31:13 Price: 0
+Mar 29 20:31:13 [34mSent:[39m "yes\n"
+Mar 29 20:31:15 [32mFinal result: [34m.. executing
+Mar 29 20:31:15 [0mDeal (f014409) CID: [32mbafyreif27i6iqb5udb7v2ujwk7uivht4xpnupatoko35lb77djttpb7q6m[0m
+Mar 29 20:31:15 
+Mar 29 20:31:15 [39m
+Mar 29 20:31:15 [32mDeal CID: bafyreif27i6iqb5udb7v2ujwk7uivht4xpnupatoko35lb77djttpb7q6m
+Mar 29 20:31:15 
+Mar 29 20:31:15 [39m
+Mar 29 20:31:15 Wrote bafyreif27i6iqb5udb7v2ujwk7uivht4xpnupatoko35lb77djttpb7q6m
+Mar 29 20:31:15  to minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa.f0421499.deal
+Mar 29 20:31:15 
+Mar 29 20:31:16 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:16 Count: 0 of 4
+Mar 29 20:31:16 f08399 (1 / 1 tries):
+Mar 29 20:31:17 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:17 Escrow: 0.999999997255 FIL
+Mar 29 20:31:17 Locked: 0.24951489052 FIL
+Mar 29 20:31:17 Datacap: 4432003596288
+Mar 29 20:31:17 ....
+Mar 29 20:31:18 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:18 Count: 0 of 4
+Mar 29 20:31:18 f019551 (1 / 1 tries):
+Mar 29 20:31:18 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:19 Escrow: 0.999999997255 FIL
+Mar 29 20:31:19 Locked: 0.24951489052 FIL
+Mar 29 20:31:19 Datacap: 4432003596288
+Mar 29 20:31:19 ....
+Mar 29 20:31:20 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:20 Count: 0 of 4
+Mar 29 20:31:20 f099608 (1 / 1 tries):
+Mar 29 20:31:20 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:21 Escrow: 0.999999997255 FIL
+Mar 29 20:31:21 Locked: 0.24951489052 FIL
+Mar 29 20:31:21 Datacap: 4432003596288
+Mar 29 20:31:21 ....
+Mar 29 20:31:22 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:22 Count: 0 of 4
+Mar 29 20:31:22 f021716 (1 / 1 tries):
+Mar 29 20:31:22 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:22 Escrow: 0.999999997255 FIL
+Mar 29 20:31:22 Locked: 0.24951489052 FIL
+Mar 29 20:31:23 Datacap: 4432003596288
+Mar 29 20:31:23 ....
+Mar 29 20:31:24 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:24 Count: 0 of 4
+Mar 29 20:31:24 f022352 (1 / 1 tries):
+Mar 29 20:31:24 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:24 Escrow: 0.999999997255 FIL
+Mar 29 20:31:24 Locked: 0.24951489052 FIL
+Mar 29 20:31:24 Datacap: 4432003596288
+Mar 29 20:31:24 ....
+Mar 29 20:31:25 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:25 Count: 0 of 4
+Mar 29 20:31:25 f01234 (1 / 1 tries):
+Mar 29 20:31:26 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:26 Escrow: 0.999999997255 FIL
+Mar 29 20:31:26 Locked: 0.24951489052 FIL
+Mar 29 20:31:26 Datacap: 4432003596288
+Mar 29 20:31:27 ....
+Mar 29 20:31:28 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:28 Count: 0 of 4
+Mar 29 20:31:28 f019104 (1 / 1 tries):
+Mar 29 20:31:28 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:28 Escrow: 0.999999997255 FIL
+Mar 29 20:31:28 Locked: 0.24951489052 FIL
+Mar 29 20:31:29 Datacap: 4432003596288
+Mar 29 20:31:29 ....
+Mar 29 20:31:30 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:30 Count: 0 of 4
+Mar 29 20:31:30 f01240 (1 / 1 tries):
+Mar 29 20:31:30 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:30 Escrow: 0.999999997255 FIL
+Mar 29 20:31:30 Locked: 0.24951489052 FIL
+Mar 29 20:31:30 Datacap: 4432003596288
+Mar 29 20:31:30 ....
+Mar 29 20:31:31 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:31 Count: 0 of 4
+Mar 29 20:31:31 f09848 (1 / 1 tries):
+Mar 29 20:31:32 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:32 Escrow: 0.999999997255 FIL
+Mar 29 20:31:32 Locked: 0.24951489052 FIL
+Mar 29 20:31:32 Datacap: 4432003596288
+Mar 29 20:31:32 ....
+Mar 29 20:31:33 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:33 Count: 0 of 4
+Mar 29 20:31:33 f019100 (1 / 1 tries):
+Mar 29 20:31:34 Skipping f019100: error-ask
+Mar 29 20:31:34 
+Mar 29 20:31:35 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:35 Count: 0 of 4
+Mar 29 20:31:35 f02576 (1 / 1 tries):
+Mar 29 20:31:35 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:35 Escrow: 0.999999997255 FIL
+Mar 29 20:31:35 Locked: 0.24951489052 FIL
+Mar 29 20:31:35 Datacap: 4432003596288
+Mar 29 20:31:35 ....
+Mar 29 20:31:36 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:36 Count: 0 of 4
+Mar 29 20:31:36 f066596 (1 / 1 tries):
+Mar 29 20:31:37 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:37 Escrow: 0.999999997255 FIL
+Mar 29 20:31:37 Locked: 0.24951489052 FIL
+Mar 29 20:31:37 Datacap: 4432003596288
+Mar 29 20:31:37 ....
+Mar 29 20:31:38 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:38 Count: 0 of 4
+Mar 29 20:31:38 f02606 (1 / 1 tries):
+Mar 29 20:31:39 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:39 Escrow: 0.999999997255 FIL
+Mar 29 20:31:39 Locked: 0.24951489052 FIL
+Mar 29 20:31:39 Datacap: 4432003596288
+Mar 29 20:31:40 ....
+Mar 29 20:31:41 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:41 Count: 0 of 4
+Mar 29 20:31:41 f019362 (1 / 1 tries):
+Mar 29 20:31:41 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:42 Escrow: 0.999999997255 FIL
+Mar 29 20:31:42 Locked: 0.24951489052 FIL
+Mar 29 20:31:42 Datacap: 4432003596288
+Mar 29 20:31:42 ....
+Mar 29 20:31:43 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:43 Count: 0 of 4
+Mar 29 20:31:43 f01247 (1 / 1 tries):
+Mar 29 20:31:43 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:43 Escrow: 0.999999997255 FIL
+Mar 29 20:31:43 Locked: 0.24951489052 FIL
+Mar 29 20:31:44 Datacap: 4432003596288
+Mar 29 20:31:44 ....
+Mar 29 20:31:45 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:45 Count: 0 of 4
+Mar 29 20:31:45 f01278 (1 / 1 tries):
+Mar 29 20:31:45 f0421499: 23.348144188477617099 FIL (193G free)
+Mar 29 20:31:45 Escrow: 0.999999997255 FIL
+Mar 29 20:31:45 Locked: 0.24951489052 FIL
+Mar 29 20:31:45 Datacap: 4432003596288
+Mar 29 20:31:45 ....
+Mar 29 20:31:46 ls: cannot access '*..deal': No such file or directory
+Mar 29 20:31:46 Count: 0 of 4
+Mar 29 20:31:46 f01277 (1 / 1 tries):
+Mar 29 20:31:47 Skipping f01277: min-ask
+Mar 29 20:31:47 
