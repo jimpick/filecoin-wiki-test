@@ -1,0 +1,56 @@
+Mar 29 17:10:14 ./retrieve-worker.sh: line 3: lotus: command not found
+Mar 29 17:10:14 
+Mar 29 17:10:14 ./retrieve-worker.sh: line 5: lotus: command not found
+Mar 29 17:10:14 
+Mar 29 17:10:14 ./retrieve-worker.sh: line 14: lotus: command not found
+Mar 29 17:10:14 ./retrieve-worker.sh: line 14: lotus: command not found
+Mar 29 17:10:14 Loading deals f0421499
+Mar 29 17:10:14 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 17:10:14 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 29 17:10:15 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 29 17:10:15 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 17:10:15 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 17:10:15 f071624-1643068 f09848-1642933
+Mar 29 17:10:15 ./retrieve-worker.sh: line 55: lotus: command not found
+Mar 29 17:10:15 Retrieving f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 17:10:15   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 17:10:15                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 17:10:15   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0     0  100   177      0   6321 --:--:-- --:--:-- --:--:--  6321
+Mar 29 17:10:15 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 29 17:10:15 Command exited with non-zero status 127
+Mar 29 17:10:15 0.00user 0.00system 0:00.02elapsed 8%CPU (0avgtext+0avgdata 2072maxresident)k
+Mar 29 17:10:15 8inputs+0outputs (1major+168minor)pagefaults 0swaps
+Mar 29 17:10:15 ./retrieve-worker.sh: line 79: lotus: command not found
+Mar 29 17:10:15 : (249G free)
+Mar 29 17:10:15 Skipping ahead
+Mar 29 17:10:15 
+Mar 29 17:10:16 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 29 17:10:16 f0145874-1639395 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Mar 29 17:10:16 ./retrieve-worker.sh: line 55: lotus: command not found
+Mar 29 17:10:17 Retrieving f0145874 1639395 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 29 17:10:17   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 17:10:17                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 17:10:17   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   178    0     0  100   178      0   173k --:--:-- --:--:-- --:--:--  173k
+Mar 29 17:10:17 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 29 17:10:17 Command exited with non-zero status 127
+Mar 29 17:10:17 0.00user 0.00system 0:00.01elapsed 8%CPU (0avgtext+0avgdata 2192maxresident)k
+Mar 29 17:10:17 0inputs+0outputs (0major+170minor)pagefaults 0swaps
+Mar 29 17:10:17 ./retrieve-worker.sh: line 79: lotus: command not found
+Mar 29 17:10:17 : (249G free)
+Mar 29 17:10:17 Skipping ahead
+Mar 29 17:10:17 
+Mar 29 17:10:18 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 29 17:10:18 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f099608-1640642 f01240-1640769 f0145874-1640738 f02576-1640964 f015927-1641099 f010479-1641179
+Mar 29 17:10:18 ./retrieve-worker.sh: line 55: lotus: command not found
+Mar 29 17:10:18 Retrieving f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 29 17:10:18   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 29 17:10:18                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 29 17:10:18   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   176    0     0  100   176      0   171k --:--:-- --:--:-- --:--:--  171k
+Mar 29 17:10:18 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 29 17:10:18 Command exited with non-zero status 127
+Mar 29 17:10:18 0.00user 0.00system 0:00.02elapsed 3%CPU (0avgtext+0avgdata 2112maxresident)k
+Mar 29 17:10:18 0inputs+0outputs (0major+169minor)pagefaults 0swaps
+Mar 29 17:10:18 ./retrieve-worker.sh: line 79: lotus: command not found
+Mar 29 17:10:18 : (249G free)
+Mar 29 17:10:18 Skipping ahead
+Mar 29 17:10:18 

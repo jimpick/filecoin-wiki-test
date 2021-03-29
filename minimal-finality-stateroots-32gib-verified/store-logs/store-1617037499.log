@@ -1,0 +1,26 @@
+Mar 29 17:04:59 Count: 1 of 2
+Mar 29 17:04:59 f019362 (1 / 1 tries):
+Mar 29 17:05:00 f0421499: 23.365515885384777552 FIL (248G free)
+Mar 29 17:05:00 Escrow: 1 FIL
+Mar 29 17:05:00 Locked: 0.166486893265 FIL
+Mar 29 17:05:01 Datacap: 4947399671808
+Mar 29 17:05:01 ..
+Mar 29 17:05:02 Count: 1 of 2
+Mar 29 17:05:02 f022142 (1 / 1 tries):
+Mar 29 17:05:02 f0421499: 23.365515885384777552 FIL (248G free)
+Mar 29 17:05:02 Escrow: 1 FIL
+Mar 29 17:05:02 Locked: 0.166486893265 FIL
+Mar 29 17:05:02 Datacap: 4947399671808
+Mar 29 17:05:02 .minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab 2 of 2
+Mar 29 17:05:03 Ask: f022142
+Mar 29 17:05:03 Price per GiB: 0.00000002 FIL
+Mar 29 17:05:03 Verified Price per GiB: 0 FIL
+Mar 29 17:05:03 Max Piece size: 32 GiB
+Mar 29 17:05:03 Min Piece size: 2 GiB
+Mar 29 17:05:03 Miner: f022142
+Mar 29 17:05:03 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 17:05:03 [34mLotus deal-tool[39m
+Mar 29 17:05:03 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 17:05:03 Miner: f022142
+Mar 29 17:05:03 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 29 17:05:03 [34mSent:[39m "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g\n"
