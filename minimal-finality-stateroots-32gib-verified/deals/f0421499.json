@@ -1,44 +1,14 @@
 [
   {
-    "miner": "f010479",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreicqowhuurylgbhu2koe3o7btwb7sguu7pcsqhdwbp6timl4y3a6mm",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f010617",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreig4aq4lfwqrdggftp2y5m62skfmlrhupgm6co623jwiscvfdnynhu",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
     "miner": "f01234",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreiecn32ux7igltycohzmhcmhujvrxsw25h3lxlksm36du3iznjwf44",
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
-    "miner": "f01240",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreifrd7eirkd2cjg3qjaq2rttbnbbchz3dg3jyi3los2kr5hsngw7ee",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f01247",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreigmsj6rmwv4cp6svqarzt33aokendauwu7c3b5mtoimwfqpkgieu4",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
     "miner": "f01278",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreig7uy6hxohwzyxhwe66zjxy6knnkkf6z2uc4a4xoiwr7ltcg2nl2a",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f014409",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreiffldvo23iwtalqknqtc3g2k6jpidixqbmx5r3rfmx3koevv4iwha",
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
@@ -66,45 +36,9 @@
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
-    "miner": "f0165400",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreifzv3fgvxqnq4dfy6hme53qno26docbgg2vpruri6qp2ahifggthu",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f019041",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreie5lsg4n2zrf3idbgod27pvow2gnyzwddlkkixfovayo73v4uso5u",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f019104",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreiglcezi46auqfttkmxcpwxzo5nrqbf3awfc6mfmc6dbm6og3sjzc4",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f019362",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreidvrexf7pprjkppufxnykzgozebvws6qmvc4oukpm6p7rqg6tp4qi",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
     "miner": "f019551",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreieq2jvit5lxr7bzaeu6ybwaglq7cxaj3vxnekk2ej7mkgpqsx53cy",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f021716",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreicrbct7s2wc26fvwttip6fzty6gj6xusl6irnt72newgiqzrtgmmm",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f022163",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreiax2u65j6bmtcrp6r3vpztck747ft47szbu66a7oa5z2km5gt6ava",
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
@@ -123,12 +57,6 @@
     "miner": "f023971",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreifxmperxovxz57ecbc2duheicmkwzca3a32ibohxlp2vvgs4l3bby",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f02606",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreieruiz4eumgjgllhc67t3ev7wwmhmtgj4fs5bvtrwkbg5b37gthpe",
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
@@ -156,12 +84,6 @@
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
-    "miner": "f07998",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreig3oqybjzia4jh2iedtxo6vz5jwktacxt7wk2d4odzoyfor3pzplu",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
     "miner": "f08399",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreigr2c7wpqkrmknlcsw27jekjgo2onoxbilalktctnfmdsigdyap6i",
@@ -171,18 +93,6 @@
     "miner": "f08403",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
     "dealCid": "bafyreieycxrrfywmyx6qvtecnq6i4dweiswgm3yjzk2abzmt3fl35566si",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f09848",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreiaf7mpdeytkpvs7clmjy5sibhplyigvl2haj2hkyij62qu5fqbdze",
-    "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-  },
-  {
-    "miner": "f099608",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa",
-    "dealCid": "bafyreibxef6zsdr7mbm4wcirbhc4sarwlbul7gcskxiuaoizqxjsum32yq",
     "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
   },
   {
@@ -204,21 +114,9 @@
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
-    "miner": "f01247",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreifrplunobxzpxxs4i3aq5qdhq6d5jtobwradlb5vwjoor36ouwsye",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
     "miner": "f01278",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
     "dealCid": "bafyreieykwnweuk2r5lf6bq3waty45mxojsf7bheesa4vj7whmnd6jsjzm",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f014409",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreifm5b7lts5r6webqp3dzkxzxxuntwcb6dbrket6j3auhtqaueqjvq",
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
@@ -234,51 +132,9 @@
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
-    "miner": "f0157535",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreicdw7aytofo4nkporbeft3wjcbl3wxaouqohma53j6m2cu2rquayu",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
     "miner": "f015927",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
     "dealCid": "bafyreihtenot37xp4474pdqtv7wzlkwb7r6rshx6eoyyfmw3dhpvdp2goy",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f0165400",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreidogagk37dajo5n2yj7bud5n3aotctuelgkkokowdxhgf2p4fbnna",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f019041",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreiaaeowqkpcq7eaqwetbutebafrc6kp432634wsjqufeqrplik5324",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f019104",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreiea5foatueev54efc4gqbbrszb6isrnxyyxozdtfenrtdqwfgflcm",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f019362",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreiafwn2725tymbktzghpa4pzjpx5xrh2cmafmtws5pojioxbjenbmi",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f021716",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreigjstc52ymp33hwefcutak6d3vqokfvhvbaod6zqdahm54ne2r6cq",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f022142",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreifduqej4pfisvooyo26gcox53cmzc3s3t2rgntu42ldbsh4ojnqoq",
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
@@ -294,27 +150,9 @@
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
-    "miner": "f023971",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreidslqia7hps7yxn36zbhvngksrxal23iceukrpxl6a2pcjf3rh5cy",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
     "miner": "f02576",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
     "dealCid": "bafyreie27mxbgkbj7bt2vcmkbnl2yfpnkkc3m4hoanuiq6sunlz5cdyzom",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f02606",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreigu3x6oa76o7od6ez34oaz5hyf7nrvffmsy7vzlsqbswj3blyqaxm",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f058369",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreieswlg4nftrulxoizrcyoywhv45ci3xlenp66hoxxz62v46ibwfqu",
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
@@ -324,21 +162,9 @@
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
-    "miner": "f066596",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreiex7hjbk3bvlstmh5q3o3bpuyaqea5gzgripsarvbcomp7orhi6bi",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
     "miner": "f071624",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
     "dealCid": "bafyreifipm2a7o2h6xfstrhh3mulowpo3apecpsgjvcyfoexaahedh5tka",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f07998",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreifmz3kvv367v7tilrbh7tb53gj57oph2ooa6bk6unmykacxbjh4ci",
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
@@ -351,12 +177,6 @@
     "miner": "f08403",
     "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
     "dealCid": "bafyreigxc4cy72yu3aofctvjpgluchnj6invyceabm4vxforqzt6abxqnq",
-    "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
-  },
-  {
-    "miner": "f09848",
-    "file": "minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab",
-    "dealCid": "bafyreih4vomgpuin4cwkyo6raegtergppu4uz4hkq232kt4ngwlyrq4cpm",
     "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"
   },
   {
@@ -374,7 +194,7 @@
   {
     "miner": "f010617",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreiai76qjfrcwvdbyuozzb7fhrd5pb3u5ubls3a425hhe7beayhiqau",
+    "dealCid": "bafyreihsud5hvtxvekbugwc3xdmw2bmynfn5q75tfhm5lbm7oo2fw7t2nq",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -386,7 +206,7 @@
   {
     "miner": "f01240",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreigeo5prshxme73euqrkpk4welp745yptfeeypghcves4pj4jz3tgu",
+    "dealCid": "bafyreihzsm47iipfvsbrn3ezx5flywdznoqccrv2rit77kiky7rxk3jtvq",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -404,7 +224,7 @@
   {
     "miner": "f014409",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreif27i6iqb5udb7v2ujwk7uivht4xpnupatoko35lb77djttpb7q6m",
+    "dealCid": "bafyreiauox3xpm7tl7zfx22zwu527tzuybjaxnzz7nqmh6wfphwvjzmjla",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -422,7 +242,7 @@
   {
     "miner": "f0157535",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreiggeyw4jkvrspkvzdraknfbh2qonx4o4lbsq35ihgjmyxmfm7al44",
+    "dealCid": "bafyreihnkl2dmuacdgbswq2mrdielwhcui5qwizzfwr73z3gibpzih5a44",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -438,24 +258,6 @@
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
-    "miner": "f019041",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreicyl6qp3vsfrm44r3ezngjkyswihxncl2xxwvbjpmssqfyf2wvq4u",
-    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-  },
-  {
-    "miner": "f019104",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreifwy6hzqtgixhjj2uqpawwaicvdxfhfp5fzmzfegucsenvs2vvprm",
-    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-  },
-  {
-    "miner": "f019362",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreie4fmq7rbgmuh2fxoqsmych3eofpbevfce2dwxrkjjdhsikoctteq",
-    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-  },
-  {
     "miner": "f019551",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
     "dealCid": "bafyreicjldndckpzcfxm37v7g342youftiqce3y2a6rxim2iwemkgasgim",
@@ -464,7 +266,7 @@
   {
     "miner": "f021716",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreicxxw7dghiprd5xmcebcnxvua3nxhve66dr6i3y5kgd6smbvka4oi",
+    "dealCid": "bafyreiggwvssovk4hlnipff2m7gzw2loljqmgadl6fwxrk3tqmwcnqhwiy",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -492,21 +294,9 @@
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
-    "miner": "f023971",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreihx6fea5tlcwmgxnzvva7z4fgn3czdf7zalz6hrcus2hqvso7n454",
-    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-  },
-  {
     "miner": "f02576",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreictevakplymgwbfg3jdpurxdxez2zrwency2stcdgera63t6kcjv4",
-    "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-  },
-  {
-    "miner": "f02606",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreibukvfe55qqelljomezclqufiusdd5z5klk5veqssq2v4usfp473a",
+    "dealCid": "bafyreifvnlm7oz2x23sbzwuencbjzlmf3nfupypbwkwvm6ld4beikxm5uu",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
@@ -560,19 +350,13 @@
   {
     "miner": "f099608",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa",
-    "dealCid": "bafyreiczhobwd4gvpg5ygpmltr74l5q6jpdyhiadfj7hqm7r4xtofztt4u",
+    "dealCid": "bafyreigbpmyfn7ibnxynwsfhljoqxq5fna7zqwp6rlbmjou7tjgyujtfom",
     "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
   },
   {
     "miner": "f010479",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreibts27pvstvc44dvanlv2626butlu3lbbz5v5z5o5nvbjmlkcsaxu",
-    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-  },
-  {
-    "miner": "f010617",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreidgnztc6uferpernr3y4tvbhgd44n2ky3h4z7w2cjzg47fxtmnwcq",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -602,7 +386,7 @@
   {
     "miner": "f014409",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreifzwotqtebjonprgkur2k4nsxjiwa3bn3qnet3wiowuzufykw2sbm",
+    "dealCid": "bafyreic6i2qor6tjrjrat6wnt2yab66smd55zhgszxpk25jida3dvm5ake",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -620,7 +404,7 @@
   {
     "miner": "f0157535",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreicfg4kko3hefgp5dgoia4vx3yitwvsju5vd3lwnznfd35wkfyphmm",
+    "dealCid": "bafyreiafkeixlpk4zmk77oecno5m77losfx2wazcu7tbzb5c2j2gstwwga",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -642,27 +426,15 @@
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
-    "miner": "f019104",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreifvwtcfq2pc7f6lxczcfuu3672tibvrlzlwm2mu3rmuh6ok6hhexm",
-    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-  },
-  {
     "miner": "f019362",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreicdpdpi4igpvsggfcriyusr46aow4q3qx36dzjy3sd4hg5hpfg2gy",
+    "dealCid": "bafyreigpqtsnpjmi6d7eajxmrjocmaoomehbifdxmrbdvtotmqxqctsrqa",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
     "miner": "f019551",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
     "dealCid": "bafyreih2pbp4imcdmtkcfitwmhgq4yl3lijqu4qofyrpsm45eiimpajxce",
-    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-  },
-  {
-    "miner": "f021716",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreiekvadofhurqvzor2evvxwww4jbttzzy44m42prbr24khbjhm57vu",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -690,21 +462,15 @@
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
-    "miner": "f023971",
-    "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreiccwf4m66b7mftaxtaht6frdk7irbobbtrozm274sjs27j6tgto34",
-    "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-  },
-  {
     "miner": "f02576",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreibsc3wiixfs2igrihhsc7m5w56dutjkmnh3yje54xzar5lfwda4t4",
+    "dealCid": "bafyreibqlcsrxm75fog35hhclsxglkxts2hvog6njclmce6ljjxmdoqkna",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
     "miner": "f02606",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreiagvpo6gqet6k3g4onyd2tt52kz44clxdxgluhjuplzse5oijblnu",
+    "dealCid": "bafyreiaar75mx5a5hrvipshgaiw73k77quysrhky3fqiafj3ymuiors4ha",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -734,7 +500,7 @@
   {
     "miner": "f07998",
     "file": "minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab",
-    "dealCid": "bafyreia2sjm7iyswyauoi64ofdn7tzm2e44nbqlwhgzlqzl7w4ngxf3zea",
+    "dealCid": "bafyreihhglc52ewo7ri4zlyhghfjafxofoq26rdpo5boayf7itmv3hyau4",
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
@@ -762,15 +528,51 @@
     "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
   },
   {
-    "miner": "f014409",
-    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
-    "dealCid": "bafyreidtqwsyz23y56byoz6wc35rhpat6r7le54y2idi6dp4xqiarvuqya",
-    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-  },
-  {
     "miner": "f019041",
     "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
     "dealCid": "bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f021716",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreiggjeaaytlola2tunntmjx5zgvbmze6inwuqfd7ma7vgnhdq5f22m",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f022142",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreidsx32kaodrg7hc6gus3tn5caorxtk2ygkcmpxejwmsusbz4rpera",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f022163",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreie4jbnqn2xfblpdjgbc64b6po53v4gangb2otpu56j7kmai6hyhfq",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f023467",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreiabdm3mih3jdcmywncahacpwywsc3ctwf7pysb3waefpcmd4zkgbe",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f058369",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreicv7hrma3nysjwgyq2i7u6g5hbuhwk7wqfzl3pikpvlhthezakgmq",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f062353",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreihqnp7gp25sgl6u6sjsi3i7os54c7fcl3huczif436eamzsfr6fn4",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f066596",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreif45qh3omlr5ljuxrgddfxjwf6ojuzhnuhintbhtiknl34kawmkku",
     "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
   },
   {
@@ -786,6 +588,24 @@
     "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
   },
   {
+    "miner": "f099608",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa",
+    "dealCid": "bafyreid2shk65xef5eo7btp567p7nt7uqvzkdjzxxjcbhxcxejpaodcwry",
+    "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+  },
+  {
+    "miner": "f010479",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreia6eu62y4vsor4bq6e5pvzs46vgmdy4evoktzov6f7iir37znb7nq",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
+    "miner": "f019041",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreif3elzndor6g3mzjdoc2zjvlfl4t2u7r3jkm3cbpmcm64ifxksacy",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
     "miner": "f019362",
     "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
     "dealCid": "bafyreia5y55gnixm6dxtfgxknhuky5ohekcjh2ovriqxayzzhrylr7vati",
@@ -798,15 +618,39 @@
     "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
   },
   {
+    "miner": "f022142",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreiftwzsedc6ohttsdhrnxpv2cgbictbnhyeqc4fh6t6txxo43zokzu",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
     "miner": "f023467",
     "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
     "dealCid": "bafyreib5qdsq6eayywfb5sjpki72aczbfptwm2gvmgpnhesxinzmu6btmm",
     "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
   },
   {
-    "miner": "f023971",
+    "miner": "f062353",
     "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
-    "dealCid": "bafyreieu35p5u3hvdmqpuh2qxac56wpnsqsul3igrpt6fe33x5hmdilxxi",
+    "dealCid": "bafyreidbeztddm5t3x6r232cz532jsk77jcskpfqdqnrdtq44cd2m2cfnm",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
+    "miner": "f08399",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreidlrpni64glcksq5ta7i6o5ai7tttowqwnajeoxctzgwiivuhfv5y",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
+    "miner": "f09848",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreigonz6n3vbdiauw2fleegc6r6xxvxsj4mgjzg63ew6koiaivwbydm",
+    "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+  },
+  {
+    "miner": "f099608",
+    "file": "minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab",
+    "dealCid": "bafyreie2latubnyd6ua3whv7kk7d2rzxc3ya3bun7lixfbz72nwamyuy7i",
     "cid": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
   }
 ]

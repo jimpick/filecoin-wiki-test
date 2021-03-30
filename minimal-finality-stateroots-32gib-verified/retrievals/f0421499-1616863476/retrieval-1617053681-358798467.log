@@ -66,3 +66,28 @@ Mar 29 21:40:50 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWait
 Mar 29 21:40:50 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 Mar 29 21:40:50 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
 Mar 29 21:40:50 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Mar 29 23:40:49 ERROR: retrieval timed out
+Mar 29 23:40:49 
+Mar 29 23:40:49 Command exited with non-zero status 124
+Mar 29 23:40:49 3.71user 0.48system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 71912maxresident)k
+Mar 29 23:40:49 17224inputs+0outputs (1262major+12939minor)pagefaults 0swaps
+Mar 29 23:40:50 f0421499: 23.312242027996007267 FIL (71G free)
+Mar 29 23:40:50 Skipping ahead
+Mar 29 23:40:50 
+Mar 29 23:40:51 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 29 23:40:51 f071624-1643068 f09848-1642933 f022142-1645157 f058369-1645147 f019551-1645164 f01278-1645170 f0165400-1645269 f01234-1645250 f08399-1645225 f08403-1645178 f066596-1645275
+Mar 29 23:40:51 Mpool pending 1, skipping + sleeping 30s
+Mar 29 23:41:23 Mpool pending 1, skipping + sleeping 30s
+Mar 29 23:41:54 Mpool pending 1, skipping + sleeping 30s
+Mar 29 23:42:55 Already have log for f058369 1645147 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:42:58 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:43:00 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:43:03 Already have log for f0165400 1645269 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:43:06 Already have log for f01234 1645250 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:43:08 Already have log for f08399 1645225 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 29 23:43:10 Mpool pending 1, skipping + sleeping 30s
+Mar 29 23:43:41 Mpool pending 1, skipping + sleeping 30s
+Mar 29 23:44:11 
+Mar 29 23:44:12 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 29 23:44:12 
+Mar 29 23:44:12 

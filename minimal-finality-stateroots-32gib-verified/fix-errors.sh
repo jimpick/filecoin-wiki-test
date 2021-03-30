@@ -5,7 +5,7 @@ DEALS=$(cat ./tmp/errors.txt | awk '{ print $4 }' | grep ^bafy)
 
 for d in $DEALS; do
 	echo $d
-	DEAL_FILES=$(grep -l $d wiki*.deal)
+	DEAL_FILES=$(grep -l $d *.deal)
 	echo $DEAL_FILES
 	rm $DEAL_FILES
 done
