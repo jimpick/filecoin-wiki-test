@@ -4,3 +4,7 @@ Mar 29 23:56:55 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWait
 Mar 29 23:56:55 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 Mar 29 23:56:57 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
 Mar 29 23:56:57 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Mar 30 01:56:55 Success
+Mar 30 01:56:55 Command exited with non-zero status 124
+Mar 30 01:56:55 3.95user 0.47system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 70860maxresident)k
+Mar 30 01:56:55 33696inputs+0outputs (3586major+12580minor)pagefaults 0swaps

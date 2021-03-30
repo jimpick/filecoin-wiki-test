@@ -191,3 +191,522 @@ Mar 30 01:07:07 Datacap: 3641729613824
 Mar 30 01:07:07 ....
 Mar 30 01:07:08 Count: 3 of 4
 Mar 30 01:07:08 f014768 (1 / 1 tries):
+Mar 30 01:07:08 f0421499: 23.311372269204350478 FIL (51G free)
+Mar 30 01:07:08 Escrow: 0.999999997255 FIL
+Mar 30 01:07:08 Locked: 0.33284941244 FIL
+Mar 30 01:07:09 Datacap: 3641729613824
+Mar 30 01:07:09 ....
+Mar 30 01:07:10 Count: 3 of 4
+Mar 30 01:07:10 f0127896 (1 / 1 tries):
+Mar 30 01:07:10 Skipping f0127896: min-ask
+Mar 30 01:07:10 
+Mar 30 01:07:11 Count: 3 of 4
+Mar 30 01:07:11 f0157535 (1 / 1 tries):
+Mar 30 01:07:12 f0421499: 23.311372269204350478 FIL (51G free)
+Mar 30 01:07:12 Escrow: 0.999999997255 FIL
+Mar 30 01:07:12 Locked: 0.33284941244 FIL
+Mar 30 01:07:12 Datacap: 3641729613824
+Mar 30 01:07:13 ....
+Mar 30 01:07:14 Count: 3 of 4
+Mar 30 01:07:14 f022352 (1 / 1 tries):
+Mar 30 01:07:15 f0421499: 23.311372269204350478 FIL (51G free)
+Mar 30 01:07:15 Escrow: 0.999999997255 FIL
+Mar 30 01:07:15 Locked: 0.33284941244 FIL
+Mar 30 01:07:16 Datacap: 3641729613824
+Mar 30 01:07:16 ....
+Mar 30 01:07:17 Count: 3 of 4
+Mar 30 01:07:17 f022163 (1 / 1 tries):
+Mar 30 01:07:18 f0421499: 23.311372269204350478 FIL (51G free)
+Mar 30 01:07:18 Escrow: 0.999999997255 FIL
+Mar 30 01:07:18 Locked: 0.33284941244 FIL
+Mar 30 01:07:19 Datacap: 3641729613824
+Mar 30 01:07:19 ....
+Mar 30 01:07:20 Count: 3 of 4
+Mar 30 01:07:20 f021716 (1 / 1 tries):
+Mar 30 01:07:21 f0421499: 23.311372269204350478 FIL (51G free)
+Mar 30 01:07:21 Escrow: 0.999999997255 FIL
+Mar 30 01:07:21 Locked: 0.33284941244 FIL
+Mar 30 01:07:21 Datacap: 3641729613824
+Mar 30 01:07:21 .minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab 2 of 4
+Mar 30 01:07:24 Ask: f021716
+Mar 30 01:07:24 Price per GiB: 0.00000001 FIL
+Mar 30 01:07:24 Verified Price per GiB: 0 FIL
+Mar 30 01:07:24 Max Piece size: 32 GiB
+Mar 30 01:07:24 Min Piece size: 512 MiB
+Mar 30 01:07:24 Miner: f021716
+Mar 30 01:07:24 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 01:07:24 [34mLotus deal-tool[39m
+Mar 30 01:07:24 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 01:07:24 Miner: f021716
+Mar 30 01:07:24 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:07:24 [34mSent:[39m "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g\n"
+Mar 30 01:11:50 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:11:50 [0mDeal duration (days): 
+Mar 30 01:11:50 [34mSent:[39m "180\n"
+Mar 30 01:11:50 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:11:50 Make this a verified deal? (yes/no): 
+Mar 30 01:11:50 [34mSent:[39m "yes\n"
+Mar 30 01:11:50 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:11:50 [34mSent:[39m "f021716\n"
+Mar 30 01:11:52 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:11:52 [0m-----
+Mar 30 01:11:52 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:11:52 	Balance: 23.311372269204350478 FIL
+Mar 30 01:11:52 
+Mar 30 01:11:52 Piece size: 32GiB (Payload size: 16.64GiB)
+Mar 30 01:11:52 Duration: 4320h0m0s
+Mar 30 01:11:52 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:11:52 Verified: true
+Mar 30 01:11:52 
+Mar 30 01:11:52 Accept (yes/no): 
+Mar 30 01:11:52 Price: 0
+Mar 30 01:11:52 [34mSent:[39m "yes\n"
+Mar 30 01:11:54 [32mFinal result: [34m.. executing
+Mar 30 01:11:54 [0mDeal (f021716) CID: [32mbafyreieqntte3dxkiqzwo6pcmg6zqzac2jgfrdqwpelrepekwvfu34rovq[0m
+Mar 30 01:11:54 
+Mar 30 01:11:54 [39m
+Mar 30 01:11:54 [32mDeal CID: bafyreieqntte3dxkiqzwo6pcmg6zqzac2jgfrdqwpelrepekwvfu34rovq
+Mar 30 01:11:54 
+Mar 30 01:11:54 [39m
+Mar 30 01:11:54 Wrote bafyreieqntte3dxkiqzwo6pcmg6zqzac2jgfrdqwpelrepekwvfu34rovq
+Mar 30 01:11:54  to minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab.f0421499.deal
+Mar 30 01:11:54 
+Mar 30 01:11:55 Count: 4 of 4
+Mar 30 01:11:55 Resetting
+Mar 30 01:11:56 removed 'minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa.f0421499.deal'
+Mar 30 01:11:56 removed 'minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab.f0421499.deal'
+Mar 30 01:11:56 removed 'minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa.f0421499.deal'
+Mar 30 01:11:56 removed 'minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab.f0421499.deal'
+Mar 30 01:11:56 
+Mar 30 01:12:01 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 30 01:12:01 Count: 0 of 4
+Mar 30 01:12:01 f022142 (1 / 1 tries):
+Mar 30 01:12:02 f0421499: 23.311372269204350478 FIL (50G free)
+Mar 30 01:12:02 Escrow: 0.999999997255 FIL
+Mar 30 01:12:02 Locked: 0.33284941244 FIL
+Mar 30 01:12:02 Datacap: 3607369875456
+Mar 30 01:12:02 ....
+Mar 30 01:12:03 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 30 01:12:03 Count: 0 of 4
+Mar 30 01:12:03 f07998 (1 / 1 tries):
+Mar 30 01:12:04 f0421499: 23.311372269204350478 FIL (50G free)
+Mar 30 01:12:04 Escrow: 0.999999997255 FIL
+Mar 30 01:12:04 Locked: 0.33284941244 FIL
+Mar 30 01:12:04 Datacap: 3607369875456
+Mar 30 01:12:04 ..minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 3 of 4
+Mar 30 01:12:06 Ask: f07998
+Mar 30 01:12:06 Price per GiB: 0.00000008 FIL
+Mar 30 01:12:06 Verified Price per GiB: 0 FIL
+Mar 30 01:12:06 Max Piece size: 32 GiB
+Mar 30 01:12:06 Min Piece size: 16 GiB
+Mar 30 01:12:06 Miner: f07998
+Mar 30 01:12:06 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 01:12:06 [34mLotus deal-tool[39m
+Mar 30 01:12:06 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 01:12:06 Miner: f07998
+Mar 30 01:12:06 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:12:06 [34mSent:[39m "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry\n"
+Mar 30 01:16:45 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:16:45 [0mDeal duration (days): 
+Mar 30 01:16:45 [34mSent:[39m "180\n"
+Mar 30 01:16:45 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:16:45 Make this a verified deal? (yes/no): 
+Mar 30 01:16:45 [34mSent:[39m "yes\n"
+Mar 30 01:16:45 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:16:45 [34mSent:[39m "f07998\n"
+Mar 30 01:16:45 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:16:45 [0m-----
+Mar 30 01:16:45 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:16:45 	Balance: 23.311372269204350478 FIL
+Mar 30 01:16:45 
+Mar 30 01:16:45 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 30 01:16:45 Duration: 4320h0m0s
+Mar 30 01:16:45 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:16:45 Verified: true
+Mar 30 01:16:45 
+Mar 30 01:16:45 Accept (yes/no): 
+Mar 30 01:16:45 Price: 0
+Mar 30 01:16:45 [34mSent:[39m "yes\n"
+Mar 30 01:16:47 [32mFinal result: [34m.. executing
+Mar 30 01:16:47 [0mDeal (f07998) CID: [32mbafyreiatd3ayqbgyoscgvsyeueqpoqaerzhzj7kczysdeclle6hjfb62wq[0m
+Mar 30 01:16:47 
+Mar 30 01:16:47 [39m
+Mar 30 01:16:47 [32mDeal CID: bafyreiatd3ayqbgyoscgvsyeueqpoqaerzhzj7kczysdeclle6hjfb62wq
+Mar 30 01:16:47 
+Mar 30 01:16:47 [39m
+Mar 30 01:16:47 Wrote bafyreiatd3ayqbgyoscgvsyeueqpoqaerzhzj7kczysdeclle6hjfb62wq
+Mar 30 01:16:47  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa.f0421499.deal
+Mar 30 01:16:47 
+Mar 30 01:16:48 Count: 1 of 4
+Mar 30 01:16:48 f023971 (1 / 1 tries):
+Mar 30 01:16:49 f0421499: 23.311372269204350478 FIL (47G free)
+Mar 30 01:16:49 Escrow: 0.999999997255 FIL
+Mar 30 01:16:49 Locked: 0.33284941244 FIL
+Mar 30 01:16:50 Datacap: 3607369875456
+Mar 30 01:16:50 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 1 of 4
+Mar 30 01:16:51 Ask: f023971
+Mar 30 01:16:51 Price per GiB: 0.00000001 FIL
+Mar 30 01:16:51 Verified Price per GiB: 0 FIL
+Mar 30 01:16:51 Max Piece size: 32 GiB
+Mar 30 01:16:51 Min Piece size: 512 MiB
+Mar 30 01:16:51 Miner: f023971
+Mar 30 01:16:51 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 01:16:51 [34mLotus deal-tool[39m
+Mar 30 01:16:51 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 01:16:51 Miner: f023971
+Mar 30 01:16:51 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:16:51 [34mSent:[39m "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2\n"
+Mar 30 01:20:50 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:20:50 [0mDeal duration (days): 
+Mar 30 01:20:50 [34mSent:[39m "180\n"
+Mar 30 01:20:50 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:20:50 Make this a verified deal? (yes/no): 
+Mar 30 01:20:50 [34mSent:[39m "yes\n"
+Mar 30 01:20:50 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:20:50 [34mSent:[39m "f023971\n"
+Mar 30 01:20:50 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:20:50 [0m-----
+Mar 30 01:20:50 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:20:50 	Balance: 23.311372269204350478 FIL
+Mar 30 01:20:50 
+Mar 30 01:20:50 Piece size: 32GiB (Payload size: 16.64GiB)
+Mar 30 01:20:50 Duration: 4320h0m0s
+Mar 30 01:20:50 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:20:50 Verified: true
+Mar 30 01:20:50 
+Mar 30 01:20:50 Accept (yes/no): 
+Mar 30 01:20:50 Price: 0
+Mar 30 01:20:50 [34mSent:[39m "yes\n"
+Mar 30 01:20:52 [32mFinal result: [34m.. executing
+Mar 30 01:20:52 [0mDeal (f023971) CID: [32mbafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai[0m
+Mar 30 01:20:52 
+Mar 30 01:20:52 [39m
+Mar 30 01:20:52 [32mDeal CID: bafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai
+Mar 30 01:20:52 
+Mar 30 01:20:52 [39m
+Mar 30 01:20:52 Wrote bafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai
+Mar 30 01:20:52  to minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa.f0421499.deal
+Mar 30 01:20:52 
+Mar 30 01:20:53 Count: 2 of 4
+Mar 30 01:20:53 f08399 (1 / 1 tries):
+Mar 30 01:20:54 f0421499: 23.311372269204350478 FIL (45G free)
+Mar 30 01:20:54 Escrow: 0.999999997255 FIL
+Mar 30 01:20:54 Locked: 0.33284941244 FIL
+Mar 30 01:20:54 Datacap: 3607369875456
+Mar 30 01:20:54 ....
+Mar 30 01:20:55 Count: 2 of 4
+Mar 30 01:20:55 f019551 (1 / 1 tries):
+Mar 30 01:20:56 f0421499: 23.311372269204350478 FIL (45G free)
+Mar 30 01:20:56 Escrow: 0.999999997255 FIL
+Mar 30 01:20:56 Locked: 0.33284941244 FIL
+Mar 30 01:20:56 Datacap: 3607369875456
+Mar 30 01:20:56 ...minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 4 of 4
+Mar 30 01:20:57 Ask: f019551
+Mar 30 01:20:57 Price per GiB: 0.00000002 FIL
+Mar 30 01:20:57 Verified Price per GiB: 0 FIL
+Mar 30 01:20:57 Max Piece size: 32 GiB
+Mar 30 01:20:57 Min Piece size: 128 MiB
+Mar 30 01:20:57 Miner: f019551
+Mar 30 01:20:57 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 01:20:57 [34mLotus deal-tool[39m
+Mar 30 01:20:57 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 01:20:57 Miner: f019551
+Mar 30 01:20:57 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:20:57 [34mSent:[39m "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa\n"
+Mar 30 01:25:08 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:25:08 [0mDeal duration (days): 
+Mar 30 01:25:08 [34mSent:[39m "180\n"
+Mar 30 01:25:08 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:25:08 Make this a verified deal? (yes/no): 
+Mar 30 01:25:08 [34mSent:[39m "yes\n"
+Mar 30 01:25:08 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:25:08 [34mSent:[39m "f019551\n"
+Mar 30 01:25:10 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:25:10 [0m-----
+Mar 30 01:25:10 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:25:10 	Balance: 23.311372269204350478 FIL
+Mar 30 01:25:10 
+Mar 30 01:25:10 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 30 01:25:10 Duration: 4320h0m0s
+Mar 30 01:25:10 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:25:10 Verified: true
+Mar 30 01:25:10 
+Mar 30 01:25:10 Accept (yes/no): 
+Mar 30 01:25:10 Price: 0
+Mar 30 01:25:10 [34mSent:[39m "yes\n"
+Mar 30 01:25:12 [32mFinal result: [34m.. executing
+Mar 30 01:25:12 [0mDeal (f019551) CID: [32mbafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe[0m
+Mar 30 01:25:12 
+Mar 30 01:25:12 [39m
+Mar 30 01:25:12 [32mDeal CID: bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe
+Mar 30 01:25:12 
+Mar 30 01:25:12 [39m
+Mar 30 01:25:12 Wrote bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe
+Mar 30 01:25:12  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab.f0421499.deal
+Mar 30 01:25:12 
+Mar 30 01:25:13 Count: 3 of 4
+Mar 30 01:25:13 f010617 (1 / 1 tries):
+Mar 30 01:25:14 f0421499: 23.311372269204350478 FIL (43G free)
+Mar 30 01:25:14 Escrow: 0.999999997255 FIL
+Mar 30 01:25:14 Locked: 0.33284941244 FIL
+Mar 30 01:25:14 Datacap: 3607369875456
+Mar 30 01:25:14 .minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab 2 of 4
+Mar 30 01:25:15 Ask: f010617
+Mar 30 01:25:15 Price per GiB: 0 FIL
+Mar 30 01:25:15 Verified Price per GiB: 0 FIL
+Mar 30 01:25:15 Max Piece size: 32 GiB
+Mar 30 01:25:15 Min Piece size: 1 GiB
+Mar 30 01:25:15 Miner: f010617
+Mar 30 01:25:15 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 01:25:15 [34mLotus deal-tool[39m
+Mar 30 01:25:15 CID: bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 01:25:15 Miner: f010617
+Mar 30 01:25:15 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:25:15 [34mSent:[39m "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g\n"
+Mar 30 01:29:47 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:29:47 [0mDeal duration (days): 
+Mar 30 01:29:47 [34mSent:[39m "180\n"
+Mar 30 01:29:47 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:29:47 Make this a verified deal? (yes/no): 
+Mar 30 01:29:47 [34mSent:[39m "yes\n"
+Mar 30 01:29:47 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:29:47 [34mSent:[39m "f010617\n"
+Mar 30 01:29:48 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:29:48 [0m-----
+Mar 30 01:29:48 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:29:48 	Balance: 23.311372269204350478 FIL
+Mar 30 01:29:48 
+Mar 30 01:29:48 Piece size: 32GiB (Payload size: 16.64GiB)
+Mar 30 01:29:48 Duration: 4320h0m0s
+Mar 30 01:29:48 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:29:48 Verified: true
+Mar 30 01:29:48 
+Mar 30 01:29:48 Accept (yes/no): 
+Mar 30 01:29:48 Price: 0
+Mar 30 01:29:48 [34mSent:[39m "yes\n"
+Mar 30 01:29:50 [32mFinal result: [34m.. executing
+Mar 30 01:29:50 [0mDeal (f010617) CID: [32mbafyreicsu3upw5j7uihyst7rv2yoefinbojjbcjsg54fo3l3rojbzyc22i[0m
+Mar 30 01:29:50 
+Mar 30 01:29:50 [39m
+Mar 30 01:29:50 [32mDeal CID: bafyreicsu3upw5j7uihyst7rv2yoefinbojjbcjsg54fo3l3rojbzyc22i
+Mar 30 01:29:50 
+Mar 30 01:29:50 [39m
+Mar 30 01:29:50 Wrote bafyreicsu3upw5j7uihyst7rv2yoefinbojjbcjsg54fo3l3rojbzyc22i
+Mar 30 01:29:50  to minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab.f0421499.deal
+Mar 30 01:29:50 
+Mar 30 01:29:51 Count: 4 of 4
+Mar 30 01:29:51 Resetting
+Mar 30 01:29:51 removed 'minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa.f0421499.deal'
+Mar 30 01:29:51 removed 'minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab.f0421499.deal'
+Mar 30 01:29:51 removed 'minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa.f0421499.deal'
+Mar 30 01:29:51 removed 'minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab.f0421499.deal'
+Mar 30 01:29:51 
+Mar 30 01:29:56 ls: cannot access '*.f0421499.deal': No such file or directory
+Mar 30 01:29:56 Count: 0 of 4
+Mar 30 01:29:56 f08403 (1 / 1 tries):
+Mar 30 01:29:57 f0421499: 23.311372269204350478 FIL (40G free)
+Mar 30 01:29:57 Escrow: 0.999999997255 FIL
+Mar 30 01:29:57 Locked: 0.33284941244 FIL
+Mar 30 01:29:57 Datacap: 3607369875456
+Mar 30 01:29:57 ...minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 4 of 4
+Mar 30 01:29:58 Ask: f08403
+Mar 30 01:29:58 Price per GiB: 0.00000001 FIL
+Mar 30 01:29:58 Verified Price per GiB: 0 FIL
+Mar 30 01:29:58 Max Piece size: 32 GiB
+Mar 30 01:29:58 Min Piece size: 128 MiB
+Mar 30 01:29:58 Miner: f08403
+Mar 30 01:29:58 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 01:29:58 [34mLotus deal-tool[39m
+Mar 30 01:29:58 CID: bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 01:29:58 Miner: f08403
+Mar 30 01:29:59 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:29:59 [34mSent:[39m "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa\n"
+Mar 30 01:34:25 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:34:25 [0mDeal duration (days): 
+Mar 30 01:34:25 [34mSent:[39m "180\n"
+Mar 30 01:34:25 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:34:25 Make this a verified deal? (yes/no): 
+Mar 30 01:34:25 [34mSent:[39m "yes\n"
+Mar 30 01:34:25 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:34:25 [34mSent:[39m "f08403\n"
+Mar 30 01:34:26 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:34:26 [0m-----
+Mar 30 01:34:26 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:34:26 	Balance: 23.311372269204350478 FIL
+Mar 30 01:34:26 
+Mar 30 01:34:26 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 30 01:34:26 Duration: 4320h0m0s
+Mar 30 01:34:26 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:34:26 Verified: true
+Mar 30 01:34:26 
+Mar 30 01:34:26 Accept (yes/no): 
+Mar 30 01:34:26 Price: 0
+Mar 30 01:34:26 [34mSent:[39m "yes\n"
+Mar 30 01:34:28 [32mFinal result: [34m.. executing
+Mar 30 01:34:28 [0mDeal (f08403) CID: [32mbafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja[0m
+Mar 30 01:34:28 
+Mar 30 01:34:28 [39m
+Mar 30 01:34:28 [32mDeal CID: bafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja
+Mar 30 01:34:28 
+Mar 30 01:34:28 [39m
+Mar 30 01:34:28 Wrote bafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja
+Mar 30 01:34:28  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab.f0421499.deal
+Mar 30 01:34:28 
+Mar 30 01:34:29 Count: 1 of 4
+Mar 30 01:34:29 f023467 (1 / 1 tries):
+Mar 30 01:34:29 f0421499: 23.311372269204350478 FIL (37G free)
+Mar 30 01:34:29 Escrow: 0.999999997255 FIL
+Mar 30 01:34:29 Locked: 0.33284941244 FIL
+Mar 30 01:34:30 Datacap: 3607369875456
+Mar 30 01:34:30 ....
+Mar 30 01:34:31 Count: 1 of 4
+Mar 30 01:34:31 f09848 (1 / 1 tries):
+Mar 30 01:34:32 f0421499: 23.311372269204350478 FIL (37G free)
+Mar 30 01:34:32 Escrow: 0.999999997255 FIL
+Mar 30 01:34:32 Locked: 0.33284941244 FIL
+Mar 30 01:34:32 Datacap: 3607369875456
+Mar 30 01:34:32 ....
+Mar 30 01:34:33 Count: 1 of 4
+Mar 30 01:34:33 f01234 (1 / 1 tries):
+Mar 30 01:34:34 f0421499: 23.311372269204350478 FIL (37G free)
+Mar 30 01:34:34 Escrow: 0.999999997255 FIL
+Mar 30 01:34:34 Locked: 0.33284941244 FIL
+Mar 30 01:34:35 Datacap: 3607369875456
+Mar 30 01:34:35 ..minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 3 of 4
+Mar 30 01:34:36 Ask: f01234
+Mar 30 01:34:36 Price per GiB: 0.0000000035 FIL
+Mar 30 01:34:36 Verified Price per GiB: 0 FIL
+Mar 30 01:34:36 Max Piece size: 32 GiB
+Mar 30 01:34:36 Min Piece size: 5 MiB
+Mar 30 01:34:36 Miner: f01234
+Mar 30 01:34:36 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 01:34:36 [34mLotus deal-tool[39m
+Mar 30 01:34:36 CID: bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 01:34:36 Miner: f01234
+Mar 30 01:34:37 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:34:37 [34mSent:[39m "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry\n"
+Mar 30 01:44:37 [34mSent:[39m "180\n"
+Mar 30 01:45:00 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: Deal duration (days): 
+Mar 30 01:45:00 Make this a verified deal? (yes/no): 
+Mar 30 01:45:00 [34mSent:[39m "yes\n"
+Mar 30 01:45:00 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:45:00 [34mSent:[39m "f01234\n"
+Mar 30 01:45:01 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:45:01 [0m-----
+Mar 30 01:45:01 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:45:01 	Balance: 23.311372269204350478 FIL
+Mar 30 01:45:01 
+Mar 30 01:45:01 Piece size: 32GiB (Payload size: 16.54GiB)
+Mar 30 01:45:01 Duration: 4320h0m0s
+Mar 30 01:45:01 Total price: ~[36m0 FIL[0m (0 FIL per epoch)
+Mar 30 01:45:01 Verified: true
+Mar 30 01:45:01 
+Mar 30 01:45:01 Accept (yes/no): 
+Mar 30 01:45:01 Price: 0
+Mar 30 01:45:01 [34mSent:[39m "yes\n"
+Mar 30 01:45:03 [32mFinal result: [34m.. executing
+Mar 30 01:45:03 [0mDeal (f01234) CID: [32mbafyreiascrd3feboje5po7ahg5motdij4fgv7lscftngorjzfm5jvkycpe[0m
+Mar 30 01:45:03 
+Mar 30 01:45:03 [39m
+Mar 30 01:45:03 [32mDeal CID: bafyreiascrd3feboje5po7ahg5motdij4fgv7lscftngorjzfm5jvkycpe
+Mar 30 01:45:03 
+Mar 30 01:45:03 [39m
+Mar 30 01:45:03 Wrote bafyreiascrd3feboje5po7ahg5motdij4fgv7lscftngorjzfm5jvkycpe
+Mar 30 01:45:03  to minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa.f0421499.deal
+Mar 30 01:45:03 
+Mar 30 01:45:04 Count: 2 of 4
+Mar 30 01:45:04 f058369 (1 / 1 tries):
+Mar 30 01:45:04 f0421499: 23.311372269204350478 FIL (29G free)
+Mar 30 01:45:05 Escrow: 0.999999997255 FIL
+Mar 30 01:45:05 Locked: 0.33284941244 FIL
+Mar 30 01:45:05 Datacap: 3469930921984
+Mar 30 01:45:05 ....
+Mar 30 01:45:06 Count: 2 of 4
+Mar 30 01:45:06 f01277 (1 / 1 tries):
+Mar 30 01:45:07 Skipping f01277: min-ask
+Mar 30 01:45:07 
+Mar 30 01:45:08 Count: 2 of 4
+Mar 30 01:45:08 f0145874 (1 / 1 tries):
+Mar 30 01:45:08 f0421499: 23.311372269204350478 FIL (29G free)
+Mar 30 01:45:08 Escrow: 0.999999997255 FIL
+Mar 30 01:45:08 Locked: 0.33284941244 FIL
+Mar 30 01:45:09 Datacap: 3469930921984
+Mar 30 01:45:09 ....
+Mar 30 01:45:10 Count: 2 of 4
+Mar 30 01:45:10 f019041 (1 / 1 tries):
+Mar 30 01:45:11 f0421499: 23.311372269204350478 FIL (29G free)
+Mar 30 01:45:11 Escrow: 0.999999997255 FIL
+Mar 30 01:45:11 Locked: 0.33284941244 FIL
+Mar 30 01:45:12 Datacap: 3469930921984
+Mar 30 01:45:12 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 1 of 4
+Mar 30 01:45:14 Ask: f019041
+Mar 30 01:45:14 Price per GiB: 0.000001 FIL
+Mar 30 01:45:14 Verified Price per GiB: 0.00000000001 FIL
+Mar 30 01:45:14 Max Piece size: 32 GiB
+Mar 30 01:45:14 Min Piece size: 128 MiB
+Mar 30 01:45:14 Miner: f019041
+Mar 30 01:45:14 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 01:45:14 [34mLotus deal-tool[39m
+Mar 30 01:45:14 CID: bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 01:45:14 Miner: f019041
+Mar 30 01:45:15 [32mMatch for RE:[39m "Data CID .*:" found: ["Data CID (from \x1b[33mlotus client import\x1b[0m):"] Buffer: Data CID (from [33mlotus client import[0m): 
+Mar 30 01:45:15 [34mSent:[39m "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2\n"
+Mar 30 01:49:22 [32mMatch for RE:[39m "Deal duration .*:" found: ["Deal duration (days):"] Buffer: [34m.. calculating data size
+Mar 30 01:49:22 [0mDeal duration (days): 
+Mar 30 01:49:22 [34mSent:[39m "180\n"
+Mar 30 01:49:22 [32mMatch for RE:[39m "Make this a verified deal.*:" found: ["Make this a verified deal? (yes/no):"] Buffer: 
+Mar 30 01:49:22 Make this a verified deal? (yes/no): 
+Mar 30 01:49:22 [34mSent:[39m "yes\n"
+Mar 30 01:49:22 [32mMatch for RE:[39m "Miner Addresses .*:" found: ["Miner Addresses (f0.. f0..), none to find:"] Buffer: Miner Addresses (f0.. f0..), none to find: 
+Mar 30 01:49:22 [34mSent:[39m "f019041\n"
+Mar 30 01:49:24 [32mMatch for RE:[39m "Accept .*:" found: ["Accept (yes/no):"] Buffer: [34m.. querying miner asks
+Mar 30 01:49:24 [0m-----
+Mar 30 01:49:24 Proposing from f1wdxdpqh3hirrhp353i4o6ld7bsw6evh3v7i5jtq
+Mar 30 01:49:24 	Balance: 23.311372269204350478 FIL
+Mar 30 01:49:24 
+Mar 30 01:49:24 Piece size: 32GiB (Payload size: 16.64GiB)
+Mar 30 01:49:24 Duration: 4320h0m0s
+Mar 30 01:49:24 Total price: ~[36m0.000165888 FIL[0m (0.00000000032 FIL per epoch)
+Mar 30 01:49:24 Verified: true
+Mar 30 01:49:24 
+Mar 30 01:49:24 Accept (yes/no): 
+Mar 30 01:49:24 Price: 0.00016588800644967705
+Mar 30 01:49:24 [34mSent:[39m "yes\n"
+Mar 30 01:49:26 [32mFinal result: [34m.. executing
+Mar 30 01:49:26 [0mDeal (f019041) CID: [32mbafyreictaa6fblky6wosmbtwm5j7psj5cbz2ppcyazpf6dh2jexc2faaqq[0m
+Mar 30 01:49:26 
+Mar 30 01:49:26 [39m
+Mar 30 01:49:26 [32mDeal CID: bafyreictaa6fblky6wosmbtwm5j7psj5cbz2ppcyazpf6dh2jexc2faaqq
+Mar 30 01:49:26 
+Mar 30 01:49:26 [39m
+Mar 30 01:49:26 Wrote bafyreictaa6fblky6wosmbtwm5j7psj5cbz2ppcyazpf6dh2jexc2faaqq
+Mar 30 01:49:26  to minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa.f0421499.deal
+Mar 30 01:49:26 
+Mar 30 01:49:27 Count: 3 of 4
+Mar 30 01:49:27 f071624 (1 / 1 tries):
+Mar 30 01:49:27 f0421499: 23.311372269204350478 FIL (22G free)
+Mar 30 01:49:27 Escrow: 0.999999997255 FIL
+Mar 30 01:49:27 Locked: 0.33284941244 FIL
+Mar 30 01:49:28 Datacap: 3469930921984
+Mar 30 01:49:28 ....
+Mar 30 01:49:29 Count: 3 of 4
+Mar 30 01:49:29 f01247 (1 / 1 tries):
+Mar 30 01:49:29 f0421499: 23.311372269204350478 FIL (22G free)
+Mar 30 01:49:29 Escrow: 0.999999997255 FIL
+Mar 30 01:49:29 Locked: 0.33284941244 FIL
+Mar 30 01:49:29 Datacap: 3469930921984
+Mar 30 01:49:29 ....
+Mar 30 01:49:30 Count: 3 of 4
+Mar 30 01:49:30 f02606 (1 / 1 tries):
+Mar 30 01:49:31 f0421499: 23.311372269204350478 FIL (22G free)
+Mar 30 01:49:31 Escrow: 0.999999997255 FIL
+Mar 30 01:49:31 Locked: 0.33284941244 FIL
+Mar 30 01:49:31 Datacap: 3469930921984
+Mar 30 01:49:31 ....
+Mar 30 01:49:32 Count: 3 of 4
+Mar 30 01:49:32 f01240 (1 / 1 tries):
+Mar 30 01:49:33 f0421499: 23.311372269204350478 FIL (22G free)
+Mar 30 01:49:33 Escrow: 0.999999997255 FIL
+Mar 30 01:49:33 Locked: 0.33284941244 FIL
+Mar 30 01:49:33 Datacap: 3469930921984
+Mar 30 01:49:33 ....

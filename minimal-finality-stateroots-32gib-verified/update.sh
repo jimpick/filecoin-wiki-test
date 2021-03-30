@@ -7,4 +7,6 @@ mkdir -p deals
 ./check-count.sh
 ./quick-error-check.sh
 ./update-deals-json.sh
-#./write-retrieval-success-miners-json.sh
+./write-retrieval-success-miners-json.sh
+./dump-deals-json.sh
+./write-api-deal-statuses.sh
