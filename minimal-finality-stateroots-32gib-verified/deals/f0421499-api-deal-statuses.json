@@ -1703,56 +1703,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreicyjphl4w55jjmbq7it3c4qci5pohejr32om3trjrhj7dv5jlzoge"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: incomplete response",
-      "Provider": "f019362",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522501,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T04:24:54.144827789Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
-        "ID": 3352
-      },
-      "DataTransfer": {
-        "TransferID": 3352,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicyjphl4w55jjmbq7it3c4qci5pohejr32om3trjrhj7dv5jlzoge\"}}",
-        "Message": "incomplete response",
-        "OtherPeer": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
-        "Transferred": 22889525791
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreicjldndckpzcfxm37v7g342youftiqce3y2a6rxim2iwemkgasgim"
       },
       "State": 7,
@@ -2003,90 +1953,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai"
-      },
-      "State": 26,
-      "Message": "data transfer cancelled",
-      "Provider": "f023971",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522382,
-      "DealID": 0,
-      "CreationTime": "2021-03-30T01:20:50.791329144Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihgt7py4iigkqzvnp56thsqlwxrdzbyfg4z5zcx4ivfdrv67ec3uq"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: incomplete response",
-      "Provider": "f02606",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 521973,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T03:38:16.107096372Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "ID": 3337
-      },
-      "DataTransfer": {
-        "TransferID": 3337,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihgt7py4iigkqzvnp56thsqlwxrdzbyfg4z5zcx4ivfdrv67ec3uq\"}}",
-        "Message": "incomplete response",
-        "OtherPeer": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "Transferred": 654419866
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreieocljfbq2cyb2c4pa5uy7x4767arvfw6jk3zbjbyy6z5fbnx2mne"
       },
       "State": 7,
@@ -2287,56 +2153,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiduy3y7ce72gwirobh5m4mbf6jgh42xyuah634yeb345k4asmnaja"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: channel removed due to inactivity",
-      "Provider": "f07998",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522926,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T04:04:09.693804114Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "ID": 3347
-      },
-      "DataTransfer": {
-        "TransferID": 3347,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiduy3y7ce72gwirobh5m4mbf6jgh42xyuah634yeb345k4asmnaja\"}}",
-        "Message": "channel removed due to inactivity",
-        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "Transferred": 429138689
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreide5gkjlcklutvvoxoxt7mjs5tkgipyrpsix4dd5i4lcpqc3fsvwe"
       },
       "State": 7,
@@ -2380,40 +2196,6 @@
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
         "Transferred": 17870864664
       }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreifblus6iycpvifz5ipwh5up5neha7aoc3mhtikg4i3uwijhtfdtru"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: miner is not considering online storage deals",
-      "Provider": "f010617",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523045,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T02:51:41.927614254Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
     },
     "id": 1
   },
@@ -2871,40 +2653,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiei3mtdzvmsd4g57kxzbko2hoxscitelhobvucs7vewiucxsyhv2a"
-      },
-      "State": 26,
-      "Message": "data transfer cancelled",
-      "Provider": "f023971",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522338,
-      "DealID": 0,
-      "CreationTime": "2021-03-30T01:54:50.662868897Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreiaxm3v7ieqteejngylkmw7vlnjfjl5c725qd5uiiotubzf5iwijom"
       },
       "State": 5,
@@ -3305,40 +3053,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreieja5cr5kfhisgwso5zputy7zymd2zlsw5ttkuvz5pobfzxo2seh4"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f0157535",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523408,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T02:14:11.489436925Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreie4jbnqn2xfblpdjgbc64b6po53v4gangb2otpu56j7kmai6hyhfq"
       },
       "State": 3,
@@ -3439,56 +3153,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiayz5dnwiwfnv76ysbymum5jcczvzq4accnu5irglp553deeyrxnm"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: incomplete response",
-      "Provider": "f02606",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 521784,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T05:13:17.356334238Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "ID": 3360
-      },
-      "DataTransfer": {
-        "TransferID": 3360,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiayz5dnwiwfnv76ysbymum5jcczvzq4accnu5irglp553deeyrxnm\"}}",
-        "Message": "incomplete response",
-        "OtherPeer": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "Transferred": 55791412
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreihqnp7gp25sgl6u6sjsi3i7os54c7fcl3huczif436eamzsfr6fn4"
       },
       "State": 13,
@@ -3581,56 +3245,6 @@
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
         "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihdqcz3opgwnfz474qsq4iwk3kqmuh2ckn57tfwtkg6ckwq4447za"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: channel removed due to inactivity",
-      "Provider": "f07998",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522858,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T04:38:51.308279207Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "ID": 3354
-      },
-      "DataTransfer": {
-        "TransferID": 3354,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihdqcz3opgwnfz474qsq4iwk3kqmuh2ckn57tfwtkg6ckwq4447za\"}}",
-        "Message": "channel removed due to inactivity",
-        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "Transferred": 31674164
       }
     },
     "id": 1
@@ -3782,40 +3396,6 @@
         "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
         "Transferred": 17757346780
       }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiffy7fusuqiv547doqugwsxhgvkqqwxd6jrtapyt452c3b5dglzli"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f0157535",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523101,
-      "DealID": 0,
-      "CreationTime": "2021-03-31T04:47:46.168840905Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
     },
     "id": 1
   },
@@ -4375,7 +3955,7 @@
       "ProposalCid": {
         "/": "bafyreigxxhzux4uhgrsi4gbwzpqwiwwej6ioi5vgijwsamz7526ptweoxq"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f019551",
       "DataRef": {

@@ -17088,3 +17088,6 @@ Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealSt
 Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventComplete (DealStatusCheckComplete)
+Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventWaitForLastBlocks (DealStatusWaitingForLastBlocks)
+Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitingForLastBlocks)
+Mar 31 15:36:33 > Recv: 16.64 GiB, Paid 0 FIL, ClientEventAllBlocksReceived (DealStatusCompleted)
