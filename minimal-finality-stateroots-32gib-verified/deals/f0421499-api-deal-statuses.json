@@ -103,56 +103,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreidwj77nkld4fqcdebftaldtoghrlnkyibzxti3wpr5uk3bg3m44qe"
-      },
-      "State": 26,
-      "Message": "error waiting for deal completion: client: failed to look up deal 1639395 on chain: deal 1639395 not found - deal may not have completed sealing before deal proposal start epoch, or deal may have been slashed",
-      "Provider": "f0145874",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqkxozh3cir4zubhd43fc63wxbrbievolmf6yjul3etsspqixhl6ia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqkxozh3cir4zubhd43fc63wxbrbievolmf6yjul3etsspqixhl6ia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520693,
-      "DealID": 1639395,
-      "CreationTime": "2021-03-27T05:30:33.877149402Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "ID": 3030
-      },
-      "DataTransfer": {
-        "TransferID": 3030,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidwj77nkld4fqcdebftaldtoghrlnkyibzxti3wpr5uk3bg3m44qe\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "Transferred": 17671360530
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreidr7ohtvthkw3a4kkcez5c6hly3l57lu23i2eh2zmd2rdpsxdhg3u"
       },
       "State": 13,
@@ -1553,190 +1503,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiegv4jhdzgtz4y7hkb5wrarkzvts2a2v4pbja3d7bkjzg6bvkswom"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecqnqpggrgb6w5sv5y5y6dtgekupydzz6ts6pm4junjeofev7ydu2: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f010479",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521448,
-      "DealID": 1645175,
-      "CreationTime": "2021-03-29T17:55:05.065594387Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "ID": 3189
-      },
-      "DataTransfer": {
-        "TransferID": 3189,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiegv4jhdzgtz4y7hkb5wrarkzvts2a2v4pbja3d7bkjzg6bvkswom\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihsud5hvtxvekbugwc3xdmw2bmynfn5q75tfhm5lbm7oo2fw7t2nq"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: miner is not considering online storage deals",
-      "Provider": "f010617",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523340,
-      "DealID": 0,
-      "CreationTime": "2021-03-30T00:43:56.809740154Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreifkdbbutxnvjivfka5qrlz6zdfdyuf2d5uukfi5r54jzt5xunjf2q"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceauyifsh5izrbhb37bspbhsqcyaywpcptnggg267dc4frib5bszw2: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f01234",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521776,
-      "DealID": 1642981,
-      "CreationTime": "2021-03-29T06:51:46.965193215Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "ID": 3174
-      },
-      "DataTransfer": {
-        "TransferID": 3174,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifkdbbutxnvjivfka5qrlz6zdfdyuf2d5uukfi5r54jzt5xunjf2q\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihzsm47iipfvsbrn3ezx5flywdznoqccrv2rit77kiky7rxk3jtvq"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceal5ghim4jao2p2ctmeyowbx7aayrr3e4c4vroozskfky6qy5h24a: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f01240",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522810,
-      "DealID": 1648942,
-      "CreationTime": "2021-03-29T23:40:21.348384551Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "ID": 3268
-      },
-      "DataTransfer": {
-        "TransferID": 3268,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihzsm47iipfvsbrn3ezx5flywdznoqccrv2rit77kiky7rxk3jtvq\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreihmaztkvjmf6byy5tjzfpjc2sfv7lr4fwsxtca6rj5argo7rjcrpa"
       },
       "State": 13,
@@ -1780,90 +1546,6 @@
         "OtherPeer": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
         "Transferred": 32767681908
       }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreifcf3hyzp45cen5mdh56urs2pkxl3x7gtshtpgbieti3z5niv5rra"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecixzwr4tyel6k2m3v3cvl4erh7rpuur4mhdq6cmzxd7axhjjsaxo: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f01278",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520699,
-      "DealID": 1649035,
-      "CreationTime": "2021-03-29T18:46:48.085835285Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7",
-        "ID": 3202
-      },
-      "DataTransfer": {
-        "TransferID": 3202,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifcf3hyzp45cen5mdh56urs2pkxl3x7gtshtpgbieti3z5niv5rra\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiauox3xpm7tl7zfx22zwu527tzuybjaxnzz7nqmh6wfphwvjzmjla"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f014409",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521477,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T22:57:28.282993734Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
     },
     "id": 1
   },
@@ -1921,10 +1603,10 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreifqv3z7vcsr2xuuq6efuk7jsatphp2vlu4wwow6vymdndovnomy7u"
+        "/": "bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i"
       },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacec3jpuwedcvyqspoomqpqn2jo2de73qiovpp3jjsf7hyk34niixfe: search msg failed: failed to load message: blockstore: block not found",
+      "State": 17,
+      "Message": "",
       "Provider": "f014768",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1942,111 +1624,27 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 520876,
-      "DealID": 1645276,
-      "CreationTime": "2021-03-29T18:42:39.598833764Z",
+      "Duration": 522782,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:47:22.676862114Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
         "Responder": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "ID": 3200
+        "ID": 3328
       },
       "DataTransfer": {
-        "TransferID": 3200,
-        "Status": 6,
+        "TransferID": 3328,
+        "Status": 1,
         "BaseCID": {
           "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifqv3z7vcsr2xuuq6efuk7jsatphp2vlu4wwow6vymdndovnomy7u\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihnkl2dmuacdgbswq2mrdielwhcui5qwizzfwr73z3gibpzih5a44"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f0157535",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523784,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T23:06:39.689617836Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiao57pyyyw5tjx3gg4lkzot5cinmx2ppgtwrp2q2cgdobw4amt7na"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebla3tbemuakbuwi7pn572nefgunvkt6n7thbqzibk7dl4ikfxjci: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f015927",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "160000000000",
-      "Duration": 518925,
-      "DealID": 1645215,
-      "CreationTime": "2021-03-29T18:29:43.585917328Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "ID": 3197
-      },
-      "DataTransfer": {
-        "TransferID": 3197,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiao57pyyyw5tjx3gg4lkzot5cinmx2ppgtwrp2q2cgdobw4amt7na\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "Transferred": 17870864664
+        "Transferred": 11189941307
       }
     },
     "id": 1
@@ -2096,106 +1694,6 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihoi7qxzq26lyuzhnuiijsirymk34rskf55awp4t4gohue4whcrv4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreictaa6fblky6wosmbtwm5j7psj5cbz2ppcyazpf6dh2jexc2faaqq"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: incomplete response",
-      "Provider": "f019041",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 522449,
-      "DealID": 0,
-      "CreationTime": "2021-03-30T01:49:24.061090792Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "ID": 3294
-      },
-      "DataTransfer": {
-        "TransferID": 3294,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreictaa6fblky6wosmbtwm5j7psj5cbz2ppcyazpf6dh2jexc2faaqq\"}}",
-        "Message": "incomplete response",
-        "OtherPeer": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "Transferred": 45251431
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiapjlvwpvfg34uor6scwux476jgq3eetj43xblduik7iiuq2r7wvy"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacec3wvuqe76jbkmtbop7257jxe4jdi57gh3nliwj4lzzdrgbwsxk6k: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f019362",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522965,
-      "DealID": 1649005,
-      "CreationTime": "2021-03-30T01:07:01.375516522Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
-        "ID": 3285
-      },
-      "DataTransfer": {
-        "TransferID": 3285,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiapjlvwpvfg34uor6scwux476jgq3eetj43xblduik7iiuq2r7wvy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
         "Transferred": 17870864664
       }
     },
@@ -2255,60 +1753,10 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiggwvssovk4hlnipff2m7gzw2loljqmgadl6fwxrk3tqmwcnqhwiy"
+        "/": "bafyreibn5pqmvxkjtzrbrxe5vuqfkqjzvr4exy2r3p6gwjecddsr34hp4e"
       },
-      "State": 26,
-      "Message": "deal failed: (State=26) error calling node: publishing deal: mpool push: failed to push message: not enough funds (required: 0.199999999984131534 FIL, balance: 0.037461935577982576 FIL): not enough funds to execute transaction",
-      "Provider": "f021716",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522243,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T23:49:13.88794684Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "ID": 3271
-      },
-      "DataTransfer": {
-        "TransferID": 3271,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiggwvssovk4hlnipff2m7gzw2loljqmgadl6fwxrk3tqmwcnqhwiy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreih3re2sgj3aeewrgo2n64v6ywybache6ks5y2sswixjs2iy4tmp5a"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacea2eq4mbp77rmpqmb2dv3zeob76nacoyi25t5zuu2h6leaja3xv5i: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
       "Provider": "f022142",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2326,24 +1774,24 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 521757,
-      "DealID": 1645422,
-      "CreationTime": "2021-03-29T21:13:16.356993779Z",
+      "Duration": 521132,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:24:54.890595914Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
         "Responder": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "ID": 3239
+        "ID": 3324
       },
       "DataTransfer": {
-        "TransferID": 3239,
+        "TransferID": 3324,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreih3re2sgj3aeewrgo2n64v6ywybache6ks5y2sswixjs2iy4tmp5a\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreibn5pqmvxkjtzrbrxe5vuqfkqjzvr4exy2r3p6gwjecddsr34hp4e\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
         "Transferred": 17870864664
@@ -2455,56 +1903,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreib4jqik5dkm4y5o7mo2x3qx5y25bppseg6jdbxxcwyhswuqdl77ly"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebzbf5jeidihomchdp46klqalatw4zffxrwcef2cdm7fuskdaehno: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f023467",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520504,
-      "DealID": 1642894,
-      "CreationTime": "2021-03-29T06:29:40.383922941Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "ID": 3172
-      },
-      "DataTransfer": {
-        "TransferID": 3172,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreib4jqik5dkm4y5o7mo2x3qx5y25bppseg6jdbxxcwyhswuqdl77ly\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai"
       },
       "State": 16,
@@ -2532,156 +1930,6 @@
       "Verified": true,
       "TransferChannelID": null,
       "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreifvnlm7oz2x23sbzwuencbjzlmf3nfupypbwkwvm6ld4beikxm5uu"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaced453wwehijusjeo66vijebhwcchcayx6ifgpyeba7ulcjz7lkjqy: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f02576",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521792,
-      "DealID": 1645489,
-      "CreationTime": "2021-03-29T22:40:28.892029178Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "ID": 3257
-      },
-      "DataTransfer": {
-        "TransferID": 3257,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifvnlm7oz2x23sbzwuencbjzlmf3nfupypbwkwvm6ld4beikxm5uu\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiawfgsi3p2boavnnsivcukojjmxb4czajjufgfjgcxk7lilzbgnny"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: incomplete response",
-      "Provider": "f02606",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 522272,
-      "DealID": 0,
-      "CreationTime": "2021-03-30T02:08:14.013572987Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "ID": 3298
-      },
-      "DataTransfer": {
-        "TransferID": 3298,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiawfgsi3p2boavnnsivcukojjmxb4czajjufgfjgcxk7lilzbgnny\"}}",
-        "Message": "incomplete response",
-        "OtherPeer": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "Transferred": 28474215
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreid3kwccrt6ixph63okncsvtiqzr6z6nkhris6zb4wwbxrghipiviy"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceaz226o53fnqysk5njphqebjapg66brygxn6wjdiya2y65cxhfwvk: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f058369",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520932,
-      "DealID": 1645356,
-      "CreationTime": "2021-03-29T20:02:05.565536141Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "ID": 3216
-      },
-      "DataTransfer": {
-        "TransferID": 3216,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreid3kwccrt6ixph63okncsvtiqzr6z6nkhris6zb4wwbxrghipiviy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "Transferred": 17870864664
-      }
     },
     "id": 1
   },
@@ -2839,106 +2087,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreigedhfphj43hi5do2ai5vipzezqelwkfrap3l3gv6znonkjtfys6m"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacec7uemodkcoo2q2kdkudnibpfrut5xgw5jxqofjn3qd2dib3ugqvo: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f07998",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521099,
-      "DealID": 1645308,
-      "CreationTime": "2021-03-29T19:20:25.662046246Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "ID": 3210
-      },
-      "DataTransfer": {
-        "TransferID": 3210,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreigedhfphj43hi5do2ai5vipzezqelwkfrap3l3gv6znonkjtfys6m\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "Transferred": 18824074469
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiet5swjsrqw6w2vh63rbpddvdkcgix4h2ugcrdf35ibh6gtlts5iq"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaced2qsoaydcv74jr3y6rysl46yjqyrqh5tpclda4bysfbl7hvqeal2: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f08399",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 519889,
-      "DealID": 1645224,
-      "CreationTime": "2021-03-29T18:17:42.890238145Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "ID": 3194
-      },
-      "DataTransfer": {
-        "TransferID": 3194,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiet5swjsrqw6w2vh63rbpddvdkcgix4h2ugcrdf35ibh6gtlts5iq\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreide5gkjlcklutvvoxoxt7mjs5tkgipyrpsix4dd5i4lcpqc3fsvwe"
       },
       "State": 7,
@@ -2989,157 +2137,7 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreifmiv7pidhhgbseam2bnpvyp7hclo6i3ed6wvv7nvopxs7l5zlkmq"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceduj3pihddgpj42fqbzz7qawbv5zdqkek2axbaioemtnnikzljclu: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f09848",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520797,
-      "DealID": 1645265,
-      "CreationTime": "2021-03-29T18:58:50.533870609Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "ID": 3205
-      },
-      "DataTransfer": {
-        "TransferID": 3205,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifmiv7pidhhgbseam2bnpvyp7hclo6i3ed6wvv7nvopxs7l5zlkmq\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreigbpmyfn7ibnxynwsfhljoqxq5fna7zqwp6rlbmjou7tjgyujtfom"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceazftspljdfhyl2s5fo5f62h7ecusu2vxish2wlt747ns4rhdc3xg: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f099608",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522629,
-      "DealID": 1649002,
-      "CreationTime": "2021-03-30T00:09:52.378950504Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "ID": 3277
-      },
-      "DataTransfer": {
-        "TransferID": 3277,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreigbpmyfn7ibnxynwsfhljoqxq5fna7zqwp6rlbmjou7tjgyujtfom\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 17870864664
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreibts27pvstvc44dvanlv2626butlu3lbbz5v5z5o5nvbjmlkcsaxu"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceacbd6l2zk5ago4afl5qm6x5afpba77fxpdftziykcahv7wit2jfq: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f010479",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523902,
-      "DealID": 1645464,
-      "CreationTime": "2021-03-29T21:31:43.03282663Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "ID": 3245
-      },
-      "DataTransfer": {
-        "TransferID": 3245,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreibts27pvstvc44dvanlv2626butlu3lbbz5v5z5o5nvbjmlkcsaxu\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreicsu3upw5j7uihyst7rv2yoefinbojjbcjsg54fo3l3rojbzyc22i"
+        "/": "bafyreifblus6iycpvifz5ipwh5up5neha7aoc3mhtikg4i3uwijhtfdtru"
       },
       "State": 26,
       "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: miner is not considering online storage deals",
@@ -3160,112 +2158,12 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 523294,
+      "Duration": 523045,
       "DealID": 0,
-      "CreationTime": "2021-03-30T01:29:48.44354252Z",
+      "CreationTime": "2021-03-31T02:51:41.927614254Z",
       "Verified": true,
       "TransferChannelID": null,
       "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreidckyxyxgymybdwspwwv2uroycoz7bpoug2sczukqj5qb6vwwyp2m"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecrgkubpb3z37o7k6o55w7b6dg6ysewawmue3gbqkne3aodhffyoq: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f01234",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520373,
-      "DealID": 1645250,
-      "CreationTime": "2021-03-29T18:34:00.740827843Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "ID": 3198
-      },
-      "DataTransfer": {
-        "TransferID": 3198,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidckyxyxgymybdwspwwv2uroycoz7bpoug2sczukqj5qb6vwwyp2m\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihs64usm5xqfgadh56aknjumtcw32mjgixjq3mub77kcq64ouaivu"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceal5ghim4jao2p2ctmeyowbx7aayrr3e4c4vroozskfky6qy5h24a: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f01240",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520531,
-      "DealID": 1648939,
-      "CreationTime": "2021-03-29T18:38:27.594824331Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "ID": 3199
-      },
-      "DataTransfer": {
-        "TransferID": 3199,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihs64usm5xqfgadh56aknjumtcw32mjgixjq3mub77kcq64ouaivu\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "Transferred": 17870864665
-      }
     },
     "id": 1
   },
@@ -3373,228 +2271,10 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreic6i2qor6tjrjrat6wnt2yab66smd55zhgszxpk25jida3dvm5ake"
+        "/": "bafyreiblwr3aokmavpinujqccyedmyroxjue5nm4swoukr7dp2gcqfhxda"
       },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f014409",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521378,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T23:52:58.301022829Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreianfwzyfh35jat34gcop3wjnq4d22rwx2kabvp6kyiiwwmpun6pce"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaced6fdhuwzamm2pjj3c4z3sj5nvlelwdoyx6nhtayqil7sg3l2cm6i: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f0145874",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 518949,
-      "DealID": 1645326,
-      "CreationTime": "2021-03-29T20:10:01.104603689Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "ID": 3218
-      },
-      "DataTransfer": {
-        "TransferID": 3218,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreianfwzyfh35jat34gcop3wjnq4d22rwx2kabvp6kyiiwwmpun6pce\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihrtb2cin7guk723lshgfbawp2iucfwf5fanjl5f63qvf3eh5nkk4"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceakesagr662px7hzp4gcqqsdjt7spyxlzjq62zv6mv6ajtuu6zgrc: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f014768",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520647,
-      "DealID": 1645409,
-      "CreationTime": "2021-03-29T20:35:54.956503854Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "ID": 3230
-      },
-      "DataTransfer": {
-        "TransferID": 3230,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihrtb2cin7guk723lshgfbawp2iucfwf5fanjl5f63qvf3eh5nkk4\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiafkeixlpk4zmk77oecno5m77losfx2wazcu7tbzb5c2j2gstwwga"
-      },
-      "State": 26,
-      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
-      "Provider": "f0157535",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523742,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T23:28:02.459570476Z",
-      "Verified": true,
-      "TransferChannelID": null,
-      "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiga736xslb5isd3vr37x4fbey3wlrboa5vs7w27khxmqhajlkz3za"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecr6gpiwaugangu45m5fubl2qerc3lb7lvewnz2v2vxrorgmnug2m: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f015927",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "160000000000",
-      "Duration": 518760,
-      "DealID": 1645310,
-      "CreationTime": "2021-03-29T19:52:59.387640315Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "ID": 3214
-      },
-      "DataTransfer": {
-        "TransferID": 3214,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiga736xslb5isd3vr37x4fbey3wlrboa5vs7w27khxmqhajlkz3za\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreib4hhfe34ousmq57is2jvzu4azr2rjk2rnutzhxlyissluphjvnje"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebgpihunjo7rmgacba24vcgniqj62eza6jpj5br4nrqmb4zmism7w: search msg failed: failed to load message: blockstore: block not found",
+      "State": 17,
+      "Message": "",
       "Provider": "f0165400",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3612,126 +2292,26 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 521606,
-      "DealID": 1645269,
-      "CreationTime": "2021-03-29T17:50:51.050603226Z",
+      "Duration": 523371,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:09:58.810056508Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
         "Responder": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
-        "ID": 3188
+        "ID": 3332
       },
       "DataTransfer": {
-        "TransferID": 3188,
-        "Status": 6,
+        "TransferID": 3332,
+        "Status": 2,
         "BaseCID": {
           "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreib4hhfe34ousmq57is2jvzu4azr2rjk2rnutzhxlyissluphjvnje\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiblwr3aokmavpinujqccyedmyroxjue5nm4swoukr7dp2gcqfhxda\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreid4na6o3na7rsr7f7otvyzujuiorritiqrz44tiqyqqfhbl7wjtj4"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecfgupp6xttx2nzwglmvsnmu75o54e66aybjdyiwsmugjmqib2ucu: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f019041",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 520222,
-      "DealID": 1648221,
-      "CreationTime": "2021-03-29T19:45:24.947569962Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "ID": 3213
-      },
-      "DataTransfer": {
-        "TransferID": 3213,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreid4na6o3na7rsr7f7otvyzujuiorritiqrz44tiqyqqfhbl7wjtj4\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "Transferred": 31154919724
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreigpqtsnpjmi6d7eajxmrjocmaoomehbifdxmrbdvtotmqxqctsrqa"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacec3wvuqe76jbkmtbop7257jxe4jdi57gh3nliwj4lzzdrgbwsxk6k: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f019362",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523014,
-      "DealID": 1649004,
-      "CreationTime": "2021-03-30T00:17:33.228414233Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
-        "ID": 3278
-      },
-      "DataTransfer": {
-        "TransferID": 3278,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreigpqtsnpjmi6d7eajxmrjocmaoomehbifdxmrbdvtotmqxqctsrqa\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
         "Transferred": 17870864665
       }
     },
@@ -3841,56 +2421,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreias27c6yclfjmyg4hjebafqtrushqwhvamf3qwjkl5hzglf247dou"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceaceryb2otgz6as2tg7bma2c2xfsw7lhb45tar2ayv5j65yvjqgsm: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f022142",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 519335,
-      "DealID": 1645157,
-      "CreationTime": "2021-03-29T17:22:56.429536567Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "ID": 3181
-      },
-      "DataTransfer": {
-        "TransferID": 3181,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreias27c6yclfjmyg4hjebafqtrushqwhvamf3qwjkl5hzglf247dou\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreigv45nn2udqp7ukcwwkasau7bam6vxbsj4qgpopnyaowxm435szxe"
       },
       "State": 3,
@@ -3941,10 +2471,10 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreicfx6nidgp27l6lgso6dsj2ybxvrcrxxcjesdgpbwdrwtf2m2ndwu"
+        "/": "bafyreiby5krmqud7no6t3e4pcjvaon2uo3eegojhpe7spdnoexg7ug7ydu"
       },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceaov2vqvob3g2f2yvvqvd3zw2pn2qthdcrlzhwi5hl5ga6bq7o3pk: search msg failed: failed to load message: blockstore: block not found",
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3962,76 +2492,26 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 521107,
-      "DealID": 1645318,
-      "CreationTime": "2021-03-29T19:03:17.017858828Z",
+      "Duration": 523092,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:29:35.861811708Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
         "Responder": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "ID": 3206
+        "ID": 3325
       },
       "DataTransfer": {
-        "TransferID": 3206,
+        "TransferID": 3325,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicfx6nidgp27l6lgso6dsj2ybxvrcrxxcjesdgpbwdrwtf2m2ndwu\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiby5krmqud7no6t3e4pcjvaon2uo3eegojhpe7spdnoexg7ug7ydu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreielmoankbbe7zsqypofrhwhw6gfoyckrioxzfx4i75tpi6syj44dy"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceagohn7c7xp6rsv3ms4paqzc4qjzpyxo4ldz4gj4rbomwaxtgtmbc: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f023467",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 518786,
-      "DealID": 1645375,
-      "CreationTime": "2021-03-29T20:48:47.853281581Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "ID": 3234
-      },
-      "DataTransfer": {
-        "TransferID": 3234,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreielmoankbbe7zsqypofrhwhw6gfoyckrioxzfx4i75tpi6syj44dy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
         "Transferred": 17870864665
       }
     },
@@ -4068,156 +2548,6 @@
       "Verified": true,
       "TransferChannelID": null,
       "DataTransfer": null
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreibqlcsrxm75fog35hhclsxglkxts2hvog6njclmce6ljjxmdoqkna"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceapvfu4ga7lao2c5ntfsc2kheqyniidyfvge6gq2fkwa63v3cwlba: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f02576",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521567,
-      "DealID": 1648991,
-      "CreationTime": "2021-03-30T00:49:15.29140554Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "ID": 3282
-      },
-      "DataTransfer": {
-        "TransferID": 3282,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreibqlcsrxm75fog35hhclsxglkxts2hvog6njclmce6ljjxmdoqkna\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiaar75mx5a5hrvipshgaiw73k77quysrhky3fqiafj3ymuiors4ha"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: channel removed due to inactivity",
-      "Provider": "f02606",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 522451,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T23:44:59.688219669Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "ID": 3270
-      },
-      "DataTransfer": {
-        "TransferID": 3270,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiaar75mx5a5hrvipshgaiw73k77quysrhky3fqiafj3ymuiors4ha\"}}",
-        "Message": "channel removed due to inactivity",
-        "OtherPeer": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
-        "Transferred": 11848501256
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreigdi52z3aubmtfgvzw5iqthbc4vhxsteuwsbpjxsyoxlngicnnzmy"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebt5uqhcygsphxuwycvn725pdphpuklsadjxevstmb7u43ofsjieu: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f058369",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521231,
-      "DealID": 1645147,
-      "CreationTime": "2021-03-29T17:29:44.32176134Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "ID": 3183
-      },
-      "DataTransfer": {
-        "TransferID": 3183,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreigdi52z3aubmtfgvzw5iqthbc4vhxsteuwsbpjxsyoxlngicnnzmy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "Transferred": 17870864665
-      }
     },
     "id": 1
   },
@@ -4275,56 +2605,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreido3bfi4hsktsz734d3vbknhdrqddcsthb4eoxz5inz3kzzorhw7e"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacedxv3dshlogn3pmvkrey4o6uzdv5rsne6yh4ybbq2q7bqpi5eilu6: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f066596",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 519891,
-      "DealID": 1645275,
-      "CreationTime": "2021-03-29T19:16:02.446173364Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "ID": 3209
-      },
-      "DataTransfer": {
-        "TransferID": 3209,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreido3bfi4hsktsz734d3vbknhdrqddcsthb4eoxz5inz3kzzorhw7e\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreiexrz3lpxofi5lim4xoea3vk3tdmfwdvheanm4stqse6sk2ndl4oe"
       },
       "State": 7,
@@ -4366,106 +2646,6 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiexrz3lpxofi5lim4xoea3vk3tdmfwdvheanm4stqse6sk2ndl4oe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreihhglc52ewo7ri4zlyhghfjafxofoq26rdpo5boayf7itmv3hyau4"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebg4favz5ja4n5ofrqpt3aimoebr4pjtljzx5dmg7f3s6i2jtj4zk: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f07998",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523534,
-      "DealID": 1648368,
-      "CreationTime": "2021-03-29T23:01:38.963632232Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "ID": 3262
-      },
-      "DataTransfer": {
-        "TransferID": 3262,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihhglc52ewo7ri4zlyhghfjafxofoq26rdpo5boayf7itmv3hyau4\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "Transferred": 17870864665
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreicd3c5q35672rkol5hfoirl2b7awdosl26bpzjpcto62tjghfw444"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaced2qsoaydcv74jr3y6rysl46yjqyrqh5tpclda4bysfbl7hvqeal2: search msg failed: failed to load message: blockstore: block not found",
-      "Provider": "f08399",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 519826,
-      "DealID": 1645225,
-      "CreationTime": "2021-03-29T18:50:55.17721792Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "ID": 3203
-      },
-      "DataTransfer": {
-        "TransferID": 3203,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicd3c5q35672rkol5hfoirl2b7awdosl26bpzjpcto62tjghfw444\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
         "Transferred": 17870864665
       }
     },
@@ -4575,61 +2755,11 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreihd6xbmb3n44xhgenty52nlkogfflo7gsb4vmhzyucqp2zq4xatse"
+        "/": "bafyreieja5cr5kfhisgwso5zputy7zymd2zlsw5ttkuvz5pobfzxo2seh4"
       },
       "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacedsjfw5lbrda5ps5zcvoh7andjqxdfe4rl4yomoo36e4tplokqeos: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f099608",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520456,
-      "DealID": 1648223,
-      "CreationTime": "2021-03-29T18:10:23.182078214Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "ID": 3193
-      },
-      "DataTransfer": {
-        "TransferID": 3193,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihd6xbmb3n44xhgenty52nlkogfflo7gsb4vmhzyucqp2zq4xatse\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 41418914202
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiascrd3feboje5po7ahg5motdij4fgv7lscftngorjzfm5jvkycpe"
-      },
-      "State": 26,
-      "Message": "deal failed: (State=26) handing off deal to node: writing piece baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia: write |1: broken pipe",
-      "Provider": "f01234",
+      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
+      "Provider": "f0157535",
       "DataRef": {
         "TransferType": "graphsync",
         "Root": {
@@ -4646,178 +2776,12 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 522462,
+      "Duration": 523408,
       "DealID": 0,
-      "CreationTime": "2021-03-30T01:45:01.479178269Z",
+      "CreationTime": "2021-03-31T02:14:11.489436925Z",
       "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "ID": 3293
-      },
-      "DataTransfer": {
-        "TransferID": 3293,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiascrd3feboje5po7ahg5motdij4fgv7lscftngorjzfm5jvkycpe\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecfgupp6xttx2nzwglmvsnmu75o54e66aybjdyiwsmugjmqib2ucu: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f019041",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 520159,
-      "DealID": 1648222,
-      "CreationTime": "2021-03-29T20:19:38.849945203Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "ID": 3220
-      },
-      "DataTransfer": {
-        "TransferID": 3220,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreieuc4lkrq2rkgs7znpuvbmjemhj5mud2munt3yvy62jvyszq72viu\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "Transferred": 18265960360
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiggjeaaytlola2tunntmjx5zgvbmze6inwuqfd7ma7vgnhdq5f22m"
-      },
-      "State": 26,
-      "Message": "deal failed: (State=26) error calling node: publishing deal: mpool push: failed to push message: not enough funds (required: 0.19999999998338535 FIL, balance: 0.037461935577982576 FIL): not enough funds to execute transaction",
-      "Provider": "f021716",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522360,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T22:44:16.669841332Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "ID": 3258
-      },
-      "DataTransfer": {
-        "TransferID": 3258,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiggjeaaytlola2tunntmjx5zgvbmze6inwuqfd7ma7vgnhdq5f22m\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreidsx32kaodrg7hc6gus3tn5caorxtk2ygkcmpxejwmsusbz4rpera"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecagblxo5q6ffdvlinbflxc27req6rl6zbi7qm6gzbbq5yuh5o27u: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f022142",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521480,
-      "DealID": 1647799,
-      "CreationTime": "2021-03-29T23:31:56.51260201Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "ID": 3265
-      },
-      "DataTransfer": {
-        "TransferID": 3265,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidsx32kaodrg7hc6gus3tn5caorxtk2ygkcmpxejwmsusbz4rpera\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "Transferred": 17757346779
-      }
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },
@@ -4875,11 +2839,11 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiabdm3mih3jdcmywncahacpwywsc3ctwf7pysb3waefpcmd4zkgbe"
+        "/": "bafyreifpw4u3ogfrgn5j5mha3oj762ydhqvaeb3gk4ssupphjmwcspld4i"
       },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebyai62kvpijhozjp54c37drli46lxpf2nvdruyn6sqywjnf7szq6: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f023467",
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f02576",
       "DataRef": {
         "TransferType": "graphsync",
         "Root": {
@@ -4896,76 +2860,26 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 521248,
-      "DealID": 1649007,
-      "CreationTime": "2021-03-30T00:32:52.706574741Z",
+      "Duration": 521325,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:34:20.677657215Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "ID": 3280
+        "Responder": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
+        "ID": 3326
       },
       "DataTransfer": {
-        "TransferID": 3280,
+        "TransferID": 3326,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiabdm3mih3jdcmywncahacpwywsc3ctwf7pysb3waefpcmd4zkgbe\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifpw4u3ogfrgn5j5mha3oj762ydhqvaeb3gk4ssupphjmwcspld4i\"}}",
         "Message": "",
-        "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreicv7hrma3nysjwgyq2i7u6g5hbuhwk7wqfzl3pikpvlhthezakgmq"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaced7uhr77y3it53gj7dcccc662sha3swuu37op4cjez462iiso3m2g: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f058369",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523344,
-      "DealID": 1648954,
-      "CreationTime": "2021-03-29T23:56:43.153566808Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "ID": 3273
-      },
-      "DataTransfer": {
-        "TransferID": 3273,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicv7hrma3nysjwgyq2i7u6g5hbuhwk7wqfzl3pikpvlhthezakgmq\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
+        "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
         "Transferred": 17757346779
       }
     },
@@ -5025,56 +2939,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreif45qh3omlr5ljuxrgddfxjwf6ojuzhnuhintbhtiknl34kawmkku"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacedustkhxro4tlkzmgnbd6j3quankwbz35scl6xk24svoawg4fqlmg: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f066596",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522343,
-      "DealID": 1645517,
-      "CreationTime": "2021-03-29T22:48:29.954249964Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "ID": 3259
-      },
-      "DataTransfer": {
-        "TransferID": 3259,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreif45qh3omlr5ljuxrgddfxjwf6ojuzhnuhintbhtiknl34kawmkku\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreie4lpdpyqxs3cy6vp64gj7angyqu4sok4lpcwrmwsc3ozlx4ufelu"
       },
       "State": 3,
@@ -5125,11 +2989,11 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiatd3ayqbgyoscgvsyeueqpoqaerzhzj7kczysdeclle6hjfb62wq"
+        "/": "bafyreidr3h2plmyqqealvq63goyaqkmmmy35jonakx6ch5y5rail64lx4i"
       },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: channel removed due to inactivity",
-      "Provider": "f07998",
+      "State": 13,
+      "Message": "Provider state: StorageDealVerifyData",
+      "Provider": "f08399",
       "DataRef": {
         "TransferType": "graphsync",
         "Root": {
@@ -5146,76 +3010,26 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 523321,
+      "Duration": 521733,
       "DealID": 0,
-      "CreationTime": "2021-03-30T01:16:45.804928118Z",
+      "CreationTime": "2021-03-31T02:55:45.741447561Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "ID": 3289
+        "Responder": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
+        "ID": 3329
       },
       "DataTransfer": {
-        "TransferID": 3289,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiatd3ayqbgyoscgvsyeueqpoqaerzhzj7kczysdeclle6hjfb62wq\"}}",
-        "Message": "channel removed due to inactivity",
-        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
-        "Transferred": 99723162
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreibad7c6isl7i2h6mcsihdlstkoxd5byobocotpqaw4kpa7fm2pmz4"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceaus6hofztwp7xjei6nuhdqpr4gvftbf3jexqcza7ceeipctgh45w: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f08403",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 520330,
-      "DealID": 1645450,
-      "CreationTime": "2021-03-29T20:40:01.184323202Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "ID": 3232
-      },
-      "DataTransfer": {
-        "TransferID": 3232,
+        "TransferID": 3329,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreibad7c6isl7i2h6mcsihdlstkoxd5byobocotpqaw4kpa7fm2pmz4\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidr3h2plmyqqealvq63goyaqkmmmy35jonakx6ch5y5rail64lx4i\"}}",
         "Message": "",
-        "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
+        "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
         "Transferred": 17757346779
       }
     },
@@ -5225,111 +3039,11 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreiea6747fnl44ccf5poytveev6xbdmnloisc5iytfuxrgfgln7n5ie"
+        "/": "bafyreiacc4k37jysmzmpyjbkwbq74s7f5izy6o6hfep5fzaqcvqtonv534"
       },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacedozskoukzhirq37rp5ie7a7ufigjmmnispjot4hpve7ilrmqaudg: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f09848",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523423,
-      "DealID": 1645415,
-      "CreationTime": "2021-03-29T21:04:45.786556596Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "ID": 3238
-      },
-      "DataTransfer": {
-        "TransferID": 3238,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiea6747fnl44ccf5poytveev6xbdmnloisc5iytfuxrgfgln7n5ie\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreid2shk65xef5eo7btp567p7nt7uqvzkdjzxxjcbhxcxejpaodcwry"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacedsjfw5lbrda5ps5zcvoh7andjqxdfe4rl4yomoo36e4tplokqeos: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f099608",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522729,
-      "DealID": 1648224,
-      "CreationTime": "2021-03-29T23:15:15.943821589Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "ID": 3263
-      },
-      "DataTransfer": {
-        "TransferID": 3263,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreid2shk65xef5eo7btp567p7nt7uqvzkdjzxxjcbhxcxejpaodcwry\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 17757346779
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreia6eu62y4vsor4bq6e5pvzs46vgmdy4evoktzov6f7iir37znb7nq"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacebntwlppn32mbhu7fxlv7zkdruoxrcc3r5lqjm2okntnuwbpsiy54: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f010479",
+      "State": 13,
+      "Message": "Provider state: StorageDealProviderFunding",
+      "Provider": "f01240",
       "DataRef": {
         "TransferType": "graphsync",
         "Root": {
@@ -5346,126 +3060,26 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 523653,
-      "DealID": 1648931,
-      "CreationTime": "2021-03-29T23:35:52.568772409Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "ID": 3266
-      },
-      "DataTransfer": {
-        "TransferID": 3266,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreia6eu62y4vsor4bq6e5pvzs46vgmdy4evoktzov6f7iir37znb7nq\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreif3elzndor6g3mzjdoc2zjvlfl4t2u7r3jkm3cbpmcm64ifxksacy"
-      },
-      "State": 26,
-      "Message": "failed to initiate data transfer: deal data transfer failed: channel removed due to inactivity",
-      "Provider": "f019041",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "320000000",
-      "Duration": 522594,
+      "Duration": 522403,
       "DealID": 0,
-      "CreationTime": "2021-03-30T00:00:54.928312668Z",
+      "CreationTime": "2021-03-31T02:59:53.825592982Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "ID": 3275
+        "Responder": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
+        "ID": 3330
       },
       "DataTransfer": {
-        "TransferID": 3275,
-        "Status": 8,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreif3elzndor6g3mzjdoc2zjvlfl4t2u7r3jkm3cbpmcm64ifxksacy\"}}",
-        "Message": "channel removed due to inactivity",
-        "OtherPeer": "12D3KooWJCDVwifzmPY667ySn4B5hGGReR6up3HzhSs5YJQjvSVt",
-        "Transferred": 1639085989
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreia5y55gnixm6dxtfgxknhuky5ohekcjh2ovriqxayzzhrylr7vati"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceahzfsn4a4tcwrp6pj4rj5qig4ch4xmjvy62ktbttyazzbhkhv6s6: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f019362",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523361,
-      "DealID": 1645426,
-      "CreationTime": "2021-03-29T21:17:44.326219084Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
-        "ID": 3241
-      },
-      "DataTransfer": {
-        "TransferID": 3241,
+        "TransferID": 3330,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreia5y55gnixm6dxtfgxknhuky5ohekcjh2ovriqxayzzhrylr7vati\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiacc4k37jysmzmpyjbkwbq74s7f5izy6o6hfep5fzaqcvqtonv534\"}}",
         "Message": "",
-        "OtherPeer": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
+        "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
         "Transferred": 17757346780
       }
     },
@@ -5516,156 +3130,6 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreidwa2y55gtaekm3nd3bxp2ltb2mr4cervwrrriofciss62sjzoczy"
-      },
-      "State": 26,
-      "Message": "deal failed: (State=26) error calling node: publishing deal: mpool push: failed to push message: not enough funds (required: 0.199999999976801508 FIL, balance: 0.037461935577982576 FIL): not enough funds to execute transaction",
-      "Provider": "f021716",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 519719,
-      "DealID": 0,
-      "CreationTime": "2021-03-29T20:44:13.027036339Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "ID": 3233
-      },
-      "DataTransfer": {
-        "TransferID": 3233,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidwa2y55gtaekm3nd3bxp2ltb2mr4cervwrrriofciss62sjzoczy\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreiftwzsedc6ohttsdhrnxpv2cgbictbnhyeqc4fh6t6txxo43zokzu"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecagblxo5q6ffdvlinbflxc27req6rl6zbi7qm6gzbbq5yuh5o27u: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f022142",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521557,
-      "DealID": 1647798,
-      "CreationTime": "2021-03-29T22:52:57.001821443Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "ID": 3260
-      },
-      "DataTransfer": {
-        "TransferID": 3260,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiftwzsedc6ohttsdhrnxpv2cgbictbnhyeqc4fh6t6txxo43zokzu\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreib5qdsq6eayywfb5sjpki72aczbfptwm2gvmgpnhesxinzmu6btmm"
-      },
-      "State": 26,
-      "Message": "error in deal activation: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceagohn7c7xp6rsv3ms4paqzc4qjzpyxo4ldz4gj4rbomwaxtgtmbc: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f023467",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 521598,
-      "DealID": 1645376,
-      "CreationTime": "2021-03-29T21:26:50.318497566Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "ID": 3243
-      },
-      "DataTransfer": {
-        "TransferID": 3243,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreib5qdsq6eayywfb5sjpki72aczbfptwm2gvmgpnhesxinzmu6btmm\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
         "Transferred": 17757346780
       }
     },
@@ -5775,56 +3239,6 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreidlrpni64glcksq5ta7i6o5ai7tttowqwnajeoxctzgwiivuhfv5y"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzacecod6m7666hhcep3vezneryb5fywgpju5uqkg6slrz4tr3bbrz2vu: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f08399",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 522037,
-      "DealID": 1649014,
-      "CreationTime": "2021-03-30T00:38:10.862537136Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "ID": 3281
-      },
-      "DataTransfer": {
-        "TransferID": 3281,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreidlrpni64glcksq5ta7i6o5ai7tttowqwnajeoxctzgwiivuhfv5y\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
         "/": "bafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja"
       },
       "State": 3,
@@ -5875,60 +3289,10 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
-        "/": "bafyreigonz6n3vbdiauw2fleegc6r6xxvxsj4mgjzg63ew6koiaivwbydm"
+        "/": "bafyreiawwaodrvxvf5g2kp7kixxj6c6yiaanivgksprniflff7gtax3qzi"
       },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceauu252ppds536hvnmt5vww5pvlamrettcgkqv5eitpgjtsouckxe: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
-      "Provider": "f09848",
-      "DataRef": {
-        "TransferType": "graphsync",
-        "Root": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "PieceCid": {
-          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-        },
-        "PieceSize": 34091302912,
-        "RawBlockSize": 0
-      },
-      "PieceCID": {
-        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
-      },
-      "Size": 34091302912,
-      "PricePerEpoch": "0",
-      "Duration": 523145,
-      "DealID": 1648932,
-      "CreationTime": "2021-03-29T23:23:46.059118622Z",
-      "Verified": true,
-      "TransferChannelID": {
-        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
-        "Responder": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "ID": 3264
-      },
-      "DataTransfer": {
-        "TransferID": 3264,
-        "Status": 6,
-        "BaseCID": {
-          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
-        },
-        "IsInitiator": true,
-        "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreigonz6n3vbdiauw2fleegc6r6xxvxsj4mgjzg63ew6koiaivwbydm\"}}",
-        "Message": "",
-        "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "Transferred": 17757346780
-      }
-    },
-    "id": 1
-  },
-  {
-    "jsonrpc": "2.0",
-    "result": {
-      "ProposalCid": {
-        "/": "bafyreie2latubnyd6ua3whv7kk7d2rzxc3ya3bun7lixfbz72nwamyuy7i"
-      },
-      "State": 26,
-      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 626979): failed to look up deal on chain: looking for publish deal message bafy2bzaceazftspljdfhyl2s5fo5f62h7ecusu2vxish2wlt747ns4rhdc3xg: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
       "Provider": "f099608",
       "DataRef": {
         "TransferType": "graphsync",
@@ -5946,27 +3310,227 @@
       },
       "Size": 34091302912,
       "PricePerEpoch": "0",
-      "Duration": 522571,
-      "DealID": 1649003,
-      "CreationTime": "2021-03-30T01:01:05.273070898Z",
+      "Duration": 522360,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:18:55.498404775Z",
       "Verified": true,
       "TransferChannelID": {
         "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
         "Responder": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "ID": 3284
+        "ID": 3323
       },
       "DataTransfer": {
-        "TransferID": 3284,
+        "TransferID": 3323,
         "Status": 6,
         "BaseCID": {
           "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
         },
         "IsInitiator": true,
         "IsSender": true,
-        "Voucher": "{\"Proposal\":{\"/\":\"bafyreie2latubnyd6ua3whv7kk7d2rzxc3ya3bun7lixfbz72nwamyuy7i\"}}",
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiawwaodrvxvf5g2kp7kixxj6c6yiaanivgksprniflff7gtax3qzi\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
         "Transferred": 17757346780
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreicxjl6d4ckexpeeauozdqnaxhdkilw7xf5wu3bdbkeh4paxbl32nu"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f019551",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520788,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:39:13.18785795Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
+        "ID": 3327
+      },
+      "DataTransfer": {
+        "TransferID": 3327,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicxjl6d4ckexpeeauozdqnaxhdkilw7xf5wu3bdbkeh4paxbl32nu\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
+        "Transferred": 18249095734
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreideuusfzbim4hiaffwjhgxvctgfjvefhwdh6bkkg3zaqc2p2d7c4e"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealWaitingForData",
+      "Provider": "f062353",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 521746,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:04:48.547194327Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
+        "ID": 3331
+      },
+      "DataTransfer": {
+        "TransferID": 3331,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreideuusfzbim4hiaffwjhgxvctgfjvefhwdh6bkkg3zaqc2p2d7c4e\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
+        "Transferred": 18249095734
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreieiduvhoztu5e47j3wixi2intks335zgz3cdvkq7bibcaqixpooke"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f09848",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522819,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:05:30.538039394Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
+        "ID": 3321
+      },
+      "DataTransfer": {
+        "TransferID": 3321,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreieiduvhoztu5e47j3wixi2intks335zgz3cdvkq7bibcaqixpooke\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
+        "Transferred": 18249095734
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreighmvdv7f2pmigmalhf5y6vretj2lxrxp2ozavrlr5phrdiatyy4m"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f08403",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522550,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T02:09:36.659918092Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
+        "ID": 3322
+      },
+      "DataTransfer": {
+        "TransferID": 3322,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreighmvdv7f2pmigmalhf5y6vretj2lxrxp2ozavrlr5phrdiatyy4m\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
+        "Transferred": 18249095735
       }
     },
     "id": 1
