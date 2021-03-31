@@ -1,0 +1,185 @@
+Mar 30 17:30:56 ./retrieve-worker.sh: line 3: lotus: command not found
+Mar 30 17:30:56 
+Mar 30 17:30:56 ./retrieve-worker.sh: line 5: lotus: command not found
+Mar 30 17:30:56 
+Mar 30 17:30:56 ./retrieve-worker.sh: line 20: lotus: command not found
+Mar 30 17:30:56 ./retrieve-worker.sh: line 20: lotus: command not found
+Mar 30 17:30:56 Loading deals f0421499
+Mar 30 17:30:56 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 30 17:30:56 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 30 17:30:56 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 30 17:30:56 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 30 17:30:56 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 30 17:30:56 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 30 17:30:56 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 30 17:30:56 f019362-1645426 f023467-1645376 f022142-1647798 f09848-1648932 f010479-1648931
+Mar 30 17:30:56 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:30:56 Already have log for f019362 1645426 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 17:30:57 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:30:57 Already have log for f023467 1645376 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 17:30:58 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:30:58 Already have log for f022142 1647798 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 17:31:00 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:00 Already have log for f09848 1648932 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 17:31:01 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:01 Already have log for f010479 1648931 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 30 17:31:02 
+Mar 30 17:31:03 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 30 17:31:03 f019041-1648222 f08403-1645450 f09848-1645415 f066596-1645517 f099608-1648224 f022142-1647799 f058369-1648954
+Mar 30 17:31:03 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:03 Already have log for f019041 1648222 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:04 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:04 Already have log for f08403 1645450 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:05 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:05 Already have log for f09848 1645415 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:06 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:07 Already have log for f066596 1645517 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:08 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:08 Already have log for f099608 1648224 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:09 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:09 Already have log for f022142 1647799 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:10 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:10 Already have log for f058369 1648954 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:31:11 
+Mar 30 17:31:12 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 30 17:31:12 f0165400-1642717 f022163-1643006 f019551-1645067 f022352-1642861 f066596-1643069 f023467-1642894 f01234-1642981 f0145874-1642998 f071624-1645163 f010479-1645175 f08399-1645224 f08403-1645153 f015927-1645215 f014768-1645276 f09848-1645265 f07998-1645308 f058369-1645356 f022142-1645422 f02576-1645489 f01240-1648942
+Mar 30 17:31:12 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:12 Already have log for f0165400 1642717 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:13 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:13 Already have log for f022163 1643006 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:14 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:15 Already have log for f019551 1645067 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:16 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:16 Already have log for f022352 1642861 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:17 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:17 Already have log for f066596 1643069 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:18 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:18 Already have log for f023467 1642894 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:19 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:19 Already have log for f01234 1642981 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:20 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:20 Already have log for f0145874 1642998 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:21 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:22 Already have log for f071624 1645163 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:23 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:23 Already have log for f010479 1645175 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:24 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:24 Already have log for f08399 1645224 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:25 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:25 Already have log for f08403 1645153 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:26 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:26 Already have log for f015927 1645215 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:27 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:27 Retrieving f014768 1645276 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Mar 30 17:31:27   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 30 17:31:27                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 30 17:31:27   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0     0  100   177      0   172k --:--:-- --:--:-- --:--:--  172k
+Mar 30 17:31:28 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 30 17:31:28 Command exited with non-zero status 127
+Mar 30 17:31:28 0.00user 0.00system 0:00.00elapsed 20%CPU (0avgtext+0avgdata 2188maxresident)k
+Mar 30 17:31:28 0inputs+0outputs (0major+171minor)pagefaults 0swaps
+Mar 30 17:31:28 ./retrieve-worker.sh: line 98: lotus: command not found
+Mar 30 17:31:28 : (9.0G free)
+Mar 30 17:31:28 Skipping ahead
+Mar 30 17:31:28 
+Mar 30 17:31:29 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 30 17:31:29 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f099608-1640642 f01240-1640769 f0145874-1640738 f02576-1640964 f015927-1641099 f010479-1641179
+Mar 30 17:31:29 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:29 Already have log for f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:30 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:30 Already have log for f022163 1639544 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:31 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:31 Already have log for f014768 1639431 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:32 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:32 Already have log for f01278 1639717 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:33 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:33 Already have log for f01234 1639443 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:34 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:34 Already have log for f071624 1639479 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:35 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:35 Already have log for f022352 1639878 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:36 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:36 Already have log for f099608 1640642 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:37 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:37 Already have log for f01240 1640769 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:38 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:38 Already have log for f0145874 1640738 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:39 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:39 Already have log for f02576 1640964 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:40 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:40 Already have log for f015927 1641099 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:41 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:42 Already have log for f010479 1641179 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 30 17:31:43 
+Mar 30 17:31:44 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 30 17:31:44 f0145874-1639395 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Mar 30 17:31:44 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:44 Already have log for f0145874 1639395 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:45 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:45 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:46 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:46 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:47 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:48 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:49 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:49 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:50 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:50 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:51 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:51 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:52 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:52 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:53 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:53 Already have log for f023467 1641041 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:54 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:54 Already have log for f019551 1641211 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:55 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:56 Already have log for f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 30 17:31:57 
+Mar 30 17:31:58 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 30 17:31:58 f071624-1643068 f09848-1642933 f022142-1645157 f058369-1645147 f019551-1645164 f01278-1645170 f0165400-1645269 f099608-1648223 f01234-1645250 f01240-1648939 f08399-1645225 f08403-1645178 f022352-1645318 f066596-1645275 f019041-1648221 f015927-1645310 f0145874-1645326 f014768-1645409 f023467-1645375 f010479-1645464 f07998-1648368
+Mar 30 17:31:58 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:58 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:31:59 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:31:59 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:00 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:00 Already have log for f022142 1645157 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:01 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:01 Already have log for f058369 1645147 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:02 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:03 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:04 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:04 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:05 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:05 Already have log for f0165400 1645269 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:06 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:06 Already have log for f099608 1648223 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:07 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:07 Already have log for f01234 1645250 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:08 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:08 Already have log for f01240 1648939 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:09 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:09 Already have log for f08399 1645225 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:10 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:10 Already have log for f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:11 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:11 Already have log for f022352 1645318 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:12 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:12 Already have log for f066596 1645275 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:13 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:13 Already have log for f019041 1648221 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:14 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:14 Already have log for f015927 1645310 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:15 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:16 Retrieving f0145874 1645326 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 30 17:32:16   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 30 17:32:16                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 30 17:32:16   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   178    0     0  100   178      0   173k --:--:-- --:--:-- --:--:--  173k
+Mar 30 17:32:16 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 30 17:32:16 Command exited with non-zero status 127
+Mar 30 17:32:16 0.00user 0.00system 0:00.00elapsed 50%CPU (0avgtext+0avgdata 2188maxresident)k
+Mar 30 17:32:16 0inputs+0outputs (0major+171minor)pagefaults 0swaps
+Mar 30 17:32:16 ./retrieve-worker.sh: line 98: lotus: command not found
+Mar 30 17:32:16 : (8.9G free)
+Mar 30 17:32:16 Skipping ahead
+Mar 30 17:32:16 

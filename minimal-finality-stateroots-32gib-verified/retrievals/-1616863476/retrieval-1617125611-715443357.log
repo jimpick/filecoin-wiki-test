@@ -1,0 +1,5 @@
+Mar 30 17:33:31 ./retrieve-worker.sh: line 3: lotus: command not found
+Mar 30 17:33:31 
+Mar 30 17:33:31 ./retrieve-worker.sh: line 5: lotus: command not found
+Mar 30 17:33:31 
+Mar 30 17:33:31 Draining, exiting...

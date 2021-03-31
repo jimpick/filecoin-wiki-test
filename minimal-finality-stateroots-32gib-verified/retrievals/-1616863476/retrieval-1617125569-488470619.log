@@ -1,0 +1,24 @@
+Mar 30 17:32:49 ./retrieve-worker.sh: line 3: lotus: command not found
+Mar 30 17:32:49 
+Mar 30 17:32:49 ./retrieve-worker.sh: line 5: lotus: command not found
+Mar 30 17:32:49 
+Mar 30 17:32:49 ./retrieve-worker.sh: line 20: lotus: command not found
+Mar 30 17:32:49 ./retrieve-worker.sh: line 20: lotus: command not found
+Mar 30 17:32:49 Loading deals f0421499
+Mar 30 17:32:49 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 30 17:32:49 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 30 17:32:49 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 30 17:32:49 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 30 17:32:49 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 30 17:32:49 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 30 17:32:50 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 30 17:32:50 f019041-1648222 f08403-1645450 f09848-1645415 f066596-1645517 f099608-1648224 f022142-1647799 f058369-1648954
+Mar 30 17:32:50 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:50 Already have log for f019041 1648222 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:32:51 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:51 Already have log for f08403 1645450 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:32:52 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:52 Already have log for f09848 1645415 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:32:53 ./retrieve-worker.sh: line 74: lotus: command not found
+Mar 30 17:32:54 Already have log for f066596 1645517 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 30 17:32:55 Draining, exiting...

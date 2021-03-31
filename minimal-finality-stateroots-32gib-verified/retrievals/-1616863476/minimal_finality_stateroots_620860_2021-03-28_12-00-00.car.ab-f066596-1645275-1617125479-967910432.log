@@ -1,0 +1,4 @@
+Mar 30 17:31:20 timeout: failed to run command ‘lotus’: No such file or directory
+Mar 30 17:31:20 Command exited with non-zero status 127
+Mar 30 17:31:20 0.00user 0.00system 0:00.03elapsed 3%CPU (0avgtext+0avgdata 2188maxresident)k
+Mar 30 17:31:20 0inputs+0outputs (0major+172minor)pagefaults 0swaps
