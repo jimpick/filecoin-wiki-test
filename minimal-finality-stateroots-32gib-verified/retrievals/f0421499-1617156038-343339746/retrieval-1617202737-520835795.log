@@ -1,0 +1,36 @@
+Mar 31 14:58:57 1234
+Mar 31 14:58:57 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 31 14:58:58 Loading deals f0421499
+Mar 31 14:58:58 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 31 14:58:58 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 31 14:58:58 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 31 14:58:58 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 31 14:58:58 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 31 14:58:58 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 31 14:58:58 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Mar 31 14:58:58 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Mar 31 14:58:58 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 31 14:58:58 f099608-1652417
+Mar 31 14:58:58 Already have log for f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Mar 31 14:58:59 
+Mar 31 14:59:00 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 31 14:59:00 f02576-1650987 f08399-1652420
+Mar 31 14:59:34 Mpool pending 1, skipping + sleeping 30s
+Mar 31 15:00:04 Retrieving f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Mar 31 15:00:04   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 31 15:00:04                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 31 15:00:04   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   566  100   390  100   176   3714   1676 --:--:-- --:--:-- --:--:--  5390
+Mar 31 15:00:04 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"},"Piece":null,"Size":34359738368,"MinPrice":"100000000","UnsealPrice":"100000000","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08117","MinerPeer":{"Address":"f08399","ID":"12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG","PieceCID":null}},"id":1}
+Mar 31 15:00:05 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 31 15:00:05 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 31 15:00:05 > Recv: 0 B, Paid 0 FIL, ClientEventUnsealPaymentRequested (DealStatusAccepted)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventVoucherShortfall (DealStatusCheckFunds)
+Mar 31 15:00:14 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingFunds)
+Mar 31 15:03:30 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusOngoing)
+Mar 31 15:03:30 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Mar 31 15:03:30 > Recv: 0 B, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Mar 31 15:03:30 > Recv: 0 B, Paid 0.0000000001 FIL, ClientEventPaymentSent (DealStatusOngoing)

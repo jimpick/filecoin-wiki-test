@@ -1,8 +1,8 @@
 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa 15 Active: 10 Sealing: 0 CFA: 3 Xfr: 0 Error: 0
 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab 15 Active: 13 Sealing: 0 CFA: 2 Xfr: 0 Error: 0
-3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 18 Active: 8 Sealing: 3 CFA: 2 Xfr: 3 Error: 0
-4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab 17 Active: 5 Sealing: 3 CFA: 3 Xfr: 0 Error: 1
-5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 10 Active: 0 Sealing: 2 CFA: 3 Xfr: 0 Error: 1
-6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 9 Active: 0 Sealing: 1 CFA: 4 Xfr: 1 Error: 1
-7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa 5 Active: 0 Sealing: 2 CFA: 2 Xfr: 0 Error: 0
-8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab 3 Active: 0 Sealing: 0 CFA: 1 Xfr: 0 Error: 0
+3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa 18 Active: 10 Sealing: 2 CFA: 2 Xfr: 0 Error: 4
+4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab 17 Active: 7 Sealing: 4 CFA: 2 Xfr: 0 Error: 2
+5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 10 Active: 2 Sealing: 1 CFA: 2 Xfr: 0 Error: 3
+6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 9 Active: 2 Sealing: 2 CFA: 1 Xfr: 0 Error: 1
+7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa 5 Active: 2 Sealing: 2 CFA: 1 Xfr: 0 Error: 0
+8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab 3 Active: 1 Sealing: 1 CFA: 1 Xfr: 0 Error: 0

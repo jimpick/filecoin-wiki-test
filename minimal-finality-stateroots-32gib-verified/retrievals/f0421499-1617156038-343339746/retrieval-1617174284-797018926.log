@@ -22,3 +22,27 @@ Mar 31 07:06:47 Mpool pending 2, skipping + sleeping 30s
 Mar 31 07:07:17 Mpool pending 4, skipping + sleeping 30s
 Mar 31 07:07:47 Mpool pending 4, skipping + sleeping 30s
 Mar 31 07:08:18 Mpool pending 4, skipping + sleeping 30s
+Mar 31 07:08:48 Mpool pending 4, skipping + sleeping 30s
+Mar 31 07:09:18 Already have log for f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Mar 31 07:09:19 
+Mar 31 07:09:20 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Mar 31 07:09:20 f019551-1651158 f066596-1652487
+Mar 31 07:09:21 Retrieving f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Mar 31 07:09:21   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 31 07:09:21                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 31 07:09:21   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   4488   2058 --:--:-- --:--:-- --:--:--  6546
+Mar 31 07:09:21 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f019519","MinerPeer":{"Address":"f019551","ID":"12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3","PieceCID":null}},"id":1}
+Mar 31 07:09:21 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 31 07:09:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 31 07:09:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Mar 31 07:09:21 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 31 07:09:21 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Mar 31 09:09:21 ERROR: retrieval timed out
+Mar 31 09:09:21 
+Mar 31 09:09:21 Command exited with non-zero status 124
+Mar 31 09:09:21 3.75user 0.43system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 72100maxresident)k
+Mar 31 09:09:21 36856inputs+0outputs (3433major+13488minor)pagefaults 0swaps
+Mar 31 09:09:21 f0421499: 23.268463432378875906 FIL (109G free)
+Mar 31 09:09:21 Skipping ahead
+Mar 31 09:09:21 
+Mar 31 09:09:22 Draining, exiting...
