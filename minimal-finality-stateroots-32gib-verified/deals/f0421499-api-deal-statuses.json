@@ -1605,7 +1605,7 @@
       "ProposalCid": {
         "/": "bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i"
       },
-      "State": 17,
+      "State": 29,
       "Message": "",
       "Provider": "f014768",
       "DataRef": {
@@ -1625,7 +1625,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 522782,
-      "DealID": 0,
+      "DealID": 1652440,
       "CreationTime": "2021-03-31T02:47:22.676862114Z",
       "Verified": true,
       "TransferChannelID": {
@@ -1635,7 +1635,7 @@
       },
       "DataTransfer": {
         "TransferID": 3328,
-        "Status": 1,
+        "Status": 6,
         "BaseCID": {
           "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
         },
@@ -1644,7 +1644,7 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 11189941307
+        "Transferred": 17870864664
       }
     },
     "id": 1
@@ -1695,6 +1695,56 @@
         "Message": "",
         "OtherPeer": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
         "Transferred": 17870864664
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreicyjphl4w55jjmbq7it3c4qci5pohejr32om3trjrhj7dv5jlzoge"
+      },
+      "State": 17,
+      "Message": "",
+      "Provider": "f019362",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522501,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:24:54.144827789Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
+        "ID": 3352
+      },
+      "DataTransfer": {
+        "TransferID": 3352,
+        "Status": 1,
+        "BaseCID": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreicyjphl4w55jjmbq7it3c4qci5pohejr32om3trjrhj7dv5jlzoge\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWNaCtvposccuSNLw63Mtn8LzwqScmw9xjKYiGunhgg6BB",
+        "Transferred": 4810086331
       }
     },
     "id": 1
@@ -1755,8 +1805,8 @@
       "ProposalCid": {
         "/": "bafyreibn5pqmvxkjtzrbrxe5vuqfkqjzvr4exy2r3p6gwjecddsr34hp4e"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealPublish",
+      "State": 29,
+      "Message": "",
       "Provider": "f022142",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1775,7 +1825,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 521132,
-      "DealID": 0,
+      "DealID": 1652418,
       "CreationTime": "2021-03-31T02:24:54.890595914Z",
       "Verified": true,
       "TransferChannelID": {
@@ -1903,6 +1953,56 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreick4j2z5po3g66prx34owv3dej3oym5nhbjj6awdxa4p3zsmva2la"
+      },
+      "State": 29,
+      "Message": "",
+      "Provider": "f023467",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520884,
+      "DealID": 1652230,
+      "CreationTime": "2021-03-31T03:19:31.222579885Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
+        "ID": 3334
+      },
+      "DataTransfer": {
+        "TransferID": 3334,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreick4j2z5po3g66prx34owv3dej3oym5nhbjj6awdxa4p3zsmva2la\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
+        "Transferred": 17870864664
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreih2almv5cmchh5iun5olwj5p2xpn4g6pdnrnlcj4k3lhi3v55s2ai"
       },
       "State": 16,
@@ -1927,6 +2027,90 @@
       "Duration": 522382,
       "DealID": 0,
       "CreationTime": "2021-03-30T01:20:50.791329144Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreihgt7py4iigkqzvnp56thsqlwxrdzbyfg4z5zcx4ivfdrv67ec3uq"
+      },
+      "State": 17,
+      "Message": "",
+      "Provider": "f02606",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "320000000",
+      "Duration": 521973,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:38:16.107096372Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
+        "ID": 3337
+      },
+      "DataTransfer": {
+        "TransferID": 3337,
+        "Status": 1,
+        "BaseCID": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihgt7py4iigkqzvnp56thsqlwxrdzbyfg4z5zcx4ivfdrv67ec3uq\"}}",
+        "Message": "other peer appears to have hung up. restart Channel",
+        "OtherPeer": "12D3KooWQDCzJKYKWKJ4dRsXkfUEuFZ5u5ChmWcQgHS3s5ZYi4Wp",
+        "Transferred": 654419866
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreieocljfbq2cyb2c4pa5uy7x4767arvfw6jk3zbjbyy6z5fbnx2mne"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f058369",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522723,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T05:03:36.099602353Z",
       "Verified": true,
       "TransferChannelID": null,
       "DataTransfer": null
@@ -2079,6 +2263,56 @@
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
         "Transferred": 17870864664
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreiduy3y7ce72gwirobh5m4mbf6jgh42xyuah634yeb345k4asmnaja"
+      },
+      "State": 17,
+      "Message": "",
+      "Provider": "f07998",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqcjioeiscgc4tnkgvn3lg766zgc5numlbrz3n7rqumhhzss3jdwnq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522926,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:04:09.693804114Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
+        "ID": 3347
+      },
+      "DataTransfer": {
+        "TransferID": 3347,
+        "Status": 1,
+        "BaseCID": {
+          "/": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiduy3y7ce72gwirobh5m4mbf6jgh42xyuah634yeb345k4asmnaja\"}}",
+        "Message": "other peer appears to have hung up. restart Channel",
+        "OtherPeer": "12D3KooWAGau1MLBesysFwR33Waqnf5WpjZfa8v1sprtNAXCi9Dz",
+        "Transferred": 429138689
       }
     },
     "id": 1
@@ -2271,9 +2505,59 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreiejijopwyzefpowyxqaha5c23gfpmyixjs2syeocdtl27qxivzsb4"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f0145874",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520891,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:52:00.05807328Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
+        "ID": 3340
+      },
+      "DataTransfer": {
+        "TransferID": 3340,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiejijopwyzefpowyxqaha5c23gfpmyixjs2syeocdtl27qxivzsb4\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
+        "Transferred": 17870864665
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreiblwr3aokmavpinujqccyedmyroxjue5nm4swoukr7dp2gcqfhxda"
       },
-      "State": 17,
+      "State": 29,
       "Message": "",
       "Provider": "f0165400",
       "DataRef": {
@@ -2293,7 +2577,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 523371,
-      "DealID": 0,
+      "DealID": 1652476,
       "CreationTime": "2021-03-31T03:09:58.810056508Z",
       "Verified": true,
       "TransferChannelID": {
@@ -2303,7 +2587,7 @@
       },
       "DataTransfer": {
         "TransferID": 3332,
-        "Status": 2,
+        "Status": 6,
         "BaseCID": {
           "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
         },
@@ -2473,8 +2757,8 @@
       "ProposalCid": {
         "/": "bafyreiby5krmqud7no6t3e4pcjvaon2uo3eegojhpe7spdnoexg7ug7ydu"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealPublish",
+      "State": 29,
+      "Message": "",
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2493,7 +2777,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 523092,
-      "DealID": 0,
+      "DealID": 1652238,
       "CreationTime": "2021-03-31T02:29:35.861811708Z",
       "Verified": true,
       "TransferChannelID": {
@@ -2514,6 +2798,40 @@
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
         "Transferred": 17870864665
       }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreibyfeiazphxhqn7l755jykb2xvjlvrjpyqosz6vxsmnui7jk2lrae"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f023467",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520735,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:34:26.423293791Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },
@@ -2548,6 +2866,56 @@
       "Verified": true,
       "TransferChannelID": null,
       "DataTransfer": null
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreiaxm3v7ieqteejngylkmw7vlnjfjl5c725qd5uiiotubzf5iwijom"
+      },
+      "State": 29,
+      "Message": "",
+      "Provider": "f058369",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522886,
+      "DealID": 1652461,
+      "CreationTime": "2021-03-31T03:42:36.533325484Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
+        "ID": 3338
+      },
+      "DataTransfer": {
+        "TransferID": 3338,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreiaxm3v7ieqteejngylkmw7vlnjfjl5c725qd5uiiotubzf5iwijom\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
+        "Transferred": 17870864665
+      }
     },
     "id": 1
   },
@@ -2755,6 +3123,140 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreidcxf5hdleirlr4k5c6fe5xfvbifbb7nddbw67avydpe2afpobnlu"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f099608",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqnorf5hdmltge3s2hn3e22rb7i25hk4crj3mp2gssndbdfqtvcapy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522021,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T05:09:00.551960322Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreihx6pds22ohrxvnj3yra4cjrsevxijxwer2scg4226yocdtthdsau"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f010479",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 523101,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:08:39.361303998Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
+        "ID": 3350
+      },
+      "DataTransfer": {
+        "TransferID": 3350,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihx6pds22ohrxvnj3yra4cjrsevxijxwer2scg4226yocdtthdsau\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
+        "Transferred": 17757346779
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreihqt6v2fa3hqdckvwdnshtb53hmptfz7ys5sreul64f2da3kmincm"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealWaitingForData",
+      "Provider": "f01247",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 521622,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:28:22.409678812Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
+        "ID": 3336
+      },
+      "DataTransfer": {
+        "TransferID": 3336,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreihqt6v2fa3hqdckvwdnshtb53hmptfz7ys5sreul64f2da3kmincm\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
+        "Transferred": 17757346779
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreieja5cr5kfhisgwso5zputy7zymd2zlsw5ttkuvz5pobfzxo2seh4"
       },
       "State": 26,
@@ -2841,8 +3343,8 @@
       "ProposalCid": {
         "/": "bafyreifpw4u3ogfrgn5j5mha3oj762ydhqvaeb3gk4ssupphjmwcspld4i"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealPublish",
+      "State": 29,
+      "Message": "",
       "Provider": "f02576",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2861,7 +3363,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 521325,
-      "DealID": 0,
+      "DealID": 1650987,
       "CreationTime": "2021-03-31T02:34:20.677657215Z",
       "Verified": true,
       "TransferChannelID": {
@@ -2882,6 +3384,40 @@
         "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
         "Transferred": 17757346779
       }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreiayz5dnwiwfnv76ysbymum5jcczvzq4accnu5irglp553deeyrxnm"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f02606",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "320000000",
+      "Duration": 521784,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T05:13:17.356334238Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },
@@ -2989,10 +3525,44 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreihdqcz3opgwnfz474qsq4iwk3kqmuh2ckn57tfwtkg6ckwq4447za"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f07998",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqjtyhlgbt4lh3os6e6i3nfna2hlabdmxqrfkfdykgdbrrju7oiyia"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522858,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:38:51.308279207Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreidr3h2plmyqqealvq63goyaqkmmmy35jonakx6ch5y5rail64lx4i"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealVerifyData",
+      "State": 29,
+      "Message": "",
       "Provider": "f08399",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3011,7 +3581,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 521733,
-      "DealID": 0,
+      "DealID": 1652420,
       "CreationTime": "2021-03-31T02:55:45.741447561Z",
       "Verified": true,
       "TransferChannelID": {
@@ -3039,10 +3609,60 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreieolgk2dz6hufavdho2wccyvs3dhde2k3hidfddytotjbnmp2maj4"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealPublish",
+      "Provider": "f01234",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 522096,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:13:36.908791026Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
+        "ID": 3351
+      },
+      "DataTransfer": {
+        "TransferID": 3351,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreieolgk2dz6hufavdho2wccyvs3dhde2k3hidfddytotjbnmp2maj4\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
+        "Transferred": 17757346780
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreiacc4k37jysmzmpyjbkwbq74s7f5izy6o6hfep5fzaqcvqtonv534"
       },
       "State": 13,
-      "Message": "Provider state: StorageDealProviderFunding",
+      "Message": "Provider state: StorageDealPublish",
       "Provider": "f01240",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3082,6 +3702,40 @@
         "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
         "Transferred": 17757346780
       }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreiffy7fusuqiv547doqugwsxhgvkqqwxd6jrtapyt452c3b5dglzli"
+      },
+      "State": 26,
+      "Message": "unexpected deal status while waiting for data request: 11 (StorageDealFailing). Provider message: deal rejected: ",
+      "Provider": "f0157535",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 523101,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:47:46.168840905Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },
@@ -3130,6 +3784,56 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
+        "Transferred": 17757346780
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreifi76nmuvw3mvd42eto5ytc7lx6dnl5j4pikgmulcbnfuv4pmdcau"
+      },
+      "State": 13,
+      "Message": "Provider state: StorageDealTransferring",
+      "Provider": "f022163",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqo4tyb4ecllbm4kyghg2esccvsd22mswyrdv6vf6pg3lrdiblaugy"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 521039,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T03:23:48.656940308Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
+        "ID": 3335
+      },
+      "DataTransfer": {
+        "TransferID": 3335,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreifi76nmuvw3mvd42eto5ytc7lx6dnl5j4pikgmulcbnfuv4pmdcau\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
         "Transferred": 17757346780
       }
     },
@@ -3291,8 +3995,8 @@
       "ProposalCid": {
         "/": "bafyreiawwaodrvxvf5g2kp7kixxj6c6yiaanivgksprniflff7gtax3qzi"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealPublish",
+      "State": 29,
+      "Message": "",
       "Provider": "f099608",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3311,7 +4015,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 522360,
-      "DealID": 0,
+      "DealID": 1652417,
       "CreationTime": "2021-03-31T02:18:55.498404775Z",
       "Verified": true,
       "TransferChannelID": {
@@ -3341,8 +4045,8 @@
       "ProposalCid": {
         "/": "bafyreicxjl6d4ckexpeeauozdqnaxhdkilw7xf5wu3bdbkeh4paxbl32nu"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealPublish",
+      "State": 29,
+      "Message": "",
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3361,7 +4065,7 @@
       "Size": 34091302912,
       "PricePerEpoch": "0",
       "Duration": 520788,
-      "DealID": 0,
+      "DealID": 1651158,
       "CreationTime": "2021-03-31T02:39:13.18785795Z",
       "Verified": true,
       "TransferChannelID": {
@@ -3382,6 +4086,40 @@
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
         "Transferred": 18249095734
       }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreig4pjk4yo5lho6edkalxr7axmwvtdif52ejdzproq54st43u3h36e"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f022163",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520864,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:52:06.297798791Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },
@@ -3439,6 +4177,56 @@
     "jsonrpc": "2.0",
     "result": {
       "ProposalCid": {
+        "/": "bafyreic6suwzlmpbikcua4ohk62x77n3jjvjawptwkgczergv3i2mgxu7i"
+      },
+      "State": 29,
+      "Message": "",
+      "Provider": "f066596",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqmaeelywowbp6nxiechemizcsi2m27xwec6choa2bsvhkuqra7uiq"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 521745,
+      "DealID": 1652487,
+      "CreationTime": "2021-03-31T03:47:31.859978383Z",
+      "Verified": true,
+      "TransferChannelID": {
+        "Initiator": "12D3KooWSrVTGNQP7UaXJYB8r6a2bfEcHzt2gnrHrrqwu5zYK1AD",
+        "Responder": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
+        "ID": 3339
+      },
+      "DataTransfer": {
+        "TransferID": 3339,
+        "Status": 6,
+        "BaseCID": {
+          "/": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"
+        },
+        "IsInitiator": true,
+        "IsSender": true,
+        "Voucher": "{\"Proposal\":{\"/\":\"bafyreic6suwzlmpbikcua4ohk62x77n3jjvjawptwkgczergv3i2mgxu7i\"}}",
+        "Message": "",
+        "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
+        "Transferred": 18249095734
+      }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
         "/": "bafyreieiduvhoztu5e47j3wixi2intks335zgz3cdvkq7bibcaqixpooke"
       },
       "State": 13,
@@ -3482,6 +4270,74 @@
         "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
         "Transferred": 18249095734
       }
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreigxxhzux4uhgrsi4gbwzpqwiwwej6ioi5vgijwsamz7526ptweoxq"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f019551",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 520471,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T05:17:44.882796395Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
+    },
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "result": {
+      "ProposalCid": {
+        "/": "bafyreigwaabsfu43g36jqxkplya73bmlr6m4tfmrycuj4zkyucqepw5ihy"
+      },
+      "State": 16,
+      "Message": "",
+      "Provider": "f062353",
+      "DataRef": {
+        "TransferType": "graphsync",
+        "Root": {
+          "/": "bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"
+        },
+        "PieceCid": {
+          "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+        },
+        "PieceSize": 34091302912,
+        "RawBlockSize": 0
+      },
+      "PieceCID": {
+        "/": "baga6ea4seaqblq7c6qynijeosihaeqgs2mfgaujqt4hbtv32mmvlcb5i74mraei"
+      },
+      "Size": 34091302912,
+      "PricePerEpoch": "0",
+      "Duration": 521548,
+      "DealID": 0,
+      "CreationTime": "2021-03-31T04:43:15.907542478Z",
+      "Verified": true,
+      "TransferChannelID": null,
+      "DataTransfer": null
     },
     "id": 1
   },

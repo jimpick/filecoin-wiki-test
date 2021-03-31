@@ -4,3 +4,8 @@ Mar 31 02:02:32 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWait
 Mar 31 02:02:33 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
 Mar 31 02:06:01 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
 Mar 31 02:06:01 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Mar 31 04:02:32 ERROR: retrieval timed out
+Mar 31 04:02:32 
+Mar 31 04:02:32 Command exited with non-zero status 124
+Mar 31 04:02:32 3.91user 0.65system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 74696maxresident)k
+Mar 31 04:02:32 71528inputs+0outputs (6559major+15071minor)pagefaults 0swaps
