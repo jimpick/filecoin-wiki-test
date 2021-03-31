@@ -9,5 +9,6 @@ while true; do
 
   echo 'Starting store iteration...'
   ./store.sh
-  sleep 10
+  echo 'Sleeping 5 minutes'
+  sleep 300
 done

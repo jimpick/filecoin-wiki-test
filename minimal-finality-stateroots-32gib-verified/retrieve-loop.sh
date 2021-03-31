@@ -9,5 +9,6 @@ while true; do
 
   echo 'Starting retrieve iteration...'
   ./retrieve.sh
-  sleep 10
+  echo 'Sleeping 15 minutes'
+  sleep 900
 done
