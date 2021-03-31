@@ -10,3 +10,8 @@ Mar 31 04:13:34 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventPaymentRequested (Deal
 Mar 31 04:13:34 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
 Mar 31 04:13:34 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
 Mar 31 04:25:44 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Mar 31 06:02:41 ERROR: retrieval timed out
+Mar 31 06:02:41 
+Mar 31 06:02:41 Command exited with non-zero status 124
+Mar 31 06:02:41 3.94user 0.67system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 70208maxresident)k
+Mar 31 06:02:41 138480inputs+0outputs (15548major+15475minor)pagefaults 0swaps

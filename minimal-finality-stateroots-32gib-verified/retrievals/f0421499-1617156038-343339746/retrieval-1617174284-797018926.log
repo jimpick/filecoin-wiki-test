@@ -1,0 +1,24 @@
+Mar 31 07:04:44 1234
+Mar 31 07:04:45 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 31 07:04:45 Loading deals f0421499
+Mar 31 07:04:45 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 31 07:04:45 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 31 07:04:45 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 31 07:04:45 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 31 07:04:45 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 31 07:04:45 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 31 07:04:45 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Mar 31 07:04:45 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Mar 31 07:04:45 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Mar 31 07:04:45 
+Mar 31 07:04:45 
+Mar 31 07:04:46 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 31 07:04:46 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Mar 31 07:04:46 Mpool pending 1, skipping + sleeping 30s
+Mar 31 07:05:16 Mpool pending 1, skipping + sleeping 30s
+Mar 31 07:05:46 Mpool pending 1, skipping + sleeping 30s
+Mar 31 07:06:17 Mpool pending 2, skipping + sleeping 30s
+Mar 31 07:06:47 Mpool pending 2, skipping + sleeping 30s
+Mar 31 07:07:17 Mpool pending 4, skipping + sleeping 30s
+Mar 31 07:07:47 Mpool pending 4, skipping + sleeping 30s
+Mar 31 07:08:18 Mpool pending 4, skipping + sleeping 30s

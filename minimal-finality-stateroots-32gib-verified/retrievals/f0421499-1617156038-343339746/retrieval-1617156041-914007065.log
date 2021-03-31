@@ -15114,3 +15114,22 @@ Mar 31 04:03:59   0     0    0     0    0     0      0      0 --:--:-- --:--:--
 Mar 31 04:03:59 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f021068","MinerPeer":{"Address":"f023971","ID":"12D3KooWAFhv4Rq6X8WA6EMW8UfULykqzrVryas8XzJiFUJqTj5G","PieceCID":null}},"id":1}
 Mar 31 04:03:59 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 Mar 31 04:03:59 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 31 06:03:59 ERROR: retrieval timed out
+Mar 31 06:03:59 
+Mar 31 06:03:59 Command exited with non-zero status 124
+Mar 31 06:03:59 3.95user 0.72system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 72484maxresident)k
+Mar 31 06:03:59 128096inputs+0outputs (13662major+15608minor)pagefaults 0swaps
+Mar 31 06:03:59 f0421499: 23.285205309474120328 FIL (59G free)
+Mar 31 06:03:59 Skipping ahead
+Mar 31 06:03:59 
+Mar 31 06:04:00 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 31 06:04:00 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178
+Mar 31 06:04:01 Mpool pending 3, skipping + sleeping 30s
+Mar 31 06:04:31 Mpool pending 1, skipping + sleeping 30s
+Mar 31 06:05:01 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 31 06:05:03 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 31 06:05:19 Already have log for f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Mar 31 06:05:20 
+Mar 31 06:05:21 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Mar 31 06:05:21 
+Mar 31 06:05:21 

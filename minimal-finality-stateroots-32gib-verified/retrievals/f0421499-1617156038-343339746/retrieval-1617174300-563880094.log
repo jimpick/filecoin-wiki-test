@@ -1,0 +1,30 @@
+Mar 31 07:05:00 1234
+Mar 31 07:05:01 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Mar 31 07:05:01 Loading deals f0421499
+Mar 31 07:05:01 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Mar 31 07:05:01 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 31 07:05:01 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Mar 31 07:05:01 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Mar 31 07:05:01 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Mar 31 07:05:01 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Mar 31 07:05:01 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Mar 31 07:05:01 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Mar 31 07:05:01 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Mar 31 07:05:01 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f099608-1640642 f01240-1640769 f0145874-1640738 f02576-1640964 f015927-1641099 f010479-1641179
+Mar 31 07:05:01 Mpool pending 1, skipping + sleeping 30s
+Mar 31 07:05:31 Mpool pending 1, skipping + sleeping 30s
+Mar 31 07:06:02 Already have log for f014768 1639431 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 31 07:06:03 Already have log for f01278 1639717 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 31 07:06:04 Already have log for f01234 1639443 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 31 07:06:06 Mpool pending 2, skipping + sleeping 30s
+Mar 31 07:06:36 Mpool pending 2, skipping + sleeping 30s
+Mar 31 07:07:06 Retrieving f099608 1640642 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Mar 31 07:07:06   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Mar 31 07:07:06                                  Dload  Upload   Total   Spent    Left  Speed
+Mar 31 07:07:06   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   2757   1264 --:--:-- --:--:-- --:--:--  4021
+Mar 31 07:07:06 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f099600","MinerPeer":{"Address":"f099608","ID":"12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr","PieceCID":null}},"id":1}
+Mar 31 07:07:07 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Mar 31 07:07:07 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Mar 31 07:07:07 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Mar 31 07:07:13 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
+Mar 31 07:07:13 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

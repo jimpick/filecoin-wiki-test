@@ -12,3 +12,8 @@ Mar 31 04:15:54 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealSta
 Mar 31 04:15:54 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
 Mar 31 04:15:54 > Recv: 0 B, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
 Mar 31 04:15:54 > Recv: 0 B, Paid 0.000000000000000002 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Mar 31 06:05:48 ERROR: retrieval timed out
+Mar 31 06:05:48 
+Mar 31 06:05:48 Command exited with non-zero status 124
+Mar 31 06:05:48 3.70user 0.68system 2:00:00elapsed 0%CPU (0avgtext+0avgdata 70124maxresident)k
+Mar 31 06:05:48 55728inputs+0outputs (6209major+13222minor)pagefaults 0swaps

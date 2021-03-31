@@ -66,7 +66,7 @@ for x in $(grep ^minimal $CHECK | shuf); do
   	COUNTER=0
 	for d in $(echo $DEALS | shuf); do
     FREE_DISK=$(df . | tail -1 | awk '{ print $4 }')
-    if [ "$FREE_DISK" -lt 50000000 ]; then
+    if [ "$FREE_DISK" -lt 100000000 ]; then
       echo "Out of disk space"
       df -h .
       touch drain
