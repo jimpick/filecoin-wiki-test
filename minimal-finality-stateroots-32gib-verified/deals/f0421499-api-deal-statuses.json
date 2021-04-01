@@ -1605,7 +1605,7 @@
       "ProposalCid": {
         "/": "bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f014768",
       "DataRef": {
@@ -1755,7 +1755,7 @@
       "ProposalCid": {
         "/": "bafyreibn5pqmvxkjtzrbrxe5vuqfkqjzvr4exy2r3p6gwjecddsr34hp4e"
       },
-      "State": 29,
+      "State": 7,
       "Message": "",
       "Provider": "f022142",
       "DataRef": {
@@ -2305,7 +2305,7 @@
       "ProposalCid": {
         "/": "bafyreiejijopwyzefpowyxqaha5c23gfpmyixjs2syeocdtl27qxivzsb4"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f0145874",
       "DataRef": {
@@ -2355,8 +2355,8 @@
       "ProposalCid": {
         "/": "bafyreiblwr3aokmavpinujqccyedmyroxjue5nm4swoukr7dp2gcqfhxda"
       },
-      "State": 29,
-      "Message": "",
+      "State": 26,
+      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 630580): failed to look up deal on chain: looking for publish deal message bafy2bzacebcjxwnhsjhgj7semncdpxarioypafcigd2kkrykj22em72wqcpma: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
       "Provider": "f0165400",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2505,8 +2505,8 @@
       "ProposalCid": {
         "/": "bafyreigv45nn2udqp7ukcwwkasau7bam6vxbsj4qgpopnyaowxm435szxe"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2655,7 +2655,7 @@
       "ProposalCid": {
         "/": "bafyreiaxm3v7ieqteejngylkmw7vlnjfjl5c725qd5uiiotubzf5iwijom"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f058369",
       "DataRef": {
@@ -2905,7 +2905,7 @@
       "ProposalCid": {
         "/": "bafyreidcxf5hdleirlr4k5c6fe5xfvbifbb7nddbw67avydpe2afpobnlu"
       },
-      "State": 29,
+      "State": 7,
       "Message": "",
       "Provider": "f099608",
       "DataRef": {
@@ -3055,8 +3055,8 @@
       "ProposalCid": {
         "/": "bafyreie4jbnqn2xfblpdjgbc64b6po53v4gangb2otpu56j7kmai6hyhfq"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3205,8 +3205,8 @@
       "ProposalCid": {
         "/": "bafyreie4lpdpyqxs3cy6vp64gj7angyqu4sok4lpcwrmwsc3ozlx4ufelu"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3255,7 +3255,7 @@
       "ProposalCid": {
         "/": "bafyreidr3h2plmyqqealvq63goyaqkmmmy35jonakx6ch5y5rail64lx4i"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f08399",
       "DataRef": {
@@ -3305,8 +3305,8 @@
       "ProposalCid": {
         "/": "bafyreieolgk2dz6hufavdho2wccyvs3dhde2k3hidfddytotjbnmp2maj4"
       },
-      "State": 29,
-      "Message": "",
+      "State": 26,
+      "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 630580): failed to look up deal on chain: looking for publish deal message bafy2bzacebbtb3woxl2gcb5gqtfrmbo73qssv4fqnnmu5xiodrq2r2jr4te6s: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
       "Provider": "f01234",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3405,8 +3405,8 @@
       "ProposalCid": {
         "/": "bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3455,7 +3455,7 @@
       "ProposalCid": {
         "/": "bafyreifi76nmuvw3mvd42eto5ytc7lx6dnl5j4pikgmulcbnfuv4pmdcau"
       },
-      "State": 29,
+      "State": 7,
       "Message": "",
       "Provider": "f022163",
       "DataRef": {
@@ -3555,8 +3555,8 @@
       "ProposalCid": {
         "/": "bafyreictcaen5taj3q5dkdrbzjk6zouhd6kq2xljfy3phvmcankquw3t7u"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f066596",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3605,8 +3605,8 @@
       "ProposalCid": {
         "/": "bafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja"
       },
-      "State": 3,
-      "Message": "",
+      "State": 26,
+      "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3755,7 +3755,7 @@
       "ProposalCid": {
         "/": "bafyreig4pjk4yo5lho6edkalxr7axmwvtdif52ejdzproq54st43u3h36e"
       },
-      "State": 29,
+      "State": 7,
       "Message": "",
       "Provider": "f022163",
       "DataRef": {
@@ -3905,7 +3905,7 @@
       "ProposalCid": {
         "/": "bafyreieiduvhoztu5e47j3wixi2intks335zgz3cdvkq7bibcaqixpooke"
       },
-      "State": 5,
+      "State": 7,
       "Message": "",
       "Provider": "f09848",
       "DataRef": {

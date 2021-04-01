@@ -17269,3 +17269,6 @@ Mar 31 15:37:59 > Recv: 16.46 GiB, Paid 0.000000035309405978 FIL, ClientEventLas
 Mar 31 15:37:59 > Recv: 16.46 GiB, Paid 0.000000035309405978 FIL, ClientEventSendFunds (DealStatusSendFundsLastPayment)
 Mar 31 15:38:00 > Recv: 16.46 GiB, Paid 0.00000003534272106 FIL, ClientEventPaymentSent (DealStatusFinalizing)
 Mar 31 15:38:03 > Recv: 16.46 GiB, Paid 0.00000003534272106 FIL, ClientEventComplete (DealStatusCompleted)
+Mar 31 15:48:57 Success
+Mar 31 15:48:58 5.53user 3.00system 46:31.00elapsed 0%CPU (0avgtext+0avgdata 88816maxresident)k
+Mar 31 15:48:58 1336inputs+0outputs (142major+15915minor)pagefaults 0swaps
