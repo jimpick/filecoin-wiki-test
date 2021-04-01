@@ -1,4 +1,0 @@
-Mar 30 19:49:34 1234
-Mar 30 19:49:34 2021-03-30T19:49:34.805Z	[31mERROR[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/websocket.go:97	setting read deadlineset tcp 127.0.0.1:42658: use of closed network connection
-Mar 30 19:49:34 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
-Mar 30 19:49:34 Draining, exiting...
