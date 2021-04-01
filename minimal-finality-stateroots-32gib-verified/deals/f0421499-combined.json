@@ -1161,11 +1161,11 @@
         "paymentIntervalIncrease": "0",
         "owner": "f014768",
         "peerId": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "endTime": "2021-04-01T14:47:50+00:00",
+        "endTime": "2021-04-01T15:06:28+00:00",
         "elapsedTime": "",
         "success": false,
-        "received": "1.67 GiB",
-        "filPaid": "0.000000003588442032",
+        "received": "1.728 GiB",
+        "filPaid": "0.000000003712174",
         "lastEvent": "ClientEventPaymentSent",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f014768-1639431-1617285260-451066193.log"
@@ -1633,13 +1633,13 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f08395",
         "peerId": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "endTime": "2021-04-01T15:01:54+00:00",
-        "elapsedTime": "",
-        "success": false,
-        "received": "15.98 GiB",
+        "endTime": "2021-04-01T15:05:08+00:00",
+        "elapsedTime": "1:20:54",
+        "success": true,
+        "received": "16.46 GiB",
         "filPaid": "0",
-        "lastEvent": "ClientEventBlocksReceived",
-        "lastStatus": "DealStatusOngoing",
+        "lastEvent": "ClientEventAllBlocksReceived",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f08403-1639685-1617285125-310862016.log"
       }
     ]
@@ -1999,12 +1999,12 @@
         "paymentIntervalIncrease": "33554432",
         "owner": "f019519",
         "peerId": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "endTime": "2021-04-01T14:48:51+00:00",
+        "endTime": "2021-04-01T15:14:06+00:00",
         "elapsedTime": "",
         "success": false,
-        "received": "4.249 GiB",
+        "received": "4.704 GiB",
         "filPaid": "0.000004248776778379",
-        "lastEvent": "ClientEventPaymentSent",
+        "lastEvent": "ClientEventBlocksReceived",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa-f019551-1645067-1617285558-385031280.log"
       }
@@ -4499,7 +4499,29 @@
         "Transferred": 18249095735
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-01T15:13:03+00:00",
+        "miner": "f019551",
+        "dealId": "1652790",
+        "cid": "bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs",
+        "size": "34359738368",
+        "minPrice": "31988916420608",
+        "unsealPrice": "0",
+        "paymentInterval": "33554432",
+        "paymentIntervalIncrease": "33554432",
+        "owner": "f019519",
+        "peerId": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
+        "endTime": "2021-04-01T15:13:03+00:00",
+        "elapsedTime": "",
+        "success": false,
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventDealProposed",
+        "lastStatus": "DealStatusWaitForAcceptance",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab-f019551-1652790-1617289983-396212155.log"
+      }
+    ]
   },
   {
     "miner": "f062353",
@@ -4618,10 +4640,10 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f08395",
         "peerId": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "endTime": "2021-04-01T15:01:54+00:00",
+        "endTime": "2021-04-01T15:14:07+00:00",
         "elapsedTime": "",
         "success": false,
-        "received": "12.11 GiB",
+        "received": "15.04 GiB",
         "filPaid": "0",
         "lastEvent": "ClientEventBlocksReceived",
         "lastStatus": "DealStatusOngoing",

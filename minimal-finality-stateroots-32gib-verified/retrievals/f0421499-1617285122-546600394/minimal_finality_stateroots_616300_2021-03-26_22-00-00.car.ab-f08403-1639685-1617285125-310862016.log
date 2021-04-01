@@ -16876,3 +16876,6 @@ Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventComplete (DealStatusCh
 Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventWaitForLastBlocks (DealStatusWaitingForLastBlocks)
 Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitingForLastBlocks)
 Apr 01 15:05:08 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventAllBlocksReceived (DealStatusCompleted)
+Apr 01 15:12:59 Success
+Apr 01 15:12:59 6.78user 2.59system 1:20:54elapsed 0%CPU (0avgtext+0avgdata 76944maxresident)k
+Apr 01 15:12:59 1152inputs+0outputs (37major+12886minor)pagefaults 0swaps

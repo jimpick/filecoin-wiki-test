@@ -16909,3 +16909,19 @@ Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventComplete (DealStatusCh
 Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventWaitForLastBlocks (DealStatusWaitingForLastBlocks)
 Apr 01 15:05:07 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusWaitingForLastBlocks)
 Apr 01 15:05:08 > Recv: 16.46 GiB, Paid 0 FIL, ClientEventAllBlocksReceived (DealStatusCompleted)
+Apr 01 15:12:59 Success
+Apr 01 15:12:59 6.78user 2.59system 1:20:54elapsed 0%CPU (0avgtext+0avgdata 76944maxresident)k
+Apr 01 15:12:59 1152inputs+0outputs (37major+12886minor)pagefaults 0swaps
+Apr 01 15:13:00 f0421499: 23.241629352907398316 FIL (173G free)
+Apr 01 15:13:00 Skipping ahead
+Apr 01 15:13:00 
+Apr 01 15:13:01 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 01 15:13:01 f08403-1652750 f019551-1652790
+Apr 01 15:13:02 Already have log for f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 01 15:13:03 Retrieving f019551 1652790 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 01 15:13:03   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 01 15:13:03                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 01 15:13:03   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   568  100   391  100   177   4494   2034 --:--:-- --:--:-- --:--:--  6528
+Apr 01 15:13:03 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"},"Piece":null,"Size":34359738368,"MinPrice":"31988916420608","UnsealPrice":"0","PaymentInterval":33554432,"PaymentIntervalIncrease":33554432,"Miner":"f019519","MinerPeer":{"Address":"f019551","ID":"12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3","PieceCID":null}},"id":1}
+Apr 01 15:13:03 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 01 15:13:03 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
