@@ -1,0 +1,26 @@
+Apr 01 13:53:19 1234
+Apr 01 13:53:19 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 01 13:53:19 Loading deals f0421499
+Apr 01 13:53:19 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 01 13:53:19 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 01 13:53:19 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 01 13:53:19 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 01 13:53:19 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 01 13:53:19 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 01 13:53:19 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 01 13:53:19 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 01 13:53:19 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 01 13:53:19 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 01 13:53:19 Mpool pending 1, skipping + sleeping 30s
+Apr 01 13:53:50 Mpool pending 2, skipping + sleeping 30s
+Apr 01 13:54:20 Retrieving f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 01 13:54:20   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 01 13:54:20                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 01 13:54:20   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0     0  100   177      0    885 --:--:-- --:--:-- --:--:--   880100   563  100   386  100   177    828    379 --:--:-- --:--:-- --:--:--  1205
+Apr 01 13:54:20 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f066595","MinerPeer":{"Address":"f066596","ID":"12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c","PieceCID":null}},"id":1}
+Apr 01 13:54:21 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 01 13:54:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 01 13:54:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 01 13:54:21 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 01 13:57:30 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 01 13:57:30 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
