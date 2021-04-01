@@ -64,7 +64,6 @@ for log in $LOGS; do
   else
     SUCCESS=false
   fi
-  echo SUCCESS: $SUCCESS
   ERROR=$(grep 'ERROR' $log | sed 's,^.*ERROR: ,,')
   echo ERROR: $ERROR
   echo FINAL_RECV: $FINAL_RECV
@@ -76,6 +75,10 @@ for log in $LOGS; do
   echo LAST_EVENT: $LAST_EVENT
   LAST_STATUS=$(echo $FINAL_RECV | awk '{ print $12 }' | sed 's,(\(.*\)),\1,')
   echo LAST_STATUS: $LAST_STATUS
+  if [ "$LAST_STATUS" != "DealStatusCompleted" ]; then
+    SUCCESS=false
+  fi
+  echo SUCCESS: $SUCCESS
   DEAL_ID=$(echo $log | sed 's,-, ,g' | awk '{ print $7 }')
   echo DEAL_ID: $DEAL_ID
   JSON="{ \
@@ -109,5 +112,4 @@ for log in $LOGS; do
   echo $JSON >> $WORKDIR/retrieval-deals.ndjson
 done
 
-cat $WORKDIR/retrieval-deals.ndjson > retrieval-deals.ndjson
-cat retrieval-deals.ndjson | jq -s > retrieval-deals.json
+cat $WORKDIR/retrieval-deals.ndjson | jq -s > retrieval-deals.json

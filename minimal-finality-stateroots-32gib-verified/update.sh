@@ -11,3 +11,4 @@ mkdir -p deals
 ./write-retrieval-summary.sh
 ./update-deals-json.sh
 ./write-api-deal-statuses.sh
+./write-combined.sh
