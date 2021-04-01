@@ -40,12 +40,15 @@ for deal in $(cat $DEALS | jq -r '.[].dealCid'); do
 
   JSON=$(echo $JSON | jq ". + $JSON_DEAL_STATUS")
 
-  RETRIEVALS=""
   if [ "$DEAL_ID" != "null" -a "$DEAL_ID" != "0" ]; then
-    for f in ls retrievals/*/retrieval-deals.json; do
-      RETRIEVALS=$(cat $RETRIEVALS_JSON | jq "{ retrievals: [ .[] | select(.dealId==\"$DEAL_ID\") ] }")
-      JSON=$(echo $JSON | jq ". + $RETRIEVALS")
+    RETRIEVALS="[]"
+    for f in $(ls retrievals/*/retrieval-deals.json); do
+      NEW_RETRIEVALS=$(cat $f | jq "[.[] | select(.dealId==\"$DEAL_ID\")]")
+      if [ -n "$NEW_RETRIEVALS" ]; then
+        RETRIEVALS=$(echo $RETRIEVALS | jq ". + $NEW_RETRIEVALS")
+      fi
     done
+    JSON=$(echo $JSON | jq ". + { retrievals: $RETRIEVALS }")
   fi
   echo $JSON | jq .
   echo $JSON >> $WORKDIR/deals-combined.ndjson

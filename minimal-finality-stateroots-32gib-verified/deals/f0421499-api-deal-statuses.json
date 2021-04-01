@@ -2006,7 +2006,7 @@
         "/": "bafyreiclooxwhf77a3hfodyp3ardeue2lk7xlngy7d5kxc6yfmvytkqg3m"
       },
       "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "Message": "Provider state: StorageDealUnknown",
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
