@@ -990,8 +990,9 @@
         "owner": "f01076",
         "peerId": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
         "endTime": "2021-04-01T06:41:19+00:00",
-        "elapsedTime": "",
+        "elapsedTime": "2:00:00",
         "success": false,
+        "error": "retrieval timed out",
         "received": "0 B",
         "filPaid": "0",
         "lastEvent": "ClientEventDealProposed",
@@ -1052,7 +1053,30 @@
         "Transferred": 17671360530
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-01T08:41:24+00:00",
+        "miner": "f01240",
+        "dealId": "1640769",
+        "cid": "bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f01046",
+        "peerId": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
+        "endTime": "2021-04-01T10:41:16+00:00",
+        "elapsedTime": "2:00:00",
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "16.46 GiB",
+        "filPaid": "0.00000003534272106",
+        "lastEvent": "ClientEventPaymentSent",
+        "lastStatus": "DealStatusFinalizing",
+        "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f01240-1640769-1617266483-760889735.log"
+      }
+    ]
   },
   {
     "miner": "f01278",
@@ -1195,13 +1219,14 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f0145871",
         "peerId": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "endTime": "2021-04-01T08:04:18+00:00",
-        "elapsedTime": "",
+        "endTime": "2021-04-01T08:51:33+00:00",
+        "elapsedTime": "2:00:00",
         "success": false,
-        "received": "11.35 GiB",
-        "filPaid": "0.000000024068196492",
-        "lastEvent": "ClientEventBlocksReceived",
-        "lastStatus": "DealStatusOngoing",
+        "error": "retrieval timed out",
+        "received": "16.46 GiB",
+        "filPaid": "0.00000003534272106",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f0145874-1640738-1617260297-198262240.log"
       }
     ]
@@ -1479,13 +1504,13 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f019559",
         "peerId": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "endTime": "2021-04-01T08:03:16+00:00",
-        "elapsedTime": "",
-        "success": false,
-        "received": "15.21 GiB",
-        "filPaid": "0.000000032666945764",
-        "lastEvent": "ClientEventPaymentSent",
-        "lastStatus": "DealStatusOngoing",
+        "endTime": "2021-04-01T08:19:57+00:00",
+        "elapsedTime": "1:42:05",
+        "success": true,
+        "received": "16.46 GiB",
+        "filPaid": "0.00000003534272106",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f022352-1639878-1617259561-551659786.log"
       }
     ]
@@ -1555,11 +1580,12 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f02495",
         "peerId": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "endTime": "2021-04-01T08:02:42+00:00",
-        "elapsedTime": "",
+        "endTime": "2021-04-01T08:57:13+00:00",
+        "elapsedTime": "2:00:00",
         "success": false,
-        "received": "5.748 GiB",
-        "filPaid": "0.000000012344477704",
+        "error": "retrieval timed out",
+        "received": "10.48 GiB",
+        "filPaid": "0.000000022505711734",
         "lastEvent": "ClientEventPaymentSent",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f02576-1640964-1617260234-215525441.log"
@@ -1887,12 +1913,13 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f099600",
         "peerId": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "endTime": "2021-04-01T08:04:14+00:00",
-        "elapsedTime": "",
+        "endTime": "2021-04-01T08:56:03+00:00",
+        "elapsedTime": "2:00:00",
         "success": false,
-        "received": "8.444 GiB",
-        "filPaid": "0.000000018132936778",
-        "lastEvent": "ClientEventPaymentSent",
+        "error": "retrieval timed out",
+        "received": "13.85 GiB",
+        "filPaid": "0.000000029420341432",
+        "lastEvent": "ClientEventBlocksReceived",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab-f099608-1640642-1617260162-715488306.log"
       }
@@ -2995,13 +3022,14 @@
         "paymentIntervalIncrease": "33554432",
         "owner": "f019519",
         "peerId": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "endTime": "2021-04-01T08:04:18+00:00",
-        "elapsedTime": "",
+        "endTime": "2021-04-01T08:34:45+00:00",
+        "elapsedTime": "2:00:00",
         "success": false,
-        "received": "12.67 GiB",
-        "filPaid": "0.000011809004505746",
-        "lastEvent": "ClientEventBlocksReceived",
-        "lastStatus": "DealStatusOngoing",
+        "error": "retrieval timed out",
+        "received": "16.64 GiB",
+        "filPaid": "0.000016637775003115",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab-f019551-1645164-1617259258-085845635.log"
       }
     ]
@@ -3615,7 +3643,30 @@
         "Transferred": 17757346779
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-01T08:28:18+00:00",
+        "miner": "f010479",
+        "dealId": "1652545",
+        "cid": "bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f08391",
+        "peerId": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
+        "endTime": "2021-04-01T10:27:37+00:00",
+        "elapsedTime": "2:00:00",
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "15.56 GiB",
+        "filPaid": "0.000000033411434724",
+        "lastEvent": "ClientEventPaymentSent",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa-f010479-1652545-1617265697-728066098.log"
+      }
+    ]
   },
   {
     "miner": "f01247",
@@ -4598,7 +4649,30 @@
         "Transferred": 18249095734
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-01T08:41:30+00:00",
+        "miner": "f022163",
+        "dealId": "1652788",
+        "cid": "bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f01030",
+        "peerId": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
+        "endTime": "2021-04-01T10:41:30+00:00",
+        "elapsedTime": "2:00:00",
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "15.12 GiB",
+        "filPaid": "0.000000032297847012",
+        "lastEvent": "ClientEventBlocksReceived",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617244160-809125572/minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa-f022163-1652788-1617266489-910808748.log"
+      }
+    ]
   },
   {
     "miner": "f062353",
