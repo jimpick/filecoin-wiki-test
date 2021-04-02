@@ -7,6 +7,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01234",
       "DataRef": {
         "TransferType": "graphsync",
@@ -44,7 +45,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiecn32ux7igltycohzmhcmhujvrxsw25h3lxlksm36du3iznjwf44\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -57,6 +61,7 @@
       },
       "State": 9,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01278",
       "DataRef": {
         "TransferType": "graphsync",
@@ -94,7 +99,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreig7uy6hxohwzyxhwe66zjxy6knnkkf6z2uc4a4xoiwr7ltcg2nl2a\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -105,8 +113,9 @@
       "ProposalCid": {
         "/": "bafyreidr7ohtvthkw3a4kkcez5c6hly3l57lu23i2eh2zmd2rdpsxdhg3u"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f014768",
       "DataRef": {
         "TransferType": "graphsync",
@@ -144,7 +153,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidr7ohtvthkw3a4kkcez5c6hly3l57lu23i2eh2zmd2rdpsxdhg3u\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -157,6 +169,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f0157535",
       "DataRef": {
         "TransferType": "graphsync",
@@ -194,7 +207,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigz53noov73ebixyaldkufbqlzuiyt2m2flove4rxcszf67zj3ciq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWAypLydzLVAWD9aURXSvgxGdfAEuq7cUGVLkbmxK3cMLC",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -207,6 +223,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f015927",
       "DataRef": {
         "TransferType": "graphsync",
@@ -244,7 +261,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiefu5l7co5kcopwaknky7lcneh3socszxr4rta4fqs2mom2gyqlie\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -257,6 +277,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -294,7 +315,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieq2jvit5lxr7bzaeu6ybwaglq7cxaj3vxnekk2ej7mkgpqsx53cy\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -307,6 +331,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -344,7 +369,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreif6gwy5hw45bsbvnz475npxg4azmms6q3ofjdwdrqson4pjrv5ria\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -357,6 +385,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f023467",
       "DataRef": {
         "TransferType": "graphsync",
@@ -394,7 +423,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreietxegfzon2f3zxgkthmtdugri2ng7f3uicfpjalpl5zs4fetytwm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -407,6 +439,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f023971",
       "DataRef": {
         "TransferType": "graphsync",
@@ -444,7 +477,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifxmperxovxz57ecbc2duheicmkwzca3a32ibohxlp2vvgs4l3bby\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWAFhv4Rq6X8WA6EMW8UfULykqzrVryas8XzJiFUJqTj5G",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -457,6 +493,7 @@
       },
       "State": 9,
       "Message": "",
+      "DealStages": null,
       "Provider": "f058369",
       "DataRef": {
         "TransferType": "graphsync",
@@ -494,7 +531,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihjkf25srhn4l4qaowj5a3jltrwqmvc6elffkm6soiqfsigfr5dxa\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -505,8 +545,9 @@
       "ProposalCid": {
         "/": "bafyreif6az46hlnocdsc36vkaugbecwur7ixogiboxpf3ebrkcopkpvwbi"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -544,7 +585,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreif6az46hlnocdsc36vkaugbecwur7ixogiboxpf3ebrkcopkpvwbi\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -557,6 +601,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f066596",
       "DataRef": {
         "TransferType": "graphsync",
@@ -594,7 +639,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifpr22xkobeofn3hqaspzf6a3d7spxi52z5nfnlfmhmlhtt25fjca\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -607,6 +655,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -644,7 +693,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiaf2iez27z6g72mjrm3gefig34cbneksbqhcm6qu5twwki23giczm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -655,8 +707,9 @@
       "ProposalCid": {
         "/": "bafyreigr2c7wpqkrmknlcsw27jekjgo2onoxbilalktctnfmdsigdyap6i"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f08399",
       "DataRef": {
         "TransferType": "graphsync",
@@ -694,7 +747,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigr2c7wpqkrmknlcsw27jekjgo2onoxbilalktctnfmdsigdyap6i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -707,6 +763,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -744,7 +801,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieycxrrfywmyx6qvtecnq6i4dweiswgm3yjzk2abzmt3fl35566si\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -757,6 +817,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f010479",
       "DataRef": {
         "TransferType": "graphsync",
@@ -794,7 +855,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifivo3lqo7tpsp25je3v3hbbxitjhewn56w7yocc6dafbkqqbvgka\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -807,6 +871,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01234",
       "DataRef": {
         "TransferType": "graphsync",
@@ -844,7 +909,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreig24johpfcsgtk2lvrbwh35cc6n7ks3pylgzhvmirruhe5ohzhtxu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -857,6 +925,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01240",
       "DataRef": {
         "TransferType": "graphsync",
@@ -894,7 +963,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiavclimiuog5w6h6jm3ziwfjq4g462awddtqmf3753wiknsqdq4gq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -907,6 +979,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01278",
       "DataRef": {
         "TransferType": "graphsync",
@@ -944,7 +1017,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieykwnweuk2r5lf6bq3waty45mxojsf7bheesa4vj7whmnd6jsjzm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -957,6 +1033,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f0145874",
       "DataRef": {
         "TransferType": "graphsync",
@@ -994,7 +1071,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigo6v2ndwdnsyhchbi33vtyg6knsqoulcihxncnwcdb5m4lmzyf3q\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1007,6 +1087,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f014768",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1044,7 +1125,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigdtqitob6qakgx4hvrivbtibvscbbzitlbhmgh57ichbtt2u3q7i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1057,6 +1141,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f015927",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1094,7 +1179,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihtenot37xp4474pdqtv7wzlkwb7r6rshx6eoyyfmw3dhpvdp2goy\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1107,6 +1195,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1144,7 +1233,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiafcnnz6isj5ouzla7qj2un54kzy43zipkmpyy733qqslsw2zetty\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1157,6 +1249,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1194,7 +1287,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiddgo3lncfzlr6wwaxfbl55uwb4fdih4lun4pn2y74pwyhjmcd7cm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1207,6 +1303,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f02576",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1244,7 +1341,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreie27mxbgkbj7bt2vcmkbnl2yfpnkkc3m4hoanuiq6sunlz5cdyzom\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "Transferred": 22012732427
+        "Transferred": 22012732427,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1255,8 +1355,9 @@
       "ProposalCid": {
         "/": "bafyreieb7plxrlmvqkuwupeit23gejkfryifms7lax42wmgcf5zayvjire"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1294,7 +1395,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieb7plxrlmvqkuwupeit23gejkfryifms7lax42wmgcf5zayvjire\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1307,6 +1411,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1344,7 +1449,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifipm2a7o2h6xfstrhh3mulowpo3apecpsgjvcyfoexaahedh5tka\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1355,8 +1463,9 @@
       "ProposalCid": {
         "/": "bafyreihml4mjfdjscqbmpoyuabadn4k7v4oddshkkopealqhznad7kiegm"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f08399",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1394,7 +1503,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihml4mjfdjscqbmpoyuabadn4k7v4oddshkkopealqhznad7kiegm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1407,6 +1519,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1444,7 +1557,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigxc4cy72yu3aofctvjpgluchnj6invyceabm4vxforqzt6abxqnq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1457,6 +1573,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f099608",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1494,7 +1611,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifjz3l2eaj7yilekir2i4fe6t43suagfwahhdbg5zajjezrppo4qu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 17671360530
+        "Transferred": 17671360530,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1505,8 +1625,9 @@
       "ProposalCid": {
         "/": "bafyreihmaztkvjmf6byy5tjzfpjc2sfv7lr4fwsxtca6rj5argo7rjcrpa"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f01247",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1544,7 +1665,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihmaztkvjmf6byy5tjzfpjc2sfv7lr4fwsxtca6rj5argo7rjcrpa\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
-        "Transferred": 32767681908
+        "Transferred": 32767681908,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1557,6 +1681,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f0145874",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1594,7 +1719,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreibkr3v6zahfmeolbyddaiiszqfr2cbacwnabs5wnin3tj6dci7ayy\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1607,6 +1735,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f014768",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1644,7 +1773,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihyqmf6z6lvkba6gwn2prlf63vme7kta6fn6kmlodij53sfdacw5i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1657,6 +1789,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f0165400",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1694,7 +1827,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihoi7qxzq26lyuzhnuiijsirymk34rskf55awp4t4gohue4whcrv4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1707,6 +1843,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1744,7 +1881,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreicjldndckpzcfxm37v7g342youftiqce3y2a6rxim2iwemkgasgim\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1757,6 +1897,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022142",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1794,7 +1935,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreibn5pqmvxkjtzrbrxe5vuqfkqjzvr4exy2r3p6gwjecddsr34hp4e\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHcpqZ9Ps8cXHk2JaQVqAhjC7cPiLM14YKTmfAXT1LN3M",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1807,6 +1951,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1844,7 +1989,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreibllv2ltdh64xdchwb4qkbfxgariohny4bi6ecjup4tiwwdzmb524\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1857,6 +2005,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1894,7 +2043,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreics4tj3zteku6oggmwtgxiaruyqaqj6pwipt3c3tdrcewk377jwj4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1907,6 +2059,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f023467",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1944,7 +2097,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreick4j2z5po3g66prx34owv3dej3oym5nhbjj6awdxa4p3zsmva2la\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -1957,6 +2113,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f058369",
       "DataRef": {
         "TransferType": "graphsync",
@@ -1994,7 +2151,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieocljfbq2cyb2c4pa5uy7x4767arvfw6jk3zbjbyy6z5fbnx2mne\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2005,8 +2165,9 @@
       "ProposalCid": {
         "/": "bafyreiclooxwhf77a3hfodyp3ardeue2lk7xlngy7d5kxc6yfmvytkqg3m"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealUnknown",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2044,7 +2205,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiclooxwhf77a3hfodyp3ardeue2lk7xlngy7d5kxc6yfmvytkqg3m\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2057,6 +2221,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f066596",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2094,7 +2259,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiaaruprt3gke33hyrxj37mppnr7mlfzam2bqca5lezneyr747lgcq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2107,6 +2275,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2144,7 +2313,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreid75hpjaooy2fbse3aeixyjujgeqirrq33mbgqwu5ak6py73wgfbu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2157,6 +2329,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2194,7 +2367,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreide5gkjlcklutvvoxoxt7mjs5tkgipyrpsix4dd5i4lcpqc3fsvwe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 17870864664
+        "Transferred": 17870864664,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2205,8 +2381,9 @@
       "ProposalCid": {
         "/": "bafyreiewzcuecppb4yikbxif3in3jfahh7xr22afrg2ackonuagsnhqynq"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f01247",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2244,7 +2421,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiewzcuecppb4yikbxif3in3jfahh7xr22afrg2ackonuagsnhqynq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2257,6 +2437,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01278",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2294,7 +2475,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigdmd536adkffwtsc6wywiggqks2pofkfofj7rsvsusgyvlyxk3ae\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2307,6 +2491,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f0145874",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2344,7 +2529,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiejijopwyzefpowyxqaha5c23gfpmyixjs2syeocdtl27qxivzsb4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2357,6 +2545,7 @@
       },
       "State": 26,
       "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 630580): failed to look up deal on chain: looking for publish deal message bafy2bzacebcjxwnhsjhgj7semncdpxarioypafcigd2kkrykj22em72wqcpma: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f0165400",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2394,7 +2583,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiblwr3aokmavpinujqccyedmyroxjue5nm4swoukr7dp2gcqfhxda\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHhJjBsoAom7ong97Q4FJeNP2TbCdKCsYvnFB7DHMn5RM",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2407,6 +2599,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2444,7 +2637,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreih2pbp4imcdmtkcfitwmhgq4yl3lijqu4qofyrpsm45eiimpajxce\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2457,6 +2653,7 @@
       },
       "State": 28,
       "Message": "",
+      "DealStages": null,
       "Provider": "f021716",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2494,7 +2691,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieqntte3dxkiqzwo6pcmg6zqzac2jgfrdqwpelrepekwvfu34rovq\"}}",
         "Message": "response rejected",
         "OtherPeer": "12D3KooWNobH75Kmsr4LhtLbWXpViuRoqtiPUcso2VutUQc4TrtL",
-        "Transferred": 14423909468
+        "Transferred": 14423909468,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2507,6 +2707,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2544,7 +2745,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigv45nn2udqp7ukcwwkasau7bam6vxbsj4qgpopnyaowxm435szxe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2557,6 +2761,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022352",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2594,7 +2799,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiby5krmqud7no6t3e4pcjvaon2uo3eegojhpe7spdnoexg7ug7ydu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2607,6 +2815,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f023467",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2644,7 +2853,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreibyfeiazphxhqn7l755jykb2xvjlvrjpyqosz6vxsmnui7jk2lrae\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2657,6 +2869,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f058369",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2694,7 +2907,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiaxm3v7ieqteejngylkmw7vlnjfjl5c725qd5uiiotubzf5iwijom\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2705,8 +2921,9 @@
       "ProposalCid": {
         "/": "bafyreics555omvqhq2tyl7zzqg54cil23fk56zxd3t4h2vq2vc24ze3g4e"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2744,7 +2961,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreics555omvqhq2tyl7zzqg54cil23fk56zxd3t4h2vq2vc24ze3g4e\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2757,6 +2977,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2794,7 +3015,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiexrz3lpxofi5lim4xoea3vk3tdmfwdvheanm4stqse6sk2ndl4oe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2807,6 +3031,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2844,7 +3069,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidpgltuselyeifvyaon4ze6t6k6zz7d7bubuobyopnaeegsiozqga\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2857,6 +3085,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f09848",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2894,7 +3123,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidcjy7iwujuz2lbsqfhvc7gv4tpff6o6wm7sy7z5kczprjqtk5sty\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2907,6 +3139,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f099608",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2944,7 +3177,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidcxf5hdleirlr4k5c6fe5xfvbifbb7nddbw67avydpe2afpobnlu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 17870864665
+        "Transferred": 17870864665,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -2957,6 +3193,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f010479",
       "DataRef": {
         "TransferType": "graphsync",
@@ -2994,7 +3231,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihx6pds22ohrxvnj3yra4cjrsevxijxwer2scg4226yocdtthdsau\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3007,6 +3247,7 @@
       },
       "State": 13,
       "Message": "Provider state: StorageDealWaitingForData",
+      "DealStages": null,
       "Provider": "f01247",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3044,7 +3285,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihqt6v2fa3hqdckvwdnshtb53hmptfz7ys5sreul64f2da3kmincm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWA9zRZNfi59eJynKbY7B91By4QXRTLZ3dFD8hKPFTTwY7",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3057,6 +3301,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3094,7 +3339,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreie4jbnqn2xfblpdjgbc64b6po53v4gangb2otpu56j7kmai6hyhfq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3107,6 +3355,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f02576",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3144,7 +3393,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifpw4u3ogfrgn5j5mha3oj762ydhqvaeb3gk4ssupphjmwcspld4i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3155,8 +3407,9 @@
       "ProposalCid": {
         "/": "bafyreihqnp7gp25sgl6u6sjsi3i7os54c7fcl3huczif436eamzsfr6fn4"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3194,7 +3447,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihqnp7gp25sgl6u6sjsi3i7os54c7fcl3huczif436eamzsfr6fn4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3207,6 +3463,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f071624",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3244,7 +3501,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreie4lpdpyqxs3cy6vp64gj7angyqu4sok4lpcwrmwsc3ozlx4ufelu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3257,6 +3517,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08399",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3294,7 +3555,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidr3h2plmyqqealvq63goyaqkmmmy35jonakx6ch5y5rail64lx4i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWGabRFTsGhQLP5sb5f6eSUDbhyDqiF3fK9mZQWxJK5xJG",
-        "Transferred": 17757346779
+        "Transferred": 17757346779,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3307,6 +3571,7 @@
       },
       "State": 26,
       "Message": "error awaiting deal pre-commit: failed to set up called handler: called check error (h: 630580): failed to look up deal on chain: looking for publish deal message bafy2bzacebbtb3woxl2gcb5gqtfrmbo73qssv4fqnnmu5xiodrq2r2jr4te6s: search msg failed: checking for message execution during lookback: amt load: failed to root: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f01234",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3344,7 +3609,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieolgk2dz6hufavdho2wccyvs3dhde2k3hidfddytotjbnmp2maj4\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3357,6 +3625,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f01240",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3394,7 +3663,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiacc4k37jysmzmpyjbkwbq74s7f5izy6o6hfep5fzaqcvqtonv534\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWNHwmwNRkMEP6VqDCpjSZkqripoJgN7eWruvXXqC2kG9f",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3407,6 +3679,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3444,7 +3717,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiathajdyicypugarxkfjhsvny7xc6dlqkticvm3fxwshw6yqzj3oe\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3457,6 +3733,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3494,7 +3771,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreifi76nmuvw3mvd42eto5ytc7lx6dnl5j4pikgmulcbnfuv4pmdcau\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3505,8 +3785,9 @@
       "ProposalCid": {
         "/": "bafyreidbeztddm5t3x6r232cz532jsk77jcskpfqdqnrdtq44cd2m2cfnm"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3544,7 +3825,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreidbeztddm5t3x6r232cz532jsk77jcskpfqdqnrdtq44cd2m2cfnm\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3557,6 +3841,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f066596",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3594,7 +3879,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreictcaen5taj3q5dkdrbzjk6zouhd6kq2xljfy3phvmcankquw3t7u\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3607,6 +3895,7 @@
       },
       "State": 26,
       "Message": "error validating deal published: getting deal publish message: blockstore: block not found",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3644,7 +3933,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreihg2xhjkmcntn7ytxugrp33zicztkkyykacmgn5zdnrb3n7huyeja\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3657,6 +3949,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f099608",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3694,7 +3987,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreiawwaodrvxvf5g2kp7kixxj6c6yiaanivgksprniflff7gtax3qzi\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
-        "Transferred": 17757346780
+        "Transferred": 17757346780,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3707,6 +4003,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3744,7 +4041,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreicxjl6d4ckexpeeauozdqnaxhdkilw7xf5wu3bdbkeh4paxbl32nu\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 18249095734
+        "Transferred": 18249095734,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3757,6 +4057,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f022163",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3794,7 +4095,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreig4pjk4yo5lho6edkalxr7axmwvtdif52ejdzproq54st43u3h36e\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT",
-        "Transferred": 18249095734
+        "Transferred": 18249095734,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3807,6 +4111,7 @@
       },
       "State": 13,
       "Message": "Provider state: StorageDealWaitingForData",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3844,7 +4149,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreideuusfzbim4hiaffwjhgxvctgfjvefhwdh6bkkg3zaqc2p2d7c4e\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 18249095734
+        "Transferred": 18249095734,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3857,6 +4165,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f066596",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3894,7 +4203,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreic6suwzlmpbikcua4ohk62x77n3jjvjawptwkgczergv3i2mgxu7i\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c",
-        "Transferred": 18249095734
+        "Transferred": 18249095734,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3907,6 +4219,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f09848",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3944,7 +4257,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreieiduvhoztu5e47j3wixi2intks335zgz3cdvkq7bibcaqixpooke\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7",
-        "Transferred": 18249095734
+        "Transferred": 18249095734,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -3957,6 +4273,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f019551",
       "DataRef": {
         "TransferType": "graphsync",
@@ -3994,7 +4311,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigxxhzux4uhgrsi4gbwzpqwiwwej6ioi5vgijwsamz7526ptweoxq\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "Transferred": 18249095735
+        "Transferred": 18249095735,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -4007,6 +4327,7 @@
       },
       "State": 13,
       "Message": "Provider state: StorageDealWaitingForData",
+      "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
         "TransferType": "graphsync",
@@ -4044,7 +4365,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreigwaabsfu43g36jqxkplya73bmlr6m4tfmrycuj4zkyucqepw5ihy\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWB8nAh9qymuDu8sc5ktsukSTRjiMwwZ87yqr3M7pv5fKx",
-        "Transferred": 18249095735
+        "Transferred": 18249095735,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
@@ -4057,6 +4381,7 @@
       },
       "State": 7,
       "Message": "",
+      "DealStages": null,
       "Provider": "f08403",
       "DataRef": {
         "TransferType": "graphsync",
@@ -4094,7 +4419,10 @@
         "Voucher": "{\"Proposal\":{\"/\":\"bafyreighmvdv7f2pmigmalhf5y6vretj2lxrxp2ozavrlr5phrdiatyy4m\"}}",
         "Message": "",
         "OtherPeer": "12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W",
-        "Transferred": 18249095735
+        "Transferred": 18249095735,
+        "Stages": {
+          "Stages": null
+        }
       }
     },
     "id": 1
