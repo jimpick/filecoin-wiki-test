@@ -1,20 +1,0 @@
-Mar 28 08:02:04 1234
-Mar 28 08:02:04 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
-Mar 28 08:02:05 Loading deals f0421499
-Mar 28 08:02:05 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
-Mar 28 08:02:05 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
-Mar 28 08:02:05 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
-Mar 28 08:02:05 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f09848-1639977 f066596-1640067 f058369-1640127
-Mar 28 08:02:14 Already have log for f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
-Mar 28 08:02:15 Already have log for f022163 1639544 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
-Mar 28 08:02:17 Already have log for f014768 1639431 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
-Mar 28 08:02:19 Retrieving f01278 1639717 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
-Mar 28 08:02:19   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-Mar 28 08:02:19                                  Dload  Upload   Total   Spent    Left  Speed
-Mar 28 08:02:19   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   561  100   385  100   176   2200   1005 --:--:-- --:--:-- --:--:--  3205
-Mar 28 08:02:19 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"},"Piece":null,"Size":34359738368,"MinPrice":"103079215104","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01019","MinerPeer":{"Address":"f01278","ID":"12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7","PieceCID":null}},"id":1}
-Mar 28 08:02:19 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-Mar 28 08:02:19 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-Mar 28 08:02:19 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-Mar 28 08:02:19 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
-Mar 28 08:02:20 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

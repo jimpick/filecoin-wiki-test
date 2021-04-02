@@ -1,17 +1,0 @@
-Mar 28 01:51:58 1234
-Mar 28 01:51:58 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
-Mar 28 01:51:58 Loading deals f0421499
-Mar 28 01:51:58 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
-Mar 28 01:51:59 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
-Mar 28 01:51:59 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
-Mar 28 01:51:59 f0145874-1639395 f023971-1638943 f0157535-1639420 f015927-1639425 f0165400-1639461 f066596-1639456 f058369-1639480 f09848-1639498 f01278-1639962 f010479-1640202
-Mar 28 01:52:14 Retrieving f0145874 1639395 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
-Mar 28 01:52:14   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-Mar 28 01:52:14                                  Dload  Upload   Total   Spent    Left  Speed
-Mar 28 01:52:15   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   178    0     0  100   178      0    890 --:--:-- --:--:-- --:--:--   885100   566  100   388  100   178    504    231 --:--:-- --:--:-- --:--:--   735
-Mar 28 01:52:15 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0145871","MinerPeer":{"Address":"f0145874","ID":"12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv","PieceCID":null}},"id":1}
-Mar 28 01:52:15 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-Mar 28 01:52:15 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
-Mar 28 01:52:15 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
-Mar 28 01:52:25 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAllocatingLane)
-Mar 28 01:52:25 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)

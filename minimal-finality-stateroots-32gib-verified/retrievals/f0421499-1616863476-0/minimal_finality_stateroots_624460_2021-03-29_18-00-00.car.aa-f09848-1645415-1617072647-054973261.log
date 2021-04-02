@@ -1,7 +1,0 @@
-{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f09845","MinerPeer":{"Address":"f09848","ID":"12D3KooWHS66EuJ6WpgadiJWeuqkYmECavDsy8jUZ6aWpBd3taX7","PieceCID":null}},"id":1}
-Mar 30 02:50:47 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-Mar 30 02:50:47 ERROR: retrieval failed: Error setting up new store: write /home/ubuntu/.lotus/datastore/metadata/074403.log: no space left on device
-Mar 30 02:50:47 
-Mar 30 02:50:47 Command exited with non-zero status 1
-Mar 30 02:50:47 0.26user 0.04system 0:00.19elapsed 161%CPU (0avgtext+0avgdata 70268maxresident)k
-Mar 30 02:50:47 0inputs+0outputs (0major+10794minor)pagefaults 0swaps

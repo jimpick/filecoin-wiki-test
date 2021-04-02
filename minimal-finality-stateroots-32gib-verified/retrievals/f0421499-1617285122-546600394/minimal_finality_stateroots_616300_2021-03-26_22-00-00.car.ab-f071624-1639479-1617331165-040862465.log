@@ -17302,3 +17302,7 @@ Apr 02 03:42:24 > Recv: 16.46 GiB, Paid 0.000000035309405978 FIL, ClientEventBlo
 Apr 02 03:42:24 > Recv: 16.46 GiB, Paid 0.000000035309405978 FIL, ClientEventAllBlocksReceived (DealStatusBlocksComplete)
 Apr 02 03:42:24 > Recv: 16.46 GiB, Paid 0.000000035309405978 FIL, ClientEventLastPaymentRequested (DealStatusSendFundsLastPayment)
 Apr 02 03:42:24 > Recv: 16.46 GiB, Paid 0.00000003534272106 FIL, ClientEventPaymentSent (DealStatusFinalizing)
+Apr 02 03:43:07 > Recv: 16.46 GiB, Paid 0.00000003534272106 FIL, ClientEventComplete (DealStatusCompleted)
+Apr 02 03:51:40 Success
+Apr 02 03:51:40 6.33user 2.78system 1:12:15elapsed 0%CPU (0avgtext+0avgdata 82136maxresident)k
+Apr 02 03:51:40 424inputs+0outputs (39major+13606minor)pagefaults 0swaps

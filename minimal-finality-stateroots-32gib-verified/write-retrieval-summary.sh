@@ -54,9 +54,9 @@ for log in $LOGS; do
   START_TIME=$(date --date="$START_RAW" -Iseconds)
   echo START_TIME: $START_TIME
   FINAL_RECV=$(grep '> Recv' $log | tail -1)
-  END_RAW=$(echo $FINAL_RECV | sed 's,>.*,,')
-  END_TIME=$(date --date="$END_RAW" -Iseconds)
-  echo END_TIME: $END_TIME
+  LAST_RAW=$(echo $FINAL_RECV | sed 's,>.*,,')
+  LAST_TIME=$(date --date="$LAST_RAW" -Iseconds)
+  echo LAST_TIME: $LAST_TIME
   ELAPSED_TIME=$(grep 'elapsed' $log | awk '{ print $6 }' | sed 's,elapsed,,')
   echo ELAPSED_TIME: $ELAPSED_TIME
   if grep Success $log > /dev/null; then
@@ -78,7 +78,16 @@ for log in $LOGS; do
   if [ "$LAST_STATUS" != "DealStatusCompleted" ]; then
     SUCCESS=false
   fi
-  echo SUCCESS: $SUCCESS
+  LAST_LINE=$(tail -1 $log | grep pagefaults)
+  if [ -n "$LAST_LINE" ]; then
+    FINAL_STATUS=true
+  else
+    FINAL_STATUS=false
+  fi
+  echo FINAL_STATUS: $FINAL_STATUS
+  if [ "$FINAL_STATUS" = true ]; then
+    echo SUCCESS: $SUCCESS
+  fi
   DEAL_ID=$(echo $log | sed 's,-, ,g' | awk '{ print $7 }')
   echo DEAL_ID: $DEAL_ID
   JSON="{ \
@@ -93,10 +102,13 @@ for log in $LOGS; do
     \"paymentIntervalIncrease\": \"$PAYMENT_INTERVAL_INCREASE\", \
     \"owner\": \"$OWNER\", \
     \"peerId\": \"$PEER_ID\", \
-    \"endTime\": \"$END_TIME\", \
+    \"lastTime\": \"$LAST_TIME\", \
     \"elapsedTime\": \"$ELAPSED_TIME\", \
-    \"success\": $SUCCESS, \
+    \"finalStatus\": $FINAL_STATUS, \
   "
+  if [ "$FINAL_STATUS" = true ]; then
+    JSON+="\"success\": $SUCCESS, "
+  fi
   if [ -n "$ERROR" ]; then
     JSON+="\"error\": \"$ERROR\", "
   fi
