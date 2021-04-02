@@ -1,0 +1,17 @@
+Apr 02 17:22:31 1234
+Apr 02 17:22:31 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 02 17:22:31 Loading deals f0421499
+Apr 02 17:22:31 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 02 17:22:31 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 02 17:22:31 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 02 17:22:31 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 02 17:22:31 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 02 17:22:31 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 02 17:22:31 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 02 17:22:31 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 02 17:22:31 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 02 17:22:31 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 02 17:22:31 Out of disk space
+Apr 02 17:22:31 Filesystem      Size  Used Avail Use% Mounted on
+Apr 02 17:22:31 /dev/sda1       621G  535G   86G  87% /
+Apr 02 17:22:31 Draining, exiting...

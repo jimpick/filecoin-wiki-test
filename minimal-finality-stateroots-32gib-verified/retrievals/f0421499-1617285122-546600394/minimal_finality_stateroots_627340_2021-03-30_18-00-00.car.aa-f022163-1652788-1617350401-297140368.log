@@ -1,0 +1,13 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01030","MinerPeer":{"Address":"f022163","ID":"12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT","PieceCID":null}},"id":1}
+Apr 02 08:00:02 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 02 08:00:02 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 02 08:00:38 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 02 08:00:48 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 02 08:04:00 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 02 08:04:00 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 02 08:06:54 > Recv: 962 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 02 12:00:02 ERROR: retrieval timed out
+Apr 02 12:00:02 
+Apr 02 12:00:02 Command exited with non-zero status 124
+Apr 02 12:00:02 7.14user 0.78system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 71612maxresident)k
+Apr 02 12:00:02 26920inputs+0outputs (2406major+12819minor)pagefaults 0swaps
