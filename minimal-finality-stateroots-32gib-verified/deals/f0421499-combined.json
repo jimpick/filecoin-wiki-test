@@ -322,12 +322,12 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f01237",
         "peerId": "12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT",
-        "lastTime": "2021-04-02T03:59:31+00:00",
+        "lastTime": "2021-04-02T04:46:24+00:00",
         "elapsedTime": "",
         "finalStatus": false,
-        "received": "21.05 MiB",
-        "filPaid": "0.000000000044148634",
-        "lastEvent": "ClientEventPaymentSent",
+        "received": "6.469 GiB",
+        "filPaid": "0.00000001374757891",
+        "lastEvent": "ClientEventBlocksReceived",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa-f015927-1639425-1617335514-512770439.log"
       }
@@ -2052,7 +2052,29 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T04:39:01+00:00",
+        "miner": "f0145874",
+        "dealId": "1642998",
+        "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f0145871",
+        "peerId": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
+        "lastTime": "2021-04-02T04:46:04+00:00",
+        "elapsedTime": "",
+        "finalStatus": false,
+        "received": "90.05 MiB",
+        "filPaid": "0.000000000190949274",
+        "lastEvent": "ClientEventPaymentSent",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa-f0145874-1642998-1617338341-579512024.log"
+      }
+    ]
   },
   {
     "miner": "f014768",
@@ -2807,7 +2829,29 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T04:43:57+00:00",
+        "miner": "f071624",
+        "dealId": "1645163",
+        "cid": "bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f070441",
+        "peerId": "12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1",
+        "lastTime": "2021-04-02T04:44:19+00:00",
+        "elapsedTime": "",
+        "finalStatus": false,
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventPaymentChannelAddingFunds",
+        "lastStatus": "DealStatusPaymentChannelAddingInitialFunds",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa-f071624-1645163-1617338636-610281999.log"
+      }
+    ]
   },
   {
     "miner": "f08403",
@@ -3798,13 +3842,14 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f08391",
         "peerId": "12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91",
-        "lastTime": "2021-04-02T03:59:39+00:00",
-        "elapsedTime": "",
-        "finalStatus": false,
-        "received": "13.54 GiB",
-        "filPaid": "0.000000029070117048",
-        "lastEvent": "ClientEventBlocksReceived",
-        "lastStatus": "DealStatusOngoing",
+        "lastTime": "2021-04-02T04:28:54+00:00",
+        "elapsedTime": "1:58:46",
+        "finalStatus": true,
+        "success": true,
+        "received": "16.54 GiB",
+        "filPaid": "0.000000035514693558",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa-f010479-1652545-1617331197-413774195.log"
       }
     ]
@@ -3818,8 +3863,8 @@
       "ProposalCid": {
         "/": "bafyreihqt6v2fa3hqdckvwdnshtb53hmptfz7ys5sreul64f2da3kmincm"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
       "DealStages": null,
       "Provider": "f01247",
       "DataRef": {
@@ -3990,11 +4035,11 @@
         "paymentIntervalIncrease": "1048576",
         "owner": "f02495",
         "peerId": "12D3KooWDz6Up4tXg2SVwR54skSV6i4Mh8yBueSx7tRTatuKiihQ",
-        "lastTime": "2021-04-02T03:59:57+00:00",
+        "lastTime": "2021-04-02T04:46:25+00:00",
         "elapsedTime": "",
         "finalStatus": false,
-        "received": "9.648 GiB",
-        "filPaid": "0.000000020699957344",
+        "received": "15.66 GiB",
+        "filPaid": "0.000000033411434724",
         "lastEvent": "ClientEventBlocksReceived",
         "lastStatus": "DealStatusOngoing",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa-f02576-1650987-1617331129-697569089.log"
@@ -4791,13 +4836,14 @@
         "paymentIntervalIncrease": "33554432",
         "owner": "f019519",
         "peerId": "12D3KooWQKi3L61jRSYfwDMAA2xJVWxhXFUchAg15uk6fFQEK6S3",
-        "lastTime": "2021-04-02T03:59:58+00:00",
-        "elapsedTime": "",
-        "finalStatus": false,
-        "received": "12.22 GiB",
-        "filPaid": "0.000011809004505746",
-        "lastEvent": "ClientEventBlocksReceived",
-        "lastStatus": "DealStatusOngoing",
+        "lastTime": "2021-04-02T04:32:58+00:00",
+        "elapsedTime": "2:04:31",
+        "finalStatus": true,
+        "success": true,
+        "received": "16.99 GiB",
+        "filPaid": "0.000016989908128354",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
         "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa-f019551-1651158-1617331129-180753282.log"
       },
       {
@@ -4892,8 +4938,8 @@
       "ProposalCid": {
         "/": "bafyreideuusfzbim4hiaffwjhgxvctgfjvefhwdh6bkkg3zaqc2p2d7c4e"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
       "DealStages": null,
       "Provider": "f062353",
       "DataRef": {

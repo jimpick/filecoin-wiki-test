@@ -3245,8 +3245,8 @@
       "ProposalCid": {
         "/": "bafyreihqt6v2fa3hqdckvwdnshtb53hmptfz7ys5sreul64f2da3kmincm"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
       "DealStages": null,
       "Provider": "f01247",
       "DataRef": {
@@ -4109,8 +4109,8 @@
       "ProposalCid": {
         "/": "bafyreideuusfzbim4hiaffwjhgxvctgfjvefhwdh6bkkg3zaqc2p2d7c4e"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
       "DealStages": null,
       "Provider": "f062353",
       "DataRef": {
