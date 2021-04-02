@@ -4325,8 +4325,8 @@
       "ProposalCid": {
         "/": "bafyreigwaabsfu43g36jqxkplya73bmlr6m4tfmrycuj4zkyucqepw5ihy"
       },
-      "State": 13,
-      "Message": "Provider state: StorageDealWaitingForData",
+      "State": 26,
+      "Message": "deal failed: (State=13) start epoch already elapsed",
       "DealStages": null,
       "Provider": "f062353",
       "DataRef": {

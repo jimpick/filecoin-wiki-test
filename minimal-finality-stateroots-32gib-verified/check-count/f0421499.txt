@@ -5,4 +5,4 @@
 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa 7 Active: 3 Sealing: 0 CFA: 0 Xfr: 0 Error: 4
 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab 8 Active: 3 Sealing: 0 CFA: 0 Xfr: 0 Error: 5
 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa 5 Active: 4 Sealing: 0 CFA: 0 Xfr: 0 Error: 1
-8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab 3 Active: 2 Sealing: 0 CFA: 1 Xfr: 0 Error: 0
+8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab 3 Active: 2 Sealing: 0 CFA: 0 Xfr: 0 Error: 1
