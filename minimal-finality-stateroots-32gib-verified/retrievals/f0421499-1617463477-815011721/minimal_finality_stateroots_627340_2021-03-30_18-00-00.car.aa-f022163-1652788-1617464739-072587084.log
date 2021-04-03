@@ -1,0 +1,33 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01030","MinerPeer":{"Address":"f022163","ID":"12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT","PieceCID":null}},"id":1}
+Apr 03 15:45:56 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 03 15:45:56 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 03 15:46:17 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 03 15:46:17 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 03 15:49:29 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 03 15:49:29 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 03 15:51:21 > Recv: 962 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:51:22 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:51:26 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 03 15:51:26 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+Apr 03 15:51:26 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 03 15:51:26 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 03 15:52:00 > Recv: 2.052 MiB, Paid 0.000000000002205594 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:52:04 > Recv: 2.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 03 15:52:04 > Recv: 2.052 MiB, Paid 0.000000000002205594 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 03 15:52:04 > Recv: 2.052 MiB, Paid 0.000000000006399898 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 03 15:52:28 > Recv: 4.052 MiB, Paid 0.000000000006399898 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:52:31 > Recv: 5.052 MiB, Paid 0.000000000006399898 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:52:33 > Recv: 5.052 MiB, Paid 0.000000000006399898 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 03 15:52:33 > Recv: 5.052 MiB, Paid 0.000000000006399898 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 03 15:52:33 > Recv: 5.052 MiB, Paid 0.000000000012691354 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 03 15:53:09 > Recv: 7.052 MiB, Paid 0.000000000012691354 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:53:09 > Recv: 8.052 MiB, Paid 0.000000000012691354 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:53:10 > Recv: 9.052 MiB, Paid 0.000000000012691354 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 15:53:10 > Recv: 9.052 MiB, Paid 0.000000000012691354 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 03 15:53:10 > Recv: 9.052 MiB, Paid 0.000000000012691354 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 03 15:53:10 > Recv: 9.052 MiB, Paid 0.000000000021079962 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 03 19:45:46 ERROR: retrieval timed out
+Apr 03 19:45:46 
+Apr 03 19:45:46 Command exited with non-zero status 124
+Apr 03 19:45:46 4.02user 0.08system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 72436maxresident)k
+Apr 03 19:45:46 0inputs+0outputs (0major+10909minor)pagefaults 0swaps

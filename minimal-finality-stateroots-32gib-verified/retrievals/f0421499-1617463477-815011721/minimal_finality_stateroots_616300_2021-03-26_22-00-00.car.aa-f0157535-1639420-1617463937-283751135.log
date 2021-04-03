@@ -1,0 +1,15 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"2","UnsealPrice":"2","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0157528","MinerPeer":{"Address":"f0157535","ID":"12D3KooWAypLydzLVAWD9aURXSvgxGdfAEuq7cUGVLkbmxK3cMLC","PieceCID":null}},"id":1}
+Apr 03 15:32:17 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 03 15:32:17 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 03 15:32:17 > Recv: 0 B, Paid 0 FIL, ClientEventUnsealPaymentRequested (DealStatusAccepted)
+Apr 03 15:32:17 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 03 15:35:29 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 03 15:35:29 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 03 15:35:29 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 03 15:35:29 > Recv: 0 B, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 03 15:35:30 > Recv: 0 B, Paid 0.000000000000000002 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 03 19:32:17 ERROR: retrieval timed out
+Apr 03 19:32:17 
+Apr 03 19:32:17 Command exited with non-zero status 124
+Apr 03 19:32:17 3.99user 0.06system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 73312maxresident)k
+Apr 03 19:32:17 0inputs+0outputs (0major+11740minor)pagefaults 0swaps
