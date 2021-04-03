@@ -495,7 +495,30 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T19:40:46+00:00",
+        "miner": "f022352",
+        "dealId": "1642427",
+        "cid": "bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f019559",
+        "peerId": "12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8",
+        "lastTime": "2021-04-02T21:13:39+00:00",
+        "elapsedTime": "1:40:45",
+        "finalStatus": true,
+        "success": true,
+        "received": "16.46 GiB",
+        "filPaid": "0.00000003534272106",
+        "lastEvent": "ClientEventComplete",
+        "lastStatus": "DealStatusCompleted",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa-f022352-1642427-1617392446-258519568.log"
+      }
+    ]
   },
   {
     "miner": "f023467",
@@ -3503,7 +3526,31 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T19:41:38+00:00",
+        "miner": "f0145874",
+        "dealId": "1652527",
+        "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f0145871",
+        "peerId": "12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv",
+        "lastTime": "2021-04-02T19:45:07+00:00",
+        "elapsedTime": "4:00:00",
+        "finalStatus": true,
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventLaneAllocated",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab-f0145874-1652527-1617392497-892802143.log"
+      }
+    ]
   },
   {
     "miner": "f0165400",
@@ -3893,7 +3940,31 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T19:42:36+00:00",
+        "miner": "f023467",
+        "dealId": "1652489",
+        "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f023242",
+        "peerId": "12D3KooWMpuRzgVuRS6m285cucGgnXWwTnsNtGzjsMJeEqS7UtJw",
+        "lastTime": "2021-04-02T19:46:29+00:00",
+        "elapsedTime": "4:00:00",
+        "finalStatus": true,
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventLaneAllocated",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab-f023467-1652489-1617392555-213736747.log"
+      }
+    ]
   },
   {
     "miner": "f058369",
@@ -3951,7 +4022,31 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T19:39:35+00:00",
+        "miner": "f058369",
+        "dealId": "1652461",
+        "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f057190",
+        "peerId": "12D3KooWDdbAtcsG4ngdnmUW4SuirrWiRzUNdJMmquPEV5eeS2uh",
+        "lastTime": "2021-04-02T19:43:11+00:00",
+        "elapsedTime": "4:00:00",
+        "finalStatus": true,
+        "success": false,
+        "error": "retrieval timed out",
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventLaneAllocated",
+        "lastStatus": "DealStatusOngoing",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab-f058369-1652461-1617392374-821518749.log"
+      }
+    ]
   },
   {
     "miner": "f062353",
@@ -4308,7 +4403,31 @@
         }
       }
     },
-    "retrievals": []
+    "retrievals": [
+      {
+        "startTime": "2021-04-02T21:23:03+00:00",
+        "miner": "f099608",
+        "dealId": "1652792",
+        "cid": "bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g",
+        "size": "34359738368",
+        "minPrice": "68719476736",
+        "unsealPrice": "0",
+        "paymentInterval": "1048576",
+        "paymentIntervalIncrease": "1048576",
+        "owner": "f099600",
+        "peerId": "12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr",
+        "lastTime": "2021-04-02T21:26:36+00:00",
+        "elapsedTime": "3:32.60",
+        "finalStatus": true,
+        "success": false,
+        "error": "retrieval failed: Retrieve: Retrieval Error: too much money requested for bytes sent",
+        "received": "0 B",
+        "filPaid": "0",
+        "lastEvent": "ClientEventOpen",
+        "lastStatus": "DealStatusNew",
+        "logFile": "f0421499-1617285122-546600394/minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab-f099608-1652792-1617398582-708453145.log"
+      }
+    ]
   },
   {
     "miner": "f010479",

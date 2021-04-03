@@ -1,0 +1,5 @@
+Apr 02 19:37:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:56 
+Apr 02 19:37:56 Command exited with non-zero status 1
+Apr 02 19:37:56 0.16user 0.04system 0:00.11elapsed 170%CPU (0avgtext+0avgdata 63116maxresident)k
+Apr 02 19:37:56 88inputs+0outputs (1major+9119minor)pagefaults 0swaps

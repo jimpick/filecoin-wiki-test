@@ -1,0 +1,23 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f099600","MinerPeer":{"Address":"f099608","ID":"12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr","PieceCID":null}},"id":1}
+Apr 02 21:23:03 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 02 21:23:03 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 02 21:23:04 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 02 21:23:17 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 02 21:26:29 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 02 21:26:29 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 02 21:26:34 > Recv: 962 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 02 21:26:34 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 02 21:26:35 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 02 21:26:35 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusFundsNeeded)
+Apr 02 21:26:35 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 02 21:26:35 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 02 21:26:36 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 02 21:26:36 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 02 21:26:36 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventBadPaymentRequested (DealStatusFailing)
+Apr 02 21:26:36 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventCancelComplete (DealStatusErrored)
+Apr 02 21:26:36 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 02 21:26:36 ERROR: retrieval failed: Retrieve: Retrieval Error: too much money requested for bytes sent
+Apr 02 21:26:36 
+Apr 02 21:26:36 Command exited with non-zero status 1
+Apr 02 21:26:36 0.36user 0.04system 3:32.60elapsed 0%CPU (0avgtext+0avgdata 72860maxresident)k
+Apr 02 21:26:36 0inputs+0outputs (0major+10812minor)pagefaults 0swaps

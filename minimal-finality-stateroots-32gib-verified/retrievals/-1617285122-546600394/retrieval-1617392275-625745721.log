@@ -1,0 +1,55 @@
+Apr 02 19:37:55 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:55 
+Apr 02 19:37:55 
+Apr 02 19:37:55 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:55 
+Apr 02 19:37:55 
+Apr 02 19:37:55 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:55 
+Apr 02 19:37:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:56 
+Apr 02 19:37:56 Loading deals f0421499
+Apr 02 19:37:56 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 02 19:37:56 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 02 19:37:56 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 02 19:37:56 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 02 19:37:56 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 02 19:37:56 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 02 19:37:56 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 02 19:37:56 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 02 19:37:56 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 02 19:37:56 f0165400-1642717 f022163-1643006 f019551-1645067 f022352-1642861 f066596-1643069 f0145874-1642998 f071624-1645163 f08403-1645153 f022142-1652418 f014768-1652440 f023467-1652230 f058369-1652547
+Apr 02 19:37:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:56 
+Apr 02 19:37:56 Retrieving f0165400 1642717 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 02 19:37:56   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 02 19:37:56                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 02 19:37:56   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   178    0     0  100   178      0   6592 --:--:-- --:--:-- --:--:--  6592
+Apr 02 19:37:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:56 
+Apr 02 19:37:56 Command exited with non-zero status 1
+Apr 02 19:37:56 0.16user 0.04system 0:00.11elapsed 170%CPU (0avgtext+0avgdata 63116maxresident)k
+Apr 02 19:37:56 88inputs+0outputs (1major+9119minor)pagefaults 0swaps
+Apr 02 19:37:56 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:56 
+Apr 02 19:37:56 : (182G free)
+Apr 02 19:37:56 Skipping ahead
+Apr 02 19:37:56 
+Apr 02 19:37:57 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 02 19:37:57 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 02 19:37:57 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:57 
+Apr 02 19:37:57 Retrieving f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 02 19:37:57   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 02 19:37:57                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 02 19:37:57   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   176    0     0  100   176      0  88000 --:--:-- --:--:-- --:--:-- 88000
+Apr 02 19:37:57 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:57 
+Apr 02 19:37:57 Command exited with non-zero status 1
+Apr 02 19:37:57 0.12user 0.03system 0:00.10elapsed 165%CPU (0avgtext+0avgdata 61516maxresident)k
+Apr 02 19:37:57 0inputs+0outputs (0major+8598minor)pagefaults 0swaps
+Apr 02 19:37:58 ERROR: dial tcp 0.0.0.0:1234: connect: connection refused
+Apr 02 19:37:58 
+Apr 02 19:37:58 : (182G free)
+Apr 02 19:37:58 Skipping ahead
+Apr 02 19:37:58 
