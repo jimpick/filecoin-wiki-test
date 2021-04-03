@@ -1,0 +1,33 @@
+Apr 03 07:37:03 1234
+Apr 03 07:37:04 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 03 07:37:04 Loading deals f0421499
+Apr 03 07:37:04 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 03 07:37:04 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 03 07:37:04 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 03 07:37:04 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 03 07:37:04 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 03 07:37:04 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 03 07:37:04 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 07:37:04 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 03 07:37:04 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 07:37:04 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 03 07:37:07 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 07:37:08 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 07:37:09 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 07:37:11 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 07:37:12 
+Apr 03 07:37:13 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 03 07:37:13 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 03 07:37:13 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:14 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:16 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:17 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:18 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:19 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:20 Retrieving f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 07:37:20   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 03 07:37:20                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 03 07:37:21   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   560  100   384  100   176    679    311 --:--:-- --:--:-- --:--:--   991
+Apr 03 07:37:21 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01076","MinerPeer":{"Address":"f01234","ID":"12D3KooWRA6Xgza44q5LTedZdJP8gG4cu4rUgJd416zqH3UNGyGB","PieceCID":null}},"id":1}
+Apr 03 07:37:21 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 03 07:37:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

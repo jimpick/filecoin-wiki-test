@@ -1,3 +1,8 @@
 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f070441","MinerPeer":{"Address":"f071624","ID":"12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1","PieceCID":null}},"id":1}
 Apr 03 03:21:48 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 Apr 03 03:21:48 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 03 07:21:48 ERROR: retrieval timed out
+Apr 03 07:21:48 
+Apr 03 07:21:48 Command exited with non-zero status 124
+Apr 03 07:21:48 3.91user 0.06system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 73772maxresident)k
+Apr 03 07:21:48 0inputs+0outputs (0major+11257minor)pagefaults 0swaps

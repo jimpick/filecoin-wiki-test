@@ -7093,3 +7093,8 @@ Apr 03 05:58:35 > Recv: 6.671 GiB, Paid 0.000000014232021022 FIL, ClientEventBlo
 Apr 03 05:58:37 > Recv: 6.672 GiB, Paid 0.000000014232021022 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Apr 03 05:58:39 > Recv: 6.673 GiB, Paid 0.000000014232021022 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Apr 03 05:58:41 > Recv: 6.674 GiB, Paid 0.000000014232021022 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 03 07:10:00 ERROR: retrieval timed out
+Apr 03 07:10:00 
+Apr 03 07:10:00 Command exited with non-zero status 124
+Apr 03 07:10:00 5.04user 0.36system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 73512maxresident)k
+Apr 03 07:10:00 0inputs+0outputs (0major+11370minor)pagefaults 0swaps

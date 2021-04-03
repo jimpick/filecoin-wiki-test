@@ -1,7 +1,0 @@
-{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f014754","MinerPeer":{"Address":"f014768","ID":"12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL","PieceCID":null}},"id":1}
-Apr 03 04:44:31 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
-Apr 03 04:44:31 ERROR: retrieval failed: Retrieve failed: there is an active retrieval deal with peer 12D3KooWEFAhaG4kVzpxuoKXZxzbD47Qmwp98tzUYB8ho2BQnzeL for payload CID bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2 (retrieval deal ID 2008, state DealStatusOngoing) - existing deal must be cancelled before starting a new retrieval deal
-Apr 03 04:44:31 
-Apr 03 04:44:31 Command exited with non-zero status 1
-Apr 03 04:44:31 0.16user 0.02system 0:00.32elapsed 59%CPU (0avgtext+0avgdata 74104maxresident)k
-Apr 03 04:44:31 0inputs+0outputs (0major+11302minor)pagefaults 0swaps
