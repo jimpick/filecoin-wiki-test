@@ -1,0 +1,26 @@
+Apr 03 03:10:35 1234
+Apr 03 03:10:35 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 03 03:10:35 Loading deals f0421499
+Apr 03 03:10:35 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 03 03:10:35 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 03 03:10:35 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 03 03:10:35 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 03 03:10:35 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 03 03:10:35 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 03 03:10:35 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 03:10:36 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 03 03:10:36 1 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 03 03:10:36 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 03 03:10:38 Mpool pending 1, skipping + sleeping 30s
+Apr 03 03:11:11 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 03 03:11:12 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 03 03:11:13 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 03 03:11:14 Retrieving f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 03 03:11:14   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 03 03:11:14                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 03 03:11:25   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   176    0     0  100   176      0    880 --:--:-- --:--:-- --:--:--   875100   176    0     0  100   176      0    146  0:00:01  0:00:01 --:--:--   146100   176    0     0  100   176      0     79  0:00:02  0:00:02 --:--:--    79100   176    0     0  100   176      0     54  0:00:03  0:00:03 --:--:--    54100   176    0     0  100   176      0     41  0:00:04  0:00:04 --:--:--    41100   176    0     0  100   176      0     33  0:00:05  0:00:05 --:--:--     0100   176    0     0  100   176      0     28  0:00:06  0:00:06 --:--:--     0100   176    0     0  100   176      0     24  0:00:07  0:00:07 --:--:--     0100   176    0     0  100   176      0     21  0:00:08  0:00:08 --:--:--     0100   176    0     0  100   176      0     19  0:00:09  0:00:09 --:--:--     0100   176    0     0  100   176      0     17  0:00:10  0:00:10 --:--:--     0100   550  100   374  100   176     35     16  0:00:11  0:00:10  0:00:01    87
+Apr 03 03:11:25 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08395","MinerPeer":{"Address":"f08403","ID":"12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W","PieceCID":null}},"id":1}
+Apr 03 03:11:31 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 03 03:11:31 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 03 03:11:46 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 03 03:11:46 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelSkip (DealStatusOngoing)
