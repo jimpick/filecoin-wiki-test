@@ -70,3 +70,37 @@ Apr 03 07:38:56 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAcce
 Apr 03 07:38:56 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
 Apr 03 07:42:00 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
 Apr 03 07:42:00 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 03 11:38:56 ERROR: retrieval timed out
+Apr 03 11:38:56 
+Apr 03 11:38:56 Command exited with non-zero status 124
+Apr 03 11:38:56 7.44user 0.26system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 73192maxresident)k
+Apr 03 11:38:56 0inputs+0outputs (0major+11111minor)pagefaults 0swaps
+Apr 03 11:38:56 f0421499: 23.180544310671748348 FIL (690G free)
+Apr 03 11:38:56 Skipping ahead
+Apr 03 11:38:56 
+Apr 03 11:38:57 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 03 11:38:57 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 03 11:38:57 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 03 11:38:58 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 03 11:38:59 Already have log for f010479 1652545 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 03 11:39:00 
+Apr 03 11:39:01 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 03 11:39:01 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 03 11:39:01 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:03 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:04 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:05 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:06 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:10 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:11 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:12 Already have log for f023467 1641041 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:14 Already have log for f019551 1641211 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:15 Already have log for f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 03 11:39:16 
+Apr 03 11:39:17 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 11:39:17 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 03 11:39:17 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 11:39:18 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 11:39:19 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 11:39:20 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 11:39:21 
