@@ -70,3 +70,30 @@ Apr 04 06:35:21   0     0    0     0    0     0      0      0 --:--:-- --:--:--
 Apr 04 06:35:21 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f066595","MinerPeer":{"Address":"f066596","ID":"12D3KooWH3mBSF2RFQJFZdqzkVBqSdspoAAunHkViTf5AQhubv1c","PieceCID":null}},"id":1}
 Apr 04 06:35:21 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
 Apr 04 06:35:21 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 04 10:35:21 ERROR: retrieval timed out
+Apr 04 10:35:21 
+Apr 04 10:35:21 Command exited with non-zero status 124
+Apr 04 10:35:21 4.19user 0.05system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 74700maxresident)k
+Apr 04 10:35:21 0inputs+0outputs (0major+11938minor)pagefaults 0swaps
+Apr 04 10:35:21 f0421499: 23.106365688241355979 FIL (663G free)
+Apr 04 10:35:21 Skipping ahead
+Apr 04 10:35:21 
+Apr 04 10:35:22 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 10:35:22 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 04 10:35:23 Already have log for f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:35:24 Already have log for f01240 1652718 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:35:25 Already have log for f022163 1652787 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:35:26 
+Apr 04 10:35:27 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 10:35:27 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 04 10:35:27 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:35:29 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:35:30 Already have log for f010479 1652545 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:35:31 
+Apr 04 10:35:32 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 10:35:32 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 04 10:35:32 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:35:37 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:35:38 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:35:39 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:35:40 

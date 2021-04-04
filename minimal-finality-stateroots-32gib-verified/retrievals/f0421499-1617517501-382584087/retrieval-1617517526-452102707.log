@@ -103,3 +103,148 @@ Apr 04 06:47:20 > Recv: 47.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlo
 Apr 04 06:47:21 > Recv: 48.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Apr 04 06:47:21 > Recv: 49.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
 Apr 04 06:47:27 > Recv: 50.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:47:36 > Recv: 51.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:47:45 > Recv: 52.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:47:47 > Recv: 53.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:47:49 > Recv: 54.05 MiB, Paid 0.000000000094480282 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:47:58 > Recv: 54.05 MiB, Paid 0.000000000094480282 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 04 06:47:58 > Recv: 54.05 MiB, Paid 0.000000000094480282 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 04 06:47:58 > Recv: 54.05 MiB, Paid 0.000000000115451802 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 04 06:48:40 > Recv: 56.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:48:41 > Recv: 57.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:48:47 > Recv: 58.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:48:55 > Recv: 59.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:48:58 > Recv: 60.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:03 > Recv: 61.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:06 > Recv: 62.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:06 > Recv: 63.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:07 > Recv: 64.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:07 > Recv: 65.05 MiB, Paid 0.000000000115451802 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:07 > Recv: 65.05 MiB, Paid 0.000000000115451802 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 04 06:49:07 > Recv: 65.05 MiB, Paid 0.000000000115451802 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 04 06:49:07 > Recv: 65.05 MiB, Paid 0.000000000138520474 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 04 06:49:46 > Recv: 67.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:53 > Recv: 68.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:49:59 > Recv: 69.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:01 > Recv: 70.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:02 > Recv: 71.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:04 > Recv: 72.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:04 > Recv: 73.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:05 > Recv: 74.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:06 > Recv: 75.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:11 > Recv: 76.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:15 > Recv: 77.05 MiB, Paid 0.000000000138520474 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:50:21 > Recv: 77.05 MiB, Paid 0.000000000138520474 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 04 06:50:21 > Recv: 77.05 MiB, Paid 0.000000000138520474 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 04 06:50:22 > Recv: 77.05 MiB, Paid 0.000000000163686298 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 04 06:51:06 > Recv: 79.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:07 > Recv: 80.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:09 > Recv: 81.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:15 > Recv: 82.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:24 > Recv: 83.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:28 > Recv: 84.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:33 > Recv: 85.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:36 > Recv: 86.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:37 > Recv: 87.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:38 > Recv: 88.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:39 > Recv: 89.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:40 > Recv: 90.05 MiB, Paid 0.000000000163686298 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:51:41 > Recv: 90.05 MiB, Paid 0.000000000163686298 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 04 06:51:41 > Recv: 90.05 MiB, Paid 0.000000000163686298 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 04 06:51:42 > Recv: 90.05 MiB, Paid 0.000000000190949274 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 04 06:52:30 > Recv: 92.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:52:31 > Recv: 93.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:52:42 > Recv: 94.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:52:56 > Recv: 95.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:52:59 > Recv: 96.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:00 > Recv: 97.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:02 > Recv: 98.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:03 > Recv: 99.05 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:03 > Recv: 100.1 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:04 > Recv: 101.1 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:10 > Recv: 102.1 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:18 > Recv: 103.1 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:28 > Recv: 104.1 MiB, Paid 0.000000000190949274 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:53:33 > Recv: 104.1 MiB, Paid 0.000000000190949274 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 04 06:53:33 > Recv: 104.1 MiB, Paid 0.000000000190949274 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 04 06:53:34 > Recv: 104.1 MiB, Paid 0.000000000220309402 FIL, ClientEventPaymentSent (DealStatusOngoing)
+Apr 04 06:54:28 > Recv: 106.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:54:35 > Recv: 107.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:54:40 > Recv: 108.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:54:42 > Recv: 109.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:54:46 > Recv: 110.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 06:54:52 > Recv: 111.1 MiB, Paid 0.000000000220309402 FIL, ClientEventBlocksReceived (DealStatusOngoing)
+Apr 04 10:30:04 ERROR: retrieval timed out
+Apr 04 10:30:04 
+Apr 04 10:30:04 Command exited with non-zero status 124
+Apr 04 10:30:04 4.11user 0.13system 4:00:00elapsed 0%CPU (0avgtext+0avgdata 74248maxresident)k
+Apr 04 10:30:04 0inputs+0outputs (0major+11595minor)pagefaults 0swaps
+Apr 04 10:30:05 f0421499: 23.106365688241355979 FIL (663G free)
+Apr 04 10:30:05 Skipping ahead
+Apr 04 10:30:05 
+Apr 04 10:30:06 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 10:30:06 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 04 10:30:10 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:11 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:13 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:14 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:16 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:18 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:19 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:20 Already have log for f023467 1641041 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:21 Already have log for f019551 1641211 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:23 Already have log for f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 10:30:24 
+Apr 04 10:30:25 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 10:30:25 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 04 10:30:25 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:30:26 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:30:28 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:30:29 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 10:30:30 
+Apr 04 10:30:31 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 10:30:31 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 04 10:30:32 Already have log for f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:30:33 Already have log for f01240 1652718 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:30:39 Already have log for f022163 1652787 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 10:30:40 
+Apr 04 10:30:41 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 10:30:41 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 04 10:30:41 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:30:43 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:30:44 Already have log for f010479 1652545 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 10:30:45 
+Apr 04 10:30:46 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 04 10:30:46 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f099608-1640642 f01240-1640769 f0145874-1640738 f02576-1640964 f015927-1641099 f010479-1641179
+Apr 04 10:30:46 Already have log for f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:47 Already have log for f022163 1639544 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:49 Already have log for f014768 1639431 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:51 Already have log for f01278 1639717 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:52 Already have log for f01234 1639443 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:54 Already have log for f071624 1639479 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:55 Already have log for f022352 1639878 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:56 Already have log for f099608 1640642 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:58 Already have log for f01240 1640769 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:30:59 Already have log for f0145874 1640738 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:31:01 Already have log for f02576 1640964 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:31:02 Already have log for f015927 1641099 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:31:04 Already have log for f010479 1641179 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 04 10:31:05 
+Apr 04 10:31:06 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 10:31:06 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 04 10:31:06 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:11 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:14 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:15 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:17 Already have log for f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:19 Already have log for f022352 1652238 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:21 Already have log for f058369 1652461 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:23 Already have log for f0145874 1652527 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:25 Already have log for f023467 1652489 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:26 Already have log for f099608 1652792 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 10:31:27 
+Apr 04 10:31:28 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 10:31:28 f08403-1652750 f019551-1652790
+Apr 04 10:31:28 Already have log for f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 10:31:30 Already have log for f019551 1652790 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 10:31:31 
