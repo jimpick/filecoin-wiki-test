@@ -3,7 +3,7 @@
 CLIENT=$1
 
 if [ -z "$CLIENT" ]; then
-  CLIENT=$(lotus state lookup `lotus wallet default`)
+  CLIENT=$(./client.sh)
 fi
 
 ./check.sh $CLIENT 2> /dev/null

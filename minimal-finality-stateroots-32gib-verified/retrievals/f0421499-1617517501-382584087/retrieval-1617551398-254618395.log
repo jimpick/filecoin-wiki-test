@@ -1,0 +1,33 @@
+Apr 04 15:49:58 1234
+Apr 04 15:49:58 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 04 15:49:58 Loading deals f0421499
+Apr 04 15:49:58 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 15:49:58 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 04 15:49:58 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 04 15:49:58 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 15:49:58 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 15:49:59 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 15:49:59 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 15:49:59 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 15:49:59 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 15:49:59 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 04 15:50:00 Already have log for f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 15:50:02 Already have log for f01240 1652718 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 15:50:05 Already have log for f022163 1652787 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 15:50:06 
+Apr 04 15:50:07 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 15:50:07 f08403-1652750 f019551-1652790
+Apr 04 15:50:13 Already have log for f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 15:50:16 Already have log for f019551 1652790 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 15:50:17 
+Apr 04 15:50:18 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 15:50:18 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 04 15:50:19 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 15:50:22 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 15:50:24 Mpool pending 1, skipping + sleeping 30s
+Apr 04 15:50:54 
+Apr 04 15:50:55 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 15:50:55 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 04 15:50:56 Mpool pending 1, skipping + sleeping 30s
+Apr 04 15:51:26 Mpool pending 1, skipping + sleeping 30s
+Apr 04 15:51:58 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4

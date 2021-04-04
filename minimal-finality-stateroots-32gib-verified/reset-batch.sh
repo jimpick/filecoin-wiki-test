@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 for f in ls *.cid; do
 	BASE=$(echo $f | sed 's,\.cid$,,')

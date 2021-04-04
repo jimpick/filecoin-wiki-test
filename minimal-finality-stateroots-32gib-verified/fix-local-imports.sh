@@ -1,7 +1,7 @@
 #! /bin/bash
 
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 WORKDIR=$(mktemp -d -t blaster-imports.XXXXXXX)
 function cleanup {

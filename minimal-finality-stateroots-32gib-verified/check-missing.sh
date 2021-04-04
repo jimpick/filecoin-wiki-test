@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 for f in wiki.zip.??.??.cid; do
 	base=$(echo $f | sed 's,\.cid,,')

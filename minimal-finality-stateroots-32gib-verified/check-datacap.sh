@@ -1,3 +1,3 @@
 #! /bin/bash
 
-lotus-shed verifreg check-client `lotus wallet default`
+lotus-shed verifreg check-client $(./client.sh)

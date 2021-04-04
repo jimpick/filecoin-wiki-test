@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 #echo Client: $CLIENT
 
 #set -x
@@ -57,7 +57,7 @@ for CID_FILE in `ls *.cid.store`; do
 		#lotus client deal # interactive
     #echo 'Press enter to start deal'
     #read
-    timeout -k 905s 900s ../deal-tool/deal-tool -verified -cid=$CID -miner=$MINER -dealfile=$DEAL_FILE # Expect-style scripting
+    timeout -k 905s 900s ../deal-tool/deal-tool -from=$CLIENT -verified -cid=$CID -miner=$MINER -dealfile=$DEAL_FILE # Expect-style scripting
 		#lotus client list-deals -v | tail -1 | awk '{ print $4 }' > $DEAL_FILE
 		cp $DEAL_FILE $DEAL_FILE_MINER
 		#echo $CLIENT: $(lotus wallet balance)

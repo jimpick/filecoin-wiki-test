@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 EPOCH=$(cat .retrieval-epoch)
 

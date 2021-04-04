@@ -4,7 +4,7 @@ CLIENT=$1
 OUTPUT=check-count/$CLIENT.txt
 
 if [ -z "$CLIENT" ]; then
-  CLIENT=$(lotus state lookup `lotus wallet default`)
+  CLIENT=$(./client.sh)
   mkdir -p check-count
   OUTPUT=check-count/$CLIENT.txt
 fi

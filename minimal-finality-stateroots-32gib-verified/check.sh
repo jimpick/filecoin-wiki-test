@@ -4,7 +4,7 @@ CLIENT=$1
 OUTPUT=list-deals/$CLIENT.txt
 
 if [ -z "$CLIENT" ]; then
-  CLIENT=$(lotus state lookup `lotus wallet default`)
+  CLIENT=$(./client.sh)
   mkdir -p list-deals
   OUTPUT=list-deals/$CLIENT.txt
 

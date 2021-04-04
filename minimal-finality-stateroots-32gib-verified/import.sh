@@ -1,6 +1,6 @@
 #! /bin/bash
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 count=0
 total=`ls wiki*.zip.??.?? | wc -l`

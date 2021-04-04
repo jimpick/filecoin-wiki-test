@@ -17,7 +17,7 @@ if [ -z "$TARGET_DIR" ]; then
   exit 1
 fi
 
-CLIENT=$(lotus state lookup `lotus wallet default`)
+CLIENT=$(./client.sh)
 
 WORKDIR=$(mktemp -d -t blaster-retrieve.XXXXXXX)
 function cleanup {
@@ -93,7 +93,7 @@ for x in $(grep ^minimal $CHECK | shuf); do
         continue
       fi
 
-			/usr/bin/time timeout -k 241m 240m lotus client retrieve --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
+			/usr/bin/time timeout -k 241m 240m lotus client retrieve --from=$CLIENT --miner=$MINER --maxPrice=0.000050000000000000 $CID $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin 2>&1 | ts | stdbuf -oL -eL tee -a $TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.log | cut -c17-
       rm -rf $PWD/$TARGET_DIR/$x-$MINER-$DEAL-$TIMESTAMP.bin
         FREE=$(df -h . | tail -1 | awk '{ print $4 }')
         echo $CLIENT: $(lotus wallet balance) "($FREE free)"
