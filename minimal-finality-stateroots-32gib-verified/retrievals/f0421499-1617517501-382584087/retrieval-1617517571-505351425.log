@@ -1,0 +1,28 @@
+Apr 04 06:26:11 1234
+Apr 04 06:26:11 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 04 06:26:11 Loading deals f0421499
+Apr 04 06:26:11 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 06:26:11 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 04 06:26:11 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 04 06:26:11 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 06:26:12 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 06:26:12 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 06:26:12 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 06:26:12 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 06:26:12 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 06:26:12 f08403-1652750 f019551-1652790
+Apr 04 06:26:13 Mpool pending 1, skipping + sleeping 30s
+Apr 04 06:26:43 Mpool pending 1, skipping + sleeping 30s
+Apr 04 06:27:13 
+Apr 04 06:27:14 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 06:27:14 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 04 06:27:14 Mpool pending 1, skipping + sleeping 30s
+Apr 04 06:27:45 Mpool pending 1, skipping + sleeping 30s
+Apr 04 06:28:15 Mpool pending 1, skipping + sleeping 30s
+Apr 04 06:28:45 Retrieving f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 06:28:45   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 04 06:28:45                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 04 06:28:45   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   385  100   177   3564   1638 --:--:-- --:--:-- --:--:--  5203
+Apr 04 06:28:45 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01030","MinerPeer":{"Address":"f022163","ID":"12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT","PieceCID":null}},"id":1}
+Apr 04 06:28:46 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 06:28:46 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

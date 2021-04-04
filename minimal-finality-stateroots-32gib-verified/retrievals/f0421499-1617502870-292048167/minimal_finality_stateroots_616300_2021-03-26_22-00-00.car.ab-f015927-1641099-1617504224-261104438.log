@@ -1,0 +1,12 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01237","MinerPeer":{"Address":"f015927","ID":"12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT","PieceCID":null}},"id":1}
+Apr 04 02:43:44 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 02:43:44 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 04 02:43:49 > Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+Apr 04 02:43:49 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+Apr 04 02:43:52 > Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+Apr 04 02:43:52 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 02:43:52 ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: miner is not accepting online retrieval deals
+Apr 04 02:43:52 
+Apr 04 02:43:52 Command exited with non-zero status 1
+Apr 04 02:43:52 0.23user 0.01system 0:08.32elapsed 3%CPU (0avgtext+0avgdata 74000maxresident)k
+Apr 04 02:43:52 0inputs+0outputs (0major+11454minor)pagefaults 0swaps

@@ -1,0 +1,25 @@
+Apr 04 06:17:32 1234
+Apr 04 06:17:32 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 04 06:17:33 Loading deals f0421499
+Apr 04 06:17:33 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 06:17:33 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 04 06:17:33 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 04 06:17:33 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 06:17:33 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 06:17:33 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 06:17:33 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 06:17:33 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 06:17:33 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 06:17:33 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 04 06:17:36 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 06:17:40 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 06:17:41 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 06:17:43 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 04 06:17:44 
+Apr 04 06:17:45 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 06:17:45 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 04 06:17:45 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 06:17:47 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 06:17:48 Already have log for f010479 1652545 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 04 06:17:49 
+Apr 04 06:17:50 Draining, exiting...

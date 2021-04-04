@@ -1,0 +1,11 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f0145871","MinerPeer":{"Address":"f0145874","ID":"12D3KooWAkca4FJ6GF72ecMY3j62P4MHWvvJuFwD1BBFiCc1i2gv","PieceCID":null}},"id":1}
+Apr 04 02:40:52 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 02:40:52 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 04 02:40:59 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 04 02:42:30 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 04 02:45:59 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 04 02:46:00 > Recv: 0 B, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 04 04:03:28 Success
+Apr 04 04:03:28 2021-04-04T04:03:28.981Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/websocket.go:678	failed to write close message: write tcp 127.0.0.1:39506->127.0.0.1:1234: write: broken pipe
+Apr 04 04:03:28 1.38user 0.02system 1:22:36elapsed 0%CPU (0avgtext+0avgdata 73516maxresident)k
+Apr 04 04:03:28 0inputs+0outputs (0major+11766minor)pagefaults 0swaps

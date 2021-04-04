@@ -1,0 +1,7 @@
+{"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"},"Piece":null,"Size":34359738368,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08395","MinerPeer":{"Address":"f08403","ID":"12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W","PieceCID":null}},"id":1}
+Apr 04 02:32:41 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 02:32:41 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 04 04:03:27 Success
+Apr 04 04:03:27 2021-04-04T04:03:27.711Z	[33mWARN[0m	rpc	go-jsonrpc@v0.1.4-0.20210217175800-45ea43ac2bec/websocket.go:678	failed to write close message: write tcp 127.0.0.1:38078->127.0.0.1:1234: write: broken pipe
+Apr 04 04:03:27 1.55user 0.03system 1:30:46elapsed 0%CPU (0avgtext+0avgdata 73688maxresident)k
+Apr 04 04:03:27 0inputs+0outputs (0major+11623minor)pagefaults 0swaps

@@ -1,0 +1,20 @@
+Apr 04 06:25:05 1234
+Apr 04 06:25:05 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 04 06:25:05 Loading deals f0421499
+Apr 04 06:25:05 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 06:25:05 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 04 06:25:05 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 04 06:25:05 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 06:25:05 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 04 06:25:05 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 06:25:05 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 04 06:25:05 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 06:25:05 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 04 06:25:05 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 04 06:25:06 Retrieving f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 04 06:25:06   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 04 06:25:06                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 04 06:25:07   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177    401    183 --:--:-- --:--:-- --:--:--   585100   563  100   386  100   177    401    183 --:--:-- --:--:-- --:--:--   584
+Apr 04 06:25:07 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f099600","MinerPeer":{"Address":"f099608","ID":"12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr","PieceCID":null}},"id":1}
+Apr 04 06:25:07 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 04 06:25:07 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
