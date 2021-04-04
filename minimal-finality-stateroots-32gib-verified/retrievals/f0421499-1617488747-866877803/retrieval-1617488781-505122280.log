@@ -1,0 +1,23 @@
+Apr 03 22:26:21 1234
+Apr 03 22:26:21 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 03 22:26:21 Loading deals f0421499
+Apr 03 22:26:21 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 03 22:26:21 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 03 22:26:21 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 03 22:26:21 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 03 22:26:21 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 03 22:26:21 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 03 22:26:21 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 22:26:21 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 03 22:26:21 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 03 22:26:21 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 03 22:26:21 Mpool pending 2, skipping + sleeping 30s
+Apr 03 22:26:52 Mpool pending 1, skipping + sleeping 30s
+Apr 03 22:27:22 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 22:27:23 Retrieving f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 03 22:27:23   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 03 22:27:23                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 03 22:27:23   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   385  100   177   3468   1594 --:--:-- --:--:-- --:--:--  5063
+Apr 03 22:27:23 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01030","MinerPeer":{"Address":"f022163","ID":"12D3KooWDXMs6HMEdL7ein6hBWJHv42g7VMGWwUEgH8gYZ8kELYT","PieceCID":null}},"id":1}
+Apr 03 22:27:23 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 03 22:27:23 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
