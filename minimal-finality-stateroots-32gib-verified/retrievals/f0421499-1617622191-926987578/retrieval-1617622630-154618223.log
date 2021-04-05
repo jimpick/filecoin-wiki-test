@@ -1,0 +1,22 @@
+Apr 05 11:37:10 1234
+Apr 05 11:37:10 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:37:10 Loading deals f0421499
+Apr 05 11:37:10 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:37:10 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:37:10 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:37:10 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:37:10 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:37:10 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:37:10 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:37:10 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:37:10 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:37:10 f02576-1650987 f08399-1652420 f010479-1652545
+Apr 05 11:37:10 Already have log for f02576 1650987 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 05 11:37:12 Already have log for f08399 1652420 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 05 11:37:13 Retrieving f010479 1652545 bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry
+Apr 05 11:37:13   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:37:13                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:37:14   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   385  100   177    616    283 --:--:-- --:--:-- --:--:--   899100   562  100   385  100   177    616    283 --:--:-- --:--:-- --:--:--   899
+Apr 05 11:37:14 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacecpfagbszu24mq4jynabqouymjp5m3waz3kw6ccqqziwwcjm732ry"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08391","MinerPeer":{"Address":"f010479","ID":"12D3KooWHZeU9K4FQ5YYNavdnuajopXWZaH39xm3QkmPYvj48M91","PieceCID":null}},"id":1}
+Apr 05 11:37:14 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:37:14 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

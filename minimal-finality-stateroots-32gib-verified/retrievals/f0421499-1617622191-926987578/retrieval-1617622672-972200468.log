@@ -1,0 +1,40 @@
+Apr 05 11:37:53 1234
+Apr 05 11:37:53 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:37:53 Loading deals f0421499
+Apr 05 11:37:53 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:37:53 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:37:53 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:37:53 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:37:53 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:37:53 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:37:53 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:37:53 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:37:53 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:37:53 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 05 11:37:53 Mpool pending 2, skipping + sleeping 30s
+Apr 05 11:38:23 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:25 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:26 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:27 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:29 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:31 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:38:33 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:39:08 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:39:38 Retrieving f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:39:38   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:39:38                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:39:52   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   177    0     0  100   177      0    147  0:00:01  0:00:01 --:--:--   147100   177    0     0  100   177      0     80  0:00:02  0:00:02 --:--:--    80100   177    0     0  100   177      0     55  0:00:03  0:00:03 --:--:--    55100   177    0     0  100   177      0     42  0:00:04  0:00:04 --:--:--    42100   177    0     0  100   177      0     34  0:00:05  0:00:05 --:--:--    34100   177    0     0  100   177      0     28  0:00:06  0:00:06 --:--:--     0100   177    0     0  100   177      0     24  0:00:07  0:00:07 --:--:--     0100   177    0     0  100   177      0     21  0:00:08  0:00:08 --:--:--     0100   177    0     0  100   177      0     19  0:00:09  0:00:09 --:--:--     0100   177    0     0  100   177      0     17  0:00:10  0:00:10 --:--:--     0100   177    0     0  100   177      0     15  0:00:11  0:00:11 --:--:--     0100   177    0     0  100   177      0     14  0:00:12  0:00:12 --:--:--     0100   177    0     0  100   177      0     13  0:00:13  0:00:13 --:--:--     0100   563  100   386  100   177     27     12  0:00:14  0:00:13  0:00:01    83
+Apr 05 11:39:52 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f019559","MinerPeer":{"Address":"f022352","ID":"12D3KooWDaYp2U3XiDeYvXVruQ5BwGUxwobQA62fASdvZGZVb4n8","PieceCID":null}},"id":1}
+Apr 05 11:39:57 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:39:57 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 05 11:39:57 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 05 11:43:31 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelAddingFunds (DealStatusPaymentChannelAddingInitialFunds)
+Apr 05 11:47:00 > Recv: 962 B, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingInitialFunds)
+Apr 05 11:47:00 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingInitialFunds)
+Apr 05 11:47:00 > Recv: 52.95 KiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusPaymentChannelAddingInitialFunds)
+Apr 05 11:47:00 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventBlocksReceived (DealStatusPaymentChannelAddingInitialFunds)
+Apr 05 11:47:00 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventPaymentChannelReady (DealStatusPaymentChannelAllocatingLane)
+Apr 05 11:47:00 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventLaneAllocated (DealStatusOngoing)
+Apr 05 11:47:00 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventPaymentRequested (DealStatusFundsNeeded)
+Apr 05 11:47:00 > Recv: 1.052 MiB, Paid 0 FIL, ClientEventSendFunds (DealStatusSendFunds)
+Apr 05 11:47:01 > Recv: 1.052 MiB, Paid 0.000000000002205594 FIL, ClientEventPaymentSent (DealStatusOngoing)

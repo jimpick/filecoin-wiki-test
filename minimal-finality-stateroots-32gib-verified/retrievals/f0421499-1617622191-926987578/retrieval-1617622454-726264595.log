@@ -1,0 +1,20 @@
+Apr 05 11:34:14 1234
+Apr 05 11:34:14 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:34:14 Loading deals f0421499
+Apr 05 11:34:14 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:34:14 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:34:14 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:34:14 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:34:14 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:34:14 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:34:14 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:34:14 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:34:14 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:34:14 f08403-1652750 f019551-1652790
+Apr 05 11:34:15 Retrieving f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 05 11:34:15   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:34:15                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:34:15   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   550  100   374  100   176    743    349 --:--:-- --:--:-- --:--:--  1093
+Apr 05 11:34:15 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs"},"Piece":null,"Size":34359738368,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f08395","MinerPeer":{"Address":"f08403","ID":"12D3KooWKG9mQfyAAyCc3huFVMMzpKCdbgLhED6PYFhwM7q8Ab3W","PieceCID":null}},"id":1}
+Apr 05 11:34:15 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:34:15 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

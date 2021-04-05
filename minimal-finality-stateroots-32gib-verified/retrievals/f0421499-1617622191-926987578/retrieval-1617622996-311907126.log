@@ -1,0 +1,35 @@
+Apr 05 11:43:16 1234
+Apr 05 11:43:16 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:43:16 Loading deals f0421499
+Apr 05 11:43:16 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:43:16 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:43:16 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:43:16 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:43:16 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:43:16 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:43:16 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:43:16 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:43:16 1 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:43:16 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 05 11:43:16 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:43:47 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:44:17 Already have log for f022163 1652787 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 05 11:44:18 
+Apr 05 11:44:19 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:44:19 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 05 11:44:19 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:44:20 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:44:22 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:44:23 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:44:30 Already have log for f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:44:32 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:45:02 Mpool pending 2, skipping + sleeping 30s
+Apr 05 11:45:33 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:46:08 Already have log for f023467 1652489 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:46:10 Retrieving f099608 1652792 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:46:10   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:46:10                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:46:10   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   1434    657 --:--:-- --:--:-- --:--:--  2092
+Apr 05 11:46:10 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f099600","MinerPeer":{"Address":"f099608","ID":"12D3KooWMF32Az9K6knsUwttFYUJ4qrArvDgg1bnAdUw3mt6eEZr","PieceCID":null}},"id":1}
+Apr 05 11:46:10 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:46:10 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

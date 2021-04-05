@@ -1,0 +1,55 @@
+Apr 05 11:36:44 1234
+Apr 05 11:36:44 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:36:44 Loading deals f0421499
+Apr 05 11:36:44 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:36:44 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:36:44 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:36:44 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:36:44 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:36:44 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:36:44 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:36:44 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:36:44 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:36:44 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 05 11:36:44 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:36:46 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:36:47 Retrieving f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 05 11:36:47   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:36:47                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:36:47   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   562  100   385  100   177   4529   2082 --:--:-- --:--:-- --:--:--  6611
+Apr 05 11:36:47 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01237","MinerPeer":{"Address":"f015927","ID":"12D3KooWQGPq3PGYwecDrdb8Xv8N8KXqsVs4VP7EXBh671nttjpT","PieceCID":null}},"id":1}
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRetryLegacy)
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptanceLegacy)
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventDealRejected (DealStatusRejected)
+Apr 05 11:36:47 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:36:47 ERROR: retrieval failed: Retrieve: Retrieval Proposal Rejected: deal rejected: miner is not accepting online retrieval deals
+Apr 05 11:36:47 
+Apr 05 11:36:47 Command exited with non-zero status 1
+Apr 05 11:36:47 0.18user 0.01system 0:00.13elapsed 150%CPU (0avgtext+0avgdata 73064maxresident)k
+Apr 05 11:36:47 0inputs+0outputs (0major+11147minor)pagefaults 0swaps
+Apr 05 11:36:47 f0421499: 0.439660440863773363 FIL (552G free)
+Apr 05 11:36:47 Skipping ahead
+Apr 05 11:36:47 
+Apr 05 11:36:48 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:36:48 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 05 11:36:48 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:36:50 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:36:51 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:37:21 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:37:22 
+Apr 05 11:37:23 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:37:23 f08403-1639685 f022163-1639544 f014768-1639431 f01278-1639717 f01234-1639443 f071624-1639479 f022352-1639878 f099608-1640642 f01240-1640769 f0145874-1640738 f02576-1640964 f015927-1641099 f010479-1641179
+Apr 05 11:37:24 Already have log for f08403 1639685 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 05 11:37:25 Already have log for f022163 1639544 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 05 11:37:26 Already have log for f014768 1639431 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 05 11:37:28 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:37:58 Mpool pending 2, skipping + sleeping 30s
+Apr 05 11:38:29 Retrieving f071624 1639479 bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546
+Apr 05 11:38:29   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:38:29                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:38:29   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   563  100   386  100   177   5436   2492 --:--:-- --:--:-- --:--:--  7929
+Apr 05 11:38:29 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacea5dewvdatvbxc2tmi26bomowduqhoi7ery4yqi3n6li32n4oe546"},"Piece":null,"Size":34359738368,"MinPrice":"68719476736","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f070441","MinerPeer":{"Address":"f071624","ID":"12D3KooWByTFdr3VbnnST9woj7SQAq5ZBAWXbkADdGzYjnJZrTN1","PieceCID":null}},"id":1}
+Apr 05 11:38:29 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:38:29 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)

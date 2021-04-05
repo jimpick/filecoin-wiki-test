@@ -1,0 +1,43 @@
+Apr 05 11:37:10 1234
+Apr 05 11:37:10 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBbGxvdyI6WyJyZWFkIiwid3JpdGUiLCJzaWduIiwiYWRtaW4iXX0.RzY4hBx900NTgTTAA7E-5suH8551qNnu4IWj05cheAs
+Apr 05 11:37:10 Loading deals f0421499
+Apr 05 11:37:10 f0421499 1 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 05 11:37:10 f0421499 2 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.ab
+Apr 05 11:37:10 f0421499 3 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.aa
+Apr 05 11:37:10 f0421499 4 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:37:10 f0421499 5 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.aa
+Apr 05 11:37:10 f0421499 6 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:37:10 f0421499 7 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:37:10 f0421499 8 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:37:10 1 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 05 11:37:10 f08403-1652750 f019551-1652790
+Apr 05 11:37:10 Already have log for f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 05 11:37:12 Already have log for f019551 1652790 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 05 11:37:13 
+Apr 05 11:37:14 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.aa
+Apr 05 11:37:14 f09848-1652857 f019551-1651158 f066596-1652487 f022163-1652788
+Apr 05 11:37:14 Already have log for f09848 1652857 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:37:15 Already have log for f019551 1651158 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:37:17 Already have log for f066596 1652487 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:37:18 Already have log for f022163 1652788 bafykbzaceaoebu76qzfrijr63ghpslqqzgcqneq75lfbrdhp5v7l3dtv6n2j4
+Apr 05 11:37:19 
+Apr 05 11:37:20 0 minimal_finality_stateroots_624460_2021-03-29_18-00-00.car.ab
+Apr 05 11:37:20 f099608-1652417 f01240-1652718 f022163-1652787
+Apr 05 11:37:20 Already have log for f099608 1652417 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 05 11:37:22 Already have log for f01240 1652718 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 05 11:37:23 Already have log for f022163 1652787 bafykbzaceazee5wr2xtg4gpmjeo65uawsjx5i7kpxlv6h75hinjfqc7sg72sa
+Apr 05 11:37:24 
+Apr 05 11:37:25 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 05 11:37:25 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 05 11:37:26 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:37:27 Mpool pending 1, skipping + sleeping 30s
+Apr 05 11:37:57 Mpool pending 2, skipping + sleeping 30s
+Apr 05 11:38:28 Retrieving f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 05 11:38:28   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+Apr 05 11:38:28                                  Dload  Upload   Total   Spent    Left  Speed
+Apr 05 11:38:28   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   550  100   374  100   176   2066    972 --:--:-- --:--:-- --:--:--  3038
+Apr 05 11:38:28 {"jsonrpc":"2.0","result":{"Err":"","Root":{"/":"bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g"},"Piece":null,"Size":34359738368,"MinPrice":"0","UnsealPrice":"0","PaymentInterval":1048576,"PaymentIntervalIncrease":1048576,"Miner":"f01019","MinerPeer":{"Address":"f01278","ID":"12D3KooWQvdhZSSArWTSBiyjVZa3mAmzoLHXV2QS9nFoaGLv3fL7","PieceCID":null}},"id":1}
+Apr 05 11:38:28 > Recv: 0 B, Paid 0 FIL, ClientEventOpen (DealStatusNew)
+Apr 05 11:38:28 > Recv: 0 B, Paid 0 FIL, ClientEventDealProposed (DealStatusWaitForAcceptance)
+Apr 05 11:38:28 > Recv: 0 B, Paid 0 FIL, ClientEventDealAccepted (DealStatusAccepted)
+Apr 05 11:38:28 > Recv: 0 B, Paid 0 FIL, ClientEventPaymentChannelSkip (DealStatusOngoing)

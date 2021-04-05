@@ -21,8 +21,8 @@ trap cleanup EXIT
 while true; do
   echo $(date) $(TZ=America/Vancouver date)
   echo Current retrieval epoch $(cat .retrieval-epoch)
-  echo Sleeping 12 hours...
-  sleep $((12 * 60 * 60))
+  echo Sleeping 9 hours...
+  sleep $((9 * 60 * 60))
   echo $(date) $(TZ=America/Vancouver date)
   echo Writing retrieval summary
   ./write-retrieval-summary.sh
@@ -30,6 +30,10 @@ while true; do
   ./cancel-all-retrievals.sh
   echo Writing retrieval summary again
   ./write-retrieval-summary.sh
+  if [ -f drain ]; then
+    echo "drain file exists, exiting loop"
+    exit
+  fi
   echo Removing .retrieval-epoch
   rm -f .retrieval-epoch
   echo Sleeping 30 minutes
