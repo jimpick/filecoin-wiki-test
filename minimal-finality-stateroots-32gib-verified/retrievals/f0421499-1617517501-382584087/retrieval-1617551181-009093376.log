@@ -69,3 +69,24 @@ Apr 04 15:50:24 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:50:55 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:51:26 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:51:58 Already have log for f066596 1643069 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:51:59 Already have log for f0145874 1642998 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:03 Already have log for f071624 1645163 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:05 Already have log for f08403 1645153 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:11 Already have log for f022142 1652418 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:14 Already have log for f014768 1652440 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:16 Already have log for f023467 1652230 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:19 Already have log for f058369 1652547 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:20 
+Apr 04 15:52:21 0 minimal_finality_stateroots_620860_2021-03-28_12-00-00.car.ab
+Apr 04 15:52:21 f071624-1643068 f09848-1642933 f019551-1645164 f01278-1645170 f08403-1645178 f022352-1652238 f058369-1652461 f0145874-1652527 f023467-1652489 f099608-1652792
+Apr 04 15:52:22 Already have log for f071624 1643068 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:24 Already have log for f09848 1642933 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:26 Already have log for f019551 1645164 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:27 Already have log for f01278 1645170 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:30 Already have log for f08403 1645178 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:32 Already have log for f022352 1652238 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:37 Already have log for f058369 1652461 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:40 Already have log for f0145874 1652527 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:42 Already have log for f023467 1652489 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:45 Already have log for f099608 1652792 bafykbzacedqs6z3a56hasssv234ddhav7zgrlaukfnj6norlu4deptzsezn6g
+Apr 04 15:52:46 

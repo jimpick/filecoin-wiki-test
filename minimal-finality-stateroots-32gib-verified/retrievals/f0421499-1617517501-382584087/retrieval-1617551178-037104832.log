@@ -70,3 +70,23 @@ Apr 04 15:50:24 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:50:55 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:51:26 Mpool pending 1, skipping + sleeping 30s
 Apr 04 15:51:56 Already have log for f023467 1652230 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:51:59 Already have log for f058369 1652547 bafykbzacebwfpdjhfkv4dckre5pdb6dbtn3drso5mdqbmbofexmrri6vt3py2
+Apr 04 15:52:00 
+Apr 04 15:52:01 0 minimal_finality_stateroots_616300_2021-03-26_22-00-00.car.aa
+Apr 04 15:52:01 f023971-1638943 f0157535-1639420 f015927-1639425 f066596-1639456 f071624-1640606 f08403-1641409 f01234-1640777 f023467-1641041 f019551-1641211 f022352-1642427
+Apr 04 15:52:02 Already have log for f023971 1638943 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:05 Already have log for f0157535 1639420 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:11 Already have log for f015927 1639425 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:14 Already have log for f066596 1639456 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:16 Already have log for f071624 1640606 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:19 Already have log for f08403 1641409 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:21 Already have log for f01234 1640777 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:22 Already have log for f023467 1641041 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:24 Already have log for f019551 1641211 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:26 Already have log for f022352 1642427 bafykbzacedoze6ckqa36rd7sxv7pcpjhugbbdnfssif2meiivcykvcvqup5h2
+Apr 04 15:52:27 
+Apr 04 15:52:28 0 minimal_finality_stateroots_627340_2021-03-30_18-00-00.car.ab
+Apr 04 15:52:28 f08403-1652750 f019551-1652790
+Apr 04 15:52:29 Already have log for f08403 1652750 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 15:52:32 Already have log for f019551 1652790 bafykbzacebrkcuqlkatfr5t72rvi622se6vvwndcn6akviq547jp3whpufdjs
+Apr 04 15:52:33 
